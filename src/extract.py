@@ -1,5 +1,6 @@
-import logging
 import requests
+from logger import init_logger
+logger = init_logger(__name__)
 
 def extract () :
-    print("Extracting...")
+    logger.info('logger from extract...')
