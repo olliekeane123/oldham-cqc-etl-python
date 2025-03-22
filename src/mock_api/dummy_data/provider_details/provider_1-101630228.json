@@ -1,0 +1,52 @@
+{
+    "providerId": "1-101630228",
+    "locationIds": ["1-112467585"],
+    "organisationType": "Provider",
+    "ownershipType": "Partnership",
+    "type": "Social Care Org",
+    "name": "Mr Charles Jones and Mrs Sally Jones",
+    "odsCode": "A7E0",
+    "registrationStatus": "Registered",
+    "registrationDate": "2010-10-01",
+    "postalAddressLine1": "1 Herbert Street",
+    "postalAddressTownCity": "Oldham",
+    "postalAddressCounty": "Lancashire",
+    "region": "North West",
+    "postalCode": "OL4 2QU",
+    "uprn": "422000091237",
+    "onspdLatitude": 53.5529658,
+    "onspdLongitude": -2.0846991,
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "mainPhoneNumber": "01616652232",
+    "inspectionDirectorate": "Adult social care",
+    "constituency": "Oldham East and Saddleworth",
+    "localAuthority": "Oldham",
+    "lastInspection": { "date": "2023-08-09" },
+    "contacts": [
+        {
+            "personTitle": "Mr",
+            "personGivenName": "Charles",
+            "personFamilyName": "Jones",
+            "personRoles": ["Partner"]
+        },
+        {
+            "personTitle": "Mrs",
+            "personGivenName": "Sally",
+            "personFamilyName": "Jones",
+            "personRoles": ["Partner"]
+        }
+    ],
+    "relationships": [],
+    "regulatedActivities": [
+        {
+            "name": "Accommodation for persons who require nursing or personal care",
+            "code": "RA2",
+            "nominatedIndividual": {}
+        }
+    ],
+    "inspectionCategories": [
+        { "code": "S1", "primary": "true", "name": "Residential social care" }
+    ],
+    "inspectionAreas": []
+}

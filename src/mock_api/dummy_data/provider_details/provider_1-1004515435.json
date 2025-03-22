@@ -1,0 +1,45 @@
+{
+    "providerId": "1-1004515435",
+    "locationIds": ["1-1015412687"],
+    "organisationType": "Provider",
+    "ownershipType": "Partnership",
+    "type": "Primary Dental Care",
+    "name": "L W Appleton and Z Khan",
+    "registrationStatus": "Deregistered",
+    "registrationDate": "2013-10-28",
+    "deregistrationDate": "2014-05-30",
+    "postalAddressLine1": "177-187 Littlemoor Lane",
+    "postalAddressLine2": "Watersheddings",
+    "postalAddressTownCity": "Oldham",
+    "postalAddressCounty": "Lancs",
+    "region": "North West",
+    "postalCode": "OL4 2SF",
+    "onspdLatitude": 53.552093,
+    "onspdLongitude": -2.085195,
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "mainPhoneNumber": "01616248551",
+    "inspectionDirectorate": "Primary medical services",
+    "constituency": "Oldham East and Saddleworth",
+    "localAuthority": "Oldham",
+    "contacts": [],
+    "relationships": [
+        {
+            "relatedProviderId": "1-152989526",
+            "relatedProviderName": "Mr. Zaman Khan",
+            "type": "HSCA Predecessor",
+            "reason": "Legal Entity Change"
+        },
+        {
+            "relatedProviderId": "1-610026572",
+            "relatedProviderName": "Ripponden Road Dental Practice",
+            "type": "HSCA Successor",
+            "reason": "Legal Entity Change"
+        }
+    ],
+    "regulatedActivities": [],
+    "inspectionCategories": [
+        { "code": "P1", "primary": "true", "name": "Dentists" }
+    ],
+    "inspectionAreas": []
+}

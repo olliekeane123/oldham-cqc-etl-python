@@ -1,0 +1,44 @@
+{
+    "providerId": "1-101661609",
+    "locationIds": ["1-119838608", "1-119838624"],
+    "organisationType": "Provider",
+    "ownershipType": "Organisation",
+    "type": "Social Care Org",
+    "name": "Sheridan Care Limited",
+    "odsCode": "A8DQ",
+    "registrationStatus": "Registered",
+    "registrationDate": "2010-10-01",
+    "companiesHouseNumber": "05479166",
+    "website": "www.sheridancare.co.uk",
+    "postalAddressLine1": "37 Byron Street",
+    "postalAddressTownCity": "Oldham",
+    "region": "North West",
+    "postalCode": "OL8 4QT",
+    "uprn": "422000045286",
+    "onspdLatitude": 53.5224442,
+    "onspdLongitude": -2.139103,
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "mainPhoneNumber": "01253731592",
+    "inspectionDirectorate": "Adult social care",
+    "constituency": "Oldham West and Royton",
+    "localAuthority": "Oldham",
+    "lastInspection": { "date": "2023-06-14" },
+    "contacts": [],
+    "relationships": [],
+    "regulatedActivities": [
+        {
+            "name": "Accommodation for persons who require nursing or personal care",
+            "code": "RA2",
+            "nominatedIndividual": {
+                "personTitle": "Mr",
+                "personGivenName": "Md",
+                "personFamilyName": "Asaduzzaman"
+            }
+        }
+    ],
+    "inspectionCategories": [
+        { "code": "S1", "primary": "true", "name": "Residential social care" }
+    ],
+    "inspectionAreas": []
+}

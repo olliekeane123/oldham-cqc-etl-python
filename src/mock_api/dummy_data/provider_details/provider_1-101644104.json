@@ -1,0 +1,33 @@
+{
+    "providerId": "1-101644104",
+    "locationIds": ["1-120763021"],
+    "organisationType": "Provider",
+    "ownershipType": "Organisation",
+    "type": "Social Care Org",
+    "name": "St George's Nursing Home (Oldham) Limited",
+    "registrationStatus": "Deregistered",
+    "registrationDate": "2010-10-01",
+    "deregistrationDate": "2014-07-01",
+    "companiesHouseNumber": "04081266",
+    "postalAddressLine1": "Northgate Lane",
+    "postalAddressTownCity": "Oldham",
+    "postalAddressCounty": "Lancashire",
+    "region": "North West",
+    "postalCode": "OL1 4RU",
+    "onspdLatitude": 53.563731,
+    "onspdLongitude": -2.075315,
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "mainPhoneNumber": "01616264433",
+    "inspectionDirectorate": "Adult social care",
+    "constituency": "Oldham East and Saddleworth",
+    "localAuthority": "Oldham",
+    "lastInspection": { "date": "2014-01-21" },
+    "contacts": [],
+    "relationships": [],
+    "regulatedActivities": [],
+    "inspectionCategories": [
+        { "code": "S1", "primary": "true", "name": "Residential social care" }
+    ],
+    "inspectionAreas": []
+}

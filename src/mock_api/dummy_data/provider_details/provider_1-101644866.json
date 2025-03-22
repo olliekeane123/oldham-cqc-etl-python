@@ -1,0 +1,50 @@
+{
+    "providerId": "1-101644866",
+    "locationIds": ["1-138741389", "1-2172846173"],
+    "organisationType": "Provider",
+    "ownershipType": "Organisation",
+    "type": "Social Care Org",
+    "name": "Ordinary Lifestyles",
+    "odsCode": "AQ3M",
+    "registrationStatus": "Registered",
+    "registrationDate": "2010-10-01",
+    "companiesHouseNumber": "03175855",
+    "charityNumber": "1058340",
+    "website": "www.ordinary-lifestyles.org.uk",
+    "postalAddressLine1": "Ivy Mill Business Centre, 3rd Floor Office",
+    "postalAddressLine2": "Crown Street, Failsworth",
+    "postalAddressTownCity": "Manchester",
+    "postalAddressCounty": "Lancashire",
+    "region": "North West",
+    "postalCode": "M35 9BG",
+    "onspdLatitude": 53.512065,
+    "onspdLongitude": -2.157298,
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "mainPhoneNumber": "01612020050",
+    "inspectionDirectorate": "Adult social care",
+    "constituency": "Ashton-under-Lyne",
+    "localAuthority": "Oldham",
+    "lastInspection": { "date": "2023-06-16" },
+    "contacts": [],
+    "relationships": [],
+    "regulatedActivities": [
+        {
+            "name": "Personal care",
+            "code": "RA1",
+            "nominatedIndividual": {
+                "personTitle": "Mrs",
+                "personGivenName": "Althea",
+                "personFamilyName": "Dickinson"
+            }
+        }
+    ],
+    "inspectionCategories": [
+        {
+            "code": "S2",
+            "primary": "true",
+            "name": "Community based adult social care services"
+        }
+    ],
+    "inspectionAreas": []
+}

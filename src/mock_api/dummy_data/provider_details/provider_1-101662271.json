@@ -1,0 +1,55 @@
+{
+    "providerId": "1-101662271",
+    "locationIds": ["1-120713619"],
+    "organisationType": "Provider",
+    "ownershipType": "Organisation",
+    "type": "Social Care Org",
+    "name": "Northern Care Homes Limited",
+    "odsCode": "A7E8",
+    "registrationStatus": "Registered",
+    "registrationDate": "2010-10-01",
+    "companiesHouseNumber": "03306217",
+    "postalAddressLine1": "Oldham Road",
+    "postalAddressLine2": "Delph",
+    "postalAddressTownCity": "Oldham",
+    "postalAddressCounty": "Lancashire",
+    "region": "North West",
+    "postalCode": "OL3 5EB",
+    "uprn": "422000120407",
+    "onspdLatitude": 53.561782,
+    "onspdLongitude": -2.0269083,
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "mainPhoneNumber": "01457874300",
+    "inspectionDirectorate": "Adult social care",
+    "constituency": "Oldham East and Saddleworth",
+    "localAuthority": "Oldham",
+    "lastInspection": { "date": "2021-03-03" },
+    "contacts": [],
+    "relationships": [],
+    "regulatedActivities": [
+        {
+            "name": "Personal care",
+            "code": "RA1",
+            "nominatedIndividual": {
+                "personTitle": "Mrs",
+                "personGivenName": "Tracey Diane",
+                "personFamilyName": "Wilson"
+            }
+        },
+        {
+            "name": "Accommodation for persons who require nursing or personal care",
+            "code": "RA2",
+            "nominatedIndividual": {
+                "personTitle": "Mrs",
+                "personGivenName": "Tracey Diane",
+                "personFamilyName": "Wilson"
+            }
+        }
+    ],
+    "inspectionCategories": [
+        { "code": "S1", "primary": "true", "name": "Residential social care" },
+        { "code": "S2", "name": "Community based adult social care services" }
+    ],
+    "inspectionAreas": []
+}

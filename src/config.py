@@ -1,9 +1,19 @@
 from dotenv import load_dotenv
 import os
 
-load_dotenv()
 
-CQC_API_KEY = os.getenv("CQC_API_KEY")
-CQC_BASE_URL = os.getenv("CQC_BASE_URL")
+class Settings:
+    def __init__(self):
 
-print(type(CQC_BASE_URL))
+        env = os.getenv("ENV", "test")
+
+        if env == "test":
+            load_dotenv('.env.test')
+        if env == "production":
+            load_dotenv('.env.production')
+
+        self.CQC_API_KEY = os.getenv("CQC_API_KEY")
+        self.CQC_BASE_URL = os.getenv("CQC_BASE_URL")
+        
+
+settings = Settings()

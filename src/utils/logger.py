@@ -1,7 +1,7 @@
 import logging
 import sys
 
-def init_logger(name=__name__, level=logging.INFO):
+def init_logger(name=__name__, level=logging.DEBUG):
     logger = logging.getLogger(name)
 
     if not logger.handlers:

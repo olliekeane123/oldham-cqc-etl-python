@@ -1,0 +1,53 @@
+{
+    "providerId": "1-101612188",
+    "locationIds": [
+        "1-11420974511",
+        "1-11420974543",
+        "1-11421212266",
+        "1-119238580"
+    ],
+    "organisationType": "Provider",
+    "ownershipType": "Organisation",
+    "type": "Social Care Org",
+    "name": "Laburnum House (Shaw) Limited",
+    "brandId": "BD600",
+    "brandName": "BRAND Bloomcare",
+    "odsCode": "APM2",
+    "registrationStatus": "Registered",
+    "registrationDate": "2010-10-01",
+    "companiesHouseNumber": "03754654",
+    "website": "www.bloomcare.co.uk",
+    "postalAddressLine1": "Laburnum Avenue",
+    "postalAddressLine2": "Shaw",
+    "postalAddressTownCity": "Oldham",
+    "postalAddressCounty": "Greater Manchester",
+    "region": "North West",
+    "postalCode": "OL2 8RS",
+    "uprn": "422000086103",
+    "onspdLatitude": 53.5739966,
+    "onspdLongitude": -2.0966843,
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "mainPhoneNumber": "01704541034",
+    "inspectionDirectorate": "Adult social care",
+    "constituency": "Oldham East and Saddleworth",
+    "localAuthority": "Oldham",
+    "lastInspection": { "date": "2024-01-03" },
+    "contacts": [],
+    "relationships": [],
+    "regulatedActivities": [
+        {
+            "name": "Accommodation for persons who require nursing or personal care",
+            "code": "RA2",
+            "nominatedIndividual": {
+                "personTitle": "Mrs",
+                "personGivenName": "Audrey",
+                "personFamilyName": "Tan-Ramos"
+            }
+        }
+    ],
+    "inspectionCategories": [
+        { "code": "S1", "primary": "true", "name": "Residential social care" }
+    ],
+    "inspectionAreas": []
+}

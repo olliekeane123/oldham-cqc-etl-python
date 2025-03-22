@@ -1,0 +1,44 @@
+{
+    "providerId": "1-101662262",
+    "locationIds": ["1-112890157"],
+    "organisationType": "Provider",
+    "ownershipType": "Organisation",
+    "type": "Social Care Org",
+    "name": "Park House Residential Care Limited",
+    "odsCode": "A7EC",
+    "registrationStatus": "Registered",
+    "registrationDate": "2010-10-01",
+    "companiesHouseNumber": "03841476",
+    "postalAddressLine1": "77 Queens Road",
+    "postalAddressTownCity": "Oldham",
+    "postalAddressCounty": "Lancashire",
+    "region": "North West",
+    "postalCode": "OL8 2BA",
+    "uprn": "422000004586",
+    "onspdLatitude": 53.5348592,
+    "onspdLongitude": -2.101425,
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "mainPhoneNumber": "01616260802",
+    "inspectionDirectorate": "Adult social care",
+    "constituency": "Oldham East and Saddleworth",
+    "localAuthority": "Oldham",
+    "lastInspection": { "date": "2022-02-28" },
+    "contacts": [],
+    "relationships": [],
+    "regulatedActivities": [
+        {
+            "name": "Accommodation for persons who require nursing or personal care",
+            "code": "RA2",
+            "nominatedIndividual": {
+                "personTitle": "Mr",
+                "personGivenName": "Ramesh Chander Parkash",
+                "personFamilyName": "Sabberwal"
+            }
+        }
+    ],
+    "inspectionCategories": [
+        { "code": "S1", "primary": "true", "name": "Residential social care" }
+    ],
+    "inspectionAreas": []
+}

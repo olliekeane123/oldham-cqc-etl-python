@@ -1,0 +1,33 @@
+{
+    "providerId": "1-101614967",
+    "locationIds": ["1-115962630"],
+    "organisationType": "Provider",
+    "ownershipType": "Organisation",
+    "type": "Social Care Org",
+    "name": "Riseway Care Homes Limited",
+    "registrationStatus": "Deregistered",
+    "registrationDate": "2010-10-01",
+    "deregistrationDate": "2014-04-14",
+    "companiesHouseNumber": "03550909",
+    "postalAddressLine1": "84 Windsor Road",
+    "postalAddressTownCity": "Oldham",
+    "postalAddressCounty": "Lancashire",
+    "region": "North West",
+    "postalCode": "OL8 1RQ",
+    "onspdLatitude": 53.533271,
+    "onspdLongitude": -2.124532,
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "mainPhoneNumber": "01616268522",
+    "inspectionDirectorate": "Adult social care",
+    "constituency": "Oldham West and Royton",
+    "localAuthority": "Oldham",
+    "lastInspection": { "date": "2013-06-26" },
+    "contacts": [],
+    "relationships": [],
+    "regulatedActivities": [],
+    "inspectionCategories": [
+        { "code": "S1", "primary": "true", "name": "Residential social care" }
+    ],
+    "inspectionAreas": []
+}

@@ -1,0 +1,44 @@
+{
+    "providerId": "1-101662253",
+    "locationIds": ["1-139890458", "1-139948467"],
+    "organisationType": "Provider",
+    "ownershipType": "Organisation",
+    "type": "Social Care Org",
+    "name": "Werneth Lodge Limited",
+    "odsCode": "APG4",
+    "registrationStatus": "Registered",
+    "registrationDate": "2010-10-01",
+    "companiesHouseNumber": "02529009",
+    "postalAddressLine1": "Werneth Lodge",
+    "postalAddressLine2": "38 Manchester Road",
+    "postalAddressTownCity": "Oldham",
+    "postalAddressCounty": "Greater Manchester",
+    "region": "North West",
+    "postalCode": "OL9 7AP",
+    "onspdLatitude": 53.533975,
+    "onspdLongitude": -2.132291,
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "mainPhoneNumber": "01616244085",
+    "inspectionDirectorate": "Adult social care",
+    "constituency": "Oldham West and Royton",
+    "localAuthority": "Oldham",
+    "lastInspection": { "date": "2022-02-04" },
+    "contacts": [],
+    "relationships": [],
+    "regulatedActivities": [
+        {
+            "name": "Accommodation for persons who require nursing or personal care",
+            "code": "RA2",
+            "nominatedIndividual": {
+                "personTitle": "Mr",
+                "personGivenName": "Rajesh",
+                "personFamilyName": "Gupta"
+            }
+        }
+    ],
+    "inspectionCategories": [
+        { "code": "S1", "primary": "true", "name": "Residential social care" }
+    ],
+    "inspectionAreas": []
+}

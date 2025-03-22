@@ -1,0 +1,48 @@
+{
+    "providerId": "1-10154647570",
+    "locationIds": ["1-12598470778"],
+    "organisationType": "Provider",
+    "ownershipType": "Organisation",
+    "type": "Social Care Org",
+    "name": "Rose Healthcare Services Ltd Ltd",
+    "odsCode": "C409",
+    "registrationStatus": "Registered",
+    "registrationDate": "2022-02-17",
+    "companiesHouseNumber": "11708723",
+    "postalAddressLine1": "35 Mona Road",
+    "postalAddressLine2": "Chadderton",
+    "postalAddressTownCity": "Oldham",
+    "region": "North West",
+    "postalCode": "OL9 8NS",
+    "uprn": "422000110426",
+    "onspdLatitude": 53.5339614,
+    "onspdLongitude": -2.1424883,
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "mainPhoneNumber": "01616274361",
+    "inspectionDirectorate": "Adult social care",
+    "constituency": "Oldham West and Royton",
+    "localAuthority": "Oldham",
+    "lastInspection": { "date": "2022-09-12" },
+    "contacts": [],
+    "relationships": [],
+    "regulatedActivities": [
+        {
+            "name": "Personal care",
+            "code": "RA1",
+            "nominatedIndividual": {
+                "personTitle": "Mrs",
+                "personGivenName": "Bolanle Oladapo",
+                "personFamilyName": "Shodipe"
+            }
+        }
+    ],
+    "inspectionCategories": [
+        {
+            "code": "S2",
+            "primary": "true",
+            "name": "Community based adult social care services"
+        }
+    ],
+    "inspectionAreas": []
+}

@@ -1,0 +1,44 @@
+{
+    "providerId": "1-101616344",
+    "locationIds": ["1-118972988", "1-118973003"],
+    "organisationType": "Provider",
+    "ownershipType": "Organisation",
+    "type": "Social Care Org",
+    "name": "Botany House Limited",
+    "odsCode": "A806",
+    "registrationStatus": "Registered",
+    "registrationDate": "2010-10-01",
+    "companiesHouseNumber": "04879605",
+    "postalAddressLine1": "44 Taylor Street",
+    "postalAddressLine2": "Chadderton",
+    "postalAddressTownCity": "Oldham",
+    "region": "North West",
+    "postalCode": "OL9 9HH",
+    "uprn": "422000007313",
+    "onspdLatitude": 53.5448781,
+    "onspdLongitude": -2.1458297,
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "mainPhoneNumber": "01282431182",
+    "inspectionDirectorate": "Adult social care",
+    "constituency": "Oldham West and Royton",
+    "localAuthority": "Oldham",
+    "lastInspection": { "date": "2022-01-20" },
+    "contacts": [],
+    "relationships": [],
+    "regulatedActivities": [
+        {
+            "name": "Accommodation for persons who require nursing or personal care",
+            "code": "RA2",
+            "nominatedIndividual": {
+                "personTitle": "Mrs",
+                "personGivenName": "Saboohi",
+                "personFamilyName": "Wilson"
+            }
+        }
+    ],
+    "inspectionCategories": [
+        { "code": "S1", "primary": "true", "name": "Residential social care" }
+    ],
+    "inspectionAreas": []
+}

@@ -1,0 +1,48 @@
+{
+    "providerId": "1-101655600",
+    "locationIds": ["1-120745060"],
+    "organisationType": "Provider",
+    "ownershipType": "Organisation",
+    "type": "Social Care Org",
+    "name": "Heathbank Support Services",
+    "odsCode": "AQ8C",
+    "registrationStatus": "Registered",
+    "registrationDate": "2010-10-01",
+    "companiesHouseNumber": "01379184",
+    "charityNumber": "508466",
+    "postalAddressLine1": "82 Windsor Road",
+    "postalAddressTownCity": "Oldham",
+    "postalAddressCounty": "Greater Manchester",
+    "region": "North West",
+    "postalCode": "OL8 1RP",
+    "onspdLatitude": 53.534036,
+    "onspdLongitude": -2.125729,
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "mainPhoneNumber": "01616241405",
+    "inspectionDirectorate": "Adult social care",
+    "constituency": "Oldham West and Royton",
+    "localAuthority": "Oldham",
+    "lastInspection": { "date": "2023-07-04" },
+    "contacts": [],
+    "relationships": [],
+    "regulatedActivities": [
+        {
+            "name": "Personal care",
+            "code": "RA1",
+            "nominatedIndividual": {
+                "personTitle": "Mrs",
+                "personGivenName": "Amanda Louise",
+                "personFamilyName": "Marshall"
+            }
+        }
+    ],
+    "inspectionCategories": [
+        {
+            "code": "S2",
+            "primary": "true",
+            "name": "Community based adult social care services"
+        }
+    ],
+    "inspectionAreas": []
+}
