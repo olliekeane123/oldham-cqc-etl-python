@@ -21,8 +21,7 @@ class CQCClient:
         try:
             response = self.session.get(url)
             response.raise_for_status()
-            
-            logger.info('Success: Fetch Providers')
+
             return response.json()
         except requests.exceptions.HTTPError as err:
             logger.error(f' Error: {err.response.status_code} Failed to fetch providers')

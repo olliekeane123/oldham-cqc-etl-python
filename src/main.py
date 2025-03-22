@@ -22,7 +22,6 @@ def run_etl_pipeline():
 
     # Step 3: Load
     load(transformation)
-    logger.info('ETL pipeline completed successfully.')
     
 
     
@@ -31,11 +30,14 @@ def run_etl_pipeline():
 if __name__ == "__main__":
     start = datetime.datetime.now()
     logger.info('ETL pipeline started')
+    complete = False
     
     try:
         run_etl_pipeline()
+        complete = True
     except Exception as e:
         logger.error(f'Unhandled error: {e}')
     
-    end = datetime.datetime.now()
-    logger.info(f'ETL pipeline finished in {end-start}')
+    if complete:
+        end = datetime.datetime.now()
+        logger.info(f'ETL pipeline finished in {end-start}')
