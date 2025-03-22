@@ -17,12 +17,9 @@ def get_providers():
     
 @app.route('/providers/<provider_id>')
 def get_provider_details(provider_id):
-    return f"Provider id: {provider_id}"
-    
-
-    """ with open ('providers.json', 'r') as f:
-        providers = f.read()
-    return jsonify(providers) """
+    with open (f'src/mock_api/dummy_data/provider_details/provider_{provider_id}.json', 'r') as f:
+        provider_details = json.load(f)
+    return jsonify(provider_details)
 
 if __name__ == '__main__':
     app.run(port=5000, debug=True)

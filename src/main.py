@@ -8,9 +8,21 @@ logger = init_logger(__name__)
 
 
 def run_etl_pipeline():
-    extract()
-    """  if extraction:
-        transformation = transform(extraction) """
+    # Step 1: Extract
+    extraction = extract()
+    if not extraction:
+        logger.error('Error: Failed to extract data - Stopping ETL')
+        return
+
+    # Step 2: Transform
+    transformation = transform(extraction)
+    if not transformation:
+        logger.error('Error: Failed to transform data - Stopping ETL')
+        return
+
+    # Step 3: Load
+    load(transformation)
+    logger.info('ETL pipeline completed successfully.')
     
 
     
@@ -19,6 +31,11 @@ def run_etl_pipeline():
 if __name__ == "__main__":
     start = datetime.datetime.now()
     logger.info('ETL pipeline started')
-    run_etl_pipeline()
+    
+    try:
+        run_etl_pipeline()
+    except Exception as e:
+        logger.error(f'Unhandled error: {e}')
+    
     end = datetime.datetime.now()
     logger.info(f'ETL pipeline finished in {end-start}')
