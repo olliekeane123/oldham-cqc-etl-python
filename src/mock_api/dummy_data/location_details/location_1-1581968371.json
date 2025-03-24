@@ -1,0 +1,129 @@
+{
+    "careHome": "N",
+    "constituency": "Oldham West and Royton",
+    "currentRatings": {
+        "overall": {
+            "keyQuestionRatings": [
+                {
+                    "name": "Safe",
+                    "rating": "Good",
+                    "reportDate": "2016-12-30",
+                    "reportLinkId": "d1bb1932-d9da-4b4b-a66b-736d5a2d2570"
+                },
+                {
+                    "name": "Well-led",
+                    "rating": "Good",
+                    "reportDate": "2016-12-30",
+                    "reportLinkId": "d1bb1932-d9da-4b4b-a66b-736d5a2d2570"
+                },
+                {
+                    "name": "Caring",
+                    "rating": "Good",
+                    "reportDate": "2016-12-30",
+                    "reportLinkId": "d1bb1932-d9da-4b4b-a66b-736d5a2d2570"
+                },
+                {
+                    "name": "Responsive",
+                    "rating": "Good",
+                    "reportDate": "2016-12-30",
+                    "reportLinkId": "d1bb1932-d9da-4b4b-a66b-736d5a2d2570"
+                },
+                {
+                    "name": "Effective",
+                    "rating": "Good",
+                    "reportDate": "2016-12-30",
+                    "reportLinkId": "d1bb1932-d9da-4b4b-a66b-736d5a2d2570"
+                }
+            ],
+            "rating": "Good",
+            "reportDate": "2016-12-30",
+            "reportLinkId": "d1bb1932-d9da-4b4b-a66b-736d5a2d2570"
+        },
+        "reportDate": "2016-12-30"
+    },
+    "deregistrationDate": "2017-03-08",
+    "dormancy": "N",
+    "gacServiceTypes": [
+        {
+            "description": "Domiciliary care service",
+            "name": "Homecare agencies"
+        }
+    ],
+    "inspectionAreas": [],
+    "inspectionCategories": [
+        {
+            "code": "S2",
+            "name": "Community based adult social care services",
+            "primary": "true"
+        }
+    ],
+    "inspectionDirectorate": "Adult social care",
+    "lastInspection": {
+        "date": "2016-10-28"
+    },
+    "lastReport": {
+        "publicationDate": "2016-12-30"
+    },
+    "localAuthority": "Oldham",
+    "locationId": "1-1581968371",
+    "locationTypes": [],
+    "mainPhoneNumber": "01616331616",
+    "name": "Communicare",
+    "numberOfBeds": 0,
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.548316,
+    "onspdLongitude": -2.136592,
+    "organisationType": "Location",
+    "postalAddressCounty": "Greater Manchester",
+    "postalAddressLine1": "Unit C10, Falcon Enterprise Centre",
+    "postalAddressLine2": "Victoria Street, Chadderton",
+    "postalAddressTownCity": "Oldham",
+    "postalCode": "OL9 0HB",
+    "providerId": "1-1576493974",
+    "region": "North West",
+    "registrationDate": "2014-08-12",
+    "registrationStatus": "Deregistered",
+    "regulatedActivities": [],
+    "relationships": [
+        {
+            "reason": "Legal Entity Change",
+            "relatedLocationId": "1-115750273",
+            "relatedLocationName": "Communicare",
+            "type": "HSCA Predecessor"
+        }
+    ],
+    "reports": [
+        {
+            "firstVisitDate": "2016-10-24",
+            "linkId": "d1bb1932-d9da-4b4b-a66b-736d5a2d2570",
+            "reportDate": "2016-12-30",
+            "reportType": "Location",
+            "reportUri": "/reports/d1bb1932-d9da-4b4b-a66b-736d5a2d2570?20211030120000"
+        }
+    ],
+    "specialisms": [
+        {
+            "name": "Caring for adults over 65 yrs"
+        },
+        {
+            "name": "Dementia"
+        },
+        {
+            "name": "Mental health conditions"
+        },
+        {
+            "name": "Physical disabilities"
+        },
+        {
+            "name": "Sensory impairment"
+        },
+        {
+            "name": "Substance misuse problems"
+        }
+    ],
+    "type": "Social Care Org",
+    "website": "www.communicarehcs.co.uk"
+}

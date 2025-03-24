@@ -1,0 +1,80 @@
+{
+    "alsoKnownAs": "Visiting Angels Manchester East\u2019",
+    "careHome": "N",
+    "constituency": "Oldham West and Royton",
+    "dormancy": "N",
+    "dormancyEndDate": "2022-12-13",
+    "gacServiceTypes": [
+        {
+            "description": "Domiciliary care service",
+            "name": "Homecare agencies"
+        }
+    ],
+    "inspectionAreas": [],
+    "inspectionCategories": [
+        {
+            "code": "S2",
+            "name": "Community based adult social care services",
+            "primary": "true"
+        }
+    ],
+    "inspectionDirectorate": "Adult social care",
+    "localAuthority": "Oldham",
+    "locationId": "1-13579216933",
+    "locationTypes": [],
+    "mainPhoneNumber": "01618507862",
+    "name": "Roxhsana Ltd",
+    "numberOfBeds": 0,
+    "odsCode": "VNML3",
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.5379491,
+    "onspdLongitude": -2.1294801,
+    "organisationType": "Location",
+    "postalAddressLine1": "Prospect House",
+    "postalAddressLine2": "Featherstall Road South",
+    "postalAddressTownCity": "Oldham",
+    "postalCode": "OL9 6HT",
+    "providerId": "1-9179228362",
+    "region": "North West",
+    "registrationDate": "2022-07-19",
+    "registrationStatus": "Registered",
+    "regulatedActivities": [
+        {
+            "code": "RA1",
+            "contacts": [
+                {
+                    "personFamilyName": "Usmani",
+                    "personGivenName": "Badar Alam",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Mr"
+                }
+            ],
+            "name": "Personal care"
+        }
+    ],
+    "relationships": [],
+    "specialisms": [
+        {
+            "name": "Caring for adults over 65 yrs"
+        },
+        {
+            "name": "Caring for adults under 65 yrs"
+        },
+        {
+            "name": "Dementia"
+        },
+        {
+            "name": "Physical disabilities"
+        },
+        {
+            "name": "Sensory impairment"
+        }
+    ],
+    "type": "Social Care Org",
+    "uprn": "10092042704"
+}

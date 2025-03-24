@@ -1,0 +1,107 @@
+{
+    "careHome": "N",
+    "constituency": "Oldham West and Royton",
+    "currentRatings": {
+        "overall": {
+            "keyQuestionRatings": [
+                {
+                    "name": "Safe",
+                    "rating": "No published rating"
+                },
+                {
+                    "name": "Well-led",
+                    "rating": "No published rating"
+                },
+                {
+                    "name": "Caring",
+                    "rating": "No published rating"
+                },
+                {
+                    "name": "Responsive",
+                    "rating": "No published rating"
+                },
+                {
+                    "name": "Effective",
+                    "rating": "No published rating"
+                }
+            ],
+            "rating": "No published rating"
+        }
+    },
+    "deregistrationDate": "2012-12-07",
+    "dormancy": "N",
+    "gacServiceTypes": [
+        {
+            "description": "Domiciliary care service",
+            "name": "Homecare agencies"
+        },
+        {
+            "description": "Supported living service",
+            "name": "Supported living"
+        }
+    ],
+    "inspectionAreas": [],
+    "inspectionDirectorate": "Unspecified",
+    "lastInspection": {
+        "date": "2012-05-11"
+    },
+    "localAuthority": "Oldham",
+    "locationId": "1-141761059",
+    "locationTypes": [],
+    "mainPhoneNumber": "01616828685",
+    "name": "Sevacare - Oldham Learning Disabilities Services",
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.525495,
+    "onspdLongitude": -2.162778,
+    "organisationType": "Location",
+    "postalAddressCounty": "Lancashire",
+    "postalAddressLine1": "Ground Floor, 498 Broadway,",
+    "postalAddressLine2": "Chadderton",
+    "postalAddressTownCity": "Oldham",
+    "postalCode": "OL9 9PY",
+    "providerId": "1-101670011",
+    "region": "North West",
+    "registrationDate": "2010-11-22",
+    "registrationStatus": "Deregistered",
+    "regulatedActivities": [],
+    "relationships": [],
+    "reports": [
+        {
+            "firstVisitDate": "2012-05-11",
+            "linkId": "87e73206-1333-4cc3-8c91-cfa9af080e47",
+            "reportDate": "2012-06-08",
+            "reportUri": "/reports/87e73206-1333-4cc3-8c91-cfa9af080e47?20200430120000"
+        }
+    ],
+    "specialisms": [
+        {
+            "name": "Caring for adults over 65 yrs"
+        },
+        {
+            "name": "Caring for adults under 65 yrs"
+        },
+        {
+            "name": "Caring for children"
+        },
+        {
+            "name": "Dementia"
+        },
+        {
+            "name": "Learning disabilities"
+        },
+        {
+            "name": "Mental health conditions"
+        },
+        {
+            "name": "Physical disabilities"
+        },
+        {
+            "name": "Sensory impairment"
+        }
+    ],
+    "type": "Social Care Org",
+    "website": "www.sevacare.org.uk"
+}

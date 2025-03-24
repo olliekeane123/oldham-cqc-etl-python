@@ -1,0 +1,137 @@
+{
+    "brandId": "BD307",
+    "brandName": "BRAND City and County Healthcare Group",
+    "careHome": "N",
+    "constituency": "Oldham East and Saddleworth",
+    "currentRatings": {
+        "overall": {
+            "keyQuestionRatings": [
+                {
+                    "name": "Safe",
+                    "rating": "Good",
+                    "reportDate": "2016-06-17",
+                    "reportLinkId": "1236000a-a49b-4591-be82-29fe34f6b822"
+                },
+                {
+                    "name": "Well-led",
+                    "rating": "Good",
+                    "reportDate": "2016-06-17",
+                    "reportLinkId": "1236000a-a49b-4591-be82-29fe34f6b822"
+                },
+                {
+                    "name": "Caring",
+                    "rating": "Good",
+                    "reportDate": "2016-06-17",
+                    "reportLinkId": "1236000a-a49b-4591-be82-29fe34f6b822"
+                },
+                {
+                    "name": "Responsive",
+                    "rating": "Good",
+                    "reportDate": "2016-06-17",
+                    "reportLinkId": "1236000a-a49b-4591-be82-29fe34f6b822"
+                },
+                {
+                    "name": "Effective",
+                    "rating": "Requires improvement",
+                    "reportDate": "2016-06-17",
+                    "reportLinkId": "1236000a-a49b-4591-be82-29fe34f6b822"
+                }
+            ],
+            "rating": "Good",
+            "reportDate": "2016-06-17",
+            "reportLinkId": "1236000a-a49b-4591-be82-29fe34f6b822"
+        },
+        "reportDate": "2016-06-17"
+    },
+    "deregistrationDate": "2018-02-26",
+    "dormancy": "N",
+    "gacServiceTypes": [
+        {
+            "description": "Domiciliary care service",
+            "name": "Homecare agencies"
+        }
+    ],
+    "inspectionAreas": [],
+    "inspectionCategories": [
+        {
+            "code": "S2",
+            "name": "Community based adult social care services",
+            "primary": "true"
+        }
+    ],
+    "inspectionDirectorate": "Adult social care",
+    "lastInspection": {
+        "date": "2016-03-18"
+    },
+    "lastReport": {
+        "publicationDate": "2016-06-17"
+    },
+    "localAuthority": "Oldham",
+    "locationId": "1-1790991253",
+    "locationTypes": [],
+    "mainPhoneNumber": "01706880780",
+    "name": "Comfort Call Oldham",
+    "numberOfBeds": 0,
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.585612,
+    "onspdLongitude": -2.093373,
+    "organisationType": "Location",
+    "postalAddressCounty": "Greater Manchester",
+    "postalAddressLine1": "Able House, Trent Industrial Estate",
+    "postalAddressLine2": "Duchess Street, Shaw",
+    "postalAddressTownCity": "Oldham",
+    "postalCode": "OL2 7UT",
+    "providerId": "1-101654877",
+    "region": "North West",
+    "registrationDate": "2014-12-17",
+    "registrationStatus": "Deregistered",
+    "regulatedActivities": [],
+    "relationships": [
+        {
+            "reason": "Location Move",
+            "relatedLocationId": "1-4339346416",
+            "relatedLocationName": "Comfort Call - Oldham",
+            "type": "HSCA Successor"
+        }
+    ],
+    "reports": [
+        {
+            "firstVisitDate": "2016-03-15",
+            "linkId": "1236000a-a49b-4591-be82-29fe34f6b822",
+            "reportDate": "2016-06-17",
+            "reportType": "Location",
+            "reportUri": "/reports/1236000a-a49b-4591-be82-29fe34f6b822?20211030120000"
+        }
+    ],
+    "specialisms": [
+        {
+            "name": "Caring for adults over 65 yrs"
+        },
+        {
+            "name": "Caring for adults under 65 yrs"
+        },
+        {
+            "name": "Caring for children"
+        },
+        {
+            "name": "Dementia"
+        },
+        {
+            "name": "Learning disabilities"
+        },
+        {
+            "name": "Mental health conditions"
+        },
+        {
+            "name": "Physical disabilities"
+        },
+        {
+            "name": "Sensory impairment"
+        }
+    ],
+    "type": "Social Care Org",
+    "website": "www.comfortcall.co.uk"
+}

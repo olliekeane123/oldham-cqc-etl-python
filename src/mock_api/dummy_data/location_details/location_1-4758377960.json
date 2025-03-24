@@ -1,0 +1,161 @@
+{
+    "careHome": "N",
+    "constituency": "Oldham West and Royton",
+    "currentRatings": {
+        "overall": {
+            "keyQuestionRatings": [
+                {
+                    "name": "Safe",
+                    "rating": "Good",
+                    "reportDate": "2021-01-30",
+                    "reportLinkId": "9c0b6b4d-d8a5-4b98-8777-b54b93e129a2"
+                },
+                {
+                    "name": "Well-led",
+                    "rating": "Good",
+                    "reportDate": "2021-01-30",
+                    "reportLinkId": "9c0b6b4d-d8a5-4b98-8777-b54b93e129a2"
+                },
+                {
+                    "name": "Caring",
+                    "rating": "Good",
+                    "reportDate": "2019-08-28",
+                    "reportLinkId": "f700047a-56c7-4970-94f9-e3df5d15a541"
+                },
+                {
+                    "name": "Responsive",
+                    "rating": "Good",
+                    "reportDate": "2019-08-28",
+                    "reportLinkId": "f700047a-56c7-4970-94f9-e3df5d15a541"
+                },
+                {
+                    "name": "Effective",
+                    "rating": "Good",
+                    "reportDate": "2019-08-28",
+                    "reportLinkId": "f700047a-56c7-4970-94f9-e3df5d15a541"
+                }
+            ],
+            "rating": "Good",
+            "reportDate": "2021-01-30",
+            "reportLinkId": "9c0b6b4d-d8a5-4b98-8777-b54b93e129a2"
+        },
+        "reportDate": "2021-01-30"
+    },
+    "dormancy": "N",
+    "gacServiceTypes": [
+        {
+            "description": "Domiciliary care service",
+            "name": "Homecare agencies"
+        }
+    ],
+    "historicRatings": [
+        {
+            "overall": {
+                "keyQuestionRatings": [
+                    {
+                        "name": "Safe",
+                        "rating": "Requires improvement"
+                    },
+                    {
+                        "name": "Well-led",
+                        "rating": "Requires improvement"
+                    }
+                ],
+                "rating": "Requires improvement"
+            },
+            "reportDate": "2019-08-28",
+            "reportLinkId": "f700047a-56c7-4970-94f9-e3df5d15a541"
+        }
+    ],
+    "inspectionAreas": [],
+    "inspectionCategories": [
+        {
+            "code": "S2",
+            "name": "Community based adult social care services",
+            "primary": "true"
+        }
+    ],
+    "inspectionDirectorate": "Adult social care",
+    "lastInspection": {
+        "date": "2021-01-13"
+    },
+    "lastReport": {
+        "publicationDate": "2021-01-30"
+    },
+    "localAuthority": "Oldham",
+    "locationId": "1-4758377960",
+    "locationTypes": [],
+    "mainPhoneNumber": "07511499334",
+    "name": "Personal Home Care Services Ltd",
+    "numberOfBeds": 0,
+    "odsCode": "VN7YE",
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.5225678,
+    "onspdLongitude": -2.1231289,
+    "organisationType": "Location",
+    "postalAddressLine1": "9 Trough Gate",
+    "postalAddressTownCity": "Oldham",
+    "postalCode": "OL8 3TH",
+    "providerId": "1-3140136821",
+    "region": "North West",
+    "registrationDate": "2018-07-02",
+    "registrationStatus": "Registered",
+    "regulatedActivities": [
+        {
+            "code": "RA1",
+            "contacts": [
+                {
+                    "personFamilyName": "Parveen",
+                    "personGivenName": "Iffat",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Ms"
+                }
+            ],
+            "name": "Personal care"
+        }
+    ],
+    "relationships": [],
+    "reports": [
+        {
+            "firstVisitDate": "2021-01-11",
+            "linkId": "9c0b6b4d-d8a5-4b98-8777-b54b93e129a2",
+            "reportDate": "2021-01-30",
+            "reportType": "Location",
+            "reportUri": "/reports/9c0b6b4d-d8a5-4b98-8777-b54b93e129a2?20210715120000"
+        },
+        {
+            "firstVisitDate": "2019-07-01",
+            "linkId": "f700047a-56c7-4970-94f9-e3df5d15a541",
+            "reportDate": "2019-08-28",
+            "reportType": "Location",
+            "reportUri": "/reports/f700047a-56c7-4970-94f9-e3df5d15a541?20190911122009"
+        }
+    ],
+    "specialisms": [
+        {
+            "name": "Caring for adults over 65 yrs"
+        },
+        {
+            "name": "Caring for adults under 65 yrs"
+        },
+        {
+            "name": "Dementia"
+        },
+        {
+            "name": "Mental health conditions"
+        },
+        {
+            "name": "Physical disabilities"
+        },
+        {
+            "name": "Sensory impairment"
+        }
+    ],
+    "type": "Social Care Org",
+    "uprn": "422000084101"
+}

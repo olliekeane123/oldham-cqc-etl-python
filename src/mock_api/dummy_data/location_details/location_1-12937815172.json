@@ -1,0 +1,79 @@
+{
+    "careHome": "N",
+    "constituency": "Ashton-under-Lyne",
+    "dormancy": "N",
+    "gacServiceTypes": [
+        {
+            "description": "Domiciliary care service",
+            "name": "Homecare agencies"
+        },
+        {
+            "description": "Supported living service",
+            "name": "Supported living"
+        }
+    ],
+    "inspectionAreas": [],
+    "inspectionCategories": [
+        {
+            "code": "S2",
+            "name": "Community based adult social care services",
+            "primary": "true"
+        }
+    ],
+    "inspectionDirectorate": "Adult social care",
+    "localAuthority": "Oldham",
+    "locationId": "1-12937815172",
+    "locationTypes": [],
+    "mainPhoneNumber": "01614785814",
+    "name": "Compact Personnel Ltd",
+    "numberOfBeds": 0,
+    "odsCode": "VNM4T",
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.5120651,
+    "onspdLongitude": -2.1572985,
+    "organisationType": "Location",
+    "postalAddressLine1": "Sc1-9 Ivy Business Centre, Ivy Mill",
+    "postalAddressLine2": "Crown Street, Failsworth",
+    "postalAddressTownCity": "Manchester",
+    "postalCode": "M35 9BG",
+    "providerId": "1-12714813635",
+    "region": "North West",
+    "registrationDate": "2022-05-25",
+    "registrationStatus": "Registered",
+    "regulatedActivities": [
+        {
+            "code": "RA1",
+            "contacts": [
+                {
+                    "personFamilyName": "Masuku",
+                    "personGivenName": "Grace Priscilla",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Ms"
+                }
+            ],
+            "name": "Personal care"
+        }
+    ],
+    "relationships": [],
+    "specialisms": [
+        {
+            "name": "Caring for adults over 65 yrs"
+        },
+        {
+            "name": "Caring for adults under 65 yrs"
+        },
+        {
+            "name": "Dementia"
+        },
+        {
+            "name": "Physical disabilities"
+        }
+    ],
+    "type": "Social Care Org",
+    "uprn": "422000118571"
+}

@@ -1,0 +1,94 @@
+{
+    "brandId": "BD598",
+    "brandName": "BRAND Synergy Dental Clinic Ltd",
+    "careHome": "N",
+    "constituency": "Oldham East and Saddleworth",
+    "dormancy": "N",
+    "gacServiceTypes": [
+        {
+            "description": "Dental service",
+            "name": "Dentist"
+        }
+    ],
+    "inspectionAreas": [],
+    "inspectionCategories": [
+        {
+            "code": "P1",
+            "name": "Dentists",
+            "primary": "true"
+        }
+    ],
+    "inspectionDirectorate": "Primary medical services",
+    "localAuthority": "Oldham",
+    "locationId": "1-11023096916",
+    "locationTypes": [],
+    "mainPhoneNumber": "01204275270",
+    "name": "Synergy Dental Clinic Oldham",
+    "numberOfBeds": 0,
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.5413707,
+    "onspdLongitude": -2.10722,
+    "organisationType": "Location",
+    "postalAddressLine1": "133 Union Street",
+    "postalAddressTownCity": "Oldham",
+    "postalCode": "OL1 1TE",
+    "providerId": "1-10437675985",
+    "region": "North West",
+    "registrationDate": "2021-12-01",
+    "registrationStatus": "Registered",
+    "regulatedActivities": [
+        {
+            "code": "RA5",
+            "contacts": [
+                {
+                    "personFamilyName": "Ahmad",
+                    "personGivenName": "Chaudhary Mateen",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Dr"
+                }
+            ],
+            "name": "Treatment of disease, disorder or injury"
+        },
+        {
+            "code": "RA7",
+            "contacts": [
+                {
+                    "personFamilyName": "Ahmad",
+                    "personGivenName": "Chaudhary Mateen",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Dr"
+                }
+            ],
+            "name": "Surgical procedures"
+        },
+        {
+            "code": "RA8",
+            "contacts": [
+                {
+                    "personFamilyName": "Ahmad",
+                    "personGivenName": "Chaudhary Mateen",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Dr"
+                }
+            ],
+            "name": "Diagnostic and screening procedures"
+        }
+    ],
+    "relationships": [],
+    "specialisms": [
+        {
+            "name": "Services for everyone"
+        }
+    ],
+    "type": "Primary Dental Care",
+    "uprn": "422000069144"
+}

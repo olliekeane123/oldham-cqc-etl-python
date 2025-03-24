@@ -1,0 +1,248 @@
+{
+    "careHome": "N",
+    "constituency": "Oldham East and Saddleworth",
+    "currentRatings": {
+        "overall": {
+            "keyQuestionRatings": [
+                {
+                    "name": "Safe",
+                    "rating": "Good",
+                    "reportDate": "2017-03-22",
+                    "reportLinkId": "5cbe188f-146c-42d2-b3ca-05981f309565"
+                },
+                {
+                    "name": "Well-led",
+                    "rating": "Good",
+                    "reportDate": "2017-03-22",
+                    "reportLinkId": "5cbe188f-146c-42d2-b3ca-05981f309565"
+                },
+                {
+                    "name": "Caring",
+                    "rating": "Good",
+                    "reportDate": "2017-03-22",
+                    "reportLinkId": "5cbe188f-146c-42d2-b3ca-05981f309565"
+                },
+                {
+                    "name": "Responsive",
+                    "rating": "Good",
+                    "reportDate": "2017-03-22",
+                    "reportLinkId": "5cbe188f-146c-42d2-b3ca-05981f309565"
+                },
+                {
+                    "name": "Effective",
+                    "rating": "Good",
+                    "reportDate": "2017-03-22",
+                    "reportLinkId": "5cbe188f-146c-42d2-b3ca-05981f309565"
+                }
+            ],
+            "rating": "Good",
+            "reportDate": "2017-03-22",
+            "reportLinkId": "5cbe188f-146c-42d2-b3ca-05981f309565"
+        },
+        "reportDate": "2017-03-22",
+        "serviceRatings": [
+            {
+                "name": "conditions",
+                "rating": "Good",
+                "reportDate": "2017-03-22",
+                "reportLinkId": "5cbe188f-146c-42d2-b3ca-05981f309565"
+            },
+            {
+                "name": "mothers",
+                "rating": "Good",
+                "reportDate": "2017-03-22",
+                "reportLinkId": "5cbe188f-146c-42d2-b3ca-05981f309565"
+            },
+            {
+                "name": "old",
+                "rating": "Good",
+                "reportDate": "2017-03-22",
+                "reportLinkId": "5cbe188f-146c-42d2-b3ca-05981f309565"
+            },
+            {
+                "name": "population",
+                "rating": "Good",
+                "reportDate": "2017-03-22",
+                "reportLinkId": "5cbe188f-146c-42d2-b3ca-05981f309565"
+            },
+            {
+                "name": "problems",
+                "rating": "Good",
+                "reportDate": "2017-03-22",
+                "reportLinkId": "5cbe188f-146c-42d2-b3ca-05981f309565"
+            },
+            {
+                "name": "vulnerable",
+                "rating": "Good",
+                "reportDate": "2017-03-22",
+                "reportLinkId": "5cbe188f-146c-42d2-b3ca-05981f309565"
+            }
+        ]
+    },
+    "deregistrationDate": "2018-12-06",
+    "dormancy": "N",
+    "gacServiceTypes": [
+        {
+            "description": "Doctors consultation service",
+            "name": "Doctors/Gps"
+        }
+    ],
+    "historicRatings": [
+        {
+            "overall": {
+                "keyQuestionRatings": [
+                    {
+                        "name": "Safe",
+                        "rating": "Requires improvement"
+                    },
+                    {
+                        "name": "Well-led",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Caring",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Responsive",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Effective",
+                        "rating": "Good"
+                    }
+                ],
+                "rating": "Good"
+            },
+            "reportDate": "2016-04-12",
+            "reportLinkId": "a295a566-3604-4527-8c25-f7a975b3995c",
+            "serviceRatings": [
+                {
+                    "name": "conditions",
+                    "rating": "Good"
+                },
+                {
+                    "name": "mothers",
+                    "rating": "Good"
+                },
+                {
+                    "name": "old",
+                    "rating": "Good"
+                },
+                {
+                    "name": "population",
+                    "rating": "Good"
+                },
+                {
+                    "name": "problems",
+                    "rating": "Good"
+                },
+                {
+                    "name": "vulnerable",
+                    "rating": "Good"
+                }
+            ]
+        }
+    ],
+    "inspectionAreas": [
+        {
+            "inspectionAreaId": "conditions",
+            "inspectionAreaName": "People with long term conditions",
+            "status": "Active (Rated)"
+        },
+        {
+            "inspectionAreaId": "mothers",
+            "inspectionAreaName": "Families, children and young people",
+            "status": "Active (Rated)"
+        },
+        {
+            "inspectionAreaId": "old",
+            "inspectionAreaName": "Older people",
+            "status": "Active (Rated)"
+        },
+        {
+            "inspectionAreaId": "population",
+            "inspectionAreaName": "Working age people (including those recently retired and students)",
+            "status": "Active (Rated)"
+        },
+        {
+            "inspectionAreaId": "problems",
+            "inspectionAreaName": "People experiencing poor mental health (including people with dementia)",
+            "status": "Active (Rated)"
+        },
+        {
+            "inspectionAreaId": "vulnerable",
+            "inspectionAreaName": "People whose circumstances may make them vulnerable",
+            "status": "Active (Rated)"
+        }
+    ],
+    "inspectionCategories": [
+        {
+            "code": "P2",
+            "name": "GP Practices",
+            "primary": "true"
+        }
+    ],
+    "inspectionDirectorate": "Primary medical services",
+    "lastInspection": {
+        "date": "2017-03-08"
+    },
+    "lastReport": {
+        "publicationDate": "2017-03-22"
+    },
+    "localAuthority": "Oldham",
+    "locationId": "1-585081302",
+    "locationTypes": [
+        {
+            "type": "GP Practice"
+        }
+    ],
+    "mainPhoneNumber": "01616283628",
+    "name": "Hopwood House Medical Practice",
+    "numberOfBeds": 0,
+    "odsCcgCode": "00Y",
+    "odsCcgName": "NHS Greater Manchester Icb - 00Y",
+    "odsCode": "P85014",
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.5423506,
+    "onspdLongitude": -2.0964481,
+    "organisationType": "Location",
+    "postalAddressCounty": "Lancashire",
+    "postalAddressLine1": "Hopwood House",
+    "postalAddressLine2": "The Vineyard, Lees Road",
+    "postalAddressTownCity": "Oldham",
+    "postalCode": "OL4 1JN",
+    "providerId": "1-199785353",
+    "region": "North West",
+    "registrationDate": "2013-04-01",
+    "registrationStatus": "Deregistered",
+    "regulatedActivities": [],
+    "relationships": [],
+    "reports": [
+        {
+            "firstVisitDate": "2017-03-08",
+            "linkId": "5cbe188f-146c-42d2-b3ca-05981f309565",
+            "reportDate": "2017-03-22",
+            "reportType": "Location",
+            "reportUri": "/reports/5cbe188f-146c-42d2-b3ca-05981f309565?20210120011707"
+        },
+        {
+            "firstVisitDate": "2016-02-26",
+            "linkId": "a295a566-3604-4527-8c25-f7a975b3995c",
+            "reportDate": "2016-04-12",
+            "reportType": "Location",
+            "reportUri": "/reports/a295a566-3604-4527-8c25-f7a975b3995c?20210123200138"
+        }
+    ],
+    "specialisms": [
+        {
+            "name": "Services for everyone"
+        }
+    ],
+    "type": "Primary Medical Services",
+    "uprn": "422000075745",
+    "website": "www.hopwood-house-medical-practice.co.uk"
+}

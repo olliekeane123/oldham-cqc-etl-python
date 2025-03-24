@@ -1,0 +1,139 @@
+{
+    "brandId": "BD219",
+    "brandName": "BRAND BUPA Group",
+    "careHome": "Y",
+    "constituency": "Oldham East and Saddleworth",
+    "currentRatings": {
+        "overall": {
+            "keyQuestionRatings": [
+                {
+                    "name": "Safe",
+                    "rating": "Requires improvement",
+                    "reportDate": "2016-08-12",
+                    "reportLinkId": "eab9d15d-9100-452f-ac44-a51c6b9bd968"
+                },
+                {
+                    "name": "Well-led",
+                    "rating": "Requires improvement",
+                    "reportDate": "2016-08-12",
+                    "reportLinkId": "eab9d15d-9100-452f-ac44-a51c6b9bd968"
+                },
+                {
+                    "name": "Caring",
+                    "rating": "Requires improvement",
+                    "reportDate": "2016-08-12",
+                    "reportLinkId": "eab9d15d-9100-452f-ac44-a51c6b9bd968"
+                },
+                {
+                    "name": "Responsive",
+                    "rating": "Good",
+                    "reportDate": "2016-08-12",
+                    "reportLinkId": "eab9d15d-9100-452f-ac44-a51c6b9bd968"
+                },
+                {
+                    "name": "Effective",
+                    "rating": "Requires improvement",
+                    "reportDate": "2016-08-12",
+                    "reportLinkId": "eab9d15d-9100-452f-ac44-a51c6b9bd968"
+                }
+            ],
+            "rating": "Requires improvement",
+            "reportDate": "2016-08-12",
+            "reportLinkId": "eab9d15d-9100-452f-ac44-a51c6b9bd968"
+        },
+        "reportDate": "2016-08-12"
+    },
+    "deregistrationDate": "2017-02-03",
+    "dormancy": "N",
+    "gacServiceTypes": [
+        {
+            "description": "Care home service with nursing",
+            "name": "Nursing homes"
+        }
+    ],
+    "inspectionAreas": [],
+    "inspectionCategories": [
+        {
+            "code": "S1",
+            "name": "Residential social care",
+            "primary": "true"
+        }
+    ],
+    "inspectionDirectorate": "Adult social care",
+    "lastInspection": {
+        "date": "2016-03-16"
+    },
+    "lastReport": {
+        "publicationDate": "2016-08-12"
+    },
+    "localAuthority": "Oldham",
+    "locationId": "1-127515012",
+    "locationTypes": [],
+    "mainPhoneNumber": "01706882290",
+    "name": "Shaw Side Care Home",
+    "numberOfBeds": 150,
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.570914,
+    "onspdLongitude": -2.097752,
+    "organisationType": "Location",
+    "postalAddressCounty": "Greater Manchester",
+    "postalAddressLine1": "77 Oldham Road",
+    "postalAddressLine2": "Shaw",
+    "postalAddressTownCity": "Oldham",
+    "postalCode": "OL2 8SP",
+    "providerId": "1-116865247",
+    "region": "North West",
+    "registrationDate": "2010-11-16",
+    "registrationStatus": "Deregistered",
+    "regulatedActivities": [],
+    "relationships": [
+        {
+            "reason": "New Provider",
+            "relatedLocationId": "1-3134639286",
+            "relatedLocationName": "Shaw Side Care Home",
+            "type": "HSCA Successor"
+        }
+    ],
+    "reports": [
+        {
+            "firstVisitDate": "2016-03-14",
+            "linkId": "eab9d15d-9100-452f-ac44-a51c6b9bd968",
+            "reportDate": "2016-08-12",
+            "reportType": "Location",
+            "reportUri": "/reports/eab9d15d-9100-452f-ac44-a51c6b9bd968?20211030120000"
+        },
+        {
+            "firstVisitDate": "2013-10-22",
+            "linkId": "b57762c9-a95d-49cb-8674-3f99841cf5e4",
+            "reportDate": "2013-11-19",
+            "reportUri": "/reports/b57762c9-a95d-49cb-8674-3f99841cf5e4?20151016191357"
+        },
+        {
+            "firstVisitDate": "2012-12-10",
+            "linkId": "0e5ed9a5-365e-42d1-9629-a380d11af1da",
+            "reportDate": "2013-01-11",
+            "reportUri": "/reports/0e5ed9a5-365e-42d1-9629-a380d11af1da?20200129163919"
+        },
+        {
+            "firstVisitDate": "2011-07-18",
+            "linkId": "6d92eba1-f231-4411-98aa-1c11aff5cfe7",
+            "reportDate": "2011-08-31",
+            "reportUri": "/reports/6d92eba1-f231-4411-98aa-1c11aff5cfe7?20200430120000"
+        }
+    ],
+    "specialisms": [
+        {
+            "name": "Caring for adults over 65 yrs"
+        },
+        {
+            "name": "Dementia"
+        },
+        {
+            "name": "Physical disabilities"
+        }
+    ],
+    "type": "Social Care Org"
+}

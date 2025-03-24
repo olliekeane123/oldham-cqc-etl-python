@@ -1,0 +1,141 @@
+{
+    "careHome": "Y",
+    "constituency": "Oldham West and Royton",
+    "currentRatings": {
+        "overall": {
+            "keyQuestionRatings": [
+                {
+                    "name": "Safe",
+                    "rating": "Good",
+                    "reportDate": "2016-04-19",
+                    "reportLinkId": "143d0c00-e73e-48a3-8e10-2d17ed15be77"
+                },
+                {
+                    "name": "Well-led",
+                    "rating": "Good",
+                    "reportDate": "2016-04-19",
+                    "reportLinkId": "143d0c00-e73e-48a3-8e10-2d17ed15be77"
+                },
+                {
+                    "name": "Caring",
+                    "rating": "Good",
+                    "reportDate": "2016-04-19",
+                    "reportLinkId": "143d0c00-e73e-48a3-8e10-2d17ed15be77"
+                },
+                {
+                    "name": "Responsive",
+                    "rating": "Good",
+                    "reportDate": "2016-04-19",
+                    "reportLinkId": "143d0c00-e73e-48a3-8e10-2d17ed15be77"
+                },
+                {
+                    "name": "Effective",
+                    "rating": "Good",
+                    "reportDate": "2016-04-19",
+                    "reportLinkId": "143d0c00-e73e-48a3-8e10-2d17ed15be77"
+                }
+            ],
+            "rating": "Good",
+            "reportDate": "2016-04-19",
+            "reportLinkId": "143d0c00-e73e-48a3-8e10-2d17ed15be77"
+        },
+        "reportDate": "2016-04-19"
+    },
+    "deregistrationDate": "2017-12-15",
+    "dormancy": "N",
+    "gacServiceTypes": [
+        {
+            "description": "Care home service without nursing",
+            "name": "Residential homes"
+        }
+    ],
+    "inspectionAreas": [],
+    "inspectionCategories": [
+        {
+            "code": "S1",
+            "name": "Residential social care",
+            "primary": "true"
+        }
+    ],
+    "inspectionDirectorate": "Adult social care",
+    "lastInspection": {
+        "date": "2016-02-05"
+    },
+    "lastReport": {
+        "publicationDate": "2016-04-19"
+    },
+    "localAuthority": "Oldham",
+    "locationId": "1-119997953",
+    "locationTypes": [],
+    "mainPhoneNumber": "01616653185",
+    "name": "Chamber Mount",
+    "numberOfBeds": 23,
+    "odsCode": "VLD23",
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.528354,
+    "onspdLongitude": -2.125619,
+    "organisationType": "Location",
+    "postalAddressCounty": "Greater Manchester",
+    "postalAddressLine1": "197 Chamber Road",
+    "postalAddressLine2": "Werneth",
+    "postalAddressTownCity": "Oldham",
+    "postalCode": "OL8 4DJ",
+    "providerId": "1-101712501",
+    "region": "North West",
+    "registrationDate": "2010-12-15",
+    "registrationStatus": "Deregistered",
+    "regulatedActivities": [],
+    "relationships": [
+        {
+            "reason": "New Provider",
+            "relatedLocationId": "1-4246404700",
+            "relatedLocationName": "Chamber Mount",
+            "type": "HSCA Successor"
+        }
+    ],
+    "reports": [
+        {
+            "firstVisitDate": "2016-02-04",
+            "linkId": "143d0c00-e73e-48a3-8e10-2d17ed15be77",
+            "reportDate": "2016-04-19",
+            "reportType": "Location",
+            "reportUri": "/reports/143d0c00-e73e-48a3-8e10-2d17ed15be77?20211030120000"
+        },
+        {
+            "firstVisitDate": "2014-04-29",
+            "linkId": "50832f89-3626-48d5-9b75-f7f8458f3f8d",
+            "reportDate": "2014-05-21",
+            "reportUri": "/reports/50832f89-3626-48d5-9b75-f7f8458f3f8d?20200129163919"
+        },
+        {
+            "firstVisitDate": "2013-05-10",
+            "linkId": "985e5cd8-cd27-4a11-abb9-e24cf7878f41",
+            "reportDate": "2013-06-08",
+            "reportUri": "/reports/985e5cd8-cd27-4a11-abb9-e24cf7878f41?20200129163919"
+        },
+        {
+            "firstVisitDate": "2012-09-10",
+            "linkId": "45e30076-0f47-46cc-a6be-92832b40a9bc",
+            "reportDate": "2012-09-25",
+            "reportUri": "/reports/45e30076-0f47-46cc-a6be-92832b40a9bc?20200430120000"
+        },
+        {
+            "firstVisitDate": "2012-06-25",
+            "linkId": "e698dd20-cc07-46e0-a1ef-afedf66fd71a",
+            "reportDate": "2012-07-17",
+            "reportUri": "/reports/e698dd20-cc07-46e0-a1ef-afedf66fd71a?20200430120000"
+        }
+    ],
+    "specialisms": [
+        {
+            "name": "Caring for adults over 65 yrs"
+        },
+        {
+            "name": "Dementia"
+        }
+    ],
+    "type": "Social Care Org"
+}

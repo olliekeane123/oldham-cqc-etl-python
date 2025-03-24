@@ -1,0 +1,89 @@
+{
+    "careHome": "N",
+    "constituency": "Oldham West and Royton",
+    "deregistrationDate": "2016-10-27",
+    "dormancy": "N",
+    "gacServiceTypes": [
+        {
+            "description": "Domiciliary care service",
+            "name": "Homecare agencies"
+        }
+    ],
+    "inspectionAreas": [],
+    "inspectionCategories": [
+        {
+            "code": "S2",
+            "name": "Community based adult social care services",
+            "primary": "true"
+        }
+    ],
+    "inspectionDirectorate": "Adult social care",
+    "localAuthority": "Oldham",
+    "locationId": "1-2058385384",
+    "locationTypes": [],
+    "mainPhoneNumber": "016162884222",
+    "name": "Nightingales Homecare",
+    "numberOfBeds": 0,
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.542255,
+    "onspdLongitude": -2.137053,
+    "organisationType": "Location",
+    "postalAddressCounty": "Lancashire",
+    "postalAddressLine1": "Troman House",
+    "postalAddressLine2": "Stockfield Road",
+    "postalAddressTownCity": "Chadderton, Oldham",
+    "postalCode": "OL9 9LU",
+    "providerId": "1-120628603",
+    "region": "North West",
+    "registrationDate": "2015-05-27",
+    "registrationStatus": "Deregistered",
+    "regulatedActivities": [],
+    "relationships": [
+        {
+            "reason": "Location Move",
+            "relatedLocationId": "1-2934550191",
+            "relatedLocationName": "Nightingales Homecare",
+            "type": "HSCA Successor"
+        },
+        {
+            "reason": "Location Move",
+            "relatedLocationId": "1-349185032",
+            "relatedLocationName": "Nightingales Homecare",
+            "type": "HSCA Predecessor"
+        }
+    ],
+    "specialisms": [
+        {
+            "name": "Caring for adults over 65 yrs"
+        },
+        {
+            "name": "Caring for adults under 65 yrs"
+        },
+        {
+            "name": "Dementia"
+        },
+        {
+            "name": "Eating disorders"
+        },
+        {
+            "name": "Learning disabilities"
+        },
+        {
+            "name": "Mental health conditions"
+        },
+        {
+            "name": "Physical disabilities"
+        },
+        {
+            "name": "Sensory impairment"
+        },
+        {
+            "name": "Substance misuse problems"
+        }
+    ],
+    "type": "Social Care Org",
+    "website": "www.nightingales-online.co.uk"
+}

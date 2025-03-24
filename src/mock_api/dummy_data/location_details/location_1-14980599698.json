@@ -1,0 +1,77 @@
+{
+    "careHome": "N",
+    "constituency": "Oldham West and Royton",
+    "dormancy": "N",
+    "dormancyEndDate": "2023-08-31",
+    "gacServiceTypes": [
+        {
+            "description": "Domiciliary care service",
+            "name": "Homecare agencies"
+        }
+    ],
+    "inspectionAreas": [],
+    "inspectionCategories": [
+        {
+            "code": "S2",
+            "name": "Community based adult social care services",
+            "primary": "true"
+        }
+    ],
+    "inspectionDirectorate": "Adult social care",
+    "localAuthority": "Oldham",
+    "locationId": "1-14980599698",
+    "locationTypes": [],
+    "mainPhoneNumber": "07905172108",
+    "name": "Care For Life Solutions Ltd",
+    "numberOfBeds": 0,
+    "odsCode": "VNPGA",
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.5379491,
+    "onspdLongitude": -2.1294801,
+    "organisationType": "Location",
+    "postalAddressLine1": "Prospect House",
+    "postalAddressLine2": "Featherstall Road South",
+    "postalAddressTownCity": "Oldham",
+    "postalCode": "OL9 6HT",
+    "providerId": "1-14675798666",
+    "region": "North West",
+    "registrationDate": "2023-03-15",
+    "registrationStatus": "Registered",
+    "regulatedActivities": [
+        {
+            "code": "RA1",
+            "contacts": [
+                {
+                    "personFamilyName": "Dzingayi",
+                    "personGivenName": "Luwis",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Mr"
+                }
+            ],
+            "name": "Personal care"
+        }
+    ],
+    "relationships": [],
+    "specialisms": [
+        {
+            "name": "Caring for adults over 65 yrs"
+        },
+        {
+            "name": "Caring for adults under 65 yrs"
+        },
+        {
+            "name": "Dementia"
+        },
+        {
+            "name": "Learning disabilities"
+        }
+    ],
+    "type": "Social Care Org",
+    "uprn": "10092042704",
+    "website": "www.careforlifesolutions.com"
+}

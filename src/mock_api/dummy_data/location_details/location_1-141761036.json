@@ -1,0 +1,114 @@
+{
+    "careHome": "N",
+    "constituency": "Oldham West and Royton",
+    "currentRatings": {
+        "overall": {
+            "keyQuestionRatings": [
+                {
+                    "name": "Safe",
+                    "rating": "No published rating"
+                },
+                {
+                    "name": "Well-led",
+                    "rating": "No published rating"
+                },
+                {
+                    "name": "Caring",
+                    "rating": "No published rating"
+                },
+                {
+                    "name": "Responsive",
+                    "rating": "No published rating"
+                },
+                {
+                    "name": "Effective",
+                    "rating": "No published rating"
+                }
+            ],
+            "rating": "No published rating"
+        }
+    },
+    "deregistrationDate": "2014-02-05",
+    "dormancy": "N",
+    "gacServiceTypes": [
+        {
+            "description": "Domiciliary care service",
+            "name": "Homecare agencies"
+        }
+    ],
+    "inspectionAreas": [],
+    "inspectionDirectorate": "Unspecified",
+    "lastInspection": {
+        "date": "2013-09-12"
+    },
+    "localAuthority": "Oldham",
+    "locationId": "1-141761036",
+    "locationTypes": [],
+    "mainPhoneNumber": "01616828703",
+    "name": "Sevacare - Oldham",
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.525495,
+    "onspdLongitude": -2.162778,
+    "organisationType": "Location",
+    "postalAddressCounty": "Lancashire",
+    "postalAddressLine1": "1st Floor, 498 Broadway",
+    "postalAddressLine2": "Chadderton",
+    "postalAddressTownCity": "Oldham",
+    "postalCode": "OL9 9PY",
+    "providerId": "1-101670011",
+    "region": "North West",
+    "registrationDate": "2010-11-22",
+    "registrationStatus": "Deregistered",
+    "regulatedActivities": [],
+    "relationships": [],
+    "reports": [
+        {
+            "firstVisitDate": "2013-09-12",
+            "linkId": "6d3c7987-f392-4749-9f1d-38a1fbe6a325",
+            "reportDate": "2013-10-08",
+            "reportUri": "/reports/6d3c7987-f392-4749-9f1d-38a1fbe6a325?20200129163919"
+        },
+        {
+            "linkId": "27f20273-da84-4705-9a1d-3d71b0c0b836",
+            "reportDate": "2012-08-07",
+            "reportUri": "/reports/27f20273-da84-4705-9a1d-3d71b0c0b836?20200430120000"
+        },
+        {
+            "firstVisitDate": "2012-05-11",
+            "linkId": "2909305a-bd73-4423-9fd1-0eede981e14d",
+            "reportDate": "2012-06-08",
+            "reportUri": "/reports/2909305a-bd73-4423-9fd1-0eede981e14d?20200430120000"
+        }
+    ],
+    "specialisms": [
+        {
+            "name": "Caring for adults over 65 yrs"
+        },
+        {
+            "name": "Caring for adults under 65 yrs"
+        },
+        {
+            "name": "Caring for children"
+        },
+        {
+            "name": "Dementia"
+        },
+        {
+            "name": "Learning disabilities"
+        },
+        {
+            "name": "Mental health conditions"
+        },
+        {
+            "name": "Physical disabilities"
+        },
+        {
+            "name": "Sensory impairment"
+        }
+    ],
+    "type": "Social Care Org",
+    "website": "www.sevacare.org.uk"
+}

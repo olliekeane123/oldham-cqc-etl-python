@@ -1,0 +1,225 @@
+{
+    "brandId": "BD223",
+    "brandName": "BRAND Anchor",
+    "careHome": "Y",
+    "constituency": "Oldham East and Saddleworth",
+    "currentRatings": {
+        "overall": {
+            "keyQuestionRatings": [
+                {
+                    "name": "Safe",
+                    "rating": "Good",
+                    "reportDate": "2023-09-26",
+                    "reportLinkId": "fb655baa-732f-46b4-8224-91988e22f161"
+                },
+                {
+                    "name": "Well-led",
+                    "rating": "Good",
+                    "reportDate": "2023-09-26",
+                    "reportLinkId": "fb655baa-732f-46b4-8224-91988e22f161"
+                },
+                {
+                    "name": "Caring",
+                    "rating": "Good",
+                    "reportDate": "2023-09-26",
+                    "reportLinkId": "fb655baa-732f-46b4-8224-91988e22f161"
+                },
+                {
+                    "name": "Responsive",
+                    "rating": "Good",
+                    "reportDate": "2023-09-26",
+                    "reportLinkId": "fb655baa-732f-46b4-8224-91988e22f161"
+                },
+                {
+                    "name": "Effective",
+                    "rating": "Good",
+                    "reportDate": "2023-09-26",
+                    "reportLinkId": "fb655baa-732f-46b4-8224-91988e22f161"
+                }
+            ],
+            "rating": "Good",
+            "reportDate": "2023-09-26",
+            "reportLinkId": "fb655baa-732f-46b4-8224-91988e22f161"
+        },
+        "reportDate": "2023-09-26"
+    },
+    "dormancy": "N",
+    "gacServiceTypes": [
+        {
+            "description": "Care home service without nursing",
+            "name": "Residential homes"
+        }
+    ],
+    "historicRatings": [
+        {
+            "overall": {
+                "keyQuestionRatings": [
+                    {
+                        "name": "Safe",
+                        "rating": "Inspected but not rated"
+                    }
+                ],
+                "rating": "Inspected but not rated"
+            },
+            "reportDate": "2021-02-05",
+            "reportLinkId": "89ccdfdd-f1db-45f1-bc34-781ef307ae53"
+        },
+        {
+            "overall": {
+                "keyQuestionRatings": [
+                    {
+                        "name": "Safe",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Well-led",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Caring",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Responsive",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Effective",
+                        "rating": "Good"
+                    }
+                ],
+                "rating": "Good"
+            },
+            "reportDate": "2018-08-04",
+            "reportLinkId": "8904d4bf-b573-4b2b-af18-64682346c168"
+        },
+        {
+            "overall": {
+                "keyQuestionRatings": [
+                    {
+                        "name": "Safe",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Well-led",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Caring",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Responsive",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Effective",
+                        "rating": "Good"
+                    }
+                ],
+                "rating": "Good"
+            },
+            "reportDate": "2015-01-22",
+            "reportLinkId": "8d3c8dd9-d8cc-4d84-8eb2-9a9b494ece44"
+        }
+    ],
+    "inspectionAreas": [],
+    "inspectionCategories": [
+        {
+            "code": "S1",
+            "name": "Residential social care",
+            "primary": "true"
+        }
+    ],
+    "inspectionDirectorate": "Adult social care",
+    "lastInspection": {
+        "date": "2023-09-13"
+    },
+    "lastReport": {
+        "publicationDate": "2023-09-26"
+    },
+    "localAuthority": "Oldham",
+    "locationId": "1-126240944",
+    "locationTypes": [],
+    "name": "Millfield",
+    "numberOfBeds": 38,
+    "odsCode": "VLD2G",
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.5489647,
+    "onspdLongitude": -2.0707282,
+    "organisationType": "Location",
+    "postalAddressCounty": "Greater Manchester",
+    "postalAddressLine1": "Huddersfield Road",
+    "postalAddressLine2": "Waterhead",
+    "postalAddressTownCity": "Oldham",
+    "postalCode": "OL4 3NN",
+    "providerId": "1-102642895",
+    "region": "North West",
+    "registeredManagerAbsentDate": "2025-03-20",
+    "registrationDate": "2010-11-25",
+    "registrationStatus": "Registered",
+    "regulatedActivities": [
+        {
+            "code": "RA2",
+            "contacts": [],
+            "name": "Accommodation for persons who require nursing or personal care"
+        }
+    ],
+    "relationships": [],
+    "reports": [
+        {
+            "firstVisitDate": "2023-09-05",
+            "linkId": "fb655baa-732f-46b4-8224-91988e22f161",
+            "reportDate": "2023-09-26",
+            "reportType": "Location",
+            "reportUri": "/reports/fb655baa-732f-46b4-8224-91988e22f161?20230928120000"
+        },
+        {
+            "firstVisitDate": "2021-01-25",
+            "linkId": "89ccdfdd-f1db-45f1-bc34-781ef307ae53",
+            "reportDate": "2021-02-05",
+            "reportType": "Location",
+            "reportUri": "/reports/89ccdfdd-f1db-45f1-bc34-781ef307ae53?20210205130000"
+        },
+        {
+            "firstVisitDate": "2018-06-28",
+            "linkId": "8904d4bf-b573-4b2b-af18-64682346c168",
+            "reportDate": "2018-08-04",
+            "reportType": "Location",
+            "reportUri": "/reports/8904d4bf-b573-4b2b-af18-64682346c168?20180804120000"
+        },
+        {
+            "firstVisitDate": "2014-08-11",
+            "linkId": "8d3c8dd9-d8cc-4d84-8eb2-9a9b494ece44",
+            "reportDate": "2015-01-22",
+            "reportType": "Location",
+            "reportUri": "/reports/8d3c8dd9-d8cc-4d84-8eb2-9a9b494ece44?20210130184628"
+        },
+        {
+            "firstVisitDate": "2013-09-27",
+            "linkId": "8dcb1eeb-59f6-4935-bfc7-d5ad2a0b760e",
+            "reportDate": "2013-11-05",
+            "reportUri": "/reports/8dcb1eeb-59f6-4935-bfc7-d5ad2a0b760e?20200129163919"
+        },
+        {
+            "firstVisitDate": "2012-09-03",
+            "linkId": "8e98a098-d7ad-4ade-9db7-a25256df599f",
+            "reportDate": "2012-09-24",
+            "reportUri": "/reports/8e98a098-d7ad-4ade-9db7-a25256df599f?20200430120000"
+        }
+    ],
+    "specialisms": [
+        {
+            "name": "Caring for adults over 65 yrs"
+        },
+        {
+            "name": "Dementia"
+        }
+    ],
+    "type": "Social Care Org",
+    "uprn": "422000065833",
+    "website": "www.anchor.org.uk"
+}

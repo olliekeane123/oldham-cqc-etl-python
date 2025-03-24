@@ -1,0 +1,136 @@
+{
+    "brandId": "Q83",
+    "brandName": "NHS England North (Greater Manchester)",
+    "careHome": "N",
+    "constituency": "Oldham West and Royton",
+    "currentRatings": {
+        "overall": {
+            "keyQuestionRatings": [
+                {
+                    "name": "Safe",
+                    "rating": "No published rating"
+                },
+                {
+                    "name": "Well-led",
+                    "rating": "No published rating"
+                },
+                {
+                    "name": "Caring",
+                    "rating": "No published rating"
+                },
+                {
+                    "name": "Responsive",
+                    "rating": "No published rating"
+                },
+                {
+                    "name": "Effective",
+                    "rating": "No published rating"
+                }
+            ],
+            "rating": "No published rating"
+        }
+    },
+    "deregistrationDate": "2019-07-30",
+    "dormancy": "N",
+    "gacServiceTypes": [
+        {
+            "description": "Acute services with overnight beds",
+            "name": "Hospital"
+        },
+        {
+            "description": "Rehabilitation services",
+            "name": "Rehabilitation (illness/injury)"
+        }
+    ],
+    "inspectionAreas": [],
+    "inspectionCategories": [
+        {
+            "code": "H1",
+            "name": "Acute hospital - NHS non-specialist",
+            "primary": "true"
+        }
+    ],
+    "inspectionDirectorate": "Hospitals",
+    "lastInspection": {
+        "date": "2016-06-14"
+    },
+    "localAuthority": "Oldham",
+    "locationId": "RT2C1",
+    "locationTypes": [],
+    "mainPhoneNumber": "01616043000",
+    "name": "Butler Green House",
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.5310744,
+    "onspdLongitude": -2.145543,
+    "organisationType": "Location",
+    "postalAddressCounty": "Lancashire",
+    "postalAddressLine1": "Wallis Street",
+    "postalAddressLine2": "Chadderton",
+    "postalAddressTownCity": "Oldham",
+    "postalCode": "OL9 8NG",
+    "providerId": "RT2",
+    "providerInspectionAreas": [
+        {
+            "inspectionAreaId": "chsinpatient",
+            "reports": [
+                {
+                    "inspectionId": "SPL1-2542777941",
+                    "locationId": "RT2C1",
+                    "providerId": "RT2",
+                    "reportLinkId": "d2b9660e-4ffb-4d86-89e8-0e67b16412d7"
+                }
+            ]
+        },
+        {
+            "inspectionAreaId": "chslife",
+            "reports": [
+                {
+                    "inspectionId": "SPL1-2542777941",
+                    "locationId": "RT2C1",
+                    "providerId": "RT2",
+                    "reportLinkId": "4f474d54-4705-466f-8111-c088d7403d30"
+                }
+            ]
+        }
+    ],
+    "region": "North West",
+    "registrationDate": "2011-08-03",
+    "registrationStatus": "Deregistered",
+    "regulatedActivities": [],
+    "relationships": [
+        {
+            "reason": "NHS Transfer",
+            "relatedLocationId": "RM3Y3",
+            "relatedLocationName": "Butler Green House",
+            "type": "HSCA Successor"
+        },
+        {
+            "reason": "NHS Transfer",
+            "relatedLocationId": "5J5X2",
+            "relatedLocationName": "Butler Green",
+            "type": "HSCA Predecessor"
+        }
+    ],
+    "reports": [
+        {
+            "firstVisitDate": "2011-10-12",
+            "linkId": "b3cac90a-259a-42c3-8a36-e67568b2fc70",
+            "reportDate": "2011-11-28",
+            "reportUri": "/reports/b3cac90a-259a-42c3-8a36-e67568b2fc70?20200430120000"
+        }
+    ],
+    "specialisms": [
+        {
+            "name": "Caring for adults over 65 yrs"
+        },
+        {
+            "name": "Caring for adults under 65 yrs"
+        }
+    ],
+    "type": "NHS Healthcare Organisation",
+    "uprn": "422000017779",
+    "website": "www.penninecare.nhs.uk"
+}

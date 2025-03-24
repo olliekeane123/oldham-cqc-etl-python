@@ -1,0 +1,66 @@
+{
+    "careHome": "N",
+    "constituency": "Oldham East and Saddleworth",
+    "deregistrationDate": "2012-08-09",
+    "dormancy": "N",
+    "gacServiceTypes": [
+        {
+            "description": "Domiciliary care service",
+            "name": "Homecare agencies"
+        }
+    ],
+    "inspectionAreas": [],
+    "inspectionDirectorate": "Unspecified",
+    "localAuthority": "Oldham",
+    "locationId": "1-254950962",
+    "locationTypes": [],
+    "name": "Safehands Support Services UK Limited",
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.563456,
+    "onspdLongitude": -2.069819,
+    "organisationType": "Location",
+    "postalAddressCounty": "Lancashire",
+    "postalAddressLine1": "105 Turfpit Lane",
+    "postalAddressTownCity": "Oldham",
+    "postalCode": "OL4 2ND",
+    "providerId": "1-221674762",
+    "region": "North West",
+    "registrationDate": "2012-08-09",
+    "registrationStatus": "Deregistered",
+    "regulatedActivities": [],
+    "relationships": [
+        {
+            "reason": "Location Move",
+            "relatedLocationId": "1-1296307944",
+            "relatedLocationName": "Choices Homecare (Oldham)",
+            "type": "HSCA Successor"
+        }
+    ],
+    "specialisms": [
+        {
+            "name": "Caring for adults over 65 yrs"
+        },
+        {
+            "name": "Caring for adults under 65 yrs"
+        },
+        {
+            "name": "Dementia"
+        },
+        {
+            "name": "Learning disabilities"
+        },
+        {
+            "name": "Mental health conditions"
+        },
+        {
+            "name": "Physical disabilities"
+        },
+        {
+            "name": "Sensory impairment"
+        }
+    ],
+    "type": "Social Care Org"
+}

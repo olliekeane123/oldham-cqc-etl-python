@@ -1,0 +1,150 @@
+{
+    "brandId": "BD504",
+    "brandName": "BRAND Midshires Care Ltd",
+    "careHome": "N",
+    "constituency": "Ashton-under-Lyne",
+    "currentRatings": {
+        "overall": {
+            "keyQuestionRatings": [
+                {
+                    "name": "Safe",
+                    "rating": "Good",
+                    "reportDate": "2022-06-09",
+                    "reportLinkId": "ad3f6fc5-d217-49ff-ab8a-2a177524eb74"
+                },
+                {
+                    "name": "Well-led",
+                    "rating": "Good",
+                    "reportDate": "2022-06-09",
+                    "reportLinkId": "ad3f6fc5-d217-49ff-ab8a-2a177524eb74"
+                },
+                {
+                    "name": "Caring",
+                    "rating": "Good",
+                    "reportDate": "2022-06-09",
+                    "reportLinkId": "ad3f6fc5-d217-49ff-ab8a-2a177524eb74"
+                },
+                {
+                    "name": "Responsive",
+                    "rating": "Good",
+                    "reportDate": "2022-06-09",
+                    "reportLinkId": "ad3f6fc5-d217-49ff-ab8a-2a177524eb74"
+                },
+                {
+                    "name": "Effective",
+                    "rating": "Good",
+                    "reportDate": "2022-06-09",
+                    "reportLinkId": "ad3f6fc5-d217-49ff-ab8a-2a177524eb74"
+                }
+            ],
+            "rating": "Good",
+            "reportDate": "2022-06-09",
+            "reportLinkId": "ad3f6fc5-d217-49ff-ab8a-2a177524eb74"
+        },
+        "reportDate": "2022-06-09"
+    },
+    "dormancy": "N",
+    "gacServiceTypes": [
+        {
+            "description": "Domiciliary care service",
+            "name": "Homecare agencies"
+        }
+    ],
+    "inspectionAreas": [],
+    "inspectionCategories": [
+        {
+            "code": "S2",
+            "name": "Community based adult social care services",
+            "primary": "true"
+        }
+    ],
+    "inspectionDirectorate": "Adult social care",
+    "lastInspection": {
+        "date": "2022-05-12"
+    },
+    "lastReport": {
+        "publicationDate": "2022-06-09"
+    },
+    "localAuthority": "Oldham",
+    "locationId": "1-10820630788",
+    "locationTypes": [],
+    "mainPhoneNumber": "01614136371",
+    "name": "Helping Hands Oldham",
+    "numberOfBeds": 0,
+    "odsCode": "VNJEJ",
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.5165882,
+    "onspdLongitude": -2.1430049,
+    "organisationType": "Location",
+    "postalAddressLine1": "Hollinwood Business Centre",
+    "postalAddressLine2": "Albert Street",
+    "postalAddressTownCity": "Oldham",
+    "postalCode": "OL8 3QL",
+    "providerId": "1-101671690",
+    "region": "North West",
+    "registrationDate": "2021-05-10",
+    "registrationStatus": "Registered",
+    "regulatedActivities": [
+        {
+            "code": "RA1",
+            "contacts": [
+                {
+                    "personFamilyName": "Frost",
+                    "personGivenName": "Penny",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Mrs"
+                }
+            ],
+            "name": "Personal care"
+        },
+        {
+            "code": "RA5",
+            "contacts": [
+                {
+                    "personFamilyName": "Frost",
+                    "personGivenName": "Penny",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Mrs"
+                }
+            ],
+            "name": "Treatment of disease, disorder or injury"
+        }
+    ],
+    "relationships": [],
+    "reports": [
+        {
+            "firstVisitDate": "2022-05-12",
+            "linkId": "ad3f6fc5-d217-49ff-ab8a-2a177524eb74",
+            "reportDate": "2022-06-09",
+            "reportType": "Location",
+            "reportUri": "/reports/ad3f6fc5-d217-49ff-ab8a-2a177524eb74?20220609120000"
+        }
+    ],
+    "specialisms": [
+        {
+            "name": "Caring for adults over 65 yrs"
+        },
+        {
+            "name": "Caring for adults under 65 yrs"
+        },
+        {
+            "name": "Dementia"
+        },
+        {
+            "name": "Physical disabilities"
+        },
+        {
+            "name": "Sensory impairment"
+        }
+    ],
+    "type": "Social Care Org",
+    "uprn": "422000126276",
+    "website": "www.helpinghandshomecare.co.uk"
+}

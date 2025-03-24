@@ -1,0 +1,57 @@
+{
+    "careHome": "N",
+    "constituency": "Oldham West and Royton",
+    "deregistrationDate": "2019-11-28",
+    "dormancy": "N",
+    "gacServiceTypes": [
+        {
+            "description": "Acute services without overnight beds / listed acute services with or without overnight beds",
+            "name": "Clinic"
+        }
+    ],
+    "inspectionAreas": [],
+    "inspectionCategories": [
+        {
+            "code": "H3",
+            "name": "Acute hospital - Independent non-specialist",
+            "primary": "true"
+        }
+    ],
+    "inspectionDirectorate": "Hospitals",
+    "localAuthority": "Oldham",
+    "locationId": "1-2220300183",
+    "locationTypes": [],
+    "mainPhoneNumber": "01616240420",
+    "name": "Manchester Medics Limited",
+    "numberOfBeds": 0,
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.553248,
+    "onspdLongitude": -2.121831,
+    "organisationType": "Location",
+    "postalAddressCounty": "Manchester",
+    "postalAddressLine1": "Royal Oldham Hospital",
+    "postalAddressLine2": "Rochdale Road",
+    "postalAddressTownCity": "Oldham",
+    "postalCode": "OL1 2JH",
+    "providerId": "1-2120429146",
+    "region": "North West",
+    "registrationDate": "2015-11-09",
+    "registrationStatus": "Deregistered",
+    "regulatedActivities": [],
+    "relationships": [],
+    "specialisms": [
+        {
+            "name": "Caring for adults over 65 yrs"
+        },
+        {
+            "name": "Caring for adults under 65 yrs"
+        },
+        {
+            "name": "Caring for children"
+        }
+    ],
+    "type": "Independent Healthcare Org"
+}

@@ -1,0 +1,77 @@
+{
+    "careHome": "N",
+    "constituency": "Ashton-under-Lyne",
+    "dormancy": "Y",
+    "dormancyStartDate": "2024-06-04",
+    "gacServiceTypes": [
+        {
+            "description": "Domiciliary care service",
+            "name": "Homecare agencies"
+        }
+    ],
+    "inspectionAreas": [],
+    "inspectionCategories": [
+        {
+            "code": "S2",
+            "name": "Community based adult social care services",
+            "primary": "true"
+        }
+    ],
+    "inspectionDirectorate": "Adult social care",
+    "localAuthority": "Oldham",
+    "locationId": "1-14422297436",
+    "locationTypes": [],
+    "name": "Humble Hands Care Ltd",
+    "numberOfBeds": 0,
+    "odsCode": "VNVAQ",
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.5168829,
+    "onspdLongitude": -2.1430799,
+    "organisationType": "Location",
+    "postalAddressLine1": "Hollinwood Business Centre, Albert Street",
+    "postalAddressTownCity": "Oldham",
+    "postalCode": "OL8 3QL",
+    "providerId": "1-13942080806",
+    "region": "North West",
+    "registrationDate": "2024-06-04",
+    "registrationStatus": "Registered",
+    "regulatedActivities": [
+        {
+            "code": "RA1",
+            "contacts": [
+                {
+                    "personFamilyName": "Mdubeki",
+                    "personGivenName": "Nangamso",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Miss"
+                }
+            ],
+            "name": "Personal care"
+        }
+    ],
+    "relationships": [],
+    "specialisms": [
+        {
+            "name": "Caring for adults over 65 yrs"
+        },
+        {
+            "name": "Caring for adults under 65 yrs"
+        },
+        {
+            "name": "Dementia"
+        },
+        {
+            "name": "Physical disabilities"
+        },
+        {
+            "name": "Sensory impairment"
+        }
+    ],
+    "type": "Social Care Org",
+    "uprn": "422000130199"
+}

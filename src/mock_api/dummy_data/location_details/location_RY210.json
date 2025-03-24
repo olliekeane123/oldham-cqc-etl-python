@@ -1,0 +1,67 @@
+{
+    "brandId": "Q83",
+    "brandName": "NHS England North (Greater Manchester)",
+    "careHome": "N",
+    "constituency": "Oldham West and Royton",
+    "dormancy": "N",
+    "gacServiceTypes": [
+        {
+            "description": "Dental service",
+            "name": "Dentist"
+        }
+    ],
+    "inspectionAreas": [],
+    "inspectionCategories": [
+        {
+            "code": "P1",
+            "name": "Dentists",
+            "primary": "true"
+        }
+    ],
+    "inspectionDirectorate": "Primary medical services",
+    "localAuthority": "Oldham",
+    "locationId": "RY210",
+    "locationTypes": [],
+    "mainPhoneNumber": "01616213614",
+    "name": "Oldham Integrated Care Centre",
+    "numberOfBeds": 0,
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.543824,
+    "onspdLongitude": -2.116945,
+    "organisationType": "Location",
+    "postalAddressCounty": "Lancashire",
+    "postalAddressLine1": "New Radcliffe Street",
+    "postalAddressTownCity": "Oldham",
+    "postalCode": "OL1 1NL",
+    "providerId": "RY2",
+    "region": "North West",
+    "registrationDate": "2020-09-28",
+    "registrationStatus": "Registered",
+    "regulatedActivities": [
+        {
+            "code": "RA5",
+            "contacts": [],
+            "name": "Treatment of disease, disorder or injury"
+        },
+        {
+            "code": "RA7",
+            "contacts": [],
+            "name": "Surgical procedures"
+        },
+        {
+            "code": "RA8",
+            "contacts": [],
+            "name": "Diagnostic and screening procedures"
+        }
+    ],
+    "relationships": [],
+    "specialisms": [
+        {
+            "name": "Services for everyone"
+        }
+    ],
+    "type": "NHS Healthcare Organisation"
+}

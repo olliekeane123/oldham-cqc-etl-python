@@ -1,0 +1,159 @@
+{
+    "alsoKnownAs": "Integrated Care Centre",
+    "careHome": "N",
+    "constituency": "Oldham West and Royton",
+    "currentRatings": {
+        "overall": {
+            "keyQuestionRatings": [
+                {
+                    "name": "Safe",
+                    "rating": "Good",
+                    "reportDate": "2022-04-12",
+                    "reportLinkId": "d417269c-cb19-47ff-bc5b-bef5a84fdef0"
+                },
+                {
+                    "name": "Well-led",
+                    "rating": "Outstanding",
+                    "reportDate": "2022-04-12",
+                    "reportLinkId": "d417269c-cb19-47ff-bc5b-bef5a84fdef0"
+                },
+                {
+                    "name": "Caring",
+                    "rating": "Good",
+                    "reportDate": "2022-04-12",
+                    "reportLinkId": "d417269c-cb19-47ff-bc5b-bef5a84fdef0"
+                },
+                {
+                    "name": "Responsive",
+                    "rating": "Good",
+                    "reportDate": "2022-04-12",
+                    "reportLinkId": "d417269c-cb19-47ff-bc5b-bef5a84fdef0"
+                },
+                {
+                    "name": "Effective",
+                    "rating": "Good",
+                    "reportDate": "2022-04-12",
+                    "reportLinkId": "d417269c-cb19-47ff-bc5b-bef5a84fdef0"
+                }
+            ],
+            "rating": "Good",
+            "reportDate": "2022-04-12",
+            "reportLinkId": "d417269c-cb19-47ff-bc5b-bef5a84fdef0"
+        },
+        "reportDate": "2022-04-12"
+    },
+    "dormancy": "N",
+    "gacServiceTypes": [
+        {
+            "description": "Doctors treatment service",
+            "name": "Doctors/Gps"
+        }
+    ],
+    "inspectionAreas": [],
+    "inspectionCategories": [
+        {
+            "code": "P7",
+            "name": "Independent consulting doctors",
+            "primary": "true"
+        }
+    ],
+    "inspectionDirectorate": "Primary medical services",
+    "lastInspection": {
+        "date": "2022-03-11"
+    },
+    "lastReport": {
+        "publicationDate": "2022-04-12"
+    },
+    "localAuthority": "Oldham",
+    "locationId": "1-501086319",
+    "locationTypes": [],
+    "mainPhoneNumber": "0161621383",
+    "name": "Pennine MSK Partnership Limited",
+    "numberOfBeds": 0,
+    "odsCcgCode": "00Y",
+    "odsCcgName": "NHS Greater Manchester Icb - 00Y",
+    "odsCode": "Y01634",
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.543824,
+    "onspdLongitude": -2.116945,
+    "organisationType": "Location",
+    "postalAddressCounty": "Lancashire",
+    "postalAddressLine1": "Integrated Care Centre",
+    "postalAddressLine2": "New Radcliffe Street",
+    "postalAddressTownCity": "Oldham",
+    "postalCode": "OL1 1NL",
+    "providerId": "1-199798184",
+    "region": "North West",
+    "registrationDate": "2013-04-01",
+    "registrationStatus": "Registered",
+    "regulatedActivities": [
+        {
+            "code": "RA5",
+            "contacts": [
+                {
+                    "personFamilyName": "Critchley",
+                    "personGivenName": "Sarah Judith",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Mrs"
+                }
+            ],
+            "name": "Treatment of disease, disorder or injury"
+        },
+        {
+            "code": "RA7",
+            "contacts": [
+                {
+                    "personFamilyName": "Critchley",
+                    "personGivenName": "Sarah Judith",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Mrs"
+                }
+            ],
+            "name": "Surgical procedures"
+        },
+        {
+            "code": "RA8",
+            "contacts": [
+                {
+                    "personFamilyName": "Critchley",
+                    "personGivenName": "Sarah Judith",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Mrs"
+                }
+            ],
+            "name": "Diagnostic and screening procedures"
+        }
+    ],
+    "relationships": [],
+    "reports": [
+        {
+            "firstVisitDate": "2022-03-11",
+            "linkId": "d417269c-cb19-47ff-bc5b-bef5a84fdef0",
+            "reportDate": "2022-04-12",
+            "reportType": "Location",
+            "reportUri": "/reports/d417269c-cb19-47ff-bc5b-bef5a84fdef0?20220412070252"
+        },
+        {
+            "firstVisitDate": "2013-07-22",
+            "linkId": "070fe1fb-fe5e-4672-b733-9d85639c6b41",
+            "reportDate": "2013-08-15",
+            "reportUri": "/reports/070fe1fb-fe5e-4672-b733-9d85639c6b41?20200129163919"
+        }
+    ],
+    "specialisms": [
+        {
+            "name": "Services for everyone"
+        }
+    ],
+    "type": "Independent Healthcare Org",
+    "website": "www.pmsk.org"
+}

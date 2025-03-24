@@ -3,38 +3,46 @@ import json
 logger = init_logger(__name__)
 
 
-def transform (providers):
+def transform (locations):
 
-    # cleaned_data = []
+    registered_locations = filter_by_registered_locations(locations)
 
-    registered_providers = filter_by_registered_providers(providers)
+    formatted_locations = format_locations(registered_locations)
 
-    formatted_providers = format_providers(registered_providers)
-
-    with open('cleaned_data.json', 'w') as f:
-        json.dump(formatted_providers, f, indent=4)
+    return formatted_locations
 
 
-def filter_by_registered_providers(providers):
-    return [provider for provider in providers if provider["registrationStatus"] != "Deregistered"]
+def filter_by_registered_locations(locations):
+    return [location for location in locations if location["registrationStatus"] != "Deregistered"]
 
-def format_providers(providers: list[dict]):
-    formatted_providers = []
-    for provider in providers:
-        formatted_provider = {
-            "name": provider.get("name"),
-            # "description": provider.get("regulatedActivities"),
-            "telephone": provider.get("mainPhoneNumber"),
+def format_locations(locations: list[dict]):
+    formatted_locations = []
+    for location in locations:
+        formatted_location = {
+            "name": location.get("name"),
+            "location_id": location.get("locationId"),
+            "description": None,
+            "phone_number": location.get("mainPhoneNumber"),
             "email": None,
-            "address1": provider.get("postalAddressLine1"),
-            "address2": provider.get("postalAddressLine2"),
-            "address3": provider.get("postalAddressLine3"),
-            "postcode": provider.get("postalCode"),
-            "coordinates": str(provider.get("onspdLatitude")) + ", " + str(provider.get("onspdLongitude")),
-            "website": provider.get("website"),
-            "type": provider.get("type"),
-            "cqcreport": provider.get("currentRatings", {}).get("overall", {}).get("rating"),
-            "cqcdate": provider.get("currentRatings", {}).get("overall", {}).get("reportDate"),
+            "address1": location.get("postalAddressLine1"),
+            "address2": location.get("postalAddressLine2"),
+            "address3": location.get("postalAddressLine3"),
+            "postcode": location.get("postalCode"),
+            "coordinates": str(location.get("onspdLatitude")) + ", " + str(location.get("onspdLongitude")),
+            "onspd_latitude": location.get("onspdLatitude"),
+            "onspd_longitude": location.get("onspdLongitude"),
+            "website": get_website(location),
+            "type": location.get("type"),
+            "cqc_url": f"https://www.cqc.org.uk/location/{location.get('locationId')}",
+            "cqc_overall_report": location.get("currentRatings", {}).get("overall", {}).get("rating", 'NO RATINGS'),
+            "cqc_report_date": location.get("currentRatings", {}).get("overall", {}).get("reportDate"),
+            "provider_id": location.get("providerId"),
         }
-        formatted_providers.append(formatted_provider)
-    return formatted_providers
+        formatted_locations.append(formatted_location)
+    return formatted_locations
+
+def get_website(location: dict):
+    website = location.get("website")
+    if website:
+        website = f"https://{website}"
+    return website

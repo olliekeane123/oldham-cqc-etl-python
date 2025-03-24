@@ -1,0 +1,90 @@
+{
+    "careHome": "N",
+    "constituency": "Oldham East and Saddleworth",
+    "currentRatings": {
+        "overall": {
+            "keyQuestionRatings": [
+                {
+                    "name": "Safe",
+                    "rating": "No published rating"
+                },
+                {
+                    "name": "Well-led",
+                    "rating": "No published rating"
+                },
+                {
+                    "name": "Caring",
+                    "rating": "No published rating"
+                },
+                {
+                    "name": "Responsive",
+                    "rating": "No published rating"
+                },
+                {
+                    "name": "Effective",
+                    "rating": "No published rating"
+                }
+            ],
+            "rating": "No published rating"
+        }
+    },
+    "deregistrationDate": "2016-02-04",
+    "dormancy": "N",
+    "gacServiceTypes": [
+        {
+            "description": "Dental service",
+            "name": "Dentist"
+        }
+    ],
+    "inspectionAreas": [],
+    "inspectionCategories": [
+        {
+            "code": "P1",
+            "name": "Dentists",
+            "primary": "true"
+        }
+    ],
+    "inspectionDirectorate": "Primary medical services",
+    "lastInspection": {
+        "date": "2013-08-14"
+    },
+    "localAuthority": "Oldham",
+    "locationId": "1-459245590",
+    "locationTypes": [],
+    "mainPhoneNumber": "01457829241",
+    "name": "Waters Edge Dental Care",
+    "numberOfBeds": 0,
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.537066,
+    "onspdLongitude": -2.024239,
+    "organisationType": "Location",
+    "postalAddressCounty": "Lancashire",
+    "postalAddressLine1": "1-3 Mossley Road",
+    "postalAddressLine2": "Grasscroft",
+    "postalAddressTownCity": "Oldham",
+    "postalCode": "OL4 4HH",
+    "providerId": "1-456524845",
+    "region": "North West",
+    "registrationDate": "2012-09-14",
+    "registrationStatus": "Deregistered",
+    "regulatedActivities": [],
+    "relationships": [],
+    "reports": [
+        {
+            "firstVisitDate": "2013-08-14",
+            "linkId": "9dcb24a0-08ca-4695-a193-f912bcb8112f",
+            "reportDate": "2013-09-14",
+            "reportUri": "/reports/9dcb24a0-08ca-4695-a193-f912bcb8112f?20151016191357"
+        }
+    ],
+    "specialisms": [
+        {
+            "name": "Services for everyone"
+        }
+    ],
+    "type": "Primary Dental Care",
+    "website": "www.watersedgedentalcare.co.uk"
+}

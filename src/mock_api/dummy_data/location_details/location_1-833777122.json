@@ -1,0 +1,181 @@
+{
+    "careHome": "N",
+    "constituency": "Oldham East and Saddleworth",
+    "currentRatings": {
+        "overall": {
+            "keyQuestionRatings": [
+                {
+                    "name": "Safe",
+                    "rating": "Inspected but not rated",
+                    "reportDate": "2017-06-26",
+                    "reportLinkId": "1ec41b48-8e9e-45ef-9bc4-e86e434e598b"
+                },
+                {
+                    "name": "Well-led",
+                    "rating": "Inspected but not rated",
+                    "reportDate": "2017-06-26",
+                    "reportLinkId": "1ec41b48-8e9e-45ef-9bc4-e86e434e598b"
+                },
+                {
+                    "name": "Caring",
+                    "rating": "Inspected but not rated",
+                    "reportDate": "2017-06-26",
+                    "reportLinkId": "1ec41b48-8e9e-45ef-9bc4-e86e434e598b"
+                },
+                {
+                    "name": "Responsive",
+                    "rating": "Inspected but not rated",
+                    "reportDate": "2017-06-26",
+                    "reportLinkId": "1ec41b48-8e9e-45ef-9bc4-e86e434e598b"
+                },
+                {
+                    "name": "Effective",
+                    "rating": "Inspected but not rated",
+                    "reportDate": "2017-06-26",
+                    "reportLinkId": "1ec41b48-8e9e-45ef-9bc4-e86e434e598b"
+                }
+            ],
+            "rating": "Inspected but not rated",
+            "reportDate": "2017-06-26",
+            "reportLinkId": "1ec41b48-8e9e-45ef-9bc4-e86e434e598b"
+        },
+        "reportDate": "2017-06-26",
+        "serviceRatings": [
+            {
+                "keyQuestionRatings": [
+                    {
+                        "name": "Caring",
+                        "rating": "Inspected but not rated"
+                    },
+                    {
+                        "name": "Effective",
+                        "rating": "Inspected but not rated"
+                    },
+                    {
+                        "name": "Responsive",
+                        "rating": "Inspected but not rated"
+                    },
+                    {
+                        "name": "Safe",
+                        "rating": "Inspected but not rated"
+                    },
+                    {
+                        "name": "Well-led",
+                        "rating": "Inspected but not rated"
+                    }
+                ],
+                "name": "chsadults",
+                "rating": "Inspected but not rated",
+                "reportDate": "2017-06-26",
+                "reportLinkId": "1ec41b48-8e9e-45ef-9bc4-e86e434e598b"
+            },
+            {
+                "keyQuestionRatings": [
+                    {
+                        "name": "Caring",
+                        "rating": "Inspected but not rated"
+                    },
+                    {
+                        "name": "Effective",
+                        "rating": "Inspected but not rated"
+                    },
+                    {
+                        "name": "Responsive",
+                        "rating": "Inspected but not rated"
+                    },
+                    {
+                        "name": "Safe",
+                        "rating": "Inspected but not rated"
+                    },
+                    {
+                        "name": "Well-led",
+                        "rating": "Inspected but not rated"
+                    }
+                ],
+                "name": "chschildren",
+                "rating": "Inspected but not rated",
+                "reportDate": "2017-06-26",
+                "reportLinkId": "1ec41b48-8e9e-45ef-9bc4-e86e434e598b"
+            }
+        ]
+    },
+    "deregistrationDate": "2023-09-14",
+    "dormancy": "N",
+    "gacServiceTypes": [
+        {
+            "description": "Acute services without overnight beds / listed acute services with or without overnight beds",
+            "name": "Clinic"
+        }
+    ],
+    "inspectionAreas": [
+        {
+            "inspectionAreaId": "chsadults",
+            "inspectionAreaName": "Community health services for adults",
+            "status": "Active (Not rated)"
+        },
+        {
+            "inspectionAreaId": "chschildren",
+            "inspectionAreaName": "Community health services for children, young people and families",
+            "status": "Active (Not rated)"
+        }
+    ],
+    "inspectionCategories": [
+        {
+            "code": "H6",
+            "name": "Community health - NHS & Independent",
+            "primary": "true"
+        }
+    ],
+    "inspectionDirectorate": "Hospitals",
+    "lastInspection": {
+        "date": "2017-03-03"
+    },
+    "lastReport": {
+        "publicationDate": "2017-06-26"
+    },
+    "localAuthority": "Oldham",
+    "locationId": "1-833777122",
+    "locationTypes": [],
+    "mainPhoneNumber": "01616229240",
+    "name": "Glodwick Health Centre",
+    "numberOfBeds": 0,
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.537786,
+    "onspdLongitude": -2.095095,
+    "organisationType": "Location",
+    "postalAddressCounty": "Lancashire",
+    "postalAddressLine1": "137 Glodwick Road",
+    "postalAddressTownCity": "Oldham",
+    "postalCode": "OL4 1YN",
+    "providerId": "1-463386417",
+    "region": "North West",
+    "registrationDate": "2013-07-15",
+    "registrationStatus": "Deregistered",
+    "regulatedActivities": [],
+    "relationships": [
+        {
+            "reason": "Location Move",
+            "relatedLocationId": "1-16464985626",
+            "relatedLocationName": "Lancaster House Community Healthcare & Diagnostics",
+            "type": "HSCA Successor"
+        }
+    ],
+    "reports": [
+        {
+            "firstVisitDate": "2017-02-23",
+            "linkId": "1ec41b48-8e9e-45ef-9bc4-e86e434e598b",
+            "reportDate": "2017-06-26",
+            "reportType": "Location",
+            "reportUri": "/reports/1ec41b48-8e9e-45ef-9bc4-e86e434e598b?20210119011905"
+        }
+    ],
+    "specialisms": [
+        {
+            "name": "Services for everyone"
+        }
+    ],
+    "type": "Independent Healthcare Org"
+}

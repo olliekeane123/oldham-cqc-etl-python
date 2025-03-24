@@ -1,0 +1,96 @@
+{
+    "careHome": "N",
+    "constituency": "Oldham East and Saddleworth",
+    "currentRatings": {
+        "overall": {
+            "keyQuestionRatings": [
+                {
+                    "name": "Safe",
+                    "rating": "No published rating"
+                },
+                {
+                    "name": "Well-led",
+                    "rating": "No published rating"
+                },
+                {
+                    "name": "Caring",
+                    "rating": "No published rating"
+                },
+                {
+                    "name": "Responsive",
+                    "rating": "No published rating"
+                },
+                {
+                    "name": "Effective",
+                    "rating": "No published rating"
+                }
+            ],
+            "rating": "No published rating"
+        }
+    },
+    "deregistrationDate": "2016-12-07",
+    "dormancy": "N",
+    "gacServiceTypes": [
+        {
+            "description": "Dental service",
+            "name": "Dentist"
+        }
+    ],
+    "inspectionAreas": [],
+    "inspectionCategories": [
+        {
+            "code": "P1",
+            "name": "Dentists",
+            "primary": "true"
+        }
+    ],
+    "inspectionDirectorate": "Primary medical services",
+    "lastInspection": {
+        "date": "2012-11-20"
+    },
+    "localAuthority": "Oldham",
+    "locationId": "1-198366877",
+    "locationTypes": [],
+    "mainPhoneNumber": "01616274914",
+    "name": "Robert Ashton Dental Practice",
+    "numberOfBeds": 0,
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.548417,
+    "onspdLongitude": -2.083526,
+    "organisationType": "Location",
+    "postalAddressCounty": "Greater Manchester",
+    "postalAddressLine1": "244 Huddersfield Road",
+    "postalAddressTownCity": "Oldham",
+    "postalCode": "OL4 2RB",
+    "providerId": "1-153020597",
+    "region": "North West",
+    "registrationDate": "2011-04-01",
+    "registrationStatus": "Deregistered",
+    "regulatedActivities": [],
+    "relationships": [
+        {
+            "reason": "New Provider",
+            "relatedLocationId": "1-3125719986",
+            "relatedLocationName": "Jackson's Dental Care",
+            "type": "HSCA Successor"
+        }
+    ],
+    "reports": [
+        {
+            "firstVisitDate": "2012-11-20",
+            "linkId": "c28c3827-b6fc-4e9f-98df-352987f7f747",
+            "reportDate": "2012-12-15",
+            "reportUri": "/reports/c28c3827-b6fc-4e9f-98df-352987f7f747?20211221130000"
+        }
+    ],
+    "specialisms": [
+        {
+            "name": "Services for everyone"
+        }
+    ],
+    "type": "Primary Dental Care",
+    "website": "www.bobbydentist.co.uk"
+}

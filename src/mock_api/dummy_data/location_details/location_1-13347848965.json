@@ -1,0 +1,120 @@
+{
+    "brandId": "BD327",
+    "brandName": "BRAND Riverdale Health Care",
+    "careHome": "N",
+    "constituency": "Ashton-under-Lyne",
+    "dormancy": "N",
+    "gacServiceTypes": [
+        {
+            "description": "Dental service",
+            "name": "Dentist"
+        }
+    ],
+    "inspectionAreas": [],
+    "inspectionCategories": [
+        {
+            "code": "P1",
+            "name": "Dentists",
+            "primary": "true"
+        }
+    ],
+    "inspectionDirectorate": "Primary medical services",
+    "localAuthority": "Oldham",
+    "locationId": "1-13347848965",
+    "locationTypes": [],
+    "mainPhoneNumber": "01616824751",
+    "name": "Alpha Dental Care Failsworth",
+    "numberOfBeds": 0,
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.5099848,
+    "onspdLongitude": -2.1603065,
+    "organisationType": "Location",
+    "postalAddressCounty": "Greater Manchester",
+    "postalAddressLine1": "353 Oldham Road",
+    "postalAddressLine2": "Failsworth",
+    "postalAddressTownCity": "Manchester",
+    "postalCode": "M35 0AN",
+    "providerId": "1-5622054999",
+    "region": "North West",
+    "registrationDate": "2022-08-11",
+    "registrationStatus": "Registered",
+    "regulatedActivities": [
+        {
+            "code": "RA5",
+            "contacts": [
+                {
+                    "personFamilyName": "Ennis",
+                    "personGivenName": "Claire Louise",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Miss"
+                },
+                {
+                    "personFamilyName": "Pearson-Mulvey",
+                    "personGivenName": "Claire Louise",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Mrs"
+                }
+            ],
+            "name": "Treatment of disease, disorder or injury"
+        },
+        {
+            "code": "RA7",
+            "contacts": [
+                {
+                    "personFamilyName": "Ennis",
+                    "personGivenName": "Claire Louise",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Miss"
+                },
+                {
+                    "personFamilyName": "Pearson-Mulvey",
+                    "personGivenName": "Claire Louise",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Mrs"
+                }
+            ],
+            "name": "Surgical procedures"
+        },
+        {
+            "code": "RA8",
+            "contacts": [
+                {
+                    "personFamilyName": "Ennis",
+                    "personGivenName": "Claire Louise",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Miss"
+                },
+                {
+                    "personFamilyName": "Pearson-Mulvey",
+                    "personGivenName": "Claire Louise",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Mrs"
+                }
+            ],
+            "name": "Diagnostic and screening procedures"
+        }
+    ],
+    "relationships": [],
+    "specialisms": [
+        {
+            "name": "Services for everyone"
+        }
+    ],
+    "type": "Primary Dental Care",
+    "uprn": "422000032748"
+}

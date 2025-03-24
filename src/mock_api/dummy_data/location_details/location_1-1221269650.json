@@ -1,0 +1,170 @@
+{
+    "brandId": "BD249",
+    "brandName": "BRAND Grosvenor Health and Social Care",
+    "careHome": "N",
+    "constituency": "Oldham West and Royton",
+    "currentRatings": {
+        "overall": {
+            "keyQuestionRatings": [
+                {
+                    "name": "Safe",
+                    "rating": "Good",
+                    "reportDate": "2019-01-04",
+                    "reportLinkId": "d063493c-85f2-4588-9d95-93e38f8b98f6"
+                },
+                {
+                    "name": "Well-led",
+                    "rating": "Good",
+                    "reportDate": "2019-01-04",
+                    "reportLinkId": "d063493c-85f2-4588-9d95-93e38f8b98f6"
+                },
+                {
+                    "name": "Caring",
+                    "rating": "Good",
+                    "reportDate": "2019-01-04",
+                    "reportLinkId": "d063493c-85f2-4588-9d95-93e38f8b98f6"
+                },
+                {
+                    "name": "Responsive",
+                    "rating": "Good",
+                    "reportDate": "2019-01-04",
+                    "reportLinkId": "d063493c-85f2-4588-9d95-93e38f8b98f6"
+                },
+                {
+                    "name": "Effective",
+                    "rating": "Good",
+                    "reportDate": "2019-01-04",
+                    "reportLinkId": "d063493c-85f2-4588-9d95-93e38f8b98f6"
+                }
+            ],
+            "rating": "Good",
+            "reportDate": "2019-01-04",
+            "reportLinkId": "d063493c-85f2-4588-9d95-93e38f8b98f6"
+        },
+        "reportDate": "2019-01-04"
+    },
+    "deregistrationDate": "2020-10-13",
+    "dormancy": "N",
+    "gacServiceTypes": [
+        {
+            "description": "Domiciliary care service",
+            "name": "Homecare agencies"
+        }
+    ],
+    "historicRatings": [
+        {
+            "overall": {
+                "keyQuestionRatings": [
+                    {
+                        "name": "Safe",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Well-led",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Caring",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Responsive",
+                        "rating": "Requires improvement"
+                    },
+                    {
+                        "name": "Effective",
+                        "rating": "Good"
+                    }
+                ],
+                "rating": "Good"
+            },
+            "reportDate": "2016-03-31",
+            "reportLinkId": "58ed8507-6e98-4b52-a205-7e1d18614cdb"
+        }
+    ],
+    "inspectionAreas": [],
+    "inspectionCategories": [
+        {
+            "code": "S2",
+            "name": "Community based adult social care services",
+            "primary": "true"
+        }
+    ],
+    "inspectionDirectorate": "Adult social care",
+    "lastInspection": {
+        "date": "2018-11-30"
+    },
+    "lastReport": {
+        "publicationDate": "2019-01-04"
+    },
+    "localAuthority": "Oldham",
+    "locationId": "1-1221269650",
+    "locationTypes": [],
+    "mainPhoneNumber": "01616828703",
+    "name": "Synergy Homecare - Manchester",
+    "numberOfBeds": 0,
+    "odsCode": "VN2R0",
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.525495,
+    "onspdLongitude": -2.162778,
+    "organisationType": "Location",
+    "postalAddressCounty": "Lancashire",
+    "postalAddressLine1": "1st Floor, 498 Broadway",
+    "postalAddressLine2": "Chadderton",
+    "postalAddressTownCity": "Oldham",
+    "postalCode": "OL9 9PY",
+    "providerId": "1-101689471",
+    "region": "North West",
+    "registrationDate": "2014-03-07",
+    "registrationStatus": "Deregistered",
+    "regulatedActivities": [],
+    "relationships": [
+        {
+            "reason": "Legal Entity Change",
+            "relatedLocationId": "1-9583134750",
+            "relatedLocationName": "Meridian Health and Social Care - Manchester",
+            "type": "HSCA Successor"
+        }
+    ],
+    "reports": [
+        {
+            "firstVisitDate": "2018-11-29",
+            "linkId": "d063493c-85f2-4588-9d95-93e38f8b98f6",
+            "reportDate": "2019-01-04",
+            "reportType": "Location",
+            "reportUri": "/reports/d063493c-85f2-4588-9d95-93e38f8b98f6?20211030120000"
+        },
+        {
+            "firstVisitDate": "2016-01-07",
+            "linkId": "58ed8507-6e98-4b52-a205-7e1d18614cdb",
+            "reportDate": "2016-03-31",
+            "reportType": "Location",
+            "reportUri": "/reports/58ed8507-6e98-4b52-a205-7e1d18614cdb?20200129163919"
+        }
+    ],
+    "specialisms": [
+        {
+            "name": "Caring for adults over 65 yrs"
+        },
+        {
+            "name": "Caring for adults under 65 yrs"
+        },
+        {
+            "name": "Dementia"
+        },
+        {
+            "name": "Learning disabilities"
+        },
+        {
+            "name": "Physical disabilities"
+        },
+        {
+            "name": "Sensory impairment"
+        }
+    ],
+    "type": "Social Care Org",
+    "website": "www.synergyhomecare.co.uk"
+}

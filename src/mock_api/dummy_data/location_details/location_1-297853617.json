@@ -1,0 +1,100 @@
+{
+    "careHome": "N",
+    "constituency": "Oldham East and Saddleworth",
+    "currentRatings": {
+        "overall": {
+            "keyQuestionRatings": [
+                {
+                    "name": "Safe",
+                    "rating": "No published rating"
+                },
+                {
+                    "name": "Well-led",
+                    "rating": "No published rating"
+                },
+                {
+                    "name": "Caring",
+                    "rating": "No published rating"
+                },
+                {
+                    "name": "Responsive",
+                    "rating": "No published rating"
+                },
+                {
+                    "name": "Effective",
+                    "rating": "No published rating"
+                }
+            ],
+            "rating": "No published rating"
+        }
+    },
+    "deregistrationDate": "2013-10-03",
+    "dormancy": "N",
+    "gacServiceTypes": [
+        {
+            "description": "Domiciliary care service",
+            "name": "Homecare agencies"
+        }
+    ],
+    "inspectionAreas": [],
+    "inspectionDirectorate": "Unspecified",
+    "lastInspection": {
+        "date": "2012-06-21"
+    },
+    "localAuthority": "Oldham",
+    "locationId": "1-297853617",
+    "locationTypes": [],
+    "mainPhoneNumber": "01617708246",
+    "name": "The Reablement Team",
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.540142,
+    "onspdLongitude": -2.101888,
+    "organisationType": "Location",
+    "postalAddressCounty": "Greater Manchester",
+    "postalAddressLine1": "Unit 3, Whitney Court, Southlink Business Park",
+    "postalAddressLine2": "Hamilton Street",
+    "postalAddressTownCity": "Oldham",
+    "postalCode": "OL4 1DB",
+    "providerId": "1-101668216",
+    "region": "North West",
+    "registrationDate": "2011-10-11",
+    "registrationStatus": "Deregistered",
+    "regulatedActivities": [],
+    "relationships": [],
+    "reports": [
+        {
+            "firstVisitDate": "2012-06-21",
+            "linkId": "0e45c199-f976-4392-9eb9-e83e506e5376",
+            "reportDate": "2012-07-23",
+            "reportUri": "/reports/0e45c199-f976-4392-9eb9-e83e506e5376?20200430120000"
+        }
+    ],
+    "specialisms": [
+        {
+            "name": "Caring for adults over 65 yrs"
+        },
+        {
+            "name": "Caring for adults under 65 yrs"
+        },
+        {
+            "name": "Dementia"
+        },
+        {
+            "name": "Eating disorders"
+        },
+        {
+            "name": "Learning disabilities"
+        },
+        {
+            "name": "Sensory impairment"
+        },
+        {
+            "name": "Substance misuse problems"
+        }
+    ],
+    "type": "Social Care Org",
+    "website": "www.oldham.gov.uk"
+}

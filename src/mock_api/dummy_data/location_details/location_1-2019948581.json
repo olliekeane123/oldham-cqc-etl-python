@@ -1,0 +1,154 @@
+{
+    "brandId": "BD309",
+    "brandName": "BRAND Brook",
+    "careHome": "N",
+    "constituency": "Oldham West and Royton",
+    "currentRatings": {
+        "overall": {
+            "keyQuestionRatings": [
+                {
+                    "name": "Safe",
+                    "rating": "Inspected but not rated",
+                    "reportDate": "2017-09-01",
+                    "reportLinkId": "3757c9c7-f330-4089-8e75-bcb728d10e52"
+                },
+                {
+                    "name": "Well-led",
+                    "rating": "Inspected but not rated",
+                    "reportDate": "2017-09-01",
+                    "reportLinkId": "3757c9c7-f330-4089-8e75-bcb728d10e52"
+                },
+                {
+                    "name": "Caring",
+                    "rating": "Inspected but not rated",
+                    "reportDate": "2017-09-01",
+                    "reportLinkId": "3757c9c7-f330-4089-8e75-bcb728d10e52"
+                },
+                {
+                    "name": "Responsive",
+                    "rating": "Inspected but not rated",
+                    "reportDate": "2017-09-01",
+                    "reportLinkId": "3757c9c7-f330-4089-8e75-bcb728d10e52"
+                },
+                {
+                    "name": "Effective",
+                    "rating": "Inspected but not rated",
+                    "reportDate": "2017-09-01",
+                    "reportLinkId": "3757c9c7-f330-4089-8e75-bcb728d10e52"
+                }
+            ],
+            "rating": "Inspected but not rated",
+            "reportDate": "2017-09-01",
+            "reportLinkId": "3757c9c7-f330-4089-8e75-bcb728d10e52"
+        },
+        "reportDate": "2017-09-01",
+        "serviceRatings": [
+            {
+                "keyQuestionRatings": [
+                    {
+                        "name": "Caring",
+                        "rating": "Inspected but not rated"
+                    },
+                    {
+                        "name": "Effective",
+                        "rating": "Inspected but not rated"
+                    },
+                    {
+                        "name": "Responsive",
+                        "rating": "Inspected but not rated"
+                    },
+                    {
+                        "name": "Safe",
+                        "rating": "Inspected but not rated"
+                    },
+                    {
+                        "name": "Well-led",
+                        "rating": "Inspected but not rated"
+                    }
+                ],
+                "name": "communitysexual",
+                "rating": "Inspected but not rated",
+                "reportDate": "2017-09-01",
+                "reportLinkId": "3757c9c7-f330-4089-8e75-bcb728d10e52"
+            }
+        ]
+    },
+    "deregistrationDate": "2021-09-06",
+    "dormancy": "N",
+    "gacServiceTypes": [
+        {
+            "description": "Community healthcare service",
+            "name": "Community services - Healthcare"
+        }
+    ],
+    "inspectionAreas": [
+        {
+            "inspectionAreaId": "communitysexual",
+            "inspectionAreaName": "Community health sexual health services",
+            "status": "Active (Not rated)"
+        }
+    ],
+    "inspectionCategories": [
+        {
+            "code": "H6",
+            "name": "Community health - NHS & Independent",
+            "primary": "true"
+        }
+    ],
+    "inspectionDirectorate": "Hospitals",
+    "lastInspection": {
+        "date": "2017-02-02"
+    },
+    "lastReport": {
+        "publicationDate": "2017-09-01"
+    },
+    "localAuthority": "Oldham",
+    "locationId": "1-2019948581",
+    "locationTypes": [],
+    "mainPhoneNumber": "01616270200",
+    "name": "Brook Oldham",
+    "numberOfBeds": 0,
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.540271,
+    "onspdLongitude": -2.110477,
+    "organisationType": "Location",
+    "postalAddressCounty": "Lancashire",
+    "postalAddressLine1": "Medtia Place",
+    "postalAddressLine2": "80 Union Street",
+    "postalAddressTownCity": "Oldham",
+    "postalCode": "OL1 1DJ",
+    "providerId": "1-1056342029",
+    "region": "North West",
+    "registrationDate": "2015-05-14",
+    "registrationStatus": "Deregistered",
+    "regulatedActivities": [],
+    "relationships": [
+        {
+            "reason": "Location Move",
+            "relatedLocationId": "1-1062858442",
+            "relatedLocationName": "Brook Oldham",
+            "type": "HSCA Predecessor"
+        }
+    ],
+    "reports": [
+        {
+            "firstVisitDate": "2017-02-02",
+            "linkId": "3757c9c7-f330-4089-8e75-bcb728d10e52",
+            "reportDate": "2017-09-01",
+            "reportType": "Location",
+            "reportUri": "/reports/3757c9c7-f330-4089-8e75-bcb728d10e52?20210122182034"
+        }
+    ],
+    "specialisms": [
+        {
+            "name": "Caring for adults under 65 yrs"
+        },
+        {
+            "name": "Caring for children"
+        }
+    ],
+    "type": "Independent Healthcare Org"
+}

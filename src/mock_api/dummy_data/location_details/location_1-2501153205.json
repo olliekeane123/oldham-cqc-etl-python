@@ -1,0 +1,101 @@
+{
+    "careHome": "N",
+    "constituency": "Oldham West and Royton",
+    "dormancy": "N",
+    "gacServiceTypes": [
+        {
+            "description": "Dental service",
+            "name": "Dentist"
+        }
+    ],
+    "inspectionAreas": [],
+    "inspectionCategories": [
+        {
+            "code": "P1",
+            "name": "Dentists",
+            "primary": "true"
+        }
+    ],
+    "inspectionDirectorate": "Primary medical services",
+    "localAuthority": "Oldham",
+    "locationId": "1-2501153205",
+    "locationTypes": [],
+    "mainPhoneNumber": "01616220987",
+    "name": "Oldham Orthodontics",
+    "numberOfBeds": 0,
+    "odsCode": "V17148",
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.524793,
+    "onspdLongitude": -2.12006,
+    "organisationType": "Location",
+    "postalAddressCounty": "Lancashire",
+    "postalAddressLine1": "221 Hollins Road",
+    "postalAddressTownCity": "Oldham",
+    "postalCode": "OL8 3AA",
+    "providerId": "1-2443093267",
+    "region": "North West",
+    "registrationDate": "2016-05-03",
+    "registrationStatus": "Registered",
+    "regulatedActivities": [
+        {
+            "code": "RA5",
+            "contacts": [
+                {
+                    "personFamilyName": "Malik",
+                    "personGivenName": "Ovais Humair",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Dr"
+                }
+            ],
+            "name": "Treatment of disease, disorder or injury"
+        },
+        {
+            "code": "RA7",
+            "contacts": [
+                {
+                    "personFamilyName": "Malik",
+                    "personGivenName": "Ovais Humair",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Dr"
+                }
+            ],
+            "name": "Surgical procedures"
+        },
+        {
+            "code": "RA8",
+            "contacts": [
+                {
+                    "personFamilyName": "Malik",
+                    "personGivenName": "Ovais Humair",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Dr"
+                }
+            ],
+            "name": "Diagnostic and screening procedures"
+        }
+    ],
+    "relationships": [
+        {
+            "reason": "New Provider",
+            "relatedLocationId": "1-445808941",
+            "relatedLocationName": "Oldham Orthodontics",
+            "type": "HSCA Predecessor"
+        }
+    ],
+    "specialisms": [
+        {
+            "name": "Services for everyone"
+        }
+    ],
+    "type": "Primary Dental Care",
+    "website": "www.oldhamorthodontics.co.uk"
+}

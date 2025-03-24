@@ -1,0 +1,161 @@
+{
+    "careHome": "N",
+    "constituency": "Oldham West and Royton",
+    "currentRatings": {
+        "overall": {
+            "keyQuestionRatings": [
+                {
+                    "name": "Safe",
+                    "rating": "Inadequate",
+                    "reportDate": "2018-05-25",
+                    "reportLinkId": "016d2593-f063-4d95-996b-5539f0b7b55b"
+                },
+                {
+                    "name": "Well-led",
+                    "rating": "Inadequate",
+                    "reportDate": "2018-05-25",
+                    "reportLinkId": "016d2593-f063-4d95-996b-5539f0b7b55b"
+                },
+                {
+                    "name": "Caring",
+                    "rating": "Requires improvement",
+                    "reportDate": "2018-05-25",
+                    "reportLinkId": "016d2593-f063-4d95-996b-5539f0b7b55b"
+                },
+                {
+                    "name": "Responsive",
+                    "rating": "Inadequate",
+                    "reportDate": "2018-05-25",
+                    "reportLinkId": "016d2593-f063-4d95-996b-5539f0b7b55b"
+                },
+                {
+                    "name": "Effective",
+                    "rating": "Requires improvement",
+                    "reportDate": "2018-05-25",
+                    "reportLinkId": "016d2593-f063-4d95-996b-5539f0b7b55b"
+                }
+            ],
+            "rating": "Inadequate",
+            "reportDate": "2018-05-25",
+            "reportLinkId": "016d2593-f063-4d95-996b-5539f0b7b55b"
+        },
+        "reportDate": "2018-05-25"
+    },
+    "deregistrationDate": "2020-07-21",
+    "dormancy": "N",
+    "gacServiceTypes": [
+        {
+            "description": "Domiciliary care service",
+            "name": "Homecare agencies"
+        }
+    ],
+    "historicRatings": [
+        {
+            "overall": {
+                "keyQuestionRatings": [
+                    {
+                        "name": "Safe",
+                        "rating": "Inspected but not rated"
+                    },
+                    {
+                        "name": "Well-led",
+                        "rating": "Inspected but not rated"
+                    },
+                    {
+                        "name": "Caring",
+                        "rating": "Inspected but not rated"
+                    },
+                    {
+                        "name": "Responsive",
+                        "rating": "Inspected but not rated"
+                    },
+                    {
+                        "name": "Effective",
+                        "rating": "Inspected but not rated"
+                    }
+                ],
+                "rating": "Inspected but not rated"
+            },
+            "reportDate": "2020-04-02",
+            "reportLinkId": "1ee8bee8-8aad-4936-8f55-f3d9f4b5c7ef"
+        }
+    ],
+    "inspectionAreas": [],
+    "inspectionCategories": [
+        {
+            "code": "S2",
+            "name": "Community based adult social care services",
+            "primary": "true"
+        }
+    ],
+    "inspectionDirectorate": "Adult social care",
+    "lastInspection": {
+        "date": "2020-02-03"
+    },
+    "lastReport": {
+        "publicationDate": "2020-04-02"
+    },
+    "localAuthority": "Oldham",
+    "locationId": "1-3995862205",
+    "locationTypes": [],
+    "mainPhoneNumber": "03330143086",
+    "name": "Italia House",
+    "numberOfBeds": 0,
+    "odsCode": "VN7N0",
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.537925,
+    "onspdLongitude": -2.128094,
+    "organisationType": "Location",
+    "postalAddressCounty": "Lancashire",
+    "postalAddressLine1": "Unit 7, Italia House",
+    "postalAddressLine2": "Pass Street",
+    "postalAddressTownCity": "Oldham",
+    "postalCode": "OL9 6HZ",
+    "providerId": "1-2902206249",
+    "region": "North West",
+    "registrationDate": "2017-07-17",
+    "registrationStatus": "Deregistered",
+    "regulatedActivities": [],
+    "relationships": [],
+    "reports": [
+        {
+            "firstVisitDate": "2020-01-20",
+            "linkId": "1ee8bee8-8aad-4936-8f55-f3d9f4b5c7ef",
+            "reportDate": "2020-04-02",
+            "reportType": "Location",
+            "reportUri": "/reports/1ee8bee8-8aad-4936-8f55-f3d9f4b5c7ef?20211030120000"
+        },
+        {
+            "firstVisitDate": "2018-02-14",
+            "linkId": "016d2593-f063-4d95-996b-5539f0b7b55b",
+            "reportDate": "2018-05-25",
+            "reportType": "Location",
+            "reportUri": "/reports/016d2593-f063-4d95-996b-5539f0b7b55b?20211030120000"
+        }
+    ],
+    "specialisms": [
+        {
+            "name": "Caring for adults over 65 yrs"
+        },
+        {
+            "name": "Caring for adults under 65 yrs"
+        },
+        {
+            "name": "Dementia"
+        },
+        {
+            "name": "Learning disabilities"
+        },
+        {
+            "name": "Mental health conditions"
+        },
+        {
+            "name": "Physical disabilities"
+        }
+    ],
+    "type": "Social Care Org",
+    "website": "www.passioncarers.co.uk"
+}

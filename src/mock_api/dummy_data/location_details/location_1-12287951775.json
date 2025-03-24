@@ -1,0 +1,160 @@
+{
+    "careHome": "N",
+    "constituency": "Oldham East and Saddleworth",
+    "currentRatings": {
+        "overall": {
+            "keyQuestionRatings": [
+                {
+                    "name": "Safe",
+                    "rating": "Good",
+                    "reportDate": "2023-07-03",
+                    "reportLinkId": "634b0570-d9c7-4ee6-8c6f-d2d68aabadba"
+                },
+                {
+                    "name": "Well-led",
+                    "rating": "Good",
+                    "reportDate": "2023-07-03",
+                    "reportLinkId": "634b0570-d9c7-4ee6-8c6f-d2d68aabadba"
+                },
+                {
+                    "name": "Caring",
+                    "rating": "Good",
+                    "reportDate": "2023-07-03",
+                    "reportLinkId": "634b0570-d9c7-4ee6-8c6f-d2d68aabadba"
+                },
+                {
+                    "name": "Responsive",
+                    "rating": "Good",
+                    "reportDate": "2023-07-03",
+                    "reportLinkId": "634b0570-d9c7-4ee6-8c6f-d2d68aabadba"
+                },
+                {
+                    "name": "Effective",
+                    "rating": "Inspected but not rated",
+                    "reportDate": "2023-07-03",
+                    "reportLinkId": "634b0570-d9c7-4ee6-8c6f-d2d68aabadba"
+                }
+            ],
+            "rating": "Good",
+            "reportDate": "2023-07-03",
+            "reportLinkId": "634b0570-d9c7-4ee6-8c6f-d2d68aabadba"
+        },
+        "reportDate": "2023-07-03",
+        "serviceRatings": [
+            {
+                "keyQuestionRatings": [
+                    {
+                        "name": "Caring",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Effective",
+                        "rating": "Inspected but not rated"
+                    },
+                    {
+                        "name": "Responsive",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Safe",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Well-led",
+                        "rating": "Good"
+                    }
+                ],
+                "name": "diagnostics",
+                "rating": "Good",
+                "reportDate": "2023-07-03",
+                "reportLinkId": "634b0570-d9c7-4ee6-8c6f-d2d68aabadba"
+            }
+        ]
+    },
+    "dormancy": "N",
+    "gacServiceTypes": [
+        {
+            "description": "Diagnostic and/or screening service",
+            "name": "Diagnosis/screening"
+        }
+    ],
+    "inspectionAreas": [
+        {
+            "inspectionAreaId": "diagnostics",
+            "inspectionAreaName": "Diagnostic and screening services",
+            "status": "Active (Rated)"
+        }
+    ],
+    "inspectionCategories": [
+        {
+            "code": "H4",
+            "name": "Acute hospital - Independent specialist",
+            "primary": "true"
+        }
+    ],
+    "inspectionDirectorate": "Hospitals",
+    "lastInspection": {
+        "date": "2023-05-11"
+    },
+    "lastReport": {
+        "publicationDate": "2023-07-03"
+    },
+    "localAuthority": "Oldham",
+    "locationId": "1-12287951775",
+    "locationTypes": [],
+    "mainPhoneNumber": "01457876637",
+    "name": "Little Miracles at Northern Sonography",
+    "numberOfBeds": 0,
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.5625125,
+    "onspdLongitude": -2.0217623,
+    "organisationType": "Location",
+    "postalAddressLine1": "Unit 1, Gatehead Business Park",
+    "postalAddressLine2": "Delph New Road, Delph",
+    "postalAddressTownCity": "Oldham",
+    "postalCode": "OL3 5DE",
+    "providerId": "1-11645621786",
+    "region": "North West",
+    "registrationDate": "2022-01-04",
+    "registrationStatus": "Registered",
+    "regulatedActivities": [
+        {
+            "code": "RA8",
+            "contacts": [
+                {
+                    "personFamilyName": "Burton",
+                    "personGivenName": "Amy Rose",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Mrs"
+                }
+            ],
+            "name": "Diagnostic and screening procedures"
+        }
+    ],
+    "relationships": [],
+    "reports": [
+        {
+            "firstVisitDate": "2023-05-11",
+            "linkId": "634b0570-d9c7-4ee6-8c6f-d2d68aabadba",
+            "reportDate": "2023-07-03",
+            "reportType": "Location",
+            "reportUri": "/reports/634b0570-d9c7-4ee6-8c6f-d2d68aabadba?20230703070400"
+        }
+    ],
+    "specialisms": [
+        {
+            "name": "Caring for adults over 65 yrs"
+        },
+        {
+            "name": "Caring for adults under 65 yrs"
+        }
+    ],
+    "type": "Independent Healthcare Org",
+    "uprn": "422000119693",
+    "website": "www.northernsonography.co.uk"
+}

@@ -1,0 +1,98 @@
+{
+    "careHome": "N",
+    "constituency": "Oldham West and Royton",
+    "currentRatings": {
+        "overall": {
+            "keyQuestionRatings": [
+                {
+                    "name": "Safe",
+                    "rating": "No published rating"
+                },
+                {
+                    "name": "Well-led",
+                    "rating": "No published rating"
+                },
+                {
+                    "name": "Caring",
+                    "rating": "No published rating"
+                },
+                {
+                    "name": "Responsive",
+                    "rating": "No published rating"
+                },
+                {
+                    "name": "Effective",
+                    "rating": "No published rating"
+                }
+            ],
+            "rating": "No published rating"
+        }
+    },
+    "deregistrationDate": "2017-05-08",
+    "dormancy": "N",
+    "gacServiceTypes": [
+        {
+            "description": "Dental service",
+            "name": "Dentist"
+        }
+    ],
+    "inspectionAreas": [],
+    "inspectionCategories": [
+        {
+            "code": "P1",
+            "name": "Dentists",
+            "primary": "true"
+        }
+    ],
+    "inspectionDirectorate": "Primary medical services",
+    "lastInspection": {
+        "date": "2012-03-26"
+    },
+    "localAuthority": "Oldham",
+    "locationId": "1-197302687",
+    "locationTypes": [],
+    "mainPhoneNumber": "01616272184",
+    "name": "Maypole Dental Surgery",
+    "numberOfBeds": 0,
+    "odsCode": "V00145",
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.565004,
+    "onspdLongitude": -2.122559,
+    "organisationType": "Location",
+    "postalAddressCounty": "Greater Manchester",
+    "postalAddressLine1": "Ashton Road Limited Company",
+    "postalAddressLine2": "14 Middleton Road, Royton",
+    "postalAddressTownCity": "Oldham",
+    "postalCode": "OL2 5PA",
+    "providerId": "1-153016004",
+    "region": "North West",
+    "registrationDate": "2011-04-01",
+    "registrationStatus": "Deregistered",
+    "regulatedActivities": [],
+    "relationships": [
+        {
+            "reason": "Location Move",
+            "relatedLocationId": "1-3732002126",
+            "relatedLocationName": "Maypole Dental & Implant Clinic",
+            "type": "HSCA Successor"
+        }
+    ],
+    "reports": [
+        {
+            "firstVisitDate": "2012-03-26",
+            "linkId": "bdbb27d3-fddb-40bd-ba56-fb4fbce6412e",
+            "reportDate": "2012-06-11",
+            "reportUri": "/reports/bdbb27d3-fddb-40bd-ba56-fb4fbce6412e?20200430120000"
+        }
+    ],
+    "specialisms": [
+        {
+            "name": "Services for everyone"
+        }
+    ],
+    "type": "Primary Dental Care",
+    "website": "www.maypoledentalsurgery.co.uk"
+}

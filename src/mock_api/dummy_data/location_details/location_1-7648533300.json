@@ -1,0 +1,137 @@
+{
+    "careHome": "N",
+    "constituency": "Ashton-under-Lyne",
+    "currentRatings": {
+        "overall": {
+            "keyQuestionRatings": [
+                {
+                    "name": "Safe",
+                    "rating": "Good",
+                    "reportDate": "2021-05-27",
+                    "reportLinkId": "a01fc623-e612-4869-b3f5-286c4608aab1"
+                },
+                {
+                    "name": "Well-led",
+                    "rating": "Good",
+                    "reportDate": "2021-05-27",
+                    "reportLinkId": "a01fc623-e612-4869-b3f5-286c4608aab1"
+                },
+                {
+                    "name": "Caring",
+                    "rating": "Good",
+                    "reportDate": "2021-05-27",
+                    "reportLinkId": "a01fc623-e612-4869-b3f5-286c4608aab1"
+                },
+                {
+                    "name": "Responsive",
+                    "rating": "Good",
+                    "reportDate": "2021-05-27",
+                    "reportLinkId": "a01fc623-e612-4869-b3f5-286c4608aab1"
+                },
+                {
+                    "name": "Effective",
+                    "rating": "Good",
+                    "reportDate": "2021-05-27",
+                    "reportLinkId": "a01fc623-e612-4869-b3f5-286c4608aab1"
+                }
+            ],
+            "rating": "Good",
+            "reportDate": "2021-05-27",
+            "reportLinkId": "a01fc623-e612-4869-b3f5-286c4608aab1"
+        },
+        "reportDate": "2021-05-27"
+    },
+    "deregistrationDate": "2023-08-02",
+    "dormancy": "N",
+    "gacServiceTypes": [
+        {
+            "description": "Domiciliary care service",
+            "name": "Homecare agencies"
+        }
+    ],
+    "inspectionAreas": [],
+    "inspectionCategories": [
+        {
+            "code": "S2",
+            "name": "Community based adult social care services",
+            "primary": "true"
+        }
+    ],
+    "inspectionDirectorate": "Adult social care",
+    "lastInspection": {
+        "date": "2021-05-13"
+    },
+    "lastReport": {
+        "publicationDate": "2021-05-27"
+    },
+    "localAuthority": "Oldham",
+    "locationId": "1-7648533300",
+    "locationTypes": [],
+    "mainPhoneNumber": "01615492769",
+    "name": "My Support Worker (NW) Ltd",
+    "numberOfBeds": 0,
+    "odsCode": "VNEGJ",
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.5166043,
+    "onspdLongitude": -2.1430035,
+    "organisationType": "Location",
+    "postalAddressLine1": "Room 109B Hollinwood Business Centre, Albert Street",
+    "postalAddressTownCity": "Oldham",
+    "postalCode": "OL8 3QL",
+    "providerId": "1-7165863945",
+    "region": "North West",
+    "registrationDate": "2019-10-16",
+    "registrationStatus": "Deregistered",
+    "regulatedActivities": [],
+    "relationships": [
+        {
+            "reason": "Location Move",
+            "relatedLocationId": "1-16412957730",
+            "relatedLocationName": "My Support Worker NW Ltd",
+            "type": "HSCA Successor"
+        }
+    ],
+    "reports": [
+        {
+            "firstVisitDate": "2021-05-12",
+            "linkId": "a01fc623-e612-4869-b3f5-286c4608aab1",
+            "reportDate": "2021-05-27",
+            "reportType": "Location",
+            "reportUri": "/reports/a01fc623-e612-4869-b3f5-286c4608aab1?20220330120000"
+        }
+    ],
+    "specialisms": [
+        {
+            "name": "Caring for adults under 65 yrs"
+        },
+        {
+            "name": "Caring for children"
+        },
+        {
+            "name": "Dementia"
+        },
+        {
+            "name": "Eating disorders"
+        },
+        {
+            "name": "Learning disabilities"
+        },
+        {
+            "name": "Mental health conditions"
+        },
+        {
+            "name": "Physical disabilities"
+        },
+        {
+            "name": "Sensory impairment"
+        },
+        {
+            "name": "Substance misuse problems"
+        }
+    ],
+    "type": "Social Care Org",
+    "uprn": "422000126280"
+}

@@ -1,0 +1,195 @@
+{
+    "careHome": "N",
+    "constituency": "Oldham East and Saddleworth",
+    "currentRatings": {
+        "overall": {
+            "keyQuestionRatings": [
+                {
+                    "name": "Safe",
+                    "rating": "Good",
+                    "reportDate": "2021-05-13",
+                    "reportLinkId": "2d130046-fabd-43f7-9eba-13716c4e35d9"
+                },
+                {
+                    "name": "Well-led",
+                    "rating": "Good",
+                    "reportDate": "2021-05-13",
+                    "reportLinkId": "2d130046-fabd-43f7-9eba-13716c4e35d9"
+                },
+                {
+                    "name": "Caring",
+                    "organisationId": "1-4815596978",
+                    "rating": "Good",
+                    "reportDate": "2019-04-18",
+                    "reportLinkId": "badc301f-edcd-45ee-b611-523eec564086"
+                },
+                {
+                    "name": "Responsive",
+                    "rating": "Good",
+                    "reportDate": "2021-05-13",
+                    "reportLinkId": "2d130046-fabd-43f7-9eba-13716c4e35d9"
+                },
+                {
+                    "name": "Effective",
+                    "organisationId": "1-4815596978",
+                    "rating": "Good",
+                    "reportDate": "2019-04-18",
+                    "reportLinkId": "badc301f-edcd-45ee-b611-523eec564086"
+                }
+            ],
+            "rating": "Good",
+            "reportDate": "2021-05-13",
+            "reportLinkId": "2d130046-fabd-43f7-9eba-13716c4e35d9"
+        },
+        "reportDate": "2021-05-13"
+    },
+    "dormancy": "N",
+    "gacServiceTypes": [
+        {
+            "description": "Domiciliary care service",
+            "name": "Homecare agencies"
+        }
+    ],
+    "historicRatings": [
+        {
+            "organisationId": "1-4815596978",
+            "overall": {
+                "keyQuestionRatings": [
+                    {
+                        "name": "Safe",
+                        "rating": "Inspected but not rated"
+                    },
+                    {
+                        "name": "Well-led",
+                        "rating": "Inspected but not rated"
+                    },
+                    {
+                        "name": "Responsive",
+                        "rating": "Inspected but not rated"
+                    }
+                ],
+                "rating": "Inspected but not rated"
+            },
+            "reportDate": "2020-10-02",
+            "reportLinkId": "7f1897c1-9113-4de7-8ccc-805964d1dc1d"
+        },
+        {
+            "organisationId": "1-4815596978",
+            "overall": {
+                "keyQuestionRatings": [
+                    {
+                        "name": "Safe",
+                        "rating": "Requires improvement"
+                    },
+                    {
+                        "name": "Well-led",
+                        "rating": "Requires improvement"
+                    },
+                    {
+                        "name": "Responsive",
+                        "rating": "Requires improvement"
+                    }
+                ],
+                "rating": "Requires improvement"
+            },
+            "reportDate": "2019-04-18",
+            "reportLinkId": "badc301f-edcd-45ee-b611-523eec564086"
+        }
+    ],
+    "inspectionAreas": [],
+    "inspectionCategories": [
+        {
+            "code": "S2",
+            "name": "Community based adult social care services",
+            "primary": "true"
+        }
+    ],
+    "inspectionDirectorate": "Adult social care",
+    "lastInspection": {
+        "date": "2021-04-19"
+    },
+    "lastReport": {
+        "publicationDate": "2021-05-13"
+    },
+    "localAuthority": "Oldham",
+    "locationId": "1-9588358014",
+    "locationTypes": [],
+    "mainPhoneNumber": "07467544908",
+    "name": "Unicorn1care Ltd",
+    "numberOfBeds": 0,
+    "odsCode": "VNGPV",
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.5534014,
+    "onspdLongitude": -2.0763507,
+    "organisationType": "Location",
+    "postalAddressLine1": "33a High Moor Crescent",
+    "postalAddressLine2": "Waterhead",
+    "postalAddressTownCity": "Oldham",
+    "postalCode": "OL4 2SN",
+    "providerId": "1-4745005649",
+    "region": "North West",
+    "registrationDate": "2020-09-25",
+    "registrationStatus": "Registered",
+    "regulatedActivities": [
+        {
+            "code": "RA1",
+            "contacts": [
+                {
+                    "personFamilyName": "Hester",
+                    "personGivenName": "Belinda",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Miss"
+                }
+            ],
+            "name": "Personal care"
+        }
+    ],
+    "relationships": [
+        {
+            "reason": "Location Move",
+            "relatedLocationId": "1-4815596978",
+            "relatedLocationName": "Unicorn1care Ltd",
+            "type": "HSCA Predecessor"
+        }
+    ],
+    "reports": [
+        {
+            "firstVisitDate": "2021-04-15",
+            "linkId": "2d130046-fabd-43f7-9eba-13716c4e35d9",
+            "reportDate": "2021-05-13",
+            "reportType": "Location",
+            "reportUri": "/reports/2d130046-fabd-43f7-9eba-13716c4e35d9?20241214130000"
+        }
+    ],
+    "specialisms": [
+        {
+            "name": "Caring for adults over 65 yrs"
+        },
+        {
+            "name": "Caring for adults under 65 yrs"
+        },
+        {
+            "name": "Dementia"
+        },
+        {
+            "name": "Eating disorders"
+        },
+        {
+            "name": "Mental health conditions"
+        },
+        {
+            "name": "Physical disabilities"
+        },
+        {
+            "name": "Sensory impairment"
+        }
+    ],
+    "type": "Social Care Org",
+    "uprn": "422000090557",
+    "website": "www.unicorn1care.co.uk"
+}

@@ -1,0 +1,269 @@
+{
+    "careHome": "Y",
+    "constituency": "Oldham East and Saddleworth",
+    "currentRatings": {
+        "overall": {
+            "keyQuestionRatings": [
+                {
+                    "name": "Safe",
+                    "rating": "Requires improvement",
+                    "reportDate": "2022-07-13",
+                    "reportLinkId": "4086b36f-245c-4a1b-843f-3c89579d3286"
+                },
+                {
+                    "name": "Well-led",
+                    "rating": "Requires improvement",
+                    "reportDate": "2022-07-13",
+                    "reportLinkId": "4086b36f-245c-4a1b-843f-3c89579d3286"
+                },
+                {
+                    "name": "Caring",
+                    "rating": "Good",
+                    "reportDate": "2020-03-25",
+                    "reportLinkId": "485a529c-a8ef-4ffc-9dcb-5cc209e561a9"
+                },
+                {
+                    "name": "Responsive",
+                    "rating": "Requires improvement",
+                    "reportDate": "2020-11-12",
+                    "reportLinkId": "4f396ee0-2d7a-48d4-8ebc-8893c835c303"
+                },
+                {
+                    "name": "Effective",
+                    "rating": "Good",
+                    "reportDate": "2021-06-08",
+                    "reportLinkId": "658807e6-9890-41ca-ac4f-73372d40844e"
+                }
+            ],
+            "rating": "Requires improvement",
+            "reportDate": "2022-07-13",
+            "reportLinkId": "4086b36f-245c-4a1b-843f-3c89579d3286"
+        },
+        "reportDate": "2022-07-13"
+    },
+    "deregistrationDate": "2023-04-28",
+    "dormancy": "N",
+    "gacServiceTypes": [
+        {
+            "description": "Care home service without nursing",
+            "name": "Residential homes"
+        }
+    ],
+    "historicRatings": [
+        {
+            "overall": {
+                "keyQuestionRatings": [
+                    {
+                        "name": "Safe",
+                        "rating": "Requires improvement"
+                    },
+                    {
+                        "name": "Well-led",
+                        "rating": "Requires improvement"
+                    }
+                ],
+                "rating": "Requires improvement"
+            },
+            "reportDate": "2021-06-08",
+            "reportLinkId": "658807e6-9890-41ca-ac4f-73372d40844e"
+        },
+        {
+            "overall": {
+                "keyQuestionRatings": [
+                    {
+                        "name": "Safe",
+                        "rating": "Requires improvement"
+                    },
+                    {
+                        "name": "Well-led",
+                        "rating": "Requires improvement"
+                    },
+                    {
+                        "name": "Effective",
+                        "rating": "Requires improvement"
+                    }
+                ],
+                "rating": "Requires improvement"
+            },
+            "reportDate": "2020-11-12",
+            "reportLinkId": "4f396ee0-2d7a-48d4-8ebc-8893c835c303"
+        },
+        {
+            "overall": {
+                "keyQuestionRatings": [
+                    {
+                        "name": "Safe",
+                        "rating": "Inadequate"
+                    },
+                    {
+                        "name": "Well-led",
+                        "rating": "Inadequate"
+                    },
+                    {
+                        "name": "Responsive",
+                        "rating": "Requires improvement"
+                    },
+                    {
+                        "name": "Effective",
+                        "rating": "Requires improvement"
+                    }
+                ],
+                "rating": "Inadequate"
+            },
+            "reportDate": "2020-03-25",
+            "reportLinkId": "485a529c-a8ef-4ffc-9dcb-5cc209e561a9"
+        },
+        {
+            "overall": {
+                "keyQuestionRatings": [
+                    {
+                        "name": "Safe",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Well-led",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Caring",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Responsive",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Effective",
+                        "rating": "Good"
+                    }
+                ],
+                "rating": "Good"
+            },
+            "reportDate": "2018-01-27",
+            "reportLinkId": "0d7d9c1a-6281-4ec0-b695-621aa25d31eb"
+        },
+        {
+            "overall": {
+                "keyQuestionRatings": [
+                    {
+                        "name": "Safe",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Well-led",
+                        "rating": "Requires improvement"
+                    }
+                ],
+                "rating": "Inspected but not rated"
+            },
+            "reportDate": "2017-03-14",
+            "reportLinkId": "bc05ad39-3544-4393-82b1-063eca95aa71"
+        }
+    ],
+    "inspectionAreas": [],
+    "inspectionCategories": [
+        {
+            "code": "S1",
+            "name": "Residential social care",
+            "primary": "true"
+        }
+    ],
+    "inspectionDirectorate": "Adult social care",
+    "lastInspection": {
+        "date": "2022-05-04"
+    },
+    "lastReport": {
+        "publicationDate": "2022-07-13"
+    },
+    "localAuthority": "Oldham",
+    "locationId": "1-2951007475",
+    "locationTypes": [],
+    "mainPhoneNumber": "01616249344",
+    "name": "Woodland Care Home",
+    "numberOfBeds": 18,
+    "odsCode": "VM883",
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.5350473,
+    "onspdLongitude": -2.1021648,
+    "organisationType": "Location",
+    "postalAddressCounty": "Lancashire",
+    "postalAddressLine1": "69 Queens Road",
+    "postalAddressTownCity": "Oldham",
+    "postalCode": "OL8 2BA",
+    "providerId": "1-2700182369",
+    "region": "North West",
+    "registrationDate": "2016-10-19",
+    "registrationStatus": "Deregistered",
+    "regulatedActivities": [],
+    "relationships": [
+        {
+            "reason": "New Provider",
+            "relatedLocationId": "1-136282114",
+            "relatedLocationName": "Woodlands Residential Care Home",
+            "type": "HSCA Predecessor"
+        }
+    ],
+    "reports": [
+        {
+            "firstVisitDate": "2022-04-29",
+            "linkId": "4086b36f-245c-4a1b-843f-3c89579d3286",
+            "reportDate": "2022-07-13",
+            "reportType": "Location",
+            "reportUri": "/reports/4086b36f-245c-4a1b-843f-3c89579d3286?20220713120000"
+        },
+        {
+            "firstVisitDate": "2021-04-14",
+            "linkId": "658807e6-9890-41ca-ac4f-73372d40844e",
+            "reportDate": "2021-06-08",
+            "reportType": "Location",
+            "reportUri": "/reports/658807e6-9890-41ca-ac4f-73372d40844e?20220727120000"
+        },
+        {
+            "firstVisitDate": "2020-09-16",
+            "linkId": "4f396ee0-2d7a-48d4-8ebc-8893c835c303",
+            "reportDate": "2020-11-12",
+            "reportType": "Location",
+            "reportUri": "/reports/4f396ee0-2d7a-48d4-8ebc-8893c835c303?20211030120000"
+        },
+        {
+            "firstVisitDate": "2020-02-03",
+            "linkId": "485a529c-a8ef-4ffc-9dcb-5cc209e561a9",
+            "reportDate": "2020-03-25",
+            "reportType": "Location",
+            "reportUri": "/reports/485a529c-a8ef-4ffc-9dcb-5cc209e561a9?20211030120000"
+        },
+        {
+            "firstVisitDate": "2017-12-14",
+            "linkId": "0d7d9c1a-6281-4ec0-b695-621aa25d31eb",
+            "reportDate": "2018-01-27",
+            "reportType": "Location",
+            "reportUri": "/reports/0d7d9c1a-6281-4ec0-b695-621aa25d31eb?20211030120000"
+        },
+        {
+            "firstVisitDate": "2017-02-01",
+            "linkId": "bc05ad39-3544-4393-82b1-063eca95aa71",
+            "reportDate": "2017-03-14",
+            "reportType": "Location",
+            "reportUri": "/reports/bc05ad39-3544-4393-82b1-063eca95aa71?20201012120000"
+        }
+    ],
+    "specialisms": [
+        {
+            "name": "Caring for adults over 65 yrs"
+        },
+        {
+            "name": "Caring for adults under 65 yrs"
+        },
+        {
+            "name": "Dementia"
+        },
+        {
+            "name": "Mental health conditions"
+        }
+    ],
+    "type": "Social Care Org",
+    "uprn": "422000001643"
+}

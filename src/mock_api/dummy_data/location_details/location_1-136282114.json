@@ -1,0 +1,155 @@
+{
+    "careHome": "Y",
+    "constituency": "Oldham East and Saddleworth",
+    "currentRatings": {
+        "overall": {
+            "keyQuestionRatings": [
+                {
+                    "name": "Safe",
+                    "rating": "Good",
+                    "reportDate": "2016-03-15",
+                    "reportLinkId": "87be68ad-f2c5-487b-bdf0-46f10bd5a68b"
+                },
+                {
+                    "name": "Well-led",
+                    "rating": "Good",
+                    "reportDate": "2016-03-15",
+                    "reportLinkId": "87be68ad-f2c5-487b-bdf0-46f10bd5a68b"
+                },
+                {
+                    "name": "Caring",
+                    "rating": "Good",
+                    "reportDate": "2016-03-15",
+                    "reportLinkId": "87be68ad-f2c5-487b-bdf0-46f10bd5a68b"
+                },
+                {
+                    "name": "Responsive",
+                    "rating": "Good",
+                    "reportDate": "2016-03-15",
+                    "reportLinkId": "87be68ad-f2c5-487b-bdf0-46f10bd5a68b"
+                },
+                {
+                    "name": "Effective",
+                    "rating": "Good",
+                    "reportDate": "2016-03-15",
+                    "reportLinkId": "87be68ad-f2c5-487b-bdf0-46f10bd5a68b"
+                }
+            ],
+            "rating": "Good",
+            "reportDate": "2016-03-15",
+            "reportLinkId": "87be68ad-f2c5-487b-bdf0-46f10bd5a68b"
+        },
+        "reportDate": "2016-03-15"
+    },
+    "deregistrationDate": "2016-10-19",
+    "dormancy": "N",
+    "gacServiceTypes": [
+        {
+            "description": "Care home service without nursing",
+            "name": "Residential homes"
+        }
+    ],
+    "inspectionAreas": [],
+    "inspectionCategories": [
+        {
+            "code": "S1",
+            "name": "Residential social care",
+            "primary": "true"
+        }
+    ],
+    "inspectionDirectorate": "Adult social care",
+    "lastInspection": {
+        "date": "2016-02-18"
+    },
+    "lastReport": {
+        "publicationDate": "2016-03-15"
+    },
+    "localAuthority": "Oldham",
+    "locationId": "1-136282114",
+    "locationTypes": [],
+    "mainPhoneNumber": "01616249344",
+    "name": "Woodlands Residential Care Home",
+    "numberOfBeds": 18,
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.5350473,
+    "onspdLongitude": -2.1021648,
+    "organisationType": "Location",
+    "postalAddressCounty": "Lancashire",
+    "postalAddressLine1": "69 Queens Road",
+    "postalAddressTownCity": "Oldham",
+    "postalCode": "OL8 2BA",
+    "providerId": "1-101662280",
+    "region": "North West",
+    "registrationDate": "2010-12-30",
+    "registrationStatus": "Deregistered",
+    "regulatedActivities": [],
+    "relationships": [
+        {
+            "reason": "New Provider",
+            "relatedLocationId": "1-2951007475",
+            "relatedLocationName": "Woodland Care Home",
+            "type": "HSCA Successor"
+        }
+    ],
+    "reports": [
+        {
+            "firstVisitDate": "2016-02-17",
+            "linkId": "87be68ad-f2c5-487b-bdf0-46f10bd5a68b",
+            "reportDate": "2016-03-15",
+            "reportType": "Location",
+            "reportUri": "/reports/87be68ad-f2c5-487b-bdf0-46f10bd5a68b?20211030120000"
+        },
+        {
+            "firstVisitDate": "2014-09-08",
+            "linkId": "de7a77b9-c9e2-4657-818a-5d4fbb235422",
+            "reportDate": "2014-10-09",
+            "reportUri": "/reports/de7a77b9-c9e2-4657-818a-5d4fbb235422?20200129163919"
+        },
+        {
+            "firstVisitDate": "2013-11-07",
+            "linkId": "1c526d42-c1de-4def-8617-882d195bc18f",
+            "reportDate": "2013-12-05",
+            "reportUri": "/reports/1c526d42-c1de-4def-8617-882d195bc18f?20151016191357"
+        },
+        {
+            "firstVisitDate": "2013-08-27",
+            "linkId": "9e36b7a4-0a0d-4253-bbfd-f35a3d7f418c",
+            "reportDate": "2013-09-28",
+            "reportUri": "/reports/9e36b7a4-0a0d-4253-bbfd-f35a3d7f418c?20151016191357"
+        },
+        {
+            "firstVisitDate": "2012-09-17",
+            "linkId": "ae772203-b926-4e33-9339-803442553e1c",
+            "reportDate": "2012-10-02",
+            "reportUri": "/reports/ae772203-b926-4e33-9339-803442553e1c?20200430120000"
+        }
+    ],
+    "specialisms": [
+        {
+            "name": "Caring for adults over 65 yrs"
+        },
+        {
+            "name": "Caring for adults under 65 yrs"
+        },
+        {
+            "name": "Caring for people whose rights are restricted under the Mental Health Act"
+        },
+        {
+            "name": "Dementia"
+        },
+        {
+            "name": "Mental health conditions"
+        },
+        {
+            "name": "Physical disabilities"
+        },
+        {
+            "name": "Sensory impairment"
+        }
+    ],
+    "type": "Social Care Org",
+    "uprn": "422000001643"
+}

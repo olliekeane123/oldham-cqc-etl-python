@@ -1,0 +1,203 @@
+{
+    "careHome": "N",
+    "constituency": "Oldham West and Royton",
+    "currentRatings": {
+        "overall": {
+            "keyQuestionRatings": [
+                {
+                    "name": "Safe",
+                    "rating": "Good",
+                    "reportDate": "2019-12-17",
+                    "reportLinkId": "b9ad2c58-2255-404f-abae-378a59380d4d"
+                },
+                {
+                    "name": "Well-led",
+                    "rating": "Good",
+                    "reportDate": "2019-12-17",
+                    "reportLinkId": "b9ad2c58-2255-404f-abae-378a59380d4d"
+                },
+                {
+                    "name": "Caring",
+                    "rating": "Good",
+                    "reportDate": "2019-12-17",
+                    "reportLinkId": "b9ad2c58-2255-404f-abae-378a59380d4d"
+                },
+                {
+                    "name": "Responsive",
+                    "rating": "Outstanding",
+                    "reportDate": "2019-12-17",
+                    "reportLinkId": "b9ad2c58-2255-404f-abae-378a59380d4d"
+                },
+                {
+                    "name": "Effective",
+                    "rating": "Good",
+                    "reportDate": "2019-12-17",
+                    "reportLinkId": "b9ad2c58-2255-404f-abae-378a59380d4d"
+                }
+            ],
+            "rating": "Good",
+            "reportDate": "2019-12-17",
+            "reportLinkId": "b9ad2c58-2255-404f-abae-378a59380d4d"
+        },
+        "reportDate": "2019-12-17"
+    },
+    "dormancy": "N",
+    "gacServiceTypes": [
+        {
+            "description": "Domiciliary care service",
+            "name": "Homecare agencies"
+        }
+    ],
+    "historicRatings": [
+        {
+            "overall": {
+                "keyQuestionRatings": [
+                    {
+                        "name": "Safe",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Well-led",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Caring",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Responsive",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Effective",
+                        "rating": "Good"
+                    }
+                ],
+                "rating": "Good"
+            },
+            "reportDate": "2017-04-26",
+            "reportLinkId": "66e01a1e-6cdb-4753-a2e4-f14567e1fece"
+        },
+        {
+            "overall": {
+                "keyQuestionRatings": [
+                    {
+                        "name": "Safe",
+                        "rating": "Requires improvement"
+                    },
+                    {
+                        "name": "Well-led",
+                        "rating": "Requires improvement"
+                    },
+                    {
+                        "name": "Caring",
+                        "rating": "Requires improvement"
+                    },
+                    {
+                        "name": "Responsive",
+                        "rating": "Requires improvement"
+                    },
+                    {
+                        "name": "Effective",
+                        "rating": "Requires improvement"
+                    }
+                ],
+                "rating": "Requires improvement"
+            },
+            "reportDate": "2015-12-31",
+            "reportLinkId": "10a7a2bc-ef72-4b0a-84bc-97ed73ec3d4e"
+        }
+    ],
+    "inspectionAreas": [],
+    "inspectionCategories": [
+        {
+            "code": "S2",
+            "name": "Community based adult social care services",
+            "primary": "true"
+        }
+    ],
+    "inspectionDirectorate": "Adult social care",
+    "lastInspection": {
+        "date": "2019-11-20"
+    },
+    "lastReport": {
+        "publicationDate": "2019-12-17"
+    },
+    "localAuthority": "Oldham",
+    "locationId": "1-997176041",
+    "locationTypes": [],
+    "mainPhoneNumber": "01616206557",
+    "name": "Bridging the Gap Limited - Oldham",
+    "numberOfBeds": 0,
+    "odsCode": "VN2E2",
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.5276568,
+    "onspdLongitude": -2.1124483,
+    "organisationType": "Location",
+    "postalAddressCounty": "Lancashire",
+    "postalAddressLine1": "The Honeywell Centre",
+    "postalAddressLine2": "Hadfield Street",
+    "postalAddressTownCity": "Oldham",
+    "postalCode": "OL8 3BP",
+    "providerId": "1-101680104",
+    "region": "North West",
+    "registrationDate": "2013-10-11",
+    "registrationStatus": "Registered",
+    "regulatedActivities": [
+        {
+            "code": "RA1",
+            "contacts": [
+                {
+                    "personFamilyName": "Sarumi",
+                    "personGivenName": "Mohammed",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Dr"
+                }
+            ],
+            "name": "Personal care"
+        }
+    ],
+    "relationships": [
+        {
+            "reason": "Location Move",
+            "relatedLocationId": "1-138238882",
+            "relatedLocationName": "Bridging the Gap Limited - Oldham",
+            "type": "HSCA Predecessor"
+        }
+    ],
+    "reports": [
+        {
+            "firstVisitDate": "2019-11-20",
+            "linkId": "b9ad2c58-2255-404f-abae-378a59380d4d",
+            "reportDate": "2019-12-17",
+            "reportType": "Location",
+            "reportUri": "/reports/b9ad2c58-2255-404f-abae-378a59380d4d?20191217130000"
+        },
+        {
+            "firstVisitDate": "2017-02-14",
+            "linkId": "66e01a1e-6cdb-4753-a2e4-f14567e1fece",
+            "reportDate": "2017-04-26",
+            "reportType": "Location",
+            "reportUri": "/reports/66e01a1e-6cdb-4753-a2e4-f14567e1fece?20211030120000"
+        },
+        {
+            "firstVisitDate": "2015-07-27",
+            "linkId": "10a7a2bc-ef72-4b0a-84bc-97ed73ec3d4e",
+            "reportDate": "2015-12-31",
+            "reportType": "Location",
+            "reportUri": "/reports/10a7a2bc-ef72-4b0a-84bc-97ed73ec3d4e?20210124190059"
+        }
+    ],
+    "specialisms": [
+        {
+            "name": "Services for everyone"
+        }
+    ],
+    "type": "Social Care Org",
+    "uprn": "422000112750"
+}

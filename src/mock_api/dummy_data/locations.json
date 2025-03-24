@@ -1,0 +1,2268 @@
+{
+    "total": 451,
+    "firstPageUri": "/locations?page=1&perPage=1000&localAuthority=Oldham",
+    "page": 1,
+    "previousPageUri": null,
+    "lastPageUri": "/locations?page=1&perPage=1000&localAuthority=Oldham",
+    "nextPageUri": null,
+    "perPage": 1000,
+    "totalPages": 1,
+    "locations": [
+        {
+            "locationId": "1-10024040008",
+            "locationName": "Ebenezer Care Services",
+            "postalCode": "M35 9BG"
+        },
+        {
+            "locationId": "1-1015412687",
+            "locationName": "Ripponden Road Dental Practice",
+            "postalCode": "OL4 2SF"
+        },
+        {
+            "locationId": "1-10415126755",
+            "locationName": "26 Filbert Street",
+            "postalCode": "OL1 4HQ"
+        },
+        {
+            "locationId": "1-10431632015",
+            "locationName": "DHS Dental Practice",
+            "postalCode": "OL3 6HZ"
+        },
+        {
+            "locationId": "1-10431632057",
+            "locationName": "Lees Dental Centre",
+            "postalCode": "OL4 5AA"
+        },
+        {
+            "locationId": "1-10431632228",
+            "locationName": "Park House Dental Practice",
+            "postalCode": "OL4 5SR"
+        },
+        {
+            "locationId": "1-10431632309",
+            "locationName": "Park House Dental Practice",
+            "postalCode": "OL9 7AP"
+        },
+        {
+            "locationId": "1-1062858442",
+            "locationName": "Brook Oldham",
+            "postalCode": "OL1 1QH"
+        },
+        {
+            "locationId": "1-1068186923",
+            "locationName": "SevaSupport-Oldham Learning Disability Service",
+            "postalCode": "OL9 9PY"
+        },
+        {
+            "locationId": "1-10717910906",
+            "locationName": "Ravat & Ray Dental Care, Oldham",
+            "postalCode": "OL8 2QL"
+        },
+        {
+            "locationId": "1-10820630788",
+            "locationName": "Helping Hands Oldham",
+            "postalCode": "OL8 3QL"
+        },
+        {
+            "locationId": "1-10837481075",
+            "locationName": "Block Lane Surgery",
+            "postalCode": "OL9 7SG"
+        },
+        {
+            "locationId": "1-10876179260",
+            "locationName": "High Regard Healthcare - Main Office",
+            "postalCode": "M24 1RU"
+        },
+        {
+            "locationId": "1-109570155",
+            "locationName": "Neville House Residential Home",
+            "postalCode": "OL9 6LD"
+        },
+        {
+            "locationId": "1-11023096916",
+            "locationName": "Synergy Dental Clinic Oldham",
+            "postalCode": "OL1 1TE"
+        },
+        {
+            "locationId": "1-11039955754",
+            "locationName": "My Support Worker (NW) Ltd",
+            "postalCode": "OL8 3QL"
+        },
+        {
+            "locationId": "1-11045232435",
+            "locationName": "Firwood Dental Practice",
+            "postalCode": "OL9 9SB"
+        },
+        {
+            "locationId": "1-11051254492",
+            "locationName": "Firwood Dental Practice",
+            "postalCode": "OL9 9SB"
+        },
+        {
+            "locationId": "1-11079275531",
+            "locationName": "SCS Homecare Ltd",
+            "postalCode": "OL9 7TQ"
+        },
+        {
+            "locationId": "1-11177962695",
+            "locationName": "Rhodes Street Dental",
+            "postalCode": "OL1 3TG"
+        },
+        {
+            "locationId": "1-1121477061",
+            "locationName": "Oldham Dialysis Unit",
+            "postalCode": "OL1 2PD"
+        },
+        {
+            "locationId": "1-112467585",
+            "locationName": "Anbridge Care Home",
+            "postalCode": "OL4 2QU"
+        },
+        {
+            "locationId": "1-112890157",
+            "locationName": "Park House Residential Care Home",
+            "postalCode": "OL8 2BA"
+        },
+        {
+            "locationId": "1-11289819990",
+            "locationName": "Heritage Personnel Services",
+            "postalCode": "M35 9BG"
+        },
+        {
+            "locationId": "1-113831768",
+            "locationName": "Park Hills Nursing Home",
+            "postalCode": "OL8 4DJ"
+        },
+        {
+            "locationId": "1-113868677",
+            "locationName": "North West Initiatives Limited",
+            "postalCode": "OL9 9LB"
+        },
+        {
+            "locationId": "1-1142286034",
+            "locationName": "Mydentist - Manchester Road - Oldham",
+            "postalCode": "OL9 7LS"
+        },
+        {
+            "locationId": "1-1145266322",
+            "locationName": "Abbey Hey Care Home",
+            "postalCode": "OL8 2BY"
+        },
+        {
+            "locationId": "1-115471908",
+            "locationName": "IAS (Services) Limited - 83 Union Street",
+            "postalCode": "OL1 1PF"
+        },
+        {
+            "locationId": "1-115621005",
+            "locationName": "Elite Homecare",
+            "postalCode": "M35 9BD"
+        },
+        {
+            "locationId": "1-115750273",
+            "locationName": "Communicare",
+            "postalCode": "OL9 0HB"
+        },
+        {
+            "locationId": "1-115962630",
+            "locationName": "Coppice Nursing Home",
+            "postalCode": "OL8 1RQ"
+        },
+        {
+            "locationId": "1-116399413",
+            "locationName": "Caretime Oldham - Prospect House",
+            "postalCode": "OL9 6HT"
+        },
+        {
+            "locationId": "1-117589436",
+            "locationName": "Oakdene Nursing Home Limited",
+            "postalCode": "OL4 3LH"
+        },
+        {
+            "locationId": "1-117886088",
+            "locationName": "Elizabeth House",
+            "postalCode": "OL8 2AX"
+        },
+        {
+            "locationId": "1-117977107",
+            "locationName": "Avonleigh Gardens",
+            "postalCode": "OL1 4HT"
+        },
+        {
+            "locationId": "1-11809806754",
+            "locationName": "Chapel Street",
+            "postalCode": "OL2 5QL"
+        },
+        {
+            "locationId": "1-11831040453",
+            "locationName": "Sams Helping Hands Ltd",
+            "postalCode": "OL8 4QQ"
+        },
+        {
+            "locationId": "1-118387366",
+            "locationName": "The Cedars Residental Care Home",
+            "postalCode": "OL8 2AX"
+        },
+        {
+            "locationId": "1-118563363",
+            "locationName": "Royley House Care Home",
+            "postalCode": "OL2 5ED"
+        },
+        {
+            "locationId": "1-11860954255",
+            "locationName": "Choices Homecare South Kirklees",
+            "postalCode": "OL8 4QQ"
+        },
+        {
+            "locationId": "1-119142905",
+            "locationName": "Care at Parkside",
+            "postalCode": "OL9 7QW"
+        },
+        {
+            "locationId": "1-119238580",
+            "locationName": "Laburnum House Shaw Limited",
+            "postalCode": "OL2 8RS"
+        },
+        {
+            "locationId": "1-119997953",
+            "locationName": "Chamber Mount",
+            "postalCode": "OL8 4DJ"
+        },
+        {
+            "locationId": "1-120031878",
+            "locationName": "Alexandra - Oldham",
+            "postalCode": "OL8 2BA"
+        },
+        {
+            "locationId": "1-12032311355",
+            "locationName": "Firwood Dental Practice",
+            "postalCode": "OL9 9SB"
+        },
+        {
+            "locationId": "1-120601976",
+            "locationName": "Roselands Care Home",
+            "postalCode": "OL2 6LY"
+        },
+        {
+            "locationId": "1-120641405",
+            "locationName": "Chadderton Total Care Unit Limited",
+            "postalCode": "OL9 9SR"
+        },
+        {
+            "locationId": "1-12070256587",
+            "locationName": "Jarvis Medical Practice",
+            "postalCode": "OL4 1YN"
+        },
+        {
+            "locationId": "1-120713619",
+            "locationName": "Stoneswood Residential Home",
+            "postalCode": "OL3 5EB"
+        },
+        {
+            "locationId": "1-120745060",
+            "locationName": "Heathbank Support Services",
+            "postalCode": "OL8 1RP"
+        },
+        {
+            "locationId": "1-120763021",
+            "locationName": "St Georges Nursing Home (Oldham) Limited",
+            "postalCode": "OL1 4RU"
+        },
+        {
+            "locationId": "1-12151708125",
+            "locationName": "Pennine Independent Steps",
+            "postalCode": "OL1 1EN"
+        },
+        {
+            "locationId": "1-1221269650",
+            "locationName": "Synergy Homecare - Manchester",
+            "postalCode": "OL9 9PY"
+        },
+        {
+            "locationId": "1-122386733",
+            "locationName": "Franklin House Limited",
+            "postalCode": "OL1 2DP"
+        },
+        {
+            "locationId": "1-12287951775",
+            "locationName": "Little Miracles at Northern Sonography",
+            "postalCode": "OL3 5DE"
+        },
+        {
+            "locationId": "1-12297162116",
+            "locationName": "A F J Manchester",
+            "postalCode": "M35 0BR"
+        },
+        {
+            "locationId": "1-123173965",
+            "locationName": "Treetops Nursing Home",
+            "postalCode": "OL8 1LL"
+        },
+        {
+            "locationId": "1-123327578",
+            "locationName": "Dr Kershaw's Hospice",
+            "postalCode": "OL2 6EU"
+        },
+        {
+            "locationId": "1-12334007070",
+            "locationName": "IntraHealth Greater Manchester Office",
+            "postalCode": "OL2 6HT"
+        },
+        {
+            "locationId": "1-12339211727",
+            "locationName": "Oldham Road Dental Practice",
+            "postalCode": "M35 0AN"
+        },
+        {
+            "locationId": "1-123493701",
+            "locationName": "Abbey Hey Care Home Limited",
+            "postalCode": "OL8 2BY"
+        },
+        {
+            "locationId": "1-124012558",
+            "locationName": "Turning Point - Birchwood Nursing Home",
+            "postalCode": "OL4 5PP"
+        },
+        {
+            "locationId": "1-124012653",
+            "locationName": "Turning Point - Edward House",
+            "postalCode": "OL9 7QW"
+        },
+        {
+            "locationId": "1-12434340445",
+            "locationName": "Tarnta Care Group Ltd",
+            "postalCode": "M24 1RU"
+        },
+        {
+            "locationId": "1-124424838",
+            "locationName": "Quality Care",
+            "postalCode": "OL1 4EW"
+        },
+        {
+            "locationId": "1-124801409",
+            "locationName": "Ashgrove House Care Limited",
+            "postalCode": "OL9 8DX"
+        },
+        {
+            "locationId": "1-124940339",
+            "locationName": "Treelands Care Home",
+            "postalCode": "OL8 2QH"
+        },
+        {
+            "locationId": "1-125056308",
+            "locationName": "Brierfields",
+            "postalCode": "M35 9HB"
+        },
+        {
+            "locationId": "1-125056348",
+            "locationName": "Hadfield House",
+            "postalCode": "OL8 2AX"
+        },
+        {
+            "locationId": "1-125056365",
+            "locationName": "Springfields",
+            "postalCode": "OL4 2JL"
+        },
+        {
+            "locationId": "1-125056382",
+            "locationName": "Stoneleigh House",
+            "postalCode": "OL4 4QS"
+        },
+        {
+            "locationId": "1-125265836",
+            "locationName": "Community Voice Limited Oldham",
+            "postalCode": "OL8 3QL"
+        },
+        {
+            "locationId": "1-125487696",
+            "locationName": "Housing 21 - Oldham",
+            "postalCode": "OL8 1EZ"
+        },
+        {
+            "locationId": "1-12598470778",
+            "locationName": "Rose Healthcare Services Ltd Ltd",
+            "postalCode": "OL9 8NS"
+        },
+        {
+            "locationId": "1-126213789",
+            "locationName": "Home Instead Senior Care",
+            "postalCode": "OL3 6BJ"
+        },
+        {
+            "locationId": "1-126240944",
+            "locationName": "Millfield",
+            "postalCode": "OL4 3NN"
+        },
+        {
+            "locationId": "1-126685832",
+            "locationName": "Dryclough Manor",
+            "postalCode": "OL2 6DA"
+        },
+        {
+            "locationId": "1-12733014581",
+            "locationName": "SpaMedica Oldham",
+            "postalCode": "OL1 2PD"
+        },
+        {
+            "locationId": "1-127491276",
+            "locationName": "Oaklands Rest Home Limited",
+            "postalCode": "OL2 6DA"
+        },
+        {
+            "locationId": "1-127515012",
+            "locationName": "Shaw Side Care Home",
+            "postalCode": "OL2 8SP"
+        },
+        {
+            "locationId": "1-12783302204",
+            "locationName": "Lees Medical Practice",
+            "postalCode": "OL4 3BP"
+        },
+        {
+            "locationId": "1-12937815172",
+            "locationName": "Compact Personnel Ltd",
+            "postalCode": "M35 9BG"
+        },
+        {
+            "locationId": "1-12950144960",
+            "locationName": "Comprehensive Care Ltd",
+            "postalCode": "M35 9BG"
+        },
+        {
+            "locationId": "1-1296307944",
+            "locationName": "Choices Homecare (Oldham)",
+            "postalCode": "OL8 4QQ"
+        },
+        {
+            "locationId": "1-13016185643",
+            "locationName": "Alpha Dental Care Failsworth",
+            "postalCode": "M35 0AN"
+        },
+        {
+            "locationId": "1-1302322254",
+            "locationName": "Pennine Social Care Limited Head Office",
+            "postalCode": "OL1 1EN"
+        },
+        {
+            "locationId": "1-130318817",
+            "locationName": "Edge Hill Rest Home",
+            "postalCode": "OL2 6AB"
+        },
+        {
+            "locationId": "1-131335936",
+            "locationName": "Fern Bank Residential Care Home",
+            "postalCode": "OL8 2BA"
+        },
+        {
+            "locationId": "1-131694812",
+            "locationName": "All Saints Hospital",
+            "postalCode": "OL8 4EF"
+        },
+        {
+            "locationId": "1-1332898798",
+            "locationName": "Coppice Nursing Home",
+            "postalCode": "OL8 1RQ"
+        },
+        {
+            "locationId": "1-13347848965",
+            "locationName": "Alpha Dental Care Failsworth",
+            "postalCode": "M35 0AN"
+        },
+        {
+            "locationId": "1-13394017548",
+            "locationName": "Werneth Medical Practice",
+            "postalCode": "OL9 7AY"
+        },
+        {
+            "locationId": "1-134144336",
+            "locationName": "Simply Caring Limited - Meridian Centre",
+            "postalCode": "OL8 1EZ"
+        },
+        {
+            "locationId": "1-13449471679",
+            "locationName": "Littletown Family Medical Practice",
+            "postalCode": "OL8 4LR"
+        },
+        {
+            "locationId": "1-135286954",
+            "locationName": "Avalon Park Nursing Home",
+            "postalCode": "OL4 5HG"
+        },
+        {
+            "locationId": "1-13579216933",
+            "locationName": "Roxhsana Ltd",
+            "postalCode": "OL9 6HT"
+        },
+        {
+            "locationId": "1-1361120465",
+            "locationName": "Oldham Dialysis Unit",
+            "postalCode": "OL1 2PD"
+        },
+        {
+            "locationId": "1-136282114",
+            "locationName": "Woodlands Residential Care Home",
+            "postalCode": "OL8 2BA"
+        },
+        {
+            "locationId": "1-136343979",
+            "locationName": "Brook Pennine - Oldham",
+            "postalCode": "OL1 1QH"
+        },
+        {
+            "locationId": "1-1371206623",
+            "locationName": "Glodwick Dental Practice",
+            "postalCode": "OL4 1YN"
+        },
+        {
+            "locationId": "1-1371244078",
+            "locationName": "Moorside Dental Practice",
+            "postalCode": "OL1 4JU"
+        },
+        {
+            "locationId": "1-137464010",
+            "locationName": "Nightingale Homecare",
+            "postalCode": "OL9 0HB"
+        },
+        {
+            "locationId": "1-13788087714",
+            "locationName": "Mydentist - Market Street - Shaw",
+            "postalCode": "OL2 8NH"
+        },
+        {
+            "locationId": "1-138238882",
+            "locationName": "Bridging the Gap Limited - Oldham",
+            "postalCode": "OL9 7PG"
+        },
+        {
+            "locationId": "1-138452042",
+            "locationName": "Moorhaven Care Home Ltd",
+            "postalCode": "OL1 4HR"
+        },
+        {
+            "locationId": "1-1387127565",
+            "locationName": "Housing & Care 21 - Greater Manchester",
+            "postalCode": "OL8 4QQ"
+        },
+        {
+            "locationId": "1-138949251",
+            "locationName": "Mears Care - Manchester",
+            "postalCode": "OL9 9XA"
+        },
+        {
+            "locationId": "1-139890458",
+            "locationName": "Werneth Lodge Care Home",
+            "postalCode": "OL9 7AP"
+        },
+        {
+            "locationId": "1-139948467",
+            "locationName": "Ashbourne House Care Home",
+            "postalCode": "OL4 5PP"
+        },
+        {
+            "locationId": "1-140029299",
+            "locationName": "Abbots Grange Care Home",
+            "postalCode": "OL8 1RE"
+        },
+        {
+            "locationId": "1-140560888",
+            "locationName": "Park Lane House",
+            "postalCode": "OL2 5QX"
+        },
+        {
+            "locationId": "1-141761036",
+            "locationName": "Sevacare - Oldham",
+            "postalCode": "OL9 9PY"
+        },
+        {
+            "locationId": "1-141761059",
+            "locationName": "Sevacare - Oldham Learning Disabilities Services",
+            "postalCode": "OL9 9PY"
+        },
+        {
+            "locationId": "1-14197673284",
+            "locationName": "P and S Care Limited",
+            "postalCode": "OL1 4NH"
+        },
+        {
+            "locationId": "1-14347783565",
+            "locationName": "Synergy Dental Clinic Oldham",
+            "postalCode": "OL1 1TE"
+        },
+        {
+            "locationId": "1-143831764",
+            "locationName": "Woodend House",
+            "postalCode": "OL4 5TQ"
+        },
+        {
+            "locationId": "1-14422297436",
+            "locationName": "Humble Hands Care Ltd",
+            "postalCode": "OL8 3QL"
+        },
+        {
+            "locationId": "1-1442899058",
+            "locationName": "St George's Nursing Home (Oldham)",
+            "postalCode": "OL1 4RU"
+        },
+        {
+            "locationId": "1-14443163311",
+            "locationName": "Care Quality Services Oldham",
+            "postalCode": "OL8 2PF"
+        },
+        {
+            "locationId": "1-145049431",
+            "locationName": "Oldham Integrated Care Centre",
+            "postalCode": "OL1 1NL"
+        },
+        {
+            "locationId": "1-145973567",
+            "locationName": "Firs Hall Care Home Limited",
+            "postalCode": "M35 0BL"
+        },
+        {
+            "locationId": "1-146777279",
+            "locationName": "Supported Living",
+            "postalCode": "M35 9AD"
+        },
+        {
+            "locationId": "1-146777298",
+            "locationName": "Oldham Shared Lives",
+            "postalCode": "M35 9AD"
+        },
+        {
+            "locationId": "1-146777319",
+            "locationName": "The Response Team",
+            "postalCode": "OL1 3UJ"
+        },
+        {
+            "locationId": "1-146777340",
+            "locationName": "Willow House",
+            "postalCode": "OL9 0JQ"
+        },
+        {
+            "locationId": "1-146777357",
+            "locationName": "Medlock Court",
+            "postalCode": "OL4 3LD"
+        },
+        {
+            "locationId": "1-146777373",
+            "locationName": "Boston House",
+            "postalCode": "OL8 1XR"
+        },
+        {
+            "locationId": "1-146777390",
+            "locationName": "Limecroft Resource Centre",
+            "postalCode": "OL8 3JL"
+        },
+        {
+            "locationId": "1-146777407",
+            "locationName": "Butler Green House",
+            "postalCode": "OL9 8NG"
+        },
+        {
+            "locationId": "1-1488461871",
+            "locationName": "Alpha Dental Care Oldham",
+            "postalCode": "OL8 4SR"
+        },
+        {
+            "locationId": "1-14917283942",
+            "locationName": "Topmary Care - Main Office",
+            "postalCode": "M35 9BG"
+        },
+        {
+            "locationId": "1-14919948045",
+            "locationName": "Paradise Care Agency",
+            "postalCode": "OL8 1HG"
+        },
+        {
+            "locationId": "1-14980599698",
+            "locationName": "Care For Life Solutions Ltd",
+            "postalCode": "OL9 6HT"
+        },
+        {
+            "locationId": "1-151532062",
+            "locationName": "Care North West Limited",
+            "postalCode": "OL9 6HZ"
+        },
+        {
+            "locationId": "1-151541420",
+            "locationName": "Able Care (Oldham) Limited",
+            "postalCode": "OL2 7UT"
+        },
+        {
+            "locationId": "1-151959980",
+            "locationName": "Acorn Lodge Nursing Home",
+            "postalCode": "M35 0AL"
+        },
+        {
+            "locationId": "1-15227374805",
+            "locationName": "Work4U Solutions Limited",
+            "postalCode": "M35 9BG"
+        },
+        {
+            "locationId": "1-1546980282",
+            "locationName": "Oldham Care & Support at Home",
+            "postalCode": "OL1 1HD"
+        },
+        {
+            "locationId": "1-15517670520",
+            "locationName": "Sycamore Supported Living Solutions Ltd",
+            "postalCode": "M35 9BG"
+        },
+        {
+            "locationId": "1-1581968371",
+            "locationName": "Communicare",
+            "postalCode": "OL9 0HB"
+        },
+        {
+            "locationId": "1-15885286735",
+            "locationName": "Union Street Dental Practice",
+            "postalCode": "OL1 1DU"
+        },
+        {
+            "locationId": "1-15977114812",
+            "locationName": "Evolution Social Care Ltd",
+            "postalCode": "OL2 5FH"
+        },
+        {
+            "locationId": "1-16325938771",
+            "locationName": "Cherish Community Care Companionship Ltd",
+            "postalCode": "OL3 5DF"
+        },
+        {
+            "locationId": "1-16412957730",
+            "locationName": "My Support Worker NW Ltd",
+            "postalCode": "OL9 8NH"
+        },
+        {
+            "locationId": "1-16464985626",
+            "locationName": "Lancaster House Community Healthcare & Diagnostics",
+            "postalCode": "OL2 5QA"
+        },
+        {
+            "locationId": "1-16483173019",
+            "locationName": "Fernbank",
+            "postalCode": "OL8 2BA"
+        },
+        {
+            "locationId": "1-16561595022",
+            "locationName": "The Composite Bonding Company",
+            "postalCode": "OL9 0AA"
+        },
+        {
+            "locationId": "1-16964879095",
+            "locationName": "Chadderton Total Care",
+            "postalCode": "OL9 9SR"
+        },
+        {
+            "locationId": "1-1700750315",
+            "locationName": "Limecroft Resource Centre",
+            "postalCode": "OL8 3JL"
+        },
+        {
+            "locationId": "1-1709360302",
+            "locationName": "Quality Care Home Services Limited",
+            "postalCode": "OL8 3QL"
+        },
+        {
+            "locationId": "1-174645657",
+            "locationName": "Ambercare Northwest Limited",
+            "postalCode": "OL9 0HB"
+        },
+        {
+            "locationId": "1-17595664736",
+            "locationName": "MyTano",
+            "postalCode": "OL8 4QQ"
+        },
+        {
+            "locationId": "1-1766138663",
+            "locationName": "Brightlife Care Limited",
+            "postalCode": "OL4 5AA"
+        },
+        {
+            "locationId": "1-17714994020",
+            "locationName": "Blossom Care and Support Ltd",
+            "postalCode": "M35 9BG"
+        },
+        {
+            "locationId": "1-1783268868",
+            "locationName": "Jarvis Medical Practice - GPCC",
+            "postalCode": "OL4 1YN"
+        },
+        {
+            "locationId": "1-1790991253",
+            "locationName": "Comfort Call Oldham",
+            "postalCode": "OL2 7UT"
+        },
+        {
+            "locationId": "1-17947754185",
+            "locationName": "Jotham Lois Healthcare Ltd",
+            "postalCode": "OL9 0HB"
+        },
+        {
+            "locationId": "1-18117998265",
+            "locationName": "First Priority Healthcare",
+            "postalCode": "OL1 3PA"
+        },
+        {
+            "locationId": "1-18334902934",
+            "locationName": "Neonate House Limited",
+            "postalCode": "OL4 1JE"
+        },
+        {
+            "locationId": "1-18386327585",
+            "locationName": "LJP Wellbeing Healthcare Services",
+            "postalCode": "M35 9BG"
+        },
+        {
+            "locationId": "1-18386651690",
+            "locationName": "Zenith Care",
+            "postalCode": "M24 1RU"
+        },
+        {
+            "locationId": "1-18437805065",
+            "locationName": "Park Hills Private Nursing Home",
+            "postalCode": "OL8 4DJ"
+        },
+        {
+            "locationId": "1-1850346011",
+            "locationName": "Amber Case Management Limited",
+            "postalCode": "OL8 3QL"
+        },
+        {
+            "locationId": "1-185554207",
+            "locationName": "Ravat & Ray Dental Care - Chadderton",
+            "postalCode": "OL9 8NH"
+        },
+        {
+            "locationId": "1-185554222",
+            "locationName": "Ravat & Ray Dental Care - Fitton Hill",
+            "postalCode": "OL8 2PN"
+        },
+        {
+            "locationId": "1-18575210787",
+            "locationName": "GMDA Tanhill",
+            "postalCode": "OL8 2QL"
+        },
+        {
+            "locationId": "1-18648277454",
+            "locationName": "Avonleigh Gardens",
+            "postalCode": "OL1 4HT"
+        },
+        {
+            "locationId": "1-188690109",
+            "locationName": "The Tooth Place",
+            "postalCode": "OL1 3TG"
+        },
+        {
+            "locationId": "1-188693354",
+            "locationName": "Ripponden Road Dental Practice",
+            "postalCode": "OL4 2SF"
+        },
+        {
+            "locationId": "1-188693562",
+            "locationName": "Mr Michael Garside - High Street Lees",
+            "postalCode": "OL4 5AQ"
+        },
+        {
+            "locationId": "1-188695211",
+            "locationName": "Broadway Dental Surgery",
+            "postalCode": "OL9 8AP"
+        },
+        {
+            "locationId": "1-188728568",
+            "locationName": "M60 Dental Care",
+            "postalCode": "OL8 3BE"
+        },
+        {
+            "locationId": "1-188876884",
+            "locationName": "Apollonia House Dental & Health Care Limited",
+            "postalCode": "OL4 4HA"
+        },
+        {
+            "locationId": "1-189233560",
+            "locationName": "Firwood Dental Practice",
+            "postalCode": "OL9 9SB"
+        },
+        {
+            "locationId": "1-189244475",
+            "locationName": "Royton Health and Wellbeing Centre",
+            "postalCode": "OL2 6QW"
+        },
+        {
+            "locationId": "1-189759254",
+            "locationName": "Pritchards Dental Practice Limited",
+            "postalCode": "OL1 1BE"
+        },
+        {
+            "locationId": "1-19058248827",
+            "locationName": "Complex Care Experts",
+            "postalCode": "OL9 8LP"
+        },
+        {
+            "locationId": "1-19058360435",
+            "locationName": "54 Taylor Street",
+            "postalCode": "OL9 9HH"
+        },
+        {
+            "locationId": "1-1914649800",
+            "locationName": "The Village Medical Practice",
+            "postalCode": "OL2 8ST"
+        },
+        {
+            "locationId": "1-195427486",
+            "locationName": "Hollinwood Dental Practice",
+            "postalCode": "OL9 7LS"
+        },
+        {
+            "locationId": "1-195453448",
+            "locationName": "Hollinwood Dental Practice",
+            "postalCode": "OL9 7LS"
+        },
+        {
+            "locationId": "1-19546042892",
+            "locationName": "Denturly Oldham",
+            "postalCode": "OL8 4SR"
+        },
+        {
+            "locationId": "1-195500921",
+            "locationName": "Glodwick Dental Practice",
+            "postalCode": "OL4 1YN"
+        },
+        {
+            "locationId": "1-195516596",
+            "locationName": "Saddleworth Dental Clinic",
+            "postalCode": "OL3 6HY"
+        },
+        {
+            "locationId": "1-195609383",
+            "locationName": "Heyside Dental Practice",
+            "postalCode": "OL2 6LS"
+        },
+        {
+            "locationId": "1-195648709",
+            "locationName": "Marjory Lees Dental Centre",
+            "postalCode": "OL8 1NN"
+        },
+        {
+            "locationId": "1-19573984858",
+            "locationName": "Flourishlife Care Ltd",
+            "postalCode": "M35 9BG"
+        },
+        {
+            "locationId": "1-195780132",
+            "locationName": "Vallance and Shupac - Failsworth",
+            "postalCode": "M35 0QH"
+        },
+        {
+            "locationId": "1-19666435449",
+            "locationName": "Apex Prime Care - Oldham",
+            "postalCode": "OL2 6HT"
+        },
+        {
+            "locationId": "1-197062217",
+            "locationName": "Domus Healthcare Oldham Ltd",
+            "postalCode": "OL4 1TD"
+        },
+        {
+            "locationId": "1-197075203",
+            "locationName": "H Showman & Associates Dental Practice",
+            "postalCode": "M35 0AN"
+        },
+        {
+            "locationId": "1-1972390994",
+            "locationName": "Royton Medical Centre",
+            "postalCode": "OL2 5QA"
+        },
+        {
+            "locationId": "1-197294480",
+            "locationName": "Elli and Associates",
+            "postalCode": "OL8 1QN"
+        },
+        {
+            "locationId": "1-197302687",
+            "locationName": "Maypole Dental Surgery",
+            "postalCode": "OL2 5PA"
+        },
+        {
+            "locationId": "1-1977690176",
+            "locationName": "Homecare For You Oldham",
+            "postalCode": "OL8 4QQ"
+        },
+        {
+            "locationId": "1-198366877",
+            "locationName": "Robert Ashton Dental Practice",
+            "postalCode": "OL4 2RB"
+        },
+        {
+            "locationId": "1-19878626599",
+            "locationName": "Oldham Shared Lives",
+            "postalCode": "M35 9AD"
+        },
+        {
+            "locationId": "1-19886463155",
+            "locationName": "New Age Care Solutions",
+            "postalCode": "OL1 4HF"
+        },
+        {
+            "locationId": "1-198904190",
+            "locationName": "Mr Gehad Philobbos",
+            "postalCode": "OL8 4SA"
+        },
+        {
+            "locationId": "1-199273598",
+            "locationName": "Etugo Dental Surgery",
+            "postalCode": "OL1 2HG"
+        },
+        {
+            "locationId": "1-199551518",
+            "locationName": "Bupa Dental Care Royton",
+            "postalCode": "OL2 6QF"
+        },
+        {
+            "locationId": "1-1998181488",
+            "locationName": "Hollinwood Medical Practice",
+            "postalCode": "OL8 3TR"
+        },
+        {
+            "locationId": "1-2001146447",
+            "locationName": "Edge Hill Rest Home",
+            "postalCode": "OL2 6AB"
+        },
+        {
+            "locationId": "1-200303917",
+            "locationName": "J F Scott & Associates - Lees Road Dental Practice",
+            "postalCode": "OL4 1LR"
+        },
+        {
+            "locationId": "1-200337440",
+            "locationName": "Lees Dental Centre",
+            "postalCode": "OL4 5AA"
+        },
+        {
+            "locationId": "1-200643649",
+            "locationName": "P J Noble Dental Practice",
+            "postalCode": "OL3 7DD"
+        },
+        {
+            "locationId": "1-2018702708",
+            "locationName": "Lees Medical Practice",
+            "postalCode": "OL4 3BP"
+        },
+        {
+            "locationId": "1-2019948581",
+            "locationName": "Brook Oldham",
+            "postalCode": "OL1 1DJ"
+        },
+        {
+            "locationId": "1-2034328584",
+            "locationName": "Direct Health (Oldham)",
+            "postalCode": "OL4 1DB"
+        },
+        {
+            "locationId": "1-2039078063",
+            "locationName": "Ascroft Medical",
+            "postalCode": "OL1 1HP"
+        },
+        {
+            "locationId": "1-20396464281",
+            "locationName": "Bluebird Care Oldham",
+            "postalCode": "OL3 5DF"
+        },
+        {
+            "locationId": "1-2058385384",
+            "locationName": "Nightingales Homecare",
+            "postalCode": "OL9 9LU"
+        },
+        {
+            "locationId": "1-206161739",
+            "locationName": "Mydentist - Beal Lane - Oldham",
+            "postalCode": "OL2 8PB"
+        },
+        {
+            "locationId": "1-20634257276",
+            "locationName": "Ascroft Medical Billingtons",
+            "postalCode": "OL1 1HY"
+        },
+        {
+            "locationId": "1-2072371474",
+            "locationName": "Apollonia House Dental & Health Care",
+            "postalCode": "OL4 4HA"
+        },
+        {
+            "locationId": "1-2084621570",
+            "locationName": "Mydentist - Ripponden Road - Oldham",
+            "postalCode": "OL4 2SF"
+        },
+        {
+            "locationId": "1-2084881485",
+            "locationName": "Mydentist - Lees Road - Oldham",
+            "postalCode": "OL4 1LR"
+        },
+        {
+            "locationId": "1-2086060515",
+            "locationName": "Oldham Health Services",
+            "postalCode": "OL1 1NL"
+        },
+        {
+            "locationId": "1-2087630629",
+            "locationName": "The Tooth Place",
+            "postalCode": "OL1 3TG"
+        },
+        {
+            "locationId": "1-210907964",
+            "locationName": "Dental Surgery",
+            "postalCode": "OL1 1DU"
+        },
+        {
+            "locationId": "1-2132662975",
+            "locationName": "Ravat & Ray Dental Care (Chadderton) Ltd",
+            "postalCode": "OL9 8NH"
+        },
+        {
+            "locationId": "1-2132883297",
+            "locationName": "Ravat and Ray Dental Care (Fitton Hill) Ltd",
+            "postalCode": "OL8 2PN"
+        },
+        {
+            "locationId": "1-2134004952",
+            "locationName": "Liberty Support - North",
+            "postalCode": "OL9 0EW"
+        },
+        {
+            "locationId": "1-21723739171",
+            "locationName": "Oldham Community Diagnostic Centre Imaging",
+            "postalCode": "OL2 6JG"
+        },
+        {
+            "locationId": "1-2172846173",
+            "locationName": "Ordinary Lifestyles",
+            "postalCode": "M35 9BG"
+        },
+        {
+            "locationId": "1-2184411501",
+            "locationName": "Ravat & Ray Dental Care, Oldham",
+            "postalCode": "OL8 2QL"
+        },
+        {
+            "locationId": "1-21881721930",
+            "locationName": "Royton House Care Home",
+            "postalCode": "OL2 8SP"
+        },
+        {
+            "locationId": "1-21881722437",
+            "locationName": "Beech House Care Home",
+            "postalCode": "OL2 8SP"
+        },
+        {
+            "locationId": "1-2191325904",
+            "locationName": "The Jalal Practice",
+            "postalCode": "OL1 1NL"
+        },
+        {
+            "locationId": "1-2204490275",
+            "locationName": "Marjory Lees Dental Centre",
+            "postalCode": "OL8 1NN"
+        },
+        {
+            "locationId": "1-22057529425",
+            "locationName": "Prime Forage Ltd",
+            "postalCode": "M24 1RU"
+        },
+        {
+            "locationId": "1-22068882729",
+            "locationName": "Shaw House Care Home",
+            "postalCode": "OL2 8SP"
+        },
+        {
+            "locationId": "1-22070291186",
+            "locationName": "Miller House Care Home",
+            "postalCode": "OL2 8SP"
+        },
+        {
+            "locationId": "1-22095289119",
+            "locationName": "Greater Manchester Specialist Support Service",
+            "postalCode": "OL8 1LH"
+        },
+        {
+            "locationId": "1-2220300183",
+            "locationName": "Manchester Medics Limited",
+            "postalCode": "OL1 2JH"
+        },
+        {
+            "locationId": "1-222457842",
+            "locationName": "Longwood Lodge",
+            "postalCode": "OL8 2BA"
+        },
+        {
+            "locationId": "1-2252128965",
+            "locationName": "Comfort Call - Hopwood Court",
+            "postalCode": "OL2 7LR"
+        },
+        {
+            "locationId": "1-2252145684",
+            "locationName": "Comfort Call - Old Mill House",
+            "postalCode": "OL4 5TS"
+        },
+        {
+            "locationId": "1-2255599604",
+            "locationName": "Select Support Partnerships Limited - Oldham Area and Bradford",
+            "postalCode": "OL4 1FN"
+        },
+        {
+            "locationId": "1-226488706",
+            "locationName": "Dental Surgery - Oldham Road",
+            "postalCode": "M35 0AS"
+        },
+        {
+            "locationId": "1-2267593693",
+            "locationName": "Grace 247 Care Manchester",
+            "postalCode": "OL8 4QQ"
+        },
+        {
+            "locationId": "1-227872664",
+            "locationName": "Chadderton Dental Health Center - Oldham",
+            "postalCode": "OL9 0LH"
+        },
+        {
+            "locationId": "1-2279800036",
+            "locationName": "Emergency Training Uk Limited",
+            "postalCode": "OL1 4EA"
+        },
+        {
+            "locationId": "1-228227548",
+            "locationName": "SmartCareNorthWest",
+            "postalCode": "OL8 2PF"
+        },
+        {
+            "locationId": "1-228708929",
+            "locationName": "Emergency, Medical, Fire, and Rescue Solutions",
+            "postalCode": "OL9 7PQ"
+        },
+        {
+            "locationId": "1-2298989337",
+            "locationName": "Mr Michael Garside - High Street Lees",
+            "postalCode": "OL4 5AQ"
+        },
+        {
+            "locationId": "1-2318723061",
+            "locationName": "The Woodland Suite",
+            "postalCode": "OL9 9LB"
+        },
+        {
+            "locationId": "1-233520989",
+            "locationName": "Moorside Dental Practice",
+            "postalCode": "OL1 4JU"
+        },
+        {
+            "locationId": "1-236287122",
+            "locationName": "Nightingale Homecare",
+            "postalCode": "OL9 9SD"
+        },
+        {
+            "locationId": "1-2412717754",
+            "locationName": "Elite Homecare",
+            "postalCode": "M35 9BD"
+        },
+        {
+            "locationId": "1-2440615900",
+            "locationName": "Community Voice Ltd Oldham",
+            "postalCode": "OL8 3QL"
+        },
+        {
+            "locationId": "1-244188807",
+            "locationName": "Park House Dental Practice",
+            "postalCode": "OL9 7AP"
+        },
+        {
+            "locationId": "1-244188827",
+            "locationName": "Park House Dental Practice",
+            "postalCode": "OL4 5SR"
+        },
+        {
+            "locationId": "1-244188907",
+            "locationName": "DHS Dental Practice",
+            "postalCode": "OL3 6HZ"
+        },
+        {
+            "locationId": "1-2501153205",
+            "locationName": "Oldham Orthodontics",
+            "postalCode": "OL8 3AA"
+        },
+        {
+            "locationId": "1-251947544",
+            "locationName": "Pathways to Opportunities",
+            "postalCode": "OL2 6NB"
+        },
+        {
+            "locationId": "1-253053275",
+            "locationName": "Family Dental Care",
+            "postalCode": "OL2 8NH"
+        },
+        {
+            "locationId": "1-254950962",
+            "locationName": "Safehands Support Services UK Limited",
+            "postalCode": "OL4 2ND"
+        },
+        {
+            "locationId": "1-256697951",
+            "locationName": "Care North West",
+            "postalCode": "OL9 6PY"
+        },
+        {
+            "locationId": "1-261284303",
+            "locationName": "Vascular Ultrasound",
+            "postalCode": "OL1 2JH"
+        },
+        {
+            "locationId": "1-2625115113",
+            "locationName": "Integrated Care Centre",
+            "postalCode": "OL1 1NL"
+        },
+        {
+            "locationId": "1-2625115237",
+            "locationName": "Royton Health & Wellbeing Centre",
+            "postalCode": "OL2 6QW"
+        },
+        {
+            "locationId": "1-2625115339",
+            "locationName": "Keppel Building",
+            "postalCode": "M35 0AD"
+        },
+        {
+            "locationId": "1-2672916440",
+            "locationName": "Glodwick Dental Centre",
+            "postalCode": "OL8 2BS"
+        },
+        {
+            "locationId": "1-2695936235",
+            "locationName": "Ambercare (North west) Ltd",
+            "postalCode": "OL2 7UT"
+        },
+        {
+            "locationId": "1-2698400800",
+            "locationName": "Domiciliary Care Agency North West",
+            "postalCode": "OL8 3QL"
+        },
+        {
+            "locationId": "1-2711314834",
+            "locationName": "Fern Bank Therapeutic Community Ltd",
+            "postalCode": "OL8 2BA"
+        },
+        {
+            "locationId": "1-2772854807",
+            "locationName": "Dental Surgery - Oldham Road",
+            "postalCode": "M35 0AS"
+        },
+        {
+            "locationId": "1-2778332409",
+            "locationName": "Harmony Dental Spa",
+            "postalCode": "OL4 5AQ"
+        },
+        {
+            "locationId": "1-2794339970",
+            "locationName": "Mydentist - Market Street - Shaw",
+            "postalCode": "OL2 8NH"
+        },
+        {
+            "locationId": "1-2799273256",
+            "locationName": "Werneth Medical Practice",
+            "postalCode": "OL8 4AL"
+        },
+        {
+            "locationId": "1-280584830",
+            "locationName": "Treetops Nursing Home",
+            "postalCode": "OL8 1LL"
+        },
+        {
+            "locationId": "1-288226612",
+            "locationName": "Roselands Residential Home Limited",
+            "postalCode": "OL2 6LY"
+        },
+        {
+            "locationId": "1-293335741",
+            "locationName": "Mydentist - Lees Road - Oldham",
+            "postalCode": "OL4 1LR"
+        },
+        {
+            "locationId": "1-2934550191",
+            "locationName": "Nightingales Homecare",
+            "postalCode": "OL2 6HT"
+        },
+        {
+            "locationId": "1-2937345668",
+            "locationName": "Heyside Dental Practice Partnership",
+            "postalCode": "OL2 6LS"
+        },
+        {
+            "locationId": "1-2938974890",
+            "locationName": "Amalfi House",
+            "postalCode": "OL1 2NH"
+        },
+        {
+            "locationId": "1-293950541",
+            "locationName": "Yew Trees Residential Care Home",
+            "postalCode": "OL9 8BQ"
+        },
+        {
+            "locationId": "1-2951007475",
+            "locationName": "Woodland Care Home",
+            "postalCode": "OL8 2BA"
+        },
+        {
+            "locationId": "1-2971699121",
+            "locationName": "The Tooth Place",
+            "postalCode": "OL1 3SL"
+        },
+        {
+            "locationId": "1-297853617",
+            "locationName": "The Reablement Team",
+            "postalCode": "OL4 1DB"
+        },
+        {
+            "locationId": "1-3045369919",
+            "locationName": "John Street Medical Practice",
+            "postalCode": "OL8 1DF"
+        },
+        {
+            "locationId": "1-3045530277",
+            "locationName": "Village Medical Practice",
+            "postalCode": "OL2 8ST"
+        },
+        {
+            "locationId": "1-305225982",
+            "locationName": "Caremark (Oldham)",
+            "postalCode": "OL8 3JB"
+        },
+        {
+            "locationId": "1-3075781998",
+            "locationName": "New Willow House",
+            "postalCode": "OL9 9JJ"
+        },
+        {
+            "locationId": "1-3110585879",
+            "locationName": "P & J  Noble Dental Practice",
+            "postalCode": "OL3 7DD"
+        },
+        {
+            "locationId": "1-3125719986",
+            "locationName": "Jackson's Dental Care",
+            "postalCode": "OL4 2RB"
+        },
+        {
+            "locationId": "1-312717396",
+            "locationName": "Pathways to Opportunities",
+            "postalCode": "OL2 6NB"
+        },
+        {
+            "locationId": "1-3130458719",
+            "locationName": "Blue Tree Care Limited",
+            "postalCode": "OL8 4EQ"
+        },
+        {
+            "locationId": "1-3134639286",
+            "locationName": "Shaw Side Care Home",
+            "postalCode": "OL2 8SP"
+        },
+        {
+            "locationId": "1-3135702380",
+            "locationName": "Keymen Associates Ltd",
+            "postalCode": "OL9 0HB"
+        },
+        {
+            "locationId": "1-319143351",
+            "locationName": "Avalon Park Care Home",
+            "postalCode": "OL4 5HG"
+        },
+        {
+            "locationId": "1-325393804",
+            "locationName": "Handsale Limited - Treelands Care Home",
+            "postalCode": "OL8 2QH"
+        },
+        {
+            "locationId": "1-333124828",
+            "locationName": "St Clements Court",
+            "postalCode": "OL8 1NG"
+        },
+        {
+            "locationId": "1-340762758",
+            "locationName": "Domus Healthcare Oldham Limited",
+            "postalCode": "OL4 1DB"
+        },
+        {
+            "locationId": "1-349185032",
+            "locationName": "Nightingales Homecare",
+            "postalCode": "OL8 4LH"
+        },
+        {
+            "locationId": "1-354620176",
+            "locationName": "Dental Surgery - Oldham Road",
+            "postalCode": "M35 0AS"
+        },
+        {
+            "locationId": "1-3561815892",
+            "locationName": "Direct Health (Oldham)",
+            "postalCode": "OL4 1DB"
+        },
+        {
+            "locationId": "1-3732002126",
+            "locationName": "Maypole Dental & Implant Clinic",
+            "postalCode": "OL2 5PA"
+        },
+        {
+            "locationId": "1-3914470281",
+            "locationName": "Instant Care Rochdale",
+            "postalCode": "OL9 7SN"
+        },
+        {
+            "locationId": "1-3955478171",
+            "locationName": "Turning Point - Leigh Bank Rehabilitation",
+            "postalCode": "OL9 7QW"
+        },
+        {
+            "locationId": "1-3995862205",
+            "locationName": "Italia House",
+            "postalCode": "OL9 6HZ"
+        },
+        {
+            "locationId": "1-4126051126",
+            "locationName": "GreenSquareAccord Oldham",
+            "postalCode": "OL8 3QL"
+        },
+        {
+            "locationId": "1-422241969",
+            "locationName": "Pathways to Opportunities",
+            "postalCode": "OL9 6NE"
+        },
+        {
+            "locationId": "1-4246404700",
+            "locationName": "Chamber Mount",
+            "postalCode": "OL8 4DJ"
+        },
+        {
+            "locationId": "1-427610841",
+            "locationName": "Hennessy Fletcher Support Specialists",
+            "postalCode": "OL3 5DF"
+        },
+        {
+            "locationId": "1-435549140",
+            "locationName": "Safehands Support Services UK Limited",
+            "postalCode": "OL4 4LY"
+        },
+        {
+            "locationId": "1-440568621",
+            "locationName": "Ambercare (North West) Ltd",
+            "postalCode": "OL2 6XH"
+        },
+        {
+            "locationId": "1-443780345",
+            "locationName": "Future Directions CIC",
+            "postalCode": "OL9 9XA"
+        },
+        {
+            "locationId": "1-445808941",
+            "locationName": "Oldham Orthodontics",
+            "postalCode": "OL8 3AA"
+        },
+        {
+            "locationId": "1-448867949",
+            "locationName": "Limecroft Resource Centre",
+            "postalCode": "OL8 3JL"
+        },
+        {
+            "locationId": "1-455330921",
+            "locationName": "Caremark (Oldham)",
+            "postalCode": "OL4 4TZ"
+        },
+        {
+            "locationId": "1-459245590",
+            "locationName": "Waters Edge Dental Care",
+            "postalCode": "OL4 4HH"
+        },
+        {
+            "locationId": "1-4650101208",
+            "locationName": "Oakdene Care Home",
+            "postalCode": "OL4 3LH"
+        },
+        {
+            "locationId": "1-4658827150",
+            "locationName": "CuRx Operational Base",
+            "postalCode": "OL9 9QH"
+        },
+        {
+            "locationId": "1-468164971",
+            "locationName": "Oakdene Nursing Home",
+            "postalCode": "OL4 3LH"
+        },
+        {
+            "locationId": "1-469937787",
+            "locationName": "Hollinwood Dental Practice",
+            "postalCode": "OL9 7LS"
+        },
+        {
+            "locationId": "1-470061969",
+            "locationName": "Longwood Lodge Care Home",
+            "postalCode": "OL8 2BA"
+        },
+        {
+            "locationId": "1-4758377960",
+            "locationName": "Personal Home Care Services Ltd",
+            "postalCode": "OL8 3TH"
+        },
+        {
+            "locationId": "1-4804318345",
+            "locationName": "Mediscan Centre",
+            "postalCode": "OL1 1DU"
+        },
+        {
+            "locationId": "1-4815596978",
+            "locationName": "Unicorn1care Ltd",
+            "postalCode": "OL9 9EF"
+        },
+        {
+            "locationId": "1-484650465",
+            "locationName": "Dr Rajesh Saraf",
+            "postalCode": "OL1 4JU"
+        },
+        {
+            "locationId": "1-487293163",
+            "locationName": "174 Chamber Road",
+            "postalCode": "OL8 4BU"
+        },
+        {
+            "locationId": "1-487304329",
+            "locationName": "Dr Kiren Kaur",
+            "postalCode": "OL1 4JU"
+        },
+        {
+            "locationId": "1-495470481",
+            "locationName": "Dr John Danson",
+            "postalCode": "OL9 7AY"
+        },
+        {
+            "locationId": "1-497455616",
+            "locationName": "Dr Hyder Abbas",
+            "postalCode": "OL4 1YN"
+        },
+        {
+            "locationId": "1-4982724971",
+            "locationName": "The Chowdhury Practice",
+            "postalCode": "OL1 1NL"
+        },
+        {
+            "locationId": "1-501039840",
+            "locationName": "Dr Anita Sharma",
+            "postalCode": "OL9 8RG"
+        },
+        {
+            "locationId": "1-501086319",
+            "locationName": "Pennine MSK Partnership Limited",
+            "postalCode": "OL1 1NL"
+        },
+        {
+            "locationId": "1-504868615",
+            "locationName": "Dr Philip Trewinnard",
+            "postalCode": "OL1 1NL"
+        },
+        {
+            "locationId": "1-514891557",
+            "locationName": "Dr Sidhu's Medical Practice",
+            "postalCode": "OL9 7AY"
+        },
+        {
+            "locationId": "1-516655375",
+            "locationName": "John Street Medical Practice",
+            "postalCode": "OL8 1DF"
+        },
+        {
+            "locationId": "1-516655417",
+            "locationName": "Lindley Medical Practice",
+            "postalCode": "OL1 1NL"
+        },
+        {
+            "locationId": "1-516655465",
+            "locationName": "Village Medical Practice",
+            "postalCode": "OL2 8ST"
+        },
+        {
+            "locationId": "1-5203053560",
+            "locationName": "Treetops Nursing Home",
+            "postalCode": "OL8 1LL"
+        },
+        {
+            "locationId": "1-526972681",
+            "locationName": "Dr Brian Perkins",
+            "postalCode": "OL1 1NL"
+        },
+        {
+            "locationId": "1-529384387",
+            "locationName": "Dr George Duru",
+            "postalCode": "OL1 1NL"
+        },
+        {
+            "locationId": "1-529406493",
+            "locationName": "Select Support Partnerships Ltd - Oldham Area and Bradford",
+            "postalCode": "OL1 1QU"
+        },
+        {
+            "locationId": "1-530528300",
+            "locationName": "Home Instead",
+            "postalCode": "OL3 6BD"
+        },
+        {
+            "locationId": "1-530818416",
+            "locationName": "Sevacare - Oldham Learning Disabilities Services",
+            "postalCode": "OL9 9PY"
+        },
+        {
+            "locationId": "1-5312102242",
+            "locationName": "Franklin House Limited",
+            "postalCode": "OL1 2DP"
+        },
+        {
+            "locationId": "1-532086925",
+            "locationName": "Dr Zuber Ahmed",
+            "postalCode": "OL4 1YN"
+        },
+        {
+            "locationId": "1-534884538",
+            "locationName": "Oldham Integrated Care Centre",
+            "postalCode": "OL1 1NL"
+        },
+        {
+            "locationId": "1-537639971",
+            "locationName": "Leesbrook Surgery",
+            "postalCode": "OL4 3DG"
+        },
+        {
+            "locationId": "1-537882756",
+            "locationName": "Failsworth Group Practice",
+            "postalCode": "M35 0AD"
+        },
+        {
+            "locationId": "1-538863375",
+            "locationName": "Medlock Medical Practice  Dr Hossain & Dr Chauhan",
+            "postalCode": "M35 0AD"
+        },
+        {
+            "locationId": "1-540250915",
+            "locationName": "Hope Citadel Healthcare CIC",
+            "postalCode": "OL8 2PN"
+        },
+        {
+            "locationId": "1-540250931",
+            "locationName": "Hope Citadel Healthcare CIC",
+            "postalCode": "OL8 3QF"
+        },
+        {
+            "locationId": "1-540790252",
+            "locationName": "Dr Mohua Chowdhury",
+            "postalCode": "OL1 1NL"
+        },
+        {
+            "locationId": "1-542396302",
+            "locationName": "Block Lane Surgery",
+            "postalCode": "OL9 7SG"
+        },
+        {
+            "locationId": "1-542588138",
+            "locationName": "Littletown Family Medical Practice",
+            "postalCode": "OL8 4LR"
+        },
+        {
+            "locationId": "1-543716192",
+            "locationName": "Donald Wilde Medical Centre",
+            "postalCode": "OL1 2HG"
+        },
+        {
+            "locationId": "1-545296200",
+            "locationName": "Woodlands Medical Practice",
+            "postalCode": "OL9 0LH"
+        },
+        {
+            "locationId": "1-545872379",
+            "locationName": "Oldham Medical Services",
+            "postalCode": "OL8 3HF"
+        },
+        {
+            "locationId": "1-545998709",
+            "locationName": "Royton Medical Centre",
+            "postalCode": "OL2 5QA"
+        },
+        {
+            "locationId": "1-5473538874",
+            "locationName": "All Saints Hospital",
+            "postalCode": "OL8 4EF"
+        },
+        {
+            "locationId": "1-548035191",
+            "locationName": "Saddleworth Medical Practice",
+            "postalCode": "OL3 6AH"
+        },
+        {
+            "locationId": "1-548155245",
+            "locationName": "Oak Gables Medical Practice",
+            "postalCode": "OL2 8ST"
+        },
+        {
+            "locationId": "1-549665958",
+            "locationName": "Quayside Medical Practice",
+            "postalCode": "M35 0AD"
+        },
+        {
+            "locationId": "1-551258294",
+            "locationName": "CH Medical",
+            "postalCode": "OL9 8NH"
+        },
+        {
+            "locationId": "1-551258312",
+            "locationName": "St Chads Medical Practice",
+            "postalCode": "OL8 3HH"
+        },
+        {
+            "locationId": "1-552653249",
+            "locationName": "Radcliffe Medical Practice",
+            "postalCode": "OL4 1BN"
+        },
+        {
+            "locationId": "1-556125841",
+            "locationName": "Addy Practice",
+            "postalCode": "OL4 1BN"
+        },
+        {
+            "locationId": "1-558352863",
+            "locationName": "SmartCareNorthWest",
+            "postalCode": "OL8 1DW"
+        },
+        {
+            "locationId": "1-559219354",
+            "locationName": "Werneth Medical Practice",
+            "postalCode": "OL8 4AL"
+        },
+        {
+            "locationId": "1-559832693",
+            "locationName": "Chadderton Medical Practice",
+            "postalCode": "OL9 0LH"
+        },
+        {
+            "locationId": "1-562761826",
+            "locationName": "Dr Pal & Partners",
+            "postalCode": "OL2 6QW"
+        },
+        {
+            "locationId": "1-562761903",
+            "locationName": "Dr Pal & Partners",
+            "postalCode": "OL2 7QR"
+        },
+        {
+            "locationId": "1-565609400",
+            "locationName": "Lees Medical Practice",
+            "postalCode": "OL4 1PA"
+        },
+        {
+            "locationId": "1-566430977",
+            "locationName": "Alexandra Group Medical Practice",
+            "postalCode": "OL4 1YN"
+        },
+        {
+            "locationId": "1-567813398",
+            "locationName": "St Mary's Medical Centre",
+            "postalCode": "OL1 3UL"
+        },
+        {
+            "locationId": "1-569095124",
+            "locationName": "Springfield House",
+            "postalCode": "OL4 2RJ"
+        },
+        {
+            "locationId": "1-569934227",
+            "locationName": "Oldham Family Practice",
+            "postalCode": "OL1 1NL"
+        },
+        {
+            "locationId": "1-571004417",
+            "locationName": "The Royton and Crompton Family Practice",
+            "postalCode": "OL2 6QW"
+        },
+        {
+            "locationId": "1-572353769",
+            "locationName": "Housing & Care 21 - Oldham",
+            "postalCode": "OL8 4QQ"
+        },
+        {
+            "locationId": "1-575683730",
+            "locationName": "Dr Artatran Mohanty & Dr A Khurana",
+            "postalCode": "OL9 7AY"
+        },
+        {
+            "locationId": "1-576812266",
+            "locationName": "Greenbank Medical Practice",
+            "postalCode": "OL4 1BN"
+        },
+        {
+            "locationId": "1-583894260",
+            "locationName": "Kapur Family Care",
+            "postalCode": "OL9 7AY"
+        },
+        {
+            "locationId": "1-585081302",
+            "locationName": "Hopwood House Medical Practice",
+            "postalCode": "OL4 1JN"
+        },
+        {
+            "locationId": "1-589162068",
+            "locationName": "All Saints Hospital",
+            "postalCode": "OL8 4EF"
+        },
+        {
+            "locationId": "1-613921883",
+            "locationName": "Elite Homecare",
+            "postalCode": "M35 9BD"
+        },
+        {
+            "locationId": "1-619125906",
+            "locationName": "Ripponden Road Dental Practice",
+            "postalCode": "OL4 2SF"
+        },
+        {
+            "locationId": "1-6274436636",
+            "locationName": "Hopwood House Medical Practice",
+            "postalCode": "OL4 1JN"
+        },
+        {
+            "locationId": "1-6321709131",
+            "locationName": "BlueCross Life Care",
+            "postalCode": "M35 9BG"
+        },
+        {
+            "locationId": "1-6353664640",
+            "locationName": "MyDentist - Ripponden Road - Oldham",
+            "postalCode": "OL4 2SF"
+        },
+        {
+            "locationId": "1-6355044561",
+            "locationName": "Shawside Care Home",
+            "postalCode": "OL2 8SP"
+        },
+        {
+            "locationId": "1-6367436236",
+            "locationName": "Mydentist - Manchester Road - Oldham",
+            "postalCode": "OL9 7LS"
+        },
+        {
+            "locationId": "1-6450267527",
+            "locationName": "Mydentist - Lees Road - Oldham",
+            "postalCode": "OL4 1LR"
+        },
+        {
+            "locationId": "1-6484713890",
+            "locationName": "Mydentist - Market Street - Shaw",
+            "postalCode": "OL2 8NH"
+        },
+        {
+            "locationId": "1-6555842938",
+            "locationName": "Hollins Road Dental Practice",
+            "postalCode": "OL8 4SA"
+        },
+        {
+            "locationId": "1-6649436035",
+            "locationName": "Medlock Medical Werneth Site",
+            "postalCode": "OL9 7AY"
+        },
+        {
+            "locationId": "1-669633105",
+            "locationName": "Arriva Transport Solutions",
+            "postalCode": "OL4 1HH"
+        },
+        {
+            "locationId": "1-6842887460",
+            "locationName": "Werneth Medical Practice",
+            "postalCode": "OL8 4AL"
+        },
+        {
+            "locationId": "1-7030761140",
+            "locationName": "Precious Glimpse Oldham",
+            "postalCode": "OL8 1DW"
+        },
+        {
+            "locationId": "1-718554672",
+            "locationName": "Hill Top Surgery",
+            "postalCode": "OL8 2QD"
+        },
+        {
+            "locationId": "1-7202923312",
+            "locationName": "Cera Oldham",
+            "postalCode": "OL9 6HZ"
+        },
+        {
+            "locationId": "1-7484287387",
+            "locationName": "Lees Dental Centre",
+            "postalCode": "OL4 5AA"
+        },
+        {
+            "locationId": "1-7568624097",
+            "locationName": "Block Lane Surgery",
+            "postalCode": "OL9 7SG"
+        },
+        {
+            "locationId": "1-7622175476",
+            "locationName": "Green Leaf Health and Social Care",
+            "postalCode": "M35 9BG"
+        },
+        {
+            "locationId": "1-7641113726",
+            "locationName": "Rye House",
+            "postalCode": "OL2 6LY"
+        },
+        {
+            "locationId": "1-7648533300",
+            "locationName": "My Support Worker (NW) Ltd",
+            "postalCode": "OL8 3QL"
+        },
+        {
+            "locationId": "1-7694849544",
+            "locationName": "Pearl Smile Oldham Limited",
+            "postalCode": "M35 0AS"
+        },
+        {
+            "locationId": "1-7812013440",
+            "locationName": "Boston House",
+            "postalCode": "OL8 1XR"
+        },
+        {
+            "locationId": "1-7926114905",
+            "locationName": "Ascroft Medical Clegg Street",
+            "postalCode": "OL1 1PL"
+        },
+        {
+            "locationId": "1-7967940976",
+            "locationName": "Littletown Family Medical Practice",
+            "postalCode": "OL8 4LR"
+        },
+        {
+            "locationId": "1-821470523",
+            "locationName": "Willow House",
+            "postalCode": "OL9 0JQ"
+        },
+        {
+            "locationId": "1-821576968",
+            "locationName": "Medlock Court",
+            "postalCode": "OL4 3LD"
+        },
+        {
+            "locationId": "1-821577050",
+            "locationName": "Ena Hughes Resource Centre",
+            "postalCode": "M35 9AD"
+        },
+        {
+            "locationId": "1-821577212",
+            "locationName": "The Reablement Team",
+            "postalCode": "OL1 1HD"
+        },
+        {
+            "locationId": "1-8319747890",
+            "locationName": "Complete Care and Enablement Services",
+            "postalCode": "OL8 3QL"
+        },
+        {
+            "locationId": "1-833777122",
+            "locationName": "Glodwick Health Centre",
+            "postalCode": "OL4 1YN"
+        },
+        {
+            "locationId": "1-837508783",
+            "locationName": "Support at Home Service",
+            "postalCode": "M35 9AD"
+        },
+        {
+            "locationId": "1-839780013",
+            "locationName": "Care Quality to Home",
+            "postalCode": "OL1 2HY"
+        },
+        {
+            "locationId": "1-8502740825",
+            "locationName": "Lindley Medical Practice",
+            "postalCode": "OL1 1NL"
+        },
+        {
+            "locationId": "1-8881906762",
+            "locationName": "Glodwick Medical Practice",
+            "postalCode": "OL4 1YN"
+        },
+        {
+            "locationId": "1-896574692",
+            "locationName": "Werneth Medical Practice - IHG",
+            "postalCode": "OL9 7AY"
+        },
+        {
+            "locationId": "1-8969943052",
+            "locationName": "Danson Family Practice",
+            "postalCode": "OL9 7AY"
+        },
+        {
+            "locationId": "1-9038273112",
+            "locationName": "Support to Lead",
+            "postalCode": "OL8 2PF"
+        },
+        {
+            "locationId": "1-9075180925",
+            "locationName": "Nobilis Care Oldham",
+            "postalCode": "OL2 6HT"
+        },
+        {
+            "locationId": "1-912032301",
+            "locationName": "Rainbow Trust Children's Charity 3",
+            "postalCode": "OL8 4QQ"
+        },
+        {
+            "locationId": "1-9253286337",
+            "locationName": "Super Support Services Ltd",
+            "postalCode": "M35 9BG"
+        },
+        {
+            "locationId": "1-9370166727",
+            "locationName": "Divine Call Limited",
+            "postalCode": "M35 0FH"
+        },
+        {
+            "locationId": "1-944635777",
+            "locationName": "The Broadway Dental Practice",
+            "postalCode": "OL9 8AP"
+        },
+        {
+            "locationId": "1-9513445383",
+            "locationName": "Treelands Care Home",
+            "postalCode": "OL8 2QH"
+        },
+        {
+            "locationId": "1-9547921208",
+            "locationName": "VB Health Ltd",
+            "postalCode": "OL4 4HH"
+        },
+        {
+            "locationId": "1-9583134750",
+            "locationName": "Meridian Health and Social Care - Manchester",
+            "postalCode": "OL9 9PY"
+        },
+        {
+            "locationId": "1-9588358014",
+            "locationName": "Unicorn1care Ltd",
+            "postalCode": "OL4 2SN"
+        },
+        {
+            "locationId": "1-9716178855",
+            "locationName": "Alpha Dental Care Oldham",
+            "postalCode": "OL8 4SR"
+        },
+        {
+            "locationId": "1-9822401351",
+            "locationName": "DHS Dental Practice",
+            "postalCode": "OL3 6HZ"
+        },
+        {
+            "locationId": "1-9823275435",
+            "locationName": "Lees Dental Centre",
+            "postalCode": "OL4 5AA"
+        },
+        {
+            "locationId": "1-9823275468",
+            "locationName": "Park House Dental Practice",
+            "postalCode": "OL4 5SR"
+        },
+        {
+            "locationId": "1-9823916530",
+            "locationName": "Park House Dental Practice",
+            "postalCode": "OL9 7AP"
+        },
+        {
+            "locationId": "1-9888751781",
+            "locationName": "Rhodes Street Dental",
+            "postalCode": "OL1 3TG"
+        },
+        {
+            "locationId": "1-997176041",
+            "locationName": "Bridging the Gap Limited - Oldham",
+            "postalCode": "OL8 3BP"
+        },
+        {
+            "locationId": "5J501",
+            "locationName": "Oldham PCT HQ",
+            "postalCode": "OL9 6EE"
+        },
+        {
+            "locationId": "5J533",
+            "locationName": "Urgent Care Centre - Integrated Care Centre",
+            "postalCode": "OL1 1NL"
+        },
+        {
+            "locationId": "5J5X1",
+            "locationName": "Oldham Community Recovery Unit",
+            "postalCode": "OL2 8SP"
+        },
+        {
+            "locationId": "5J5X2",
+            "locationName": "Butler Green",
+            "postalCode": "OL9 8NG"
+        },
+        {
+            "locationId": "G7F7V",
+            "locationName": "Oldham Community Diagnostic Centre",
+            "postalCode": "OL2 6JG"
+        },
+        {
+            "locationId": "H5L2X",
+            "locationName": "Royal Oldham Hospital (Vascular Surgery)",
+            "postalCode": "OL1 2JH"
+        },
+        {
+            "locationId": "RJXX6",
+            "locationName": "Marle House",
+            "postalCode": "OL9 9XA"
+        },
+        {
+            "locationId": "RM317",
+            "locationName": "Royal Oldham Hospital",
+            "postalCode": "OL1 2JH"
+        },
+        {
+            "locationId": "RM3Y3",
+            "locationName": "Butler Green House",
+            "postalCode": "OL9 8NG"
+        },
+        {
+            "locationId": "RT203",
+            "locationName": "Oldham Mental Health Services",
+            "postalCode": "OL1 2JH"
+        },
+        {
+            "locationId": "RT242",
+            "locationName": "Rhodes Place",
+            "postalCode": "OL4 5PP"
+        },
+        {
+            "locationId": "RT2C1",
+            "locationName": "Butler Green House",
+            "postalCode": "OL9 8NG"
+        },
+        {
+            "locationId": "RT2F3",
+            "locationName": "Integrated Care Centre",
+            "postalCode": "OL1 1NL"
+        },
+        {
+            "locationId": "RW603",
+            "locationName": "The Royal Oldham Hospital",
+            "postalCode": "OL1 2JH"
+        },
+        {
+            "locationId": "RW6X2",
+            "locationName": "Butler Green House",
+            "postalCode": "OL9 8NG"
+        },
+        {
+            "locationId": "RY210",
+            "locationName": "Oldham Integrated Care Centre",
+            "postalCode": "OL1 1NL"
+        }
+    ],
+    "uri": "/locations"
+}

@@ -1,0 +1,245 @@
+{
+    "careHome": "Y",
+    "constituency": "Oldham West and Royton",
+    "currentRatings": {
+        "overall": {
+            "keyQuestionRatings": [
+                {
+                    "name": "Safe",
+                    "rating": "Good",
+                    "reportDate": "2022-08-26",
+                    "reportLinkId": "b9a12f3c-9787-43be-92d0-52d8b7456466"
+                },
+                {
+                    "name": "Well-led",
+                    "rating": "Good",
+                    "reportDate": "2022-08-26",
+                    "reportLinkId": "b9a12f3c-9787-43be-92d0-52d8b7456466"
+                },
+                {
+                    "name": "Caring",
+                    "rating": "Good",
+                    "reportDate": "2018-08-11",
+                    "reportLinkId": "0562aff9-7ba1-4645-959b-bc5753905d4e"
+                },
+                {
+                    "name": "Responsive",
+                    "rating": "Good",
+                    "reportDate": "2022-08-26",
+                    "reportLinkId": "b9a12f3c-9787-43be-92d0-52d8b7456466"
+                },
+                {
+                    "name": "Effective",
+                    "rating": "Good",
+                    "reportDate": "2018-08-11",
+                    "reportLinkId": "0562aff9-7ba1-4645-959b-bc5753905d4e"
+                }
+            ],
+            "rating": "Good",
+            "reportDate": "2022-08-26",
+            "reportLinkId": "b9a12f3c-9787-43be-92d0-52d8b7456466"
+        },
+        "reportDate": "2022-08-26"
+    },
+    "deregistrationDate": "2024-02-01",
+    "dormancy": "N",
+    "gacServiceTypes": [
+        {
+            "description": "Care home service with nursing",
+            "name": "Nursing homes"
+        },
+        {
+            "description": "Domiciliary care service",
+            "name": "Homecare agencies"
+        }
+    ],
+    "historicRatings": [
+        {
+            "overall": {
+                "keyQuestionRatings": [
+                    {
+                        "name": "Safe",
+                        "rating": "Inspected but not rated"
+                    }
+                ],
+                "rating": "Inspected but not rated"
+            },
+            "reportDate": "2020-10-13",
+            "reportLinkId": "f4b1d788-7455-4b43-910c-37f5c9b27d71"
+        },
+        {
+            "overall": {
+                "keyQuestionRatings": [
+                    {
+                        "name": "Safe",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Well-led",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Responsive",
+                        "rating": "Requires improvement"
+                    }
+                ],
+                "rating": "Good"
+            },
+            "reportDate": "2018-08-11",
+            "reportLinkId": "0562aff9-7ba1-4645-959b-bc5753905d4e"
+        },
+        {
+            "overall": {
+                "keyQuestionRatings": [
+                    {
+                        "name": "Safe",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Well-led",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Caring",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Responsive",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Effective",
+                        "rating": "Requires improvement"
+                    }
+                ],
+                "rating": "Good"
+            },
+            "reportDate": "2016-04-22",
+            "reportLinkId": "03b91ba4-75f3-43e6-8a27-2f61e0e08852"
+        }
+    ],
+    "inspectionAreas": [],
+    "inspectionCategories": [
+        {
+            "code": "S1",
+            "name": "Residential social care",
+            "primary": "true"
+        },
+        {
+            "code": "S2",
+            "name": "Community based adult social care services"
+        }
+    ],
+    "inspectionDirectorate": "Adult social care",
+    "lastInspection": {
+        "date": "2022-08-02"
+    },
+    "lastReport": {
+        "publicationDate": "2022-08-26"
+    },
+    "localAuthority": "Oldham",
+    "locationId": "1-113831768",
+    "locationTypes": [],
+    "mainPhoneNumber": "01616246671",
+    "name": "Park Hills Nursing Home",
+    "numberOfBeds": 17,
+    "odsCode": "VLN9H",
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.5287882,
+    "onspdLongitude": -2.1244458,
+    "organisationType": "Location",
+    "postalAddressCounty": "Lancashire",
+    "postalAddressLine1": "199 Chamber Road",
+    "postalAddressLine2": "Coppice",
+    "postalAddressTownCity": "Oldham",
+    "postalCode": "OL8 4DJ",
+    "providerId": "1-101633224",
+    "region": "North West",
+    "registrationDate": "2011-02-01",
+    "registrationStatus": "Deregistered",
+    "regulatedActivities": [],
+    "relationships": [
+        {
+            "reason": "New Provider",
+            "relatedLocationId": "1-18437805065",
+            "relatedLocationName": "Park Hills Private Nursing Home",
+            "type": "HSCA Successor"
+        }
+    ],
+    "reports": [
+        {
+            "firstVisitDate": "2022-06-29",
+            "linkId": "b9a12f3c-9787-43be-92d0-52d8b7456466",
+            "reportDate": "2022-08-26",
+            "reportType": "Location",
+            "reportUri": "/reports/b9a12f3c-9787-43be-92d0-52d8b7456466?20220826120000"
+        },
+        {
+            "firstVisitDate": "2020-08-26",
+            "linkId": "f4b1d788-7455-4b43-910c-37f5c9b27d71",
+            "reportDate": "2020-10-13",
+            "reportType": "Location",
+            "reportUri": "/reports/f4b1d788-7455-4b43-910c-37f5c9b27d71?20201013120001"
+        },
+        {
+            "firstVisitDate": "2018-07-16",
+            "linkId": "0562aff9-7ba1-4645-959b-bc5753905d4e",
+            "reportDate": "2018-08-11",
+            "reportType": "Location",
+            "reportUri": "/reports/0562aff9-7ba1-4645-959b-bc5753905d4e?20211030120000"
+        },
+        {
+            "firstVisitDate": "2016-02-16",
+            "linkId": "03b91ba4-75f3-43e6-8a27-2f61e0e08852",
+            "reportDate": "2016-04-22",
+            "reportType": "Location",
+            "reportUri": "/reports/03b91ba4-75f3-43e6-8a27-2f61e0e08852?20211030120000"
+        },
+        {
+            "firstVisitDate": "2014-04-10",
+            "linkId": "b0f15ea5-a586-44a2-b851-517bcd17a98f",
+            "reportDate": "2014-05-20",
+            "reportUri": "/reports/b0f15ea5-a586-44a2-b851-517bcd17a98f?20200129163919"
+        },
+        {
+            "firstVisitDate": "2013-08-27",
+            "linkId": "b0df1e7c-e540-4563-9e8c-8fe85468d327",
+            "reportDate": "2013-09-06",
+            "reportUri": "/reports/b0df1e7c-e540-4563-9e8c-8fe85468d327?20151016191357"
+        },
+        {
+            "firstVisitDate": "2013-06-11",
+            "linkId": "ea79b6a6-2350-411a-9678-c516103d8143",
+            "reportDate": "2013-06-22",
+            "reportUri": "/reports/ea79b6a6-2350-411a-9678-c516103d8143?20200129163919"
+        },
+        {
+            "firstVisitDate": "2012-07-12",
+            "linkId": "b1517398-4a03-4c90-8f64-d43f04e07bff",
+            "reportDate": "2012-08-01",
+            "reportUri": "/reports/b1517398-4a03-4c90-8f64-d43f04e07bff?20200430120000"
+        }
+    ],
+    "specialisms": [
+        {
+            "name": "Caring for adults over 65 yrs"
+        },
+        {
+            "name": "Dementia"
+        },
+        {
+            "name": "Mental health conditions"
+        },
+        {
+            "name": "Physical disabilities"
+        },
+        {
+            "name": "Sensory impairment"
+        }
+    ],
+    "type": "Social Care Org",
+    "uprn": "422000093900"
+}

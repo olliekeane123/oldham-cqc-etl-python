@@ -1,0 +1,105 @@
+{
+    "brandId": "BD560",
+    "brandName": "BRAND Rodericks Dental Partners",
+    "careHome": "N",
+    "constituency": "Oldham West and Royton",
+    "dormancy": "N",
+    "gacServiceTypes": [
+        {
+            "description": "Dental service",
+            "name": "Dentist"
+        }
+    ],
+    "inspectionAreas": [],
+    "inspectionCategories": [
+        {
+            "code": "P1",
+            "name": "Dentists",
+            "primary": "true"
+        }
+    ],
+    "inspectionDirectorate": "Primary medical services",
+    "localAuthority": "Oldham",
+    "locationId": "1-2184411501",
+    "locationTypes": [],
+    "mainPhoneNumber": "01616277065",
+    "name": "Ravat & Ray Dental Care, Oldham",
+    "numberOfBeds": 0,
+    "odsCode": "V31598",
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.5210592,
+    "onspdLongitude": -2.1026876,
+    "organisationType": "Location",
+    "postalAddressCounty": "Greater Manchester",
+    "postalAddressLine1": "Ravat & Ray Dental Care",
+    "postalAddressLine2": "Tanhill Lane",
+    "postalAddressTownCity": "Oldham",
+    "postalCode": "OL8 2QL",
+    "providerId": "1-2091769991",
+    "region": "North West",
+    "registrationDate": "2015-09-01",
+    "registrationStatus": "Registered",
+    "regulatedActivities": [
+        {
+            "code": "RA5",
+            "contacts": [
+                {
+                    "personFamilyName": "Bell",
+                    "personGivenName": "Rebecca Theresa",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Miss"
+                }
+            ],
+            "name": "Treatment of disease, disorder or injury"
+        },
+        {
+            "code": "RA7",
+            "contacts": [
+                {
+                    "personFamilyName": "Bell",
+                    "personGivenName": "Rebecca Theresa",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Miss"
+                }
+            ],
+            "name": "Surgical procedures"
+        },
+        {
+            "code": "RA8",
+            "contacts": [
+                {
+                    "personFamilyName": "Bell",
+                    "personGivenName": "Rebecca Theresa",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Miss"
+                }
+            ],
+            "name": "Diagnostic and screening procedures"
+        }
+    ],
+    "relationships": [
+        {
+            "reason": "Location Move",
+            "relatedLocationId": "1-2132883297",
+            "relatedLocationName": "Ravat and Ray Dental Care (Fitton Hill) Ltd",
+            "type": "HSCA Predecessor"
+        }
+    ],
+    "specialisms": [
+        {
+            "name": "Services for everyone"
+        }
+    ],
+    "type": "Primary Dental Care",
+    "uprn": "422000127146",
+    "website": "www.ravatandray.com"
+}

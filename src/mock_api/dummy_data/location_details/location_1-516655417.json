@@ -1,0 +1,201 @@
+{
+    "careHome": "N",
+    "constituency": "Oldham West and Royton",
+    "currentRatings": {
+        "overall": {
+            "keyQuestionRatings": [
+                {
+                    "name": "Safe",
+                    "rating": "Good",
+                    "reportDate": "2016-01-14",
+                    "reportLinkId": "1869fdf9-b4b5-40eb-82d2-6a3c1d463c74"
+                },
+                {
+                    "name": "Well-led",
+                    "rating": "Good",
+                    "reportDate": "2016-01-14",
+                    "reportLinkId": "1869fdf9-b4b5-40eb-82d2-6a3c1d463c74"
+                },
+                {
+                    "name": "Caring",
+                    "rating": "Good",
+                    "reportDate": "2016-01-14",
+                    "reportLinkId": "1869fdf9-b4b5-40eb-82d2-6a3c1d463c74"
+                },
+                {
+                    "name": "Responsive",
+                    "rating": "Good",
+                    "reportDate": "2016-01-14",
+                    "reportLinkId": "1869fdf9-b4b5-40eb-82d2-6a3c1d463c74"
+                },
+                {
+                    "name": "Effective",
+                    "rating": "Good",
+                    "reportDate": "2016-01-14",
+                    "reportLinkId": "1869fdf9-b4b5-40eb-82d2-6a3c1d463c74"
+                }
+            ],
+            "rating": "Good",
+            "reportDate": "2016-01-14",
+            "reportLinkId": "1869fdf9-b4b5-40eb-82d2-6a3c1d463c74"
+        },
+        "reportDate": "2016-01-14",
+        "serviceRatings": [
+            {
+                "name": "conditions",
+                "rating": "Good",
+                "reportDate": "2016-01-14",
+                "reportLinkId": "1869fdf9-b4b5-40eb-82d2-6a3c1d463c74"
+            },
+            {
+                "name": "mothers",
+                "rating": "Good",
+                "reportDate": "2016-01-14",
+                "reportLinkId": "1869fdf9-b4b5-40eb-82d2-6a3c1d463c74"
+            },
+            {
+                "name": "old",
+                "rating": "Good",
+                "reportDate": "2016-01-14",
+                "reportLinkId": "1869fdf9-b4b5-40eb-82d2-6a3c1d463c74"
+            },
+            {
+                "name": "population",
+                "rating": "Good",
+                "reportDate": "2016-01-14",
+                "reportLinkId": "1869fdf9-b4b5-40eb-82d2-6a3c1d463c74"
+            },
+            {
+                "name": "problems",
+                "rating": "Good",
+                "reportDate": "2016-01-14",
+                "reportLinkId": "1869fdf9-b4b5-40eb-82d2-6a3c1d463c74"
+            },
+            {
+                "name": "vulnerable",
+                "rating": "Good",
+                "reportDate": "2016-01-14",
+                "reportLinkId": "1869fdf9-b4b5-40eb-82d2-6a3c1d463c74"
+            }
+        ]
+    },
+    "deregistrationDate": "2020-03-13",
+    "dormancy": "N",
+    "dormancyEndDate": "2021-09-22",
+    "gacServiceTypes": [
+        {
+            "description": "Doctors consultation service",
+            "name": "Doctors/Gps"
+        },
+        {
+            "description": "Urgent care services",
+            "name": "Urgent care centres"
+        }
+    ],
+    "inspectionAreas": [
+        {
+            "inspectionAreaId": "conditions",
+            "inspectionAreaName": "People with long term conditions",
+            "status": "Active (Rated)"
+        },
+        {
+            "inspectionAreaId": "mothers",
+            "inspectionAreaName": "Families, children and young people",
+            "status": "Active (Rated)"
+        },
+        {
+            "inspectionAreaId": "old",
+            "inspectionAreaName": "Older people",
+            "status": "Active (Rated)"
+        },
+        {
+            "inspectionAreaId": "population",
+            "inspectionAreaName": "Working age people (including those recently retired and students)",
+            "status": "Active (Rated)"
+        },
+        {
+            "inspectionAreaId": "problems",
+            "inspectionAreaName": "People experiencing poor mental health (including people with dementia)",
+            "status": "Active (Rated)"
+        },
+        {
+            "inspectionAreaId": "vulnerable",
+            "inspectionAreaName": "People whose circumstances may make them vulnerable",
+            "status": "Active (Rated)"
+        }
+    ],
+    "inspectionCategories": [
+        {
+            "code": "P2",
+            "name": "GP Practices",
+            "primary": "true"
+        },
+        {
+            "code": "P6",
+            "name": "Urgent care services & mobile doctors"
+        }
+    ],
+    "inspectionDirectorate": "Primary medical services",
+    "lastInspection": {
+        "date": "2015-11-25"
+    },
+    "lastReport": {
+        "publicationDate": "2016-01-14"
+    },
+    "localAuthority": "Oldham",
+    "locationId": "1-516655417",
+    "locationTypes": [
+        {
+            "type": "GP Practice"
+        },
+        {
+            "type": "Walk in Centre"
+        }
+    ],
+    "mainPhoneNumber": "01617857520",
+    "name": "Lindley Medical Practice",
+    "numberOfBeds": 0,
+    "odsCcgCode": "00Y",
+    "odsCcgName": "NHS Greater Manchester Icb - 00Y",
+    "odsCode": "Y02875",
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.543824,
+    "onspdLongitude": -2.116945,
+    "organisationType": "Location",
+    "postalAddressCounty": "Lancashire",
+    "postalAddressLine1": "Integrated Care Centre",
+    "postalAddressLine2": "New Radcliffe Street",
+    "postalAddressTownCity": "Oldham",
+    "postalCode": "OL1 1NL",
+    "providerId": "1-199808952",
+    "region": "North West",
+    "registrationDate": "2013-04-01",
+    "registrationStatus": "Deregistered",
+    "regulatedActivities": [],
+    "relationships": [
+        {
+            "reason": "New Provider",
+            "relatedLocationId": "1-8502740825",
+            "relatedLocationName": "Lindley Medical Practice",
+            "type": "HSCA Successor"
+        }
+    ],
+    "reports": [
+        {
+            "firstVisitDate": "2015-11-25",
+            "linkId": "1869fdf9-b4b5-40eb-82d2-6a3c1d463c74",
+            "reportDate": "2016-01-14",
+            "reportType": "Location",
+            "reportUri": "/reports/1869fdf9-b4b5-40eb-82d2-6a3c1d463c74?20210124154606"
+        }
+    ],
+    "specialisms": [
+        {
+            "name": "Services for everyone"
+        }
+    ],
+    "type": "Primary Medical Services"
+}

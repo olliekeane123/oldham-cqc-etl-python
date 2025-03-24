@@ -1,0 +1,90 @@
+{
+    "careHome": "N",
+    "constituency": "Oldham East and Saddleworth",
+    "currentRatings": {
+        "overall": {
+            "keyQuestionRatings": [
+                {
+                    "name": "Safe",
+                    "rating": "No published rating"
+                },
+                {
+                    "name": "Well-led",
+                    "rating": "No published rating"
+                },
+                {
+                    "name": "Caring",
+                    "rating": "No published rating"
+                },
+                {
+                    "name": "Responsive",
+                    "rating": "No published rating"
+                },
+                {
+                    "name": "Effective",
+                    "rating": "No published rating"
+                }
+            ],
+            "rating": "No published rating"
+        }
+    },
+    "deregistrationDate": "2013-11-07",
+    "dormancy": "N",
+    "gacServiceTypes": [
+        {
+            "description": "Dental service",
+            "name": "Dentist"
+        }
+    ],
+    "inspectionAreas": [],
+    "inspectionDirectorate": "Unspecified",
+    "lastInspection": {
+        "date": "2012-02-17"
+    },
+    "localAuthority": "Oldham",
+    "locationId": "1-188693354",
+    "locationTypes": [],
+    "mainPhoneNumber": "01616248551",
+    "name": "Ripponden Road Dental Practice",
+    "numberOfBeds": 0,
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.552093,
+    "onspdLongitude": -2.085195,
+    "organisationType": "Location",
+    "postalAddressCounty": "Greater Manchester",
+    "postalAddressLine1": "177-187 Littlemoor Lane",
+    "postalAddressLine2": "Watersheddings",
+    "postalAddressTownCity": "Oldham",
+    "postalCode": "OL4 2SF",
+    "providerId": "1-152989526",
+    "region": "North West",
+    "registrationDate": "2011-06-29",
+    "registrationStatus": "Deregistered",
+    "regulatedActivities": [],
+    "relationships": [
+        {
+            "reason": "Legal Entity Change",
+            "relatedLocationId": "1-1015412687",
+            "relatedLocationName": "Ripponden Road Dental Practice",
+            "type": "HSCA Successor"
+        }
+    ],
+    "reports": [
+        {
+            "firstVisitDate": "2012-02-17",
+            "linkId": "c0cd601d-dc38-468c-8bb0-03a867fa7f94",
+            "reportDate": "2012-04-18",
+            "reportUri": "/reports/c0cd601d-dc38-468c-8bb0-03a867fa7f94?20200430120000"
+        }
+    ],
+    "specialisms": [
+        {
+            "name": "Services for everyone"
+        }
+    ],
+    "type": "Primary Dental Care",
+    "website": "www.rippondenroaddentalpractice.com"
+}

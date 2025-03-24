@@ -1,0 +1,141 @@
+{
+    "brandId": "BD560",
+    "brandName": "BRAND Rodericks Dental Partners",
+    "careHome": "N",
+    "constituency": "Oldham East and Saddleworth",
+    "currentRatings": {
+        "overall": {
+            "keyQuestionRatings": [
+                {
+                    "name": "Safe",
+                    "rating": "No published rating"
+                },
+                {
+                    "name": "Well-led",
+                    "rating": "No published rating"
+                },
+                {
+                    "name": "Caring",
+                    "rating": "No published rating"
+                },
+                {
+                    "name": "Responsive",
+                    "rating": "No published rating"
+                },
+                {
+                    "name": "Effective",
+                    "rating": "No published rating"
+                }
+            ],
+            "rating": "Inspected but not rated",
+            "reportDate": "2018-08-20",
+            "reportLinkId": "bef3ce8a-e109-494f-af56-1af03323c46b"
+        },
+        "reportDate": "2018-08-20"
+    },
+    "dormancy": "N",
+    "gacServiceTypes": [
+        {
+            "description": "Dental service",
+            "name": "Dentist"
+        }
+    ],
+    "inspectionAreas": [],
+    "inspectionCategories": [
+        {
+            "code": "P1",
+            "name": "Dentists",
+            "primary": "true"
+        }
+    ],
+    "inspectionDirectorate": "Primary medical services",
+    "lastInspection": {
+        "date": "2018-07-19"
+    },
+    "lastReport": {
+        "publicationDate": "2018-08-20"
+    },
+    "localAuthority": "Oldham",
+    "locationId": "1-2204490275",
+    "locationTypes": [],
+    "mainPhoneNumber": "01616331234",
+    "name": "Marjory Lees Dental Centre",
+    "numberOfBeds": 0,
+    "odsCode": "V13213",
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.5286462,
+    "onspdLongitude": -2.1117117,
+    "organisationType": "Location",
+    "postalAddressCounty": "Lancashire",
+    "postalAddressLine1": "283 Ashton Road",
+    "postalAddressTownCity": "Oldham",
+    "postalCode": "OL8 1NN",
+    "providerId": "1-2072089224",
+    "region": "North West",
+    "registrationDate": "2015-09-07",
+    "registrationStatus": "Registered",
+    "regulatedActivities": [
+        {
+            "code": "RA5",
+            "contacts": [
+                {
+                    "personFamilyName": "Agapow",
+                    "personGivenName": "Anna",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Miss"
+                }
+            ],
+            "name": "Treatment of disease, disorder or injury"
+        },
+        {
+            "code": "RA7",
+            "contacts": [
+                {
+                    "personFamilyName": "Agapow",
+                    "personGivenName": "Anna",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Miss"
+                }
+            ],
+            "name": "Surgical procedures"
+        },
+        {
+            "code": "RA8",
+            "contacts": [
+                {
+                    "personFamilyName": "Agapow",
+                    "personGivenName": "Anna",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Miss"
+                }
+            ],
+            "name": "Diagnostic and screening procedures"
+        }
+    ],
+    "relationships": [],
+    "reports": [
+        {
+            "firstVisitDate": "2018-07-19",
+            "linkId": "bef3ce8a-e109-494f-af56-1af03323c46b",
+            "reportDate": "2018-08-20",
+            "reportType": "Location",
+            "reportUri": "/reports/bef3ce8a-e109-494f-af56-1af03323c46b?20210116193510"
+        }
+    ],
+    "specialisms": [
+        {
+            "name": "Services for everyone"
+        }
+    ],
+    "type": "Primary Dental Care",
+    "uprn": "422000119945"
+}

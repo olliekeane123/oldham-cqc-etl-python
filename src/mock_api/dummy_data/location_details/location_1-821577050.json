@@ -1,0 +1,184 @@
+{
+    "careHome": "N",
+    "constituency": "Ashton-under-Lyne",
+    "currentRatings": {
+        "overall": {
+            "keyQuestionRatings": [
+                {
+                    "name": "Safe",
+                    "rating": "Good",
+                    "reportDate": "2019-07-19",
+                    "reportLinkId": "2445b9c2-78ab-418f-b0f6-b632fd984bd9"
+                },
+                {
+                    "name": "Well-led",
+                    "rating": "Good",
+                    "reportDate": "2019-07-19",
+                    "reportLinkId": "2445b9c2-78ab-418f-b0f6-b632fd984bd9"
+                },
+                {
+                    "name": "Caring",
+                    "rating": "Good",
+                    "reportDate": "2019-07-19",
+                    "reportLinkId": "2445b9c2-78ab-418f-b0f6-b632fd984bd9"
+                },
+                {
+                    "name": "Responsive",
+                    "rating": "Good",
+                    "reportDate": "2019-07-19",
+                    "reportLinkId": "2445b9c2-78ab-418f-b0f6-b632fd984bd9"
+                },
+                {
+                    "name": "Effective",
+                    "rating": "Good",
+                    "reportDate": "2019-07-19",
+                    "reportLinkId": "2445b9c2-78ab-418f-b0f6-b632fd984bd9"
+                }
+            ],
+            "rating": "Good",
+            "reportDate": "2019-07-19",
+            "reportLinkId": "2445b9c2-78ab-418f-b0f6-b632fd984bd9"
+        },
+        "reportDate": "2019-07-19"
+    },
+    "dormancy": "N",
+    "gacServiceTypes": [
+        {
+            "description": "Shared Lives",
+            "name": "Shared lives"
+        },
+        {
+            "description": "Supported living service",
+            "name": "Supported living"
+        }
+    ],
+    "historicRatings": [
+        {
+            "overall": {
+                "keyQuestionRatings": [
+                    {
+                        "name": "Safe",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Well-led",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Caring",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Responsive",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Effective",
+                        "rating": "Good"
+                    }
+                ],
+                "rating": "Good"
+            },
+            "reportDate": "2016-11-26",
+            "reportLinkId": "e23ec990-e379-4a95-b186-80cab698a889"
+        }
+    ],
+    "inspectionAreas": [],
+    "inspectionCategories": [
+        {
+            "code": "S2",
+            "name": "Community based adult social care services",
+            "primary": "true"
+        }
+    ],
+    "inspectionDirectorate": "Adult social care",
+    "lastInspection": {
+        "date": "2019-05-29"
+    },
+    "lastReport": {
+        "publicationDate": "2019-07-19"
+    },
+    "localAuthority": "Oldham",
+    "locationId": "1-821577050",
+    "locationTypes": [],
+    "mainPhoneNumber": "01617708777",
+    "name": "Ena Hughes Resource Centre",
+    "numberOfBeds": 0,
+    "odsCode": "VNA4E",
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.513464,
+    "onspdLongitude": -2.154455,
+    "organisationType": "Location",
+    "postalAddressCounty": "Lancashire",
+    "postalAddressLine1": "First Floor, 2 Ellesmere Street",
+    "postalAddressLine2": "Failsworth",
+    "postalAddressTownCity": "Manchester",
+    "postalCode": "M35 9AD",
+    "providerId": "1-757123384",
+    "region": "North West",
+    "registrationDate": "2013-10-01",
+    "registrationStatus": "Registered",
+    "regulatedActivities": [
+        {
+            "code": "RA1",
+            "contacts": [
+                {
+                    "personFamilyName": "Evans",
+                    "personGivenName": "Terrence",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Mr"
+                }
+            ],
+            "name": "Personal care"
+        }
+    ],
+    "relationships": [],
+    "reports": [
+        {
+            "firstVisitDate": "2019-05-28",
+            "linkId": "2445b9c2-78ab-418f-b0f6-b632fd984bd9",
+            "reportDate": "2019-07-19",
+            "reportType": "Location",
+            "reportUri": "/reports/2445b9c2-78ab-418f-b0f6-b632fd984bd9?20190719120000"
+        },
+        {
+            "firstVisitDate": "2016-10-10",
+            "linkId": "e23ec990-e379-4a95-b186-80cab698a889",
+            "reportDate": "2016-11-26",
+            "reportType": "Location",
+            "reportUri": "/reports/e23ec990-e379-4a95-b186-80cab698a889?20211030120000"
+        },
+        {
+            "firstVisitDate": "2014-04-08",
+            "linkId": "3b78efc6-aae4-485e-be4f-279acfcf3d14",
+            "reportDate": "2014-05-17",
+            "reportUri": "/reports/3b78efc6-aae4-485e-be4f-279acfcf3d14?20200129163919"
+        }
+    ],
+    "specialisms": [
+        {
+            "name": "Caring for adults over 65 yrs"
+        },
+        {
+            "name": "Dementia"
+        },
+        {
+            "name": "Learning disabilities"
+        },
+        {
+            "name": "Physical disabilities"
+        },
+        {
+            "name": "Sensory impairment"
+        },
+        {
+            "name": "Substance misuse problems"
+        }
+    ],
+    "type": "Social Care Org"
+}

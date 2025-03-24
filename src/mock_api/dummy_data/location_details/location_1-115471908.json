@@ -1,0 +1,56 @@
+{
+    "careHome": "N",
+    "constituency": "Oldham West and Royton",
+    "deregistrationDate": "2011-10-24",
+    "dormancy": "N",
+    "gacServiceTypes": [
+        {
+            "description": "Domiciliary care service",
+            "name": "Homecare agencies"
+        },
+        {
+            "description": "Supported living service",
+            "name": "Supported living"
+        }
+    ],
+    "inspectionAreas": [],
+    "inspectionDirectorate": "Unspecified",
+    "localAuthority": "Oldham",
+    "locationId": "1-115471908",
+    "locationTypes": [],
+    "mainPhoneNumber": "01616271314",
+    "name": "IAS (Services) Limited - 83 Union Street",
+    "numberOfBeds": 0,
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.5405035,
+    "onspdLongitude": -2.1118201,
+    "organisationType": "Location",
+    "postalAddressCounty": "Greater Manchester",
+    "postalAddressLine1": "83 Union Street",
+    "postalAddressTownCity": "Oldham",
+    "postalCode": "OL1 1PF",
+    "providerId": "1-101661949",
+    "region": "North West",
+    "registrationDate": "2011-03-08",
+    "registrationStatus": "Deregistered",
+    "regulatedActivities": [],
+    "relationships": [
+        {
+            "reason": "New Provider",
+            "relatedLocationId": "1-320209404",
+            "relatedLocationName": "Imagine Act And Succeed - 110 Chapel Street",
+            "type": "HSCA Successor"
+        }
+    ],
+    "specialisms": [
+        {
+            "name": "Learning disabilities"
+        }
+    ],
+    "type": "Social Care Org",
+    "uprn": "422000076768",
+    "website": "www.iasservices.info"
+}

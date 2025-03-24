@@ -1,0 +1,132 @@
+{
+    "careHome": "N",
+    "constituency": "Ashton-under-Lyne",
+    "currentRatings": {
+        "overall": {
+            "keyQuestionRatings": [
+                {
+                    "name": "Safe",
+                    "rating": "Good",
+                    "reportDate": "2016-12-15",
+                    "reportLinkId": "1f91e84f-1f01-4789-a223-7351561a4b2a"
+                },
+                {
+                    "name": "Well-led",
+                    "rating": "Good",
+                    "reportDate": "2016-12-15",
+                    "reportLinkId": "1f91e84f-1f01-4789-a223-7351561a4b2a"
+                },
+                {
+                    "name": "Caring",
+                    "rating": "Good",
+                    "reportDate": "2016-12-15",
+                    "reportLinkId": "1f91e84f-1f01-4789-a223-7351561a4b2a"
+                },
+                {
+                    "name": "Responsive",
+                    "rating": "Good",
+                    "reportDate": "2016-12-15",
+                    "reportLinkId": "1f91e84f-1f01-4789-a223-7351561a4b2a"
+                },
+                {
+                    "name": "Effective",
+                    "rating": "Good",
+                    "reportDate": "2016-12-15",
+                    "reportLinkId": "1f91e84f-1f01-4789-a223-7351561a4b2a"
+                }
+            ],
+            "rating": "Good",
+            "reportDate": "2016-12-15",
+            "reportLinkId": "1f91e84f-1f01-4789-a223-7351561a4b2a"
+        },
+        "reportDate": "2016-12-15"
+    },
+    "deregistrationDate": "2017-06-14",
+    "dormancy": "N",
+    "gacServiceTypes": [
+        {
+            "description": "Domiciliary care service",
+            "name": "Homecare agencies"
+        }
+    ],
+    "inspectionAreas": [],
+    "inspectionCategories": [
+        {
+            "code": "S2",
+            "name": "Community based adult social care services",
+            "primary": "true"
+        }
+    ],
+    "inspectionDirectorate": "Adult social care",
+    "lastInspection": {
+        "date": "2016-10-20"
+    },
+    "lastReport": {
+        "publicationDate": "2016-12-15"
+    },
+    "localAuthority": "Oldham",
+    "locationId": "1-2440615900",
+    "locationTypes": [],
+    "mainPhoneNumber": "01616842356",
+    "name": "Community Voice Ltd Oldham",
+    "numberOfBeds": 0,
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.516588,
+    "onspdLongitude": -2.143005,
+    "organisationType": "Location",
+    "postalAddressCounty": "Lancashire",
+    "postalAddressLine1": "Suite 304,Hollinwood Business Centre",
+    "postalAddressLine2": "Albert Street",
+    "postalAddressTownCity": "Oldham",
+    "postalCode": "OL8 3QL",
+    "providerId": "1-101658491",
+    "region": "North West",
+    "registrationDate": "2016-02-05",
+    "registrationStatus": "Deregistered",
+    "regulatedActivities": [],
+    "relationships": [
+        {
+            "reason": "Location Move",
+            "relatedLocationId": "1-125265836",
+            "relatedLocationName": "Community Voice Limited Oldham",
+            "type": "HSCA Predecessor"
+        }
+    ],
+    "reports": [
+        {
+            "firstVisitDate": "2016-10-17",
+            "linkId": "1f91e84f-1f01-4789-a223-7351561a4b2a",
+            "reportDate": "2016-12-15",
+            "reportType": "Location",
+            "reportUri": "/reports/1f91e84f-1f01-4789-a223-7351561a4b2a?20200129163919"
+        }
+    ],
+    "specialisms": [
+        {
+            "name": "Caring for adults over 65 yrs"
+        },
+        {
+            "name": "Dementia"
+        },
+        {
+            "name": "Learning disabilities"
+        },
+        {
+            "name": "Mental health conditions"
+        },
+        {
+            "name": "Physical disabilities"
+        },
+        {
+            "name": "Sensory impairment"
+        },
+        {
+            "name": "Substance misuse problems"
+        }
+    ],
+    "type": "Social Care Org",
+    "website": "www.communityvoice.org.uk"
+}

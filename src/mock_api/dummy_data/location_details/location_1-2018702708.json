@@ -1,0 +1,412 @@
+{
+    "careHome": "N",
+    "constituency": "Oldham East and Saddleworth",
+    "currentRatings": {
+        "overall": {
+            "keyQuestionRatings": [
+                {
+                    "name": "Safe",
+                    "rating": "Good",
+                    "reportDate": "2020-01-08",
+                    "reportLinkId": "7a91cd1f-0687-4404-bd83-340bae6b2261"
+                },
+                {
+                    "name": "Well-led",
+                    "rating": "Good",
+                    "reportDate": "2020-01-08",
+                    "reportLinkId": "7a91cd1f-0687-4404-bd83-340bae6b2261"
+                },
+                {
+                    "name": "Caring",
+                    "rating": "Good",
+                    "reportDate": "2020-01-08",
+                    "reportLinkId": "7a91cd1f-0687-4404-bd83-340bae6b2261"
+                },
+                {
+                    "name": "Responsive",
+                    "rating": "Good",
+                    "reportDate": "2020-01-08",
+                    "reportLinkId": "7a91cd1f-0687-4404-bd83-340bae6b2261"
+                },
+                {
+                    "name": "Effective",
+                    "rating": "Good",
+                    "reportDate": "2020-01-08",
+                    "reportLinkId": "7a91cd1f-0687-4404-bd83-340bae6b2261"
+                }
+            ],
+            "rating": "Good",
+            "reportDate": "2020-01-08",
+            "reportLinkId": "7a91cd1f-0687-4404-bd83-340bae6b2261"
+        },
+        "reportDate": "2020-01-08",
+        "serviceRatings": [
+            {
+                "name": "conditions",
+                "rating": "Good",
+                "reportDate": "2020-01-08",
+                "reportLinkId": "7a91cd1f-0687-4404-bd83-340bae6b2261"
+            },
+            {
+                "name": "mothers",
+                "rating": "Good",
+                "reportDate": "2020-01-08",
+                "reportLinkId": "7a91cd1f-0687-4404-bd83-340bae6b2261"
+            },
+            {
+                "name": "old",
+                "rating": "Good",
+                "reportDate": "2020-01-08",
+                "reportLinkId": "7a91cd1f-0687-4404-bd83-340bae6b2261"
+            },
+            {
+                "name": "population",
+                "rating": "Good",
+                "reportDate": "2020-01-08",
+                "reportLinkId": "7a91cd1f-0687-4404-bd83-340bae6b2261"
+            },
+            {
+                "name": "problems",
+                "rating": "Good",
+                "reportDate": "2020-01-08",
+                "reportLinkId": "7a91cd1f-0687-4404-bd83-340bae6b2261"
+            },
+            {
+                "name": "vulnerable",
+                "rating": "Good",
+                "reportDate": "2020-01-08",
+                "reportLinkId": "7a91cd1f-0687-4404-bd83-340bae6b2261"
+            }
+        ]
+    },
+    "deregistrationDate": "2022-08-17",
+    "dormancy": "N",
+    "gacServiceTypes": [
+        {
+            "description": "Doctors consultation service",
+            "name": "Doctors/Gps"
+        }
+    ],
+    "historicRatings": [
+        {
+            "overall": {
+                "keyQuestionRatings": [
+                    {
+                        "name": "Safe",
+                        "rating": "Requires improvement"
+                    },
+                    {
+                        "name": "Well-led",
+                        "rating": "Requires improvement"
+                    },
+                    {
+                        "name": "Caring",
+                        "rating": "Requires improvement"
+                    },
+                    {
+                        "name": "Responsive",
+                        "rating": "Requires improvement"
+                    },
+                    {
+                        "name": "Effective",
+                        "rating": "Requires improvement"
+                    }
+                ],
+                "rating": "Requires improvement"
+            },
+            "reportDate": "2019-01-25",
+            "reportLinkId": "c22a99d6-af2f-4076-b809-42637464f7ad",
+            "serviceRatings": [
+                {
+                    "name": "conditions",
+                    "rating": "Requires improvement"
+                },
+                {
+                    "name": "mothers",
+                    "rating": "Requires improvement"
+                },
+                {
+                    "name": "old",
+                    "rating": "Requires improvement"
+                },
+                {
+                    "name": "population",
+                    "rating": "Requires improvement"
+                },
+                {
+                    "name": "problems",
+                    "rating": "Requires improvement"
+                },
+                {
+                    "name": "vulnerable",
+                    "rating": "Requires improvement"
+                }
+            ]
+        },
+        {
+            "overall": {
+                "keyQuestionRatings": [
+                    {
+                        "name": "Safe",
+                        "rating": "Good"
+                    }
+                ],
+                "rating": "Good"
+            },
+            "reportDate": "2018-07-02",
+            "reportLinkId": "231219ad-216d-4e21-8b1f-21cb2e464402",
+            "serviceRatings": [
+                {
+                    "name": "conditions",
+                    "rating": "Good"
+                },
+                {
+                    "name": "mothers",
+                    "rating": "Good"
+                },
+                {
+                    "name": "old",
+                    "rating": "Good"
+                },
+                {
+                    "name": "population",
+                    "rating": "Good"
+                },
+                {
+                    "name": "problems",
+                    "rating": "Good"
+                },
+                {
+                    "name": "vulnerable",
+                    "rating": "Good"
+                }
+            ]
+        },
+        {
+            "overall": {
+                "keyQuestionRatings": [
+                    {
+                        "name": "Safe",
+                        "rating": "Requires improvement"
+                    },
+                    {
+                        "name": "Well-led",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Caring",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Responsive",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Effective",
+                        "rating": "Good"
+                    }
+                ],
+                "rating": "Good"
+            },
+            "reportDate": "2018-02-22",
+            "reportLinkId": "51101262-2fe2-46a4-b253-13e76e031942"
+        },
+        {
+            "overall": {
+                "rating": "Inspected but not rated"
+            },
+            "reportDate": "2017-10-25",
+            "reportLinkId": "3b7ef081-2d82-4f6a-8ad7-6a043b455c51"
+        },
+        {
+            "overall": {
+                "keyQuestionRatings": [
+                    {
+                        "name": "Safe",
+                        "rating": "Inadequate"
+                    },
+                    {
+                        "name": "Well-led",
+                        "rating": "Inadequate"
+                    },
+                    {
+                        "name": "Caring",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Responsive",
+                        "rating": "Requires improvement"
+                    },
+                    {
+                        "name": "Effective",
+                        "rating": "Inadequate"
+                    }
+                ],
+                "rating": "Inadequate"
+            },
+            "reportDate": "2017-07-06",
+            "reportLinkId": "f87ebf2e-581d-4292-961c-d38996ce13ff",
+            "serviceRatings": [
+                {
+                    "name": "conditions",
+                    "rating": "Inadequate"
+                },
+                {
+                    "name": "mothers",
+                    "rating": "Inadequate"
+                },
+                {
+                    "name": "old",
+                    "rating": "Inadequate"
+                },
+                {
+                    "name": "population",
+                    "rating": "Inadequate"
+                },
+                {
+                    "name": "problems",
+                    "rating": "Inadequate"
+                },
+                {
+                    "name": "vulnerable",
+                    "rating": "Inadequate"
+                }
+            ]
+        }
+    ],
+    "inspectionAreas": [
+        {
+            "inspectionAreaId": "conditions",
+            "inspectionAreaName": "People with long term conditions",
+            "status": "Active (Rated)"
+        },
+        {
+            "inspectionAreaId": "mothers",
+            "inspectionAreaName": "Families, children and young people",
+            "status": "Active (Rated)"
+        },
+        {
+            "inspectionAreaId": "old",
+            "inspectionAreaName": "Older people",
+            "status": "Active (Rated)"
+        },
+        {
+            "inspectionAreaId": "population",
+            "inspectionAreaName": "Working age people (including those recently retired and students)",
+            "status": "Active (Rated)"
+        },
+        {
+            "inspectionAreaId": "problems",
+            "inspectionAreaName": "People experiencing poor mental health (including people with dementia)",
+            "status": "Active (Rated)"
+        },
+        {
+            "inspectionAreaId": "vulnerable",
+            "inspectionAreaName": "People whose circumstances may make them vulnerable",
+            "status": "Active (Rated)"
+        }
+    ],
+    "inspectionCategories": [
+        {
+            "code": "P2",
+            "name": "GP Practices",
+            "primary": "true"
+        }
+    ],
+    "inspectionDirectorate": "Primary medical services",
+    "lastInspection": {
+        "date": "2019-12-06"
+    },
+    "lastReport": {
+        "publicationDate": "2020-01-08"
+    },
+    "localAuthority": "Oldham",
+    "locationId": "1-2018702708",
+    "locationTypes": [
+        {
+            "type": "GP Practice"
+        }
+    ],
+    "mainPhoneNumber": "01616521285",
+    "name": "Lees Medical Practice",
+    "numberOfBeds": 0,
+    "odsCcgCode": "00Y",
+    "odsCcgName": "NHS Greater Manchester Icb - 00Y",
+    "odsCode": "P85022",
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.5402808,
+    "onspdLongitude": -2.0748806,
+    "organisationType": "Location",
+    "postalAddressCounty": "Lancashire",
+    "postalAddressLine1": "Athens Way",
+    "postalAddressLine2": "Lees",
+    "postalAddressTownCity": "Oldham",
+    "postalCode": "OL4 3BP",
+    "providerId": "1-199785433",
+    "region": "North West",
+    "registrationDate": "2015-07-01",
+    "registrationStatus": "Deregistered",
+    "regulatedActivities": [],
+    "relationships": [
+        {
+            "reason": "Location Move",
+            "relatedLocationId": "1-565609400",
+            "relatedLocationName": "Lees Medical Practice",
+            "type": "HSCA Predecessor"
+        }
+    ],
+    "reports": [
+        {
+            "firstVisitDate": "2019-12-06",
+            "linkId": "7a91cd1f-0687-4404-bd83-340bae6b2261",
+            "reportDate": "2020-01-08",
+            "reportType": "Location",
+            "reportUri": "/reports/7a91cd1f-0687-4404-bd83-340bae6b2261?20210401131609"
+        },
+        {
+            "firstVisitDate": "2018-12-05",
+            "linkId": "c22a99d6-af2f-4076-b809-42637464f7ad",
+            "reportDate": "2019-01-25",
+            "reportType": "Location",
+            "reportUri": "/reports/c22a99d6-af2f-4076-b809-42637464f7ad?20210116170411"
+        },
+        {
+            "firstVisitDate": "2018-05-23",
+            "linkId": "231219ad-216d-4e21-8b1f-21cb2e464402",
+            "reportDate": "2018-07-02",
+            "reportType": "Location",
+            "reportUri": "/reports/231219ad-216d-4e21-8b1f-21cb2e464402?20210117175056"
+        },
+        {
+            "firstVisitDate": "2017-12-20",
+            "linkId": "51101262-2fe2-46a4-b253-13e76e031942",
+            "reportDate": "2018-02-22",
+            "reportType": "Location",
+            "reportUri": "/reports/51101262-2fe2-46a4-b253-13e76e031942?20210117194415"
+        },
+        {
+            "firstVisitDate": "2017-10-03",
+            "linkId": "3b7ef081-2d82-4f6a-8ad7-6a043b455c51",
+            "reportDate": "2017-10-25",
+            "reportType": "Location",
+            "reportUri": "/reports/3b7ef081-2d82-4f6a-8ad7-6a043b455c51?20210118005706"
+        },
+        {
+            "firstVisitDate": "2017-04-21",
+            "linkId": "f87ebf2e-581d-4292-961c-d38996ce13ff",
+            "reportDate": "2017-07-06",
+            "reportType": "Location",
+            "reportUri": "/reports/f87ebf2e-581d-4292-961c-d38996ce13ff?20210118233536"
+        }
+    ],
+    "specialisms": [
+        {
+            "name": "Services for everyone"
+        }
+    ],
+    "type": "Primary Medical Services",
+    "uprn": "422000124143"
+}

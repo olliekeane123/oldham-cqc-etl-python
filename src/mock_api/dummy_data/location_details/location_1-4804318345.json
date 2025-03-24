@@ -1,0 +1,349 @@
+{
+    "careHome": "N",
+    "constituency": "Oldham East and Saddleworth",
+    "currentRatings": {
+        "overall": {
+            "keyQuestionRatings": [
+                {
+                    "name": "Safe",
+                    "rating": "Inadequate",
+                    "reportDate": "2022-01-20",
+                    "reportLinkId": "67d79506-a06e-49e7-ac76-57ad33ecaa07"
+                },
+                {
+                    "name": "Well-led",
+                    "rating": "Inadequate",
+                    "reportDate": "2022-01-20",
+                    "reportLinkId": "67d79506-a06e-49e7-ac76-57ad33ecaa07"
+                },
+                {
+                    "name": "Caring",
+                    "rating": "Good",
+                    "reportDate": "2019-01-29",
+                    "reportLinkId": "48d63a5a-beff-48d5-80d3-2ebdf029c400"
+                },
+                {
+                    "name": "Responsive",
+                    "rating": "Insufficient evidence to rate",
+                    "reportDate": "2022-01-20",
+                    "reportLinkId": "67d79506-a06e-49e7-ac76-57ad33ecaa07"
+                },
+                {
+                    "name": "Effective",
+                    "rating": "Inspected but not rated",
+                    "reportDate": "2022-01-20",
+                    "reportLinkId": "67d79506-a06e-49e7-ac76-57ad33ecaa07"
+                }
+            ],
+            "rating": "Inadequate",
+            "reportDate": "2022-01-20",
+            "reportLinkId": "67d79506-a06e-49e7-ac76-57ad33ecaa07"
+        },
+        "reportDate": "2022-01-20",
+        "serviceRatings": [
+            {
+                "keyQuestionRatings": [
+                    {
+                        "name": "Safe",
+                        "rating": "Inadequate"
+                    },
+                    {
+                        "name": "Well-led",
+                        "rating": "Inadequate"
+                    }
+                ],
+                "name": "diagnostic",
+                "rating": "Inadequate",
+                "reportDate": "2021-09-10",
+                "reportLinkId": "efaa4858-4efa-4de8-8d9a-b52db95ad797"
+            },
+            {
+                "keyQuestionRatings": [
+                    {
+                        "name": "Effective",
+                        "rating": "Inspected but not rated"
+                    },
+                    {
+                        "name": "Responsive",
+                        "rating": "Insufficient evidence to rate"
+                    },
+                    {
+                        "name": "Safe",
+                        "rating": "Inadequate"
+                    },
+                    {
+                        "name": "Well-led",
+                        "rating": "Inadequate"
+                    }
+                ],
+                "name": "diagnostics",
+                "rating": "Inadequate",
+                "reportDate": "2022-01-20",
+                "reportLinkId": "67d79506-a06e-49e7-ac76-57ad33ecaa07"
+            }
+        ]
+    },
+    "deregistrationDate": "2022-02-10",
+    "dormancy": "N",
+    "gacServiceTypes": [
+        {
+            "description": "Diagnostic and/or screening service",
+            "name": "Diagnosis/screening"
+        }
+    ],
+    "historicRatings": [
+        {
+            "overall": {
+                "keyQuestionRatings": [
+                    {
+                        "name": "Safe",
+                        "rating": "Inadequate"
+                    },
+                    {
+                        "name": "Well-led",
+                        "rating": "Inadequate"
+                    },
+                    {
+                        "name": "Responsive",
+                        "rating": "Insufficient evidence to rate"
+                    },
+                    {
+                        "name": "Effective",
+                        "rating": "Inspected but not rated"
+                    }
+                ],
+                "rating": "Inadequate"
+            },
+            "reportDate": "2021-10-27",
+            "reportLinkId": "8a3224c0-9a82-4282-bf35-6a62741ab400",
+            "serviceRatings": [
+                {
+                    "keyQuestionRatings": [
+                        {
+                            "name": "Effective",
+                            "rating": "Inspected but not rated"
+                        },
+                        {
+                            "name": "Responsive",
+                            "rating": "Insufficient evidence to rate"
+                        },
+                        {
+                            "name": "Safe",
+                            "rating": "Inadequate"
+                        },
+                        {
+                            "name": "Well-led",
+                            "rating": "Inadequate"
+                        }
+                    ],
+                    "name": "diagnostics",
+                    "rating": "Inadequate"
+                }
+            ]
+        },
+        {
+            "overall": {
+                "keyQuestionRatings": [
+                    {
+                        "name": "Safe",
+                        "rating": "Inadequate"
+                    },
+                    {
+                        "name": "Well-led",
+                        "rating": "Inadequate"
+                    }
+                ],
+                "rating": "Inadequate"
+            },
+            "reportDate": "2021-09-10",
+            "reportLinkId": "efaa4858-4efa-4de8-8d9a-b52db95ad797"
+        },
+        {
+            "overall": {
+                "keyQuestionRatings": [
+                    {
+                        "name": "Safe",
+                        "rating": "Inadequate"
+                    },
+                    {
+                        "name": "Well-led",
+                        "rating": "Inadequate"
+                    },
+                    {
+                        "name": "Effective",
+                        "rating": "Inspected but not rated"
+                    }
+                ],
+                "rating": "Inadequate"
+            },
+            "reportDate": "2021-07-19",
+            "reportLinkId": "b483c878-c6b1-4382-bcb5-361831b4620d",
+            "serviceRatings": [
+                {
+                    "keyQuestionRatings": [
+                        {
+                            "name": "Effective",
+                            "rating": "Inspected but not rated"
+                        },
+                        {
+                            "name": "Safe",
+                            "rating": "Inadequate"
+                        },
+                        {
+                            "name": "Well-led",
+                            "rating": "Inadequate"
+                        }
+                    ],
+                    "name": "diagnostic",
+                    "rating": "Inadequate"
+                }
+            ]
+        },
+        {
+            "overall": {
+                "keyQuestionRatings": [
+                    {
+                        "name": "Safe",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Well-led",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Responsive",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Effective",
+                        "rating": "Inspected but not rated"
+                    }
+                ],
+                "rating": "Good"
+            },
+            "reportDate": "2019-01-29",
+            "reportLinkId": "48d63a5a-beff-48d5-80d3-2ebdf029c400",
+            "serviceRatings": [
+                {
+                    "keyQuestionRatings": [
+                        {
+                            "name": "Caring",
+                            "rating": "Good"
+                        },
+                        {
+                            "name": "Effective",
+                            "rating": "Inspected but not rated"
+                        },
+                        {
+                            "name": "Responsive",
+                            "rating": "Good"
+                        },
+                        {
+                            "name": "Safe",
+                            "rating": "Good"
+                        },
+                        {
+                            "name": "Well-led",
+                            "rating": "Good"
+                        }
+                    ],
+                    "name": "diagnostic",
+                    "rating": "Good"
+                }
+            ]
+        }
+    ],
+    "inspectionAreas": [
+        {
+            "inspectionAreaId": "diagnostic",
+            "inspectionAreaName": "Diagnostic imaging",
+            "status": "Active (Rated)"
+        },
+        {
+            "inspectionAreaId": "diagnostics",
+            "inspectionAreaName": "Diagnostic and screening services",
+            "status": "Active (Rated)"
+        }
+    ],
+    "inspectionCategories": [
+        {
+            "code": "H4",
+            "name": "Acute hospital - Independent specialist",
+            "primary": "true"
+        }
+    ],
+    "inspectionDirectorate": "Hospitals",
+    "lastInspection": {
+        "date": "2021-11-16"
+    },
+    "lastReport": {
+        "publicationDate": "2022-01-20"
+    },
+    "localAuthority": "Oldham",
+    "locationId": "1-4804318345",
+    "locationTypes": [],
+    "mainPhoneNumber": "01613378086",
+    "name": "Mediscan Centre",
+    "numberOfBeds": 0,
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.5410203,
+    "onspdLongitude": -2.1069626,
+    "organisationType": "Location",
+    "postalAddressLine1": "167 Union Street",
+    "postalAddressTownCity": "Oldham",
+    "postalCode": "OL1 1DU",
+    "providerId": "1-382929310",
+    "region": "North West",
+    "registrationDate": "2018-02-02",
+    "registrationStatus": "Deregistered",
+    "regulatedActivities": [],
+    "relationships": [],
+    "reports": [
+        {
+            "firstVisitDate": "2021-11-16",
+            "linkId": "67d79506-a06e-49e7-ac76-57ad33ecaa07",
+            "reportDate": "2022-01-20",
+            "reportType": "Location",
+            "reportUri": "/reports/67d79506-a06e-49e7-ac76-57ad33ecaa07?20220120100037"
+        },
+        {
+            "firstVisitDate": "2021-08-17",
+            "linkId": "8a3224c0-9a82-4282-bf35-6a62741ab400",
+            "reportDate": "2021-10-27",
+            "reportType": "Location",
+            "reportUri": "/reports/8a3224c0-9a82-4282-bf35-6a62741ab400?20211027140049"
+        },
+        {
+            "firstVisitDate": "2021-06-10",
+            "linkId": "efaa4858-4efa-4de8-8d9a-b52db95ad797",
+            "reportDate": "2021-09-10",
+            "reportType": "Location",
+            "reportUri": "/reports/efaa4858-4efa-4de8-8d9a-b52db95ad797?20210910090037"
+        },
+        {
+            "firstVisitDate": "2021-04-06",
+            "linkId": "b483c878-c6b1-4382-bcb5-361831b4620d",
+            "reportDate": "2021-07-19",
+            "reportType": "Location",
+            "reportUri": "/reports/b483c878-c6b1-4382-bcb5-361831b4620d?20210719070317"
+        },
+        {
+            "firstVisitDate": "2018-10-24",
+            "linkId": "48d63a5a-beff-48d5-80d3-2ebdf029c400",
+            "reportDate": "2019-01-29",
+            "reportType": "Location",
+            "reportUri": "/reports/48d63a5a-beff-48d5-80d3-2ebdf029c400?20210116165337"
+        }
+    ],
+    "specialisms": [
+        {
+            "name": "Services for everyone"
+        }
+    ],
+    "type": "Independent Healthcare Org",
+    "uprn": "422000069255",
+    "website": "www.mediscanservices.co.uk"
+}

@@ -1,0 +1,65 @@
+{
+    "alsoKnownAs": "Garside & Riaz",
+    "careHome": "N",
+    "constituency": "Oldham East and Saddleworth",
+    "deregistrationDate": "2016-08-03",
+    "dormancy": "N",
+    "gacServiceTypes": [
+        {
+            "description": "Dental service",
+            "name": "Dentist"
+        }
+    ],
+    "inspectionAreas": [],
+    "inspectionCategories": [
+        {
+            "code": "P1",
+            "name": "Dentists",
+            "primary": "true"
+        }
+    ],
+    "inspectionDirectorate": "Primary medical services",
+    "localAuthority": "Oldham",
+    "locationId": "1-2298989337",
+    "locationTypes": [],
+    "name": "Mr Michael Garside - High Street Lees",
+    "numberOfBeds": 0,
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.5378634,
+    "onspdLongitude": -2.0740616,
+    "organisationType": "Location",
+    "postalAddressCounty": "Lancashire",
+    "postalAddressLine1": "36 High Street",
+    "postalAddressLine2": "Lees",
+    "postalAddressTownCity": "Oldham",
+    "postalCode": "OL4 5AQ",
+    "providerId": "1-2245733821",
+    "region": "North West",
+    "registrationDate": "2016-02-02",
+    "registrationStatus": "Deregistered",
+    "regulatedActivities": [],
+    "relationships": [
+        {
+            "reason": "Legal Entity Change",
+            "relatedLocationId": "1-2778332409",
+            "relatedLocationName": "Harmony Dental Spa",
+            "type": "HSCA Successor"
+        },
+        {
+            "reason": "Legal Entity Change",
+            "relatedLocationId": "1-188693562",
+            "relatedLocationName": "Mr Michael Garside - High Street Lees",
+            "type": "HSCA Predecessor"
+        }
+    ],
+    "specialisms": [
+        {
+            "name": "Services for everyone"
+        }
+    ],
+    "type": "Primary Dental Care",
+    "uprn": "422000040625"
+}

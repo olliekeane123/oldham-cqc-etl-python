@@ -1,0 +1,208 @@
+{
+    "careHome": "N",
+    "constituency": "Oldham East and Saddleworth",
+    "currentRatings": {
+        "overall": {
+            "keyQuestionRatings": [
+                {
+                    "name": "Safe",
+                    "rating": "Requires improvement",
+                    "reportDate": "2023-10-26",
+                    "reportLinkId": "5ff206b4-0d46-412a-bf29-cafce817ab08"
+                },
+                {
+                    "name": "Well-led",
+                    "rating": "Requires improvement",
+                    "reportDate": "2023-10-26",
+                    "reportLinkId": "5ff206b4-0d46-412a-bf29-cafce817ab08"
+                },
+                {
+                    "name": "Caring",
+                    "rating": "Requires improvement",
+                    "reportDate": "2023-10-26",
+                    "reportLinkId": "5ff206b4-0d46-412a-bf29-cafce817ab08"
+                },
+                {
+                    "name": "Responsive",
+                    "rating": "Requires improvement",
+                    "reportDate": "2023-10-26",
+                    "reportLinkId": "5ff206b4-0d46-412a-bf29-cafce817ab08"
+                },
+                {
+                    "name": "Effective",
+                    "rating": "Requires improvement",
+                    "reportDate": "2023-10-26",
+                    "reportLinkId": "5ff206b4-0d46-412a-bf29-cafce817ab08"
+                }
+            ],
+            "rating": "Requires improvement",
+            "reportDate": "2023-10-26",
+            "reportLinkId": "5ff206b4-0d46-412a-bf29-cafce817ab08"
+        },
+        "reportDate": "2023-10-26"
+    },
+    "dormancy": "N",
+    "gacServiceTypes": [
+        {
+            "description": "Doctors consultation service",
+            "name": "Doctors/Gps"
+        }
+    ],
+    "historicRatings": [
+        {
+            "overall": {
+                "keyQuestionRatings": [
+                    {
+                        "name": "Safe",
+                        "rating": "Requires improvement"
+                    },
+                    {
+                        "name": "Well-led",
+                        "rating": "Requires improvement"
+                    },
+                    {
+                        "name": "Caring",
+                        "rating": "Requires improvement"
+                    },
+                    {
+                        "name": "Responsive",
+                        "rating": "Requires improvement"
+                    },
+                    {
+                        "name": "Effective",
+                        "rating": "Requires improvement"
+                    }
+                ],
+                "rating": "Requires improvement"
+            },
+            "reportDate": "2022-11-22",
+            "reportLinkId": "df7872c6-9b24-4ba1-8c20-8c684f914d02"
+        }
+    ],
+    "inspectionAreas": [],
+    "inspectionCategories": [
+        {
+            "code": "P2",
+            "name": "GP Practices",
+            "primary": "true"
+        }
+    ],
+    "inspectionDirectorate": "Primary medical services",
+    "lastInspection": {
+        "date": "2023-08-29"
+    },
+    "lastReport": {
+        "publicationDate": "2023-10-26"
+    },
+    "localAuthority": "Oldham",
+    "locationId": "1-12783302204",
+    "locationTypes": [
+        {
+            "type": "GP Practice"
+        }
+    ],
+    "mainPhoneNumber": "01616521285",
+    "name": "Lees Medical Practice",
+    "numberOfBeds": 0,
+    "odsCcgCode": "00Y",
+    "odsCcgName": "NHS Greater Manchester Icb - 00Y",
+    "odsCode": "P85022",
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.5402808,
+    "onspdLongitude": -2.0748806,
+    "organisationType": "Location",
+    "postalAddressCounty": "Lancashire",
+    "postalAddressLine1": "Athens Way",
+    "postalAddressLine2": "Lees",
+    "postalAddressTownCity": "Oldham",
+    "postalCode": "OL4 3BP",
+    "providerId": "1-2072110897",
+    "region": "North West",
+    "registrationDate": "2022-03-17",
+    "registrationStatus": "Registered",
+    "regulatedActivities": [
+        {
+            "code": "RA11",
+            "contacts": [
+                {
+                    "personFamilyName": "Jalal",
+                    "personGivenName": "Zia",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Dr"
+                }
+            ],
+            "name": "Maternity and midwifery services"
+        },
+        {
+            "code": "RA5",
+            "contacts": [
+                {
+                    "personFamilyName": "Jalal",
+                    "personGivenName": "Zia",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Dr"
+                }
+            ],
+            "name": "Treatment of disease, disorder or injury"
+        },
+        {
+            "code": "RA7",
+            "contacts": [
+                {
+                    "personFamilyName": "Jalal",
+                    "personGivenName": "Zia",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Dr"
+                }
+            ],
+            "name": "Surgical procedures"
+        },
+        {
+            "code": "RA8",
+            "contacts": [
+                {
+                    "personFamilyName": "Jalal",
+                    "personGivenName": "Zia",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Dr"
+                }
+            ],
+            "name": "Diagnostic and screening procedures"
+        }
+    ],
+    "relationships": [],
+    "reports": [
+        {
+            "firstVisitDate": "2023-08-25",
+            "linkId": "5ff206b4-0d46-412a-bf29-cafce817ab08",
+            "reportDate": "2023-10-26",
+            "reportType": "Location",
+            "reportUri": "/reports/5ff206b4-0d46-412a-bf29-cafce817ab08?20231026070047"
+        },
+        {
+            "firstVisitDate": "2022-09-07",
+            "linkId": "df7872c6-9b24-4ba1-8c20-8c684f914d02",
+            "reportDate": "2022-11-22",
+            "reportType": "Location",
+            "reportUri": "/reports/df7872c6-9b24-4ba1-8c20-8c684f914d02?20221122080604"
+        }
+    ],
+    "specialisms": [
+        {
+            "name": "Services for everyone"
+        }
+    ],
+    "type": "Primary Medical Services",
+    "uprn": "422000124143"
+}

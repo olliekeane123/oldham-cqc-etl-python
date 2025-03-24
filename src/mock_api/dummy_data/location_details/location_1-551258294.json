@@ -1,0 +1,267 @@
+{
+    "careHome": "N",
+    "constituency": "Oldham West and Royton",
+    "currentRatings": {
+        "overall": {
+            "keyQuestionRatings": [
+                {
+                    "name": "Safe",
+                    "rating": "Good",
+                    "reportDate": "2024-01-19",
+                    "reportLinkId": "89510cef-1f23-4adb-99e0-1d90f1ed1aae"
+                },
+                {
+                    "name": "Well-led",
+                    "rating": "Good",
+                    "reportDate": "2024-01-19",
+                    "reportLinkId": "89510cef-1f23-4adb-99e0-1d90f1ed1aae"
+                },
+                {
+                    "name": "Caring",
+                    "rating": "Good",
+                    "reportDate": "2024-01-19",
+                    "reportLinkId": "89510cef-1f23-4adb-99e0-1d90f1ed1aae"
+                },
+                {
+                    "name": "Responsive",
+                    "rating": "Requires improvement",
+                    "reportDate": "2024-01-19",
+                    "reportLinkId": "89510cef-1f23-4adb-99e0-1d90f1ed1aae"
+                },
+                {
+                    "name": "Effective",
+                    "rating": "Good",
+                    "reportDate": "2024-01-19",
+                    "reportLinkId": "89510cef-1f23-4adb-99e0-1d90f1ed1aae"
+                }
+            ],
+            "rating": "Good",
+            "reportDate": "2024-01-19",
+            "reportLinkId": "89510cef-1f23-4adb-99e0-1d90f1ed1aae"
+        },
+        "reportDate": "2024-01-19"
+    },
+    "dormancy": "N",
+    "gacServiceTypes": [
+        {
+            "description": "Doctors consultation service",
+            "name": "Doctors/Gps"
+        }
+    ],
+    "historicRatings": [
+        {
+            "overall": {
+                "keyQuestionRatings": [
+                    {
+                        "name": "Safe",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Well-led",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Caring",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Responsive",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Effective",
+                        "rating": "Good"
+                    }
+                ],
+                "rating": "Good"
+            },
+            "reportDate": "2016-05-11",
+            "reportLinkId": "d8fd82f4-3790-4b0e-987a-6ae881b7c366",
+            "serviceRatings": [
+                {
+                    "name": "conditions",
+                    "rating": "Good"
+                },
+                {
+                    "name": "mothers",
+                    "rating": "Good"
+                },
+                {
+                    "name": "old",
+                    "rating": "Outstanding"
+                },
+                {
+                    "name": "population",
+                    "rating": "Good"
+                },
+                {
+                    "name": "problems",
+                    "rating": "Good"
+                },
+                {
+                    "name": "vulnerable",
+                    "rating": "Good"
+                }
+            ]
+        }
+    ],
+    "inspectionAreas": [],
+    "inspectionCategories": [
+        {
+            "code": "P2",
+            "name": "GP Practices",
+            "primary": "true"
+        }
+    ],
+    "inspectionDirectorate": "Primary medical services",
+    "lastInspection": {
+        "date": "2023-12-15"
+    },
+    "lastReport": {
+        "publicationDate": "2024-01-19"
+    },
+    "localAuthority": "Oldham",
+    "locationId": "1-551258294",
+    "locationTypes": [
+        {
+            "type": "GP Practice"
+        }
+    ],
+    "mainPhoneNumber": "0161785924",
+    "name": "CH Medical",
+    "numberOfBeds": 0,
+    "odsCcgCode": "00Y",
+    "odsCcgName": "NHS Greater Manchester Icb - 00Y",
+    "odsCode": "P85011",
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.5317718,
+    "onspdLongitude": -2.1469617,
+    "organisationType": "Location",
+    "postalAddressCounty": "Lancashire",
+    "postalAddressLine1": "Fields New Road Primary Care Centre",
+    "postalAddressLine2": "Chadderton",
+    "postalAddressTownCity": "Oldham",
+    "postalCode": "OL9 8NH",
+    "providerId": "1-199785325",
+    "region": "North West",
+    "registrationDate": "2013-04-01",
+    "registrationStatus": "Registered",
+    "regulatedActivities": [
+        {
+            "code": "RA11",
+            "contacts": [
+                {
+                    "personFamilyName": "Francis",
+                    "personGivenName": "Hollie Louisa",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Dr"
+                },
+                {
+                    "personFamilyName": "Gill",
+                    "personGivenName": "Naseem Tariq",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Dr"
+                }
+            ],
+            "name": "Maternity and midwifery services"
+        },
+        {
+            "code": "RA5",
+            "contacts": [
+                {
+                    "personFamilyName": "Francis",
+                    "personGivenName": "Hollie Louisa",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Dr"
+                },
+                {
+                    "personFamilyName": "Gill",
+                    "personGivenName": "Naseem Tariq",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Dr"
+                }
+            ],
+            "name": "Treatment of disease, disorder or injury"
+        },
+        {
+            "code": "RA7",
+            "contacts": [
+                {
+                    "personFamilyName": "Francis",
+                    "personGivenName": "Hollie Louisa",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Dr"
+                },
+                {
+                    "personFamilyName": "Gill",
+                    "personGivenName": "Naseem Tariq",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Dr"
+                }
+            ],
+            "name": "Surgical procedures"
+        },
+        {
+            "code": "RA8",
+            "contacts": [
+                {
+                    "personFamilyName": "Francis",
+                    "personGivenName": "Hollie Louisa",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Dr"
+                },
+                {
+                    "personFamilyName": "Gill",
+                    "personGivenName": "Naseem Tariq",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Dr"
+                }
+            ],
+            "name": "Diagnostic and screening procedures"
+        }
+    ],
+    "relationships": [],
+    "reports": [
+        {
+            "firstVisitDate": "2023-12-15",
+            "linkId": "89510cef-1f23-4adb-99e0-1d90f1ed1aae",
+            "reportDate": "2024-01-19",
+            "reportType": "Location",
+            "reportUri": "/reports/89510cef-1f23-4adb-99e0-1d90f1ed1aae?20240119080045"
+        },
+        {
+            "firstVisitDate": "2016-04-15",
+            "linkId": "d8fd82f4-3790-4b0e-987a-6ae881b7c366",
+            "reportDate": "2016-05-11",
+            "reportType": "Location",
+            "reportUri": "/reports/d8fd82f4-3790-4b0e-987a-6ae881b7c366?20210123144619"
+        }
+    ],
+    "specialisms": [
+        {
+            "name": "Services for everyone"
+        }
+    ],
+    "type": "Primary Medical Services",
+    "uprn": "422000110523",
+    "website": "www.ch-medical.co.uk"
+}

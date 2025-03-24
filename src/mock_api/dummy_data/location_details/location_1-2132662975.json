@@ -1,0 +1,62 @@
+{
+    "brandId": "BD388",
+    "brandName": "BRAND Ravat & Ray Dental Care",
+    "careHome": "N",
+    "constituency": "Oldham West and Royton",
+    "deregistrationDate": "2019-05-23",
+    "dormancy": "N",
+    "gacServiceTypes": [
+        {
+            "description": "Dental service",
+            "name": "Dentist"
+        }
+    ],
+    "inspectionAreas": [],
+    "inspectionCategories": [
+        {
+            "code": "P1",
+            "name": "Dentists",
+            "primary": "true"
+        }
+    ],
+    "inspectionDirectorate": "Primary medical services",
+    "localAuthority": "Oldham",
+    "locationId": "1-2132662975",
+    "locationTypes": [],
+    "mainPhoneNumber": "01616336193",
+    "name": "Ravat & Ray Dental Care (Chadderton) Ltd",
+    "numberOfBeds": 0,
+    "odsCode": "V13389",
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.5317557,
+    "onspdLongitude": -2.1469634,
+    "organisationType": "Location",
+    "postalAddressCounty": "Greater Manchester",
+    "postalAddressLine1": "Fields New Road Primary Care Centre",
+    "postalAddressTownCity": "Oldham",
+    "postalCode": "OL9 8NH",
+    "providerId": "1-2091782724",
+    "region": "North West",
+    "registrationDate": "2015-08-12",
+    "registrationStatus": "Deregistered",
+    "regulatedActivities": [],
+    "relationships": [
+        {
+            "reason": "Legal Entity Change",
+            "relatedLocationId": "1-185554207",
+            "relatedLocationName": "Ravat & Ray Dental Care - Chadderton",
+            "type": "HSCA Predecessor"
+        }
+    ],
+    "specialisms": [
+        {
+            "name": "Services for everyone"
+        }
+    ],
+    "type": "Primary Dental Care",
+    "uprn": "422000110523",
+    "website": "www.ravatandray.com"
+}

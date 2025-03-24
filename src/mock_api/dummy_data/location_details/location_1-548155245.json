@@ -1,0 +1,249 @@
+{
+    "careHome": "N",
+    "constituency": "Oldham East and Saddleworth",
+    "currentRatings": {
+        "overall": {
+            "keyQuestionRatings": [
+                {
+                    "name": "Safe",
+                    "rating": "Requires improvement",
+                    "reportDate": "2022-11-30",
+                    "reportLinkId": "4069564f-5994-4ec4-b0b3-c23cc71a540a"
+                },
+                {
+                    "name": "Well-led",
+                    "rating": "Good",
+                    "reportDate": "2022-11-30",
+                    "reportLinkId": "4069564f-5994-4ec4-b0b3-c23cc71a540a"
+                },
+                {
+                    "name": "Caring",
+                    "rating": "Good",
+                    "reportDate": "2022-11-30",
+                    "reportLinkId": "4069564f-5994-4ec4-b0b3-c23cc71a540a"
+                },
+                {
+                    "name": "Responsive",
+                    "rating": "Good",
+                    "reportDate": "2022-11-30",
+                    "reportLinkId": "4069564f-5994-4ec4-b0b3-c23cc71a540a"
+                },
+                {
+                    "name": "Effective",
+                    "rating": "Good",
+                    "reportDate": "2022-11-30",
+                    "reportLinkId": "4069564f-5994-4ec4-b0b3-c23cc71a540a"
+                }
+            ],
+            "rating": "Good",
+            "reportDate": "2022-11-30",
+            "reportLinkId": "4069564f-5994-4ec4-b0b3-c23cc71a540a"
+        },
+        "reportDate": "2022-11-30"
+    },
+    "dormancy": "N",
+    "gacServiceTypes": [
+        {
+            "description": "Doctors consultation service",
+            "name": "Doctors/Gps"
+        }
+    ],
+    "historicRatings": [
+        {
+            "overall": {
+                "keyQuestionRatings": [
+                    {
+                        "name": "Safe",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Well-led",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Caring",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Responsive",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Effective",
+                        "rating": "Good"
+                    }
+                ],
+                "rating": "Good"
+            },
+            "reportDate": "2016-08-09",
+            "reportLinkId": "6a5e59bc-decf-4fc6-bb64-8dd631d867ea",
+            "serviceRatings": [
+                {
+                    "name": "conditions",
+                    "rating": "Good"
+                },
+                {
+                    "name": "mothers",
+                    "rating": "Good"
+                },
+                {
+                    "name": "old",
+                    "rating": "Good"
+                },
+                {
+                    "name": "population",
+                    "rating": "Good"
+                },
+                {
+                    "name": "problems",
+                    "rating": "Good"
+                },
+                {
+                    "name": "vulnerable",
+                    "rating": "Good"
+                }
+            ]
+        }
+    ],
+    "inspectionAreas": [],
+    "inspectionCategories": [
+        {
+            "code": "P2",
+            "name": "GP Practices",
+            "primary": "true"
+        }
+    ],
+    "inspectionDirectorate": "Primary medical services",
+    "lastInspection": {
+        "date": "2022-10-16"
+    },
+    "lastReport": {
+        "publicationDate": "2022-11-30"
+    },
+    "localAuthority": "Oldham",
+    "locationId": "1-548155245",
+    "locationTypes": [
+        {
+            "type": "GP Practice"
+        }
+    ],
+    "mainPhoneNumber": "01706664250",
+    "name": "Oak Gables Medical Practice",
+    "numberOfBeds": 0,
+    "odsCcgCode": "00Y",
+    "odsCcgName": "NHS Greater Manchester Icb - 00Y",
+    "odsCode": "P85017",
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.5748331,
+    "onspdLongitude": -2.0959915,
+    "organisationType": "Location",
+    "postalAddressCounty": "Lancashire",
+    "postalAddressLine1": "The Oak Gables Partnership, Crompton Health Centre",
+    "postalAddressLine2": "High Street, Shaw",
+    "postalAddressTownCity": "Oldham",
+    "postalCode": "OL2 8ST",
+    "providerId": "1-199785383",
+    "region": "North West",
+    "registrationDate": "2013-04-01",
+    "registrationStatus": "Registered",
+    "regulatedActivities": [
+        {
+            "code": "RA11",
+            "contacts": [
+                {
+                    "personFamilyName": "Woodhouse",
+                    "personGivenName": "Mark",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Dr"
+                }
+            ],
+            "name": "Maternity and midwifery services"
+        },
+        {
+            "code": "RA15",
+            "contacts": [
+                {
+                    "personFamilyName": "Woodhouse",
+                    "personGivenName": "Mark",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Dr"
+                }
+            ],
+            "name": "Family planning"
+        },
+        {
+            "code": "RA5",
+            "contacts": [
+                {
+                    "personFamilyName": "Woodhouse",
+                    "personGivenName": "Mark",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Dr"
+                }
+            ],
+            "name": "Treatment of disease, disorder or injury"
+        },
+        {
+            "code": "RA7",
+            "contacts": [
+                {
+                    "personFamilyName": "Woodhouse",
+                    "personGivenName": "Mark",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Dr"
+                }
+            ],
+            "name": "Surgical procedures"
+        },
+        {
+            "code": "RA8",
+            "contacts": [
+                {
+                    "personFamilyName": "Woodhouse",
+                    "personGivenName": "Mark",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Dr"
+                }
+            ],
+            "name": "Diagnostic and screening procedures"
+        }
+    ],
+    "relationships": [],
+    "reports": [
+        {
+            "firstVisitDate": "2022-10-16",
+            "linkId": "4069564f-5994-4ec4-b0b3-c23cc71a540a",
+            "reportDate": "2022-11-30",
+            "reportType": "Location",
+            "reportUri": "/reports/4069564f-5994-4ec4-b0b3-c23cc71a540a?20221130080656"
+        },
+        {
+            "firstVisitDate": "2016-07-15",
+            "linkId": "6a5e59bc-decf-4fc6-bb64-8dd631d867ea",
+            "reportDate": "2016-08-09",
+            "reportType": "Location",
+            "reportUri": "/reports/6a5e59bc-decf-4fc6-bb64-8dd631d867ea?20210123021559"
+        }
+    ],
+    "specialisms": [
+        {
+            "name": "Services for everyone"
+        }
+    ],
+    "type": "Primary Medical Services",
+    "uprn": "100012736966",
+    "website": "www.theoakgablespartnership.co.uk"
+}

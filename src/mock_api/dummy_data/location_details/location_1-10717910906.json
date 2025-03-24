@@ -1,0 +1,96 @@
+{
+    "brandId": "BD560",
+    "brandName": "BRAND Rodericks Dental Partners",
+    "careHome": "N",
+    "constituency": "Oldham West and Royton",
+    "dormancy": "N",
+    "gacServiceTypes": [
+        {
+            "description": "Dental service",
+            "name": "Dentist"
+        }
+    ],
+    "inspectionAreas": [],
+    "inspectionCategories": [
+        {
+            "code": "P1",
+            "name": "Dentists",
+            "primary": "true"
+        }
+    ],
+    "inspectionDirectorate": "Primary medical services",
+    "localAuthority": "Oldham",
+    "locationId": "1-10717910906",
+    "locationTypes": [],
+    "mainPhoneNumber": "01616336193",
+    "name": "Ravat & Ray Dental Care, Oldham",
+    "numberOfBeds": 0,
+    "odsCode": "V136897",
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.5210592,
+    "onspdLongitude": -2.1026876,
+    "organisationType": "Location",
+    "postalAddressLine1": "Tanhill Lane",
+    "postalAddressTownCity": "Oldham",
+    "postalCode": "OL8 2QL",
+    "providerId": "1-10363655247",
+    "region": "North West",
+    "registrationDate": "2021-04-22",
+    "registrationStatus": "Registered",
+    "regulatedActivities": [
+        {
+            "code": "RA5",
+            "contacts": [
+                {
+                    "personFamilyName": "Bell",
+                    "personGivenName": "Rebecca Theresa",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Miss"
+                }
+            ],
+            "name": "Treatment of disease, disorder or injury"
+        },
+        {
+            "code": "RA7",
+            "contacts": [
+                {
+                    "personFamilyName": "Bell",
+                    "personGivenName": "Rebecca Theresa",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Miss"
+                }
+            ],
+            "name": "Surgical procedures"
+        },
+        {
+            "code": "RA8",
+            "contacts": [
+                {
+                    "personFamilyName": "Bell",
+                    "personGivenName": "Rebecca Theresa",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Miss"
+                }
+            ],
+            "name": "Diagnostic and screening procedures"
+        }
+    ],
+    "relationships": [],
+    "specialisms": [
+        {
+            "name": "Services for everyone"
+        }
+    ],
+    "type": "Primary Dental Care",
+    "uprn": "422000127146",
+    "website": "www.ravatandray.com"
+}

@@ -1,0 +1,89 @@
+{
+    "careHome": "N",
+    "constituency": "Oldham East and Saddleworth",
+    "currentRatings": {
+        "overall": {
+            "keyQuestionRatings": [
+                {
+                    "name": "Safe",
+                    "rating": "No published rating"
+                },
+                {
+                    "name": "Well-led",
+                    "rating": "No published rating"
+                },
+                {
+                    "name": "Caring",
+                    "rating": "No published rating"
+                },
+                {
+                    "name": "Responsive",
+                    "rating": "No published rating"
+                },
+                {
+                    "name": "Effective",
+                    "rating": "No published rating"
+                }
+            ],
+            "rating": "No published rating"
+        }
+    },
+    "deregistrationDate": "2014-06-27",
+    "dormancy": "N",
+    "gacServiceTypes": [
+        {
+            "description": "Dental service",
+            "name": "Dentist"
+        }
+    ],
+    "inspectionAreas": [],
+    "inspectionCategories": [
+        {
+            "code": "P1",
+            "name": "Dentists",
+            "primary": "true"
+        }
+    ],
+    "inspectionDirectorate": "Primary medical services",
+    "lastInspection": {
+        "date": "2012-03-20"
+    },
+    "localAuthority": "Oldham",
+    "locationId": "1-233520989",
+    "locationTypes": [],
+    "mainPhoneNumber": "01613448179",
+    "name": "Moorside Dental Practice",
+    "numberOfBeds": 0,
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.561455,
+    "onspdLongitude": -2.076954,
+    "organisationType": "Location",
+    "postalAddressCounty": "Lancashire",
+    "postalAddressLine1": "Moorside Medical Centre",
+    "postalAddressLine2": "681 Ripponden Road",
+    "postalAddressTownCity": "Oldham",
+    "postalCode": "OL1 4JU",
+    "providerId": "1-152989516",
+    "region": "North West",
+    "registrationDate": "2011-06-26",
+    "registrationStatus": "Deregistered",
+    "regulatedActivities": [],
+    "relationships": [],
+    "reports": [
+        {
+            "firstVisitDate": "2012-03-20",
+            "linkId": "96a77baa-3d7c-410a-8a08-ecde17a0563d",
+            "reportDate": "2012-06-11",
+            "reportUri": "/reports/96a77baa-3d7c-410a-8a08-ecde17a0563d?20200430120000"
+        }
+    ],
+    "specialisms": [
+        {
+            "name": "Services for everyone"
+        }
+    ],
+    "type": "Primary Dental Care"
+}

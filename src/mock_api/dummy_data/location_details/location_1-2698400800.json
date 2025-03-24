@@ -1,0 +1,181 @@
+{
+    "brandId": "BD519",
+    "brandName": "BRAND Achieve Together",
+    "careHome": "N",
+    "constituency": "Ashton-under-Lyne",
+    "currentRatings": {
+        "overall": {
+            "keyQuestionRatings": [
+                {
+                    "name": "Safe",
+                    "rating": "Good",
+                    "reportDate": "2018-08-23",
+                    "reportLinkId": "3e62693d-edaf-4686-b996-dd0f13f68b15"
+                },
+                {
+                    "name": "Well-led",
+                    "rating": "Good",
+                    "reportDate": "2018-08-23",
+                    "reportLinkId": "3e62693d-edaf-4686-b996-dd0f13f68b15"
+                },
+                {
+                    "name": "Caring",
+                    "rating": "Good",
+                    "reportDate": "2018-08-23",
+                    "reportLinkId": "3e62693d-edaf-4686-b996-dd0f13f68b15"
+                },
+                {
+                    "name": "Responsive",
+                    "rating": "Good",
+                    "reportDate": "2018-08-23",
+                    "reportLinkId": "3e62693d-edaf-4686-b996-dd0f13f68b15"
+                },
+                {
+                    "name": "Effective",
+                    "rating": "Good",
+                    "reportDate": "2018-08-23",
+                    "reportLinkId": "3e62693d-edaf-4686-b996-dd0f13f68b15"
+                }
+            ],
+            "rating": "Good",
+            "reportDate": "2018-08-23",
+            "reportLinkId": "3e62693d-edaf-4686-b996-dd0f13f68b15"
+        },
+        "reportDate": "2018-08-23"
+    },
+    "dormancy": "N",
+    "gacServiceTypes": [
+        {
+            "description": "Domiciliary care service",
+            "name": "Homecare agencies"
+        },
+        {
+            "description": "Supported living service",
+            "name": "Supported living"
+        }
+    ],
+    "historicRatings": [
+        {
+            "overall": {
+                "keyQuestionRatings": [
+                    {
+                        "name": "Safe",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Well-led",
+                        "rating": "Requires improvement"
+                    },
+                    {
+                        "name": "Caring",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Responsive",
+                        "rating": "Requires improvement"
+                    },
+                    {
+                        "name": "Effective",
+                        "rating": "Requires improvement"
+                    }
+                ],
+                "rating": "Requires improvement"
+            },
+            "reportDate": "2017-01-18",
+            "reportLinkId": "a55e9479-ba4d-45b8-8de3-cbcd64726e5d"
+        }
+    ],
+    "inspectionAreas": [],
+    "inspectionCategories": [
+        {
+            "code": "S2",
+            "name": "Community based adult social care services",
+            "primary": "true"
+        }
+    ],
+    "inspectionDirectorate": "Adult social care",
+    "lastInspection": {
+        "date": "2018-07-03"
+    },
+    "lastReport": {
+        "publicationDate": "2018-08-23"
+    },
+    "localAuthority": "Oldham",
+    "locationId": "1-2698400800",
+    "locationTypes": [],
+    "name": "Domiciliary Care Agency North West",
+    "numberOfBeds": 0,
+    "odsCode": "VN4DR",
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.5166043,
+    "onspdLongitude": -2.1430035,
+    "organisationType": "Location",
+    "postalAddressLine1": "Office 1.12B Hollinwood Business Centre",
+    "postalAddressLine2": "Albert Street",
+    "postalAddressTownCity": "Oldham",
+    "postalCode": "OL8 3QL",
+    "providerId": "1-116992858",
+    "region": "North West",
+    "registrationDate": "2016-06-24",
+    "registrationStatus": "Registered",
+    "regulatedActivities": [
+        {
+            "code": "RA1",
+            "contacts": [
+                {
+                    "personFamilyName": "Taylor",
+                    "personGivenName": "Trudy Jane",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Miss"
+                }
+            ],
+            "name": "Personal care"
+        }
+    ],
+    "relationships": [
+        {
+            "reason": "New Provider",
+            "relatedLocationId": "1-2600680499",
+            "relatedLocationName": "Venesta Domiciliary Care Agency - Manchester",
+            "type": "HSCA Predecessor"
+        }
+    ],
+    "reports": [
+        {
+            "firstVisitDate": "2018-06-27",
+            "linkId": "3e62693d-edaf-4686-b996-dd0f13f68b15",
+            "reportDate": "2018-08-23",
+            "reportType": "Location",
+            "reportUri": "/reports/3e62693d-edaf-4686-b996-dd0f13f68b15?20211030120000"
+        },
+        {
+            "firstVisitDate": "2016-11-24",
+            "linkId": "a55e9479-ba4d-45b8-8de3-cbcd64726e5d",
+            "reportDate": "2017-01-18",
+            "reportType": "Location",
+            "reportUri": "/reports/a55e9479-ba4d-45b8-8de3-cbcd64726e5d?20211030120000"
+        }
+    ],
+    "specialisms": [
+        {
+            "name": "Caring for adults over 65 yrs"
+        },
+        {
+            "name": "Caring for adults under 65 yrs"
+        },
+        {
+            "name": "Learning disabilities"
+        },
+        {
+            "name": "Mental health conditions"
+        }
+    ],
+    "type": "Social Care Org",
+    "uprn": "422000126280",
+    "website": "www.achievetogether.co.uk"
+}

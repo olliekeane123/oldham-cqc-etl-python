@@ -1,0 +1,44 @@
+{
+    "careHome": "N",
+    "constituency": "Oldham West and Royton",
+    "deregistrationDate": "2011-10-31",
+    "dormancy": "N",
+    "gacServiceTypes": [
+        {
+            "description": "Domiciliary care service",
+            "name": "Homecare agencies"
+        }
+    ],
+    "inspectionAreas": [],
+    "inspectionDirectorate": "Unspecified",
+    "localAuthority": "Oldham",
+    "locationId": "1-251947544",
+    "locationTypes": [],
+    "mainPhoneNumber": "07540724531",
+    "name": "Pathways to Opportunities",
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.565663,
+    "onspdLongitude": -2.10088,
+    "organisationType": "Location",
+    "postalAddressCounty": "Greater Manchester",
+    "postalAddressLine1": "Heyside Pavillon",
+    "postalAddressLine2": "Heyside Park, Blackshaw Lane",
+    "postalAddressTownCity": "Oldham",
+    "postalCode": "OL2 6NB",
+    "providerId": "1-141954594",
+    "region": "North West",
+    "registrationDate": "2011-05-27",
+    "registrationStatus": "Deregistered",
+    "regulatedActivities": [],
+    "relationships": [],
+    "specialisms": [
+        {
+            "name": "Learning disabilities"
+        }
+    ],
+    "type": "Social Care Org",
+    "website": "www.pathways-to-opportunities.co.uk"
+}

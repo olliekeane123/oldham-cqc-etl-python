@@ -1,0 +1,44 @@
+{
+    "careHome": "N",
+    "constituency": "Oldham West and Royton",
+    "deregistrationDate": "2013-07-15",
+    "dormancy": "N",
+    "gacServiceTypes": [
+        {
+            "description": "Acute services without overnight beds / listed acute services with or without overnight beds",
+            "name": "Clinic"
+        }
+    ],
+    "inspectionAreas": [],
+    "inspectionDirectorate": "Unspecified",
+    "localAuthority": "Oldham",
+    "locationId": "1-487293163",
+    "locationTypes": [],
+    "mainPhoneNumber": "01616521227",
+    "name": "174 Chamber Road",
+    "numberOfBeds": 0,
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.530531,
+    "onspdLongitude": -2.123453,
+    "organisationType": "Location",
+    "postalAddressCounty": "Lancashire",
+    "postalAddressLine1": "Lancaster House",
+    "postalAddressLine2": "174 Chamber Road",
+    "postalAddressTownCity": "Oldham",
+    "postalCode": "OL8 4BU",
+    "providerId": "1-463386417",
+    "region": "North West",
+    "registrationDate": "2012-10-03",
+    "registrationStatus": "Deregistered",
+    "regulatedActivities": [],
+    "relationships": [],
+    "specialisms": [
+        {
+            "name": "Services for everyone"
+        }
+    ],
+    "type": "Independent Healthcare Org"
+}

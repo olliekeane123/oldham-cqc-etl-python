@@ -1,0 +1,119 @@
+{
+    "careHome": "N",
+    "constituency": "Oldham East and Saddleworth",
+    "currentRatings": {
+        "overall": {
+            "keyQuestionRatings": [
+                {
+                    "name": "Safe",
+                    "rating": "No published rating"
+                },
+                {
+                    "name": "Well-led",
+                    "rating": "No published rating"
+                },
+                {
+                    "name": "Caring",
+                    "rating": "No published rating"
+                },
+                {
+                    "name": "Responsive",
+                    "rating": "No published rating"
+                },
+                {
+                    "name": "Effective",
+                    "rating": "No published rating"
+                }
+            ],
+            "rating": "Inspected but not rated",
+            "reportDate": "2023-01-26",
+            "reportLinkId": "07f67cc3-99de-495c-9920-a9507ca658bb"
+        },
+        "reportDate": "2023-01-26"
+    },
+    "dormancy": "N",
+    "gacServiceTypes": [
+        {
+            "description": "Dental service",
+            "name": "Dentist"
+        }
+    ],
+    "inspectionAreas": [],
+    "inspectionCategories": [
+        {
+            "code": "P1",
+            "name": "Dentists",
+            "primary": "true"
+        }
+    ],
+    "inspectionDirectorate": "Primary medical services",
+    "lastInspection": {
+        "date": "2023-01-20"
+    },
+    "lastReport": {
+        "publicationDate": "2023-01-26"
+    },
+    "localAuthority": "Oldham",
+    "locationId": "1-3125719986",
+    "locationTypes": [],
+    "mainPhoneNumber": "01616274914",
+    "name": "Jackson's Dental Care",
+    "numberOfBeds": 0,
+    "odsCode": "V82502",
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.54802,
+    "onspdLongitude": -2.0855322,
+    "organisationType": "Location",
+    "postalAddressCounty": "Lancashire",
+    "postalAddressLine1": "244 Huddersfield Road",
+    "postalAddressTownCity": "Oldham",
+    "postalCode": "OL4 2RB",
+    "providerId": "1-2697444815",
+    "region": "North West",
+    "registrationDate": "2016-12-05",
+    "registrationStatus": "Registered",
+    "regulatedActivities": [
+        {
+            "code": "RA5",
+            "contacts": [],
+            "name": "Treatment of disease, disorder or injury"
+        },
+        {
+            "code": "RA7",
+            "contacts": [],
+            "name": "Surgical procedures"
+        },
+        {
+            "code": "RA8",
+            "contacts": [],
+            "name": "Diagnostic and screening procedures"
+        }
+    ],
+    "relationships": [
+        {
+            "reason": "New Provider",
+            "relatedLocationId": "1-198366877",
+            "relatedLocationName": "Robert Ashton Dental Practice",
+            "type": "HSCA Predecessor"
+        }
+    ],
+    "reports": [
+        {
+            "firstVisitDate": "2023-01-20",
+            "linkId": "07f67cc3-99de-495c-9920-a9507ca658bb",
+            "reportDate": "2023-01-26",
+            "reportType": "Location",
+            "reportUri": "/reports/07f67cc3-99de-495c-9920-a9507ca658bb?20230126080043"
+        }
+    ],
+    "specialisms": [
+        {
+            "name": "Services for everyone"
+        }
+    ],
+    "type": "Primary Dental Care",
+    "uprn": "422000091245"
+}

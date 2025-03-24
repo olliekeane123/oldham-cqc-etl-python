@@ -1,0 +1,240 @@
+{
+    "careHome": "Y",
+    "constituency": "Oldham West and Royton",
+    "currentRatings": {
+        "overall": {
+            "keyQuestionRatings": [
+                {
+                    "name": "Safe",
+                    "organisationId": "1-113831768",
+                    "rating": "Good",
+                    "reportDate": "2022-08-26",
+                    "reportLinkId": "b9a12f3c-9787-43be-92d0-52d8b7456466"
+                },
+                {
+                    "name": "Well-led",
+                    "organisationId": "1-113831768",
+                    "rating": "Good",
+                    "reportDate": "2022-08-26",
+                    "reportLinkId": "b9a12f3c-9787-43be-92d0-52d8b7456466"
+                },
+                {
+                    "name": "Caring",
+                    "organisationId": "1-113831768",
+                    "rating": "Good",
+                    "reportDate": "2018-08-11",
+                    "reportLinkId": "0562aff9-7ba1-4645-959b-bc5753905d4e"
+                },
+                {
+                    "name": "Responsive",
+                    "organisationId": "1-113831768",
+                    "rating": "Good",
+                    "reportDate": "2022-08-26",
+                    "reportLinkId": "b9a12f3c-9787-43be-92d0-52d8b7456466"
+                },
+                {
+                    "name": "Effective",
+                    "organisationId": "1-113831768",
+                    "rating": "Good",
+                    "reportDate": "2018-08-11",
+                    "reportLinkId": "0562aff9-7ba1-4645-959b-bc5753905d4e"
+                }
+            ],
+            "rating": "Good",
+            "reportDate": "2022-08-26",
+            "reportLinkId": "b9a12f3c-9787-43be-92d0-52d8b7456466"
+        },
+        "reportDate": "2022-08-26"
+    },
+    "dormancy": "N",
+    "gacServiceTypes": [
+        {
+            "description": "Care home service with nursing",
+            "name": "Nursing homes"
+        },
+        {
+            "description": "Domiciliary care service",
+            "name": "Homecare agencies"
+        }
+    ],
+    "historicRatings": [
+        {
+            "organisationId": "1-113831768",
+            "overall": {
+                "keyQuestionRatings": [
+                    {
+                        "name": "Safe",
+                        "rating": "Inspected but not rated"
+                    }
+                ],
+                "rating": "Inspected but not rated"
+            },
+            "reportDate": "2020-10-13",
+            "reportLinkId": "f4b1d788-7455-4b43-910c-37f5c9b27d71"
+        },
+        {
+            "organisationId": "1-113831768",
+            "overall": {
+                "keyQuestionRatings": [
+                    {
+                        "name": "Safe",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Well-led",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Responsive",
+                        "rating": "Requires improvement"
+                    }
+                ],
+                "rating": "Good"
+            },
+            "reportDate": "2018-08-11",
+            "reportLinkId": "0562aff9-7ba1-4645-959b-bc5753905d4e"
+        },
+        {
+            "organisationId": "1-113831768",
+            "overall": {
+                "keyQuestionRatings": [
+                    {
+                        "name": "Safe",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Well-led",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Caring",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Responsive",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Effective",
+                        "rating": "Requires improvement"
+                    }
+                ],
+                "rating": "Good"
+            },
+            "reportDate": "2016-04-22",
+            "reportLinkId": "03b91ba4-75f3-43e6-8a27-2f61e0e08852"
+        }
+    ],
+    "inspectionAreas": [],
+    "inspectionCategories": [
+        {
+            "code": "S1",
+            "name": "Residential social care",
+            "primary": "true"
+        },
+        {
+            "code": "S2",
+            "name": "Community based adult social care services"
+        }
+    ],
+    "inspectionDirectorate": "Adult social care",
+    "lastReport": {
+        "publicationDate": "2022-08-26"
+    },
+    "localAuthority": "Oldham",
+    "locationId": "1-18437805065",
+    "locationTypes": [],
+    "mainPhoneNumber": "01616246671",
+    "name": "Park Hills Private Nursing Home",
+    "numberOfBeds": 17,
+    "odsCode": "VNTDE",
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.528354,
+    "onspdLongitude": -2.125619,
+    "organisationType": "Location",
+    "postalAddressCounty": "Lancashire",
+    "postalAddressLine1": "199 Chamber Road",
+    "postalAddressTownCity": "Oldham",
+    "postalCode": "OL8 4DJ",
+    "providerId": "1-18135701101",
+    "region": "North West",
+    "registrationDate": "2024-01-31",
+    "registrationStatus": "Registered",
+    "regulatedActivities": [
+        {
+            "code": "RA1",
+            "contacts": [
+                {
+                    "personFamilyName": "Hussain",
+                    "personGivenName": "Shaikh",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Mr"
+                }
+            ],
+            "name": "Personal care"
+        },
+        {
+            "code": "RA2",
+            "contacts": [
+                {
+                    "personFamilyName": "Hussain",
+                    "personGivenName": "Shaikh",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Mr"
+                }
+            ],
+            "name": "Accommodation for persons who require nursing or personal care"
+        },
+        {
+            "code": "RA5",
+            "contacts": [
+                {
+                    "personFamilyName": "Hussain",
+                    "personGivenName": "Shaikh",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Mr"
+                }
+            ],
+            "name": "Treatment of disease, disorder or injury"
+        }
+    ],
+    "relationships": [
+        {
+            "reason": "New Provider",
+            "relatedLocationId": "1-113831768",
+            "relatedLocationName": "Park Hills Nursing Home",
+            "type": "HSCA Predecessor"
+        }
+    ],
+    "specialisms": [
+        {
+            "name": "Caring for adults over 65 yrs"
+        },
+        {
+            "name": "Caring for adults under 65 yrs"
+        },
+        {
+            "name": "Dementia"
+        },
+        {
+            "name": "Mental health conditions"
+        },
+        {
+            "name": "Physical disabilities"
+        },
+        {
+            "name": "Sensory impairment"
+        }
+    ],
+    "type": "Social Care Org",
+    "website": "www.c24helathcare.co.uk"
+}

@@ -1,0 +1,247 @@
+{
+    "careHome": "N",
+    "constituency": "Oldham West and Royton",
+    "currentRatings": {
+        "overall": {
+            "keyQuestionRatings": [
+                {
+                    "name": "Safe",
+                    "rating": "Good",
+                    "reportDate": "2022-11-03",
+                    "reportLinkId": "30f24c35-96f8-4c39-8e51-0e1e93ef1283"
+                },
+                {
+                    "name": "Well-led",
+                    "rating": "Good",
+                    "reportDate": "2022-11-03",
+                    "reportLinkId": "30f24c35-96f8-4c39-8e51-0e1e93ef1283"
+                },
+                {
+                    "name": "Caring",
+                    "rating": "Good",
+                    "reportDate": "2022-11-03",
+                    "reportLinkId": "30f24c35-96f8-4c39-8e51-0e1e93ef1283"
+                },
+                {
+                    "name": "Responsive",
+                    "rating": "Good",
+                    "reportDate": "2022-11-03",
+                    "reportLinkId": "30f24c35-96f8-4c39-8e51-0e1e93ef1283"
+                },
+                {
+                    "name": "Effective",
+                    "rating": "Good",
+                    "reportDate": "2022-11-03",
+                    "reportLinkId": "30f24c35-96f8-4c39-8e51-0e1e93ef1283"
+                }
+            ],
+            "rating": "Good",
+            "reportDate": "2022-11-03",
+            "reportLinkId": "30f24c35-96f8-4c39-8e51-0e1e93ef1283"
+        },
+        "reportDate": "2022-11-03"
+    },
+    "dormancy": "N",
+    "gacServiceTypes": [
+        {
+            "description": "Doctors consultation service",
+            "name": "Doctors/Gps"
+        }
+    ],
+    "historicRatings": [
+        {
+            "overall": {
+                "keyQuestionRatings": [
+                    {
+                        "name": "Safe",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Well-led",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Caring",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Responsive",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Effective",
+                        "rating": "Good"
+                    }
+                ],
+                "rating": "Good"
+            },
+            "reportDate": "2016-05-16",
+            "reportLinkId": "ff2636d9-21ff-4bbf-a8f4-2230b021029f",
+            "serviceRatings": [
+                {
+                    "name": "conditions",
+                    "rating": "Good"
+                },
+                {
+                    "name": "mothers",
+                    "rating": "Good"
+                },
+                {
+                    "name": "old",
+                    "rating": "Good"
+                },
+                {
+                    "name": "population",
+                    "rating": "Good"
+                },
+                {
+                    "name": "problems",
+                    "rating": "Good"
+                },
+                {
+                    "name": "vulnerable",
+                    "rating": "Good"
+                }
+            ]
+        }
+    ],
+    "inspectionAreas": [],
+    "inspectionCategories": [
+        {
+            "code": "P2",
+            "name": "GP Practices",
+            "primary": "true"
+        }
+    ],
+    "inspectionDirectorate": "Primary medical services",
+    "lastInspection": {
+        "date": "2022-09-26"
+    },
+    "lastReport": {
+        "publicationDate": "2022-11-03"
+    },
+    "localAuthority": "Oldham",
+    "locationId": "1-571004417",
+    "locationTypes": [
+        {
+            "type": "GP Practice"
+        }
+    ],
+    "mainPhoneNumber": "01613572315",
+    "name": "The Royton and Crompton Family Practice",
+    "numberOfBeds": 0,
+    "odsCcgCode": "00Y",
+    "odsCcgName": "NHS Greater Manchester Icb - 00Y",
+    "odsCode": "P85013",
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.566109,
+    "onspdLongitude": -2.121594,
+    "organisationType": "Location",
+    "postalAddressCounty": "Lancashire",
+    "postalAddressLine1": "Royton Health Wellbeing Centre",
+    "postalAddressTownCity": "Oldham",
+    "postalCode": "OL2 6QW",
+    "providerId": "1-199785344",
+    "region": "North West",
+    "registrationDate": "2013-04-01",
+    "registrationStatus": "Registered",
+    "regulatedActivities": [
+        {
+            "code": "RA11",
+            "contacts": [
+                {
+                    "personFamilyName": "Vance",
+                    "personGivenName": "Andrew William",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Dr"
+                }
+            ],
+            "name": "Maternity and midwifery services"
+        },
+        {
+            "code": "RA15",
+            "contacts": [
+                {
+                    "personFamilyName": "Vance",
+                    "personGivenName": "Andrew William",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Dr"
+                }
+            ],
+            "name": "Family planning"
+        },
+        {
+            "code": "RA5",
+            "contacts": [
+                {
+                    "personFamilyName": "Vance",
+                    "personGivenName": "Andrew William",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Dr"
+                }
+            ],
+            "name": "Treatment of disease, disorder or injury"
+        },
+        {
+            "code": "RA7",
+            "contacts": [
+                {
+                    "personFamilyName": "Vance",
+                    "personGivenName": "Andrew William",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Dr"
+                }
+            ],
+            "name": "Surgical procedures"
+        },
+        {
+            "code": "RA8",
+            "contacts": [
+                {
+                    "personFamilyName": "Vance",
+                    "personGivenName": "Andrew William",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Dr"
+                }
+            ],
+            "name": "Diagnostic and screening procedures"
+        }
+    ],
+    "relationships": [],
+    "reports": [
+        {
+            "firstVisitDate": "2022-09-26",
+            "linkId": "30f24c35-96f8-4c39-8e51-0e1e93ef1283",
+            "reportDate": "2022-11-03",
+            "reportType": "Location",
+            "reportUri": "/reports/30f24c35-96f8-4c39-8e51-0e1e93ef1283?20221103080428"
+        },
+        {
+            "firstVisitDate": "2016-03-23",
+            "linkId": "ff2636d9-21ff-4bbf-a8f4-2230b021029f",
+            "reportDate": "2016-05-16",
+            "reportType": "Location",
+            "reportUri": "/reports/ff2636d9-21ff-4bbf-a8f4-2230b021029f?20210123140127"
+        }
+    ],
+    "specialisms": [
+        {
+            "name": "Services for everyone"
+        }
+    ],
+    "type": "Primary Medical Services",
+    "website": "www.roytonandcromptonfamilypractice.co.uk"
+}

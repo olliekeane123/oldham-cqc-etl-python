@@ -1,0 +1,379 @@
+{
+    "careHome": "N",
+    "constituency": "Oldham West and Royton",
+    "currentRatings": {
+        "overall": {
+            "keyQuestionRatings": [
+                {
+                    "name": "Safe",
+                    "rating": "Good",
+                    "reportDate": "2021-07-30",
+                    "reportLinkId": "7ad84357-f6f1-4d17-befc-f31672f1228e"
+                },
+                {
+                    "name": "Well-led",
+                    "rating": "Good",
+                    "reportDate": "2021-07-30",
+                    "reportLinkId": "7ad84357-f6f1-4d17-befc-f31672f1228e"
+                },
+                {
+                    "name": "Caring",
+                    "rating": "Good",
+                    "reportDate": "2021-07-30",
+                    "reportLinkId": "7ad84357-f6f1-4d17-befc-f31672f1228e"
+                },
+                {
+                    "name": "Responsive",
+                    "rating": "Good",
+                    "reportDate": "2021-07-30",
+                    "reportLinkId": "7ad84357-f6f1-4d17-befc-f31672f1228e"
+                },
+                {
+                    "name": "Effective",
+                    "rating": "Good",
+                    "reportDate": "2021-07-30",
+                    "reportLinkId": "7ad84357-f6f1-4d17-befc-f31672f1228e"
+                }
+            ],
+            "rating": "Good",
+            "reportDate": "2021-07-30",
+            "reportLinkId": "7ad84357-f6f1-4d17-befc-f31672f1228e"
+        },
+        "reportDate": "2021-07-30",
+        "serviceRatings": [
+            {
+                "name": "conditions",
+                "rating": "Good",
+                "reportDate": "2021-07-30",
+                "reportLinkId": "7ad84357-f6f1-4d17-befc-f31672f1228e"
+            },
+            {
+                "name": "mothers",
+                "rating": "Good",
+                "reportDate": "2021-07-30",
+                "reportLinkId": "7ad84357-f6f1-4d17-befc-f31672f1228e"
+            },
+            {
+                "name": "old",
+                "rating": "Good",
+                "reportDate": "2021-07-30",
+                "reportLinkId": "7ad84357-f6f1-4d17-befc-f31672f1228e"
+            },
+            {
+                "name": "population",
+                "rating": "Good",
+                "reportDate": "2021-07-30",
+                "reportLinkId": "7ad84357-f6f1-4d17-befc-f31672f1228e"
+            },
+            {
+                "name": "problems",
+                "rating": "Good",
+                "reportDate": "2021-07-30",
+                "reportLinkId": "7ad84357-f6f1-4d17-befc-f31672f1228e"
+            },
+            {
+                "name": "vulnerable",
+                "rating": "Good",
+                "reportDate": "2021-07-30",
+                "reportLinkId": "7ad84357-f6f1-4d17-befc-f31672f1228e"
+            }
+        ]
+    },
+    "dormancy": "N",
+    "gacServiceTypes": [
+        {
+            "description": "Doctors consultation service",
+            "name": "Doctors/Gps"
+        }
+    ],
+    "historicRatings": [
+        {
+            "overall": {
+                "keyQuestionRatings": [
+                    {
+                        "name": "Safe",
+                        "rating": "Requires improvement"
+                    },
+                    {
+                        "name": "Well-led",
+                        "rating": "Requires improvement"
+                    },
+                    {
+                        "name": "Caring",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Responsive",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Effective",
+                        "rating": "Requires improvement"
+                    }
+                ],
+                "rating": "Requires improvement"
+            },
+            "reportDate": "2019-10-16",
+            "reportLinkId": "02da8aa5-61b2-462f-b083-17893e043415",
+            "serviceRatings": [
+                {
+                    "name": "conditions",
+                    "rating": "Requires improvement"
+                },
+                {
+                    "name": "mothers",
+                    "rating": "Requires improvement"
+                },
+                {
+                    "name": "old",
+                    "rating": "Requires improvement"
+                },
+                {
+                    "name": "population",
+                    "rating": "Requires improvement"
+                },
+                {
+                    "name": "problems",
+                    "rating": "Requires improvement"
+                },
+                {
+                    "name": "vulnerable",
+                    "rating": "Requires improvement"
+                }
+            ]
+        },
+        {
+            "overall": {
+                "keyQuestionRatings": [
+                    {
+                        "name": "Safe",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Well-led",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Caring",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Responsive",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Effective",
+                        "rating": "Good"
+                    }
+                ],
+                "rating": "Good"
+            },
+            "reportDate": "2015-05-21",
+            "reportLinkId": "2c96f589-e45e-4422-9b30-6e8a1585e898",
+            "serviceRatings": [
+                {
+                    "name": "conditions",
+                    "rating": "Good"
+                },
+                {
+                    "name": "mothers",
+                    "rating": "Good"
+                },
+                {
+                    "name": "old",
+                    "rating": "Good"
+                },
+                {
+                    "name": "population",
+                    "rating": "Good"
+                },
+                {
+                    "name": "problems",
+                    "rating": "Good"
+                },
+                {
+                    "name": "vulnerable",
+                    "rating": "Good"
+                }
+            ]
+        }
+    ],
+    "inspectionAreas": [
+        {
+            "inspectionAreaId": "conditions",
+            "inspectionAreaName": "People with long term conditions",
+            "status": "Active (Rated)"
+        },
+        {
+            "inspectionAreaId": "mothers",
+            "inspectionAreaName": "Families, children and young people",
+            "status": "Active (Rated)"
+        },
+        {
+            "inspectionAreaId": "old",
+            "inspectionAreaName": "Older people",
+            "status": "Active (Rated)"
+        },
+        {
+            "inspectionAreaId": "population",
+            "inspectionAreaName": "Working age people (including those recently retired and students)",
+            "status": "Active (Rated)"
+        },
+        {
+            "inspectionAreaId": "problems",
+            "inspectionAreaName": "People experiencing poor mental health (including people with dementia)",
+            "status": "Active (Rated)"
+        },
+        {
+            "inspectionAreaId": "vulnerable",
+            "inspectionAreaName": "People whose circumstances may make them vulnerable",
+            "status": "Active (Rated)"
+        }
+    ],
+    "inspectionCategories": [
+        {
+            "code": "P2",
+            "name": "GP Practices",
+            "primary": "true"
+        }
+    ],
+    "inspectionDirectorate": "Primary medical services",
+    "lastInspection": {
+        "date": "2021-06-30"
+    },
+    "lastReport": {
+        "publicationDate": "2021-07-30"
+    },
+    "localAuthority": "Oldham",
+    "locationId": "1-583894260",
+    "locationTypes": [
+        {
+            "type": "GP Practice"
+        }
+    ],
+    "mainPhoneNumber": "01612713040",
+    "name": "Kapur Family Care",
+    "numberOfBeds": 0,
+    "odsCcgCode": "00Y",
+    "odsCcgName": "NHS Greater Manchester Icb - 00Y",
+    "odsCode": "P85615",
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.5373097,
+    "onspdLongitude": -2.1305344,
+    "organisationType": "Location",
+    "postalAddressCounty": "Lancashire",
+    "postalAddressLine1": "Werneth Primary Care Centre",
+    "postalAddressTownCity": "Oldham",
+    "postalCode": "OL9 7AY",
+    "providerId": "1-199785596",
+    "region": "North West",
+    "registrationDate": "2013-04-01",
+    "registrationStatus": "Registered",
+    "regulatedActivities": [
+        {
+            "code": "RA11",
+            "contacts": [
+                {
+                    "personFamilyName": "Ghuman",
+                    "personGivenName": "Tahir Mehmood",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Dr"
+                }
+            ],
+            "name": "Maternity and midwifery services"
+        },
+        {
+            "code": "RA15",
+            "contacts": [
+                {
+                    "personFamilyName": "Ghuman",
+                    "personGivenName": "Tahir Mehmood",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Dr"
+                }
+            ],
+            "name": "Family planning"
+        },
+        {
+            "code": "RA5",
+            "contacts": [
+                {
+                    "personFamilyName": "Ghuman",
+                    "personGivenName": "Tahir Mehmood",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Dr"
+                }
+            ],
+            "name": "Treatment of disease, disorder or injury"
+        },
+        {
+            "code": "RA7",
+            "contacts": [
+                {
+                    "personFamilyName": "Ghuman",
+                    "personGivenName": "Tahir Mehmood",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Dr"
+                }
+            ],
+            "name": "Surgical procedures"
+        },
+        {
+            "code": "RA8",
+            "contacts": [
+                {
+                    "personFamilyName": "Ghuman",
+                    "personGivenName": "Tahir Mehmood",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Dr"
+                }
+            ],
+            "name": "Diagnostic and screening procedures"
+        }
+    ],
+    "relationships": [],
+    "reports": [
+        {
+            "firstVisitDate": "2021-06-30",
+            "linkId": "7ad84357-f6f1-4d17-befc-f31672f1228e",
+            "reportDate": "2021-07-30",
+            "reportType": "Location",
+            "reportUri": "/reports/7ad84357-f6f1-4d17-befc-f31672f1228e?20210730070606"
+        },
+        {
+            "firstVisitDate": "2019-08-23",
+            "linkId": "02da8aa5-61b2-462f-b083-17893e043415",
+            "reportDate": "2019-10-16",
+            "reportType": "Location",
+            "reportUri": "/reports/02da8aa5-61b2-462f-b083-17893e043415?20210115060533"
+        },
+        {
+            "firstVisitDate": "2015-03-19",
+            "linkId": "2c96f589-e45e-4422-9b30-6e8a1585e898",
+            "reportDate": "2015-05-21",
+            "reportType": "Location",
+            "reportUri": "/reports/2c96f589-e45e-4422-9b30-6e8a1585e898?20210129060845"
+        }
+    ],
+    "specialisms": [
+        {
+            "name": "Services for everyone"
+        }
+    ],
+    "type": "Primary Medical Services",
+    "uprn": "422000119700",
+    "website": "www.kapurfamilycare.nhs.uk"
+}

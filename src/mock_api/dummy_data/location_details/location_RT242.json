@@ -1,0 +1,74 @@
+{
+    "brandId": "Q83",
+    "brandName": "NHS England North (Greater Manchester)",
+    "careHome": "N",
+    "constituency": "Oldham East and Saddleworth",
+    "dormancy": "N",
+    "gacServiceTypes": [
+        {
+            "description": "Hospital services for people with mental health needs, learning disabilities and problems with substance misuse",
+            "name": "Hospitals - Mental health/capacity"
+        }
+    ],
+    "inspectionAreas": [],
+    "inspectionCategories": [
+        {
+            "code": "H9",
+            "name": "Mental health - community & residential - NHS",
+            "primary": "true"
+        }
+    ],
+    "inspectionDirectorate": "Hospitals",
+    "lastInspection": {
+        "date": "2016-06-14"
+    },
+    "localAuthority": "Oldham",
+    "locationId": "RT242",
+    "locationTypes": [],
+    "mainPhoneNumber": "01616212751",
+    "name": "Rhodes Place",
+    "numberOfBeds": 0,
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.5337606,
+    "onspdLongitude": -2.0658922,
+    "organisationType": "Location",
+    "postalAddressCounty": "Lancashire",
+    "postalAddressLine1": "Lees New Road Lees",
+    "postalAddressTownCity": "Oldham",
+    "postalCode": "OL4 5PP",
+    "providerId": "RT2",
+    "region": "North West",
+    "registrationDate": "2014-08-15",
+    "registrationStatus": "Registered",
+    "regulatedActivities": [
+        {
+            "code": "RA5",
+            "contacts": [],
+            "name": "Treatment of disease, disorder or injury"
+        },
+        {
+            "code": "RA6",
+            "contacts": [],
+            "name": "Assessment or medical treatment for persons detained under the Mental Health Act 1983"
+        },
+        {
+            "code": "RA8",
+            "contacts": [],
+            "name": "Diagnostic and screening procedures"
+        }
+    ],
+    "relationships": [],
+    "specialisms": [
+        {
+            "name": "Caring for people whose rights are restricted under the Mental Health Act"
+        },
+        {
+            "name": "Mental health conditions"
+        }
+    ],
+    "type": "NHS Healthcare Organisation",
+    "uprn": "422000126667"
+}

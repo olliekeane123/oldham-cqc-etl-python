@@ -1,0 +1,96 @@
+{
+    "careHome": "N",
+    "constituency": "Oldham West and Royton",
+    "currentRatings": {
+        "overall": {
+            "keyQuestionRatings": [
+                {
+                    "name": "Safe",
+                    "rating": "No published rating"
+                },
+                {
+                    "name": "Well-led",
+                    "rating": "No published rating"
+                },
+                {
+                    "name": "Caring",
+                    "rating": "No published rating"
+                },
+                {
+                    "name": "Responsive",
+                    "rating": "No published rating"
+                },
+                {
+                    "name": "Effective",
+                    "rating": "No published rating"
+                }
+            ],
+            "rating": "No published rating"
+        }
+    },
+    "deregistrationDate": "2018-11-30",
+    "dormancy": "N",
+    "gacServiceTypes": [
+        {
+            "description": "Ambulance service",
+            "name": "Ambulances"
+        }
+    ],
+    "inspectionAreas": [],
+    "inspectionCategories": [
+        {
+            "code": "H5",
+            "name": "Ambulance service",
+            "primary": "true"
+        }
+    ],
+    "inspectionDirectorate": "Hospitals",
+    "lastInspection": {
+        "date": "2014-02-07"
+    },
+    "localAuthority": "Oldham",
+    "locationId": "1-228708929",
+    "locationTypes": [],
+    "mainPhoneNumber": "01616886280",
+    "name": "Emergency, Medical, Fire, and Rescue Solutions",
+    "numberOfBeds": 0,
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.525321,
+    "onspdLongitude": -2.139037,
+    "organisationType": "Location",
+    "postalAddressCounty": "Greater Manchester",
+    "postalAddressLine1": "Unit 1, Canal Wharf",
+    "postalAddressLine2": "Chadderton",
+    "postalAddressTownCity": "Oldham",
+    "postalCode": "OL9 7PQ",
+    "providerId": "1-205044760",
+    "region": "North West",
+    "registrationDate": "2011-08-18",
+    "registrationStatus": "Deregistered",
+    "regulatedActivities": [],
+    "relationships": [],
+    "reports": [
+        {
+            "firstVisitDate": "2014-01-24",
+            "linkId": "a709b9ec-9e67-4c9c-8aae-9689a3754fb8",
+            "reportDate": "2014-03-18",
+            "reportUri": "/reports/a709b9ec-9e67-4c9c-8aae-9689a3754fb8?20151016191357"
+        },
+        {
+            "firstVisitDate": "2013-02-28",
+            "linkId": "8c196600-ff02-4192-965c-96bd7599ee62",
+            "reportDate": "2013-03-29",
+            "reportUri": "/reports/8c196600-ff02-4192-965c-96bd7599ee62?20151016191357"
+        }
+    ],
+    "specialisms": [
+        {
+            "name": "Services for everyone"
+        }
+    ],
+    "type": "Independent Ambulance",
+    "website": "www.ambulance-solutions.com"
+}

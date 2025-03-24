@@ -1,0 +1,119 @@
+{
+    "careHome": "Y",
+    "constituency": "Oldham West and Royton",
+    "currentRatings": {
+        "overall": {
+            "keyQuestionRatings": [
+                {
+                    "name": "Safe",
+                    "rating": "Requires improvement",
+                    "reportDate": "2016-04-07",
+                    "reportLinkId": "aefaee63-49e5-4ab4-b19a-7ff38b59a2ca"
+                },
+                {
+                    "name": "Well-led",
+                    "rating": "Good",
+                    "reportDate": "2016-04-07",
+                    "reportLinkId": "aefaee63-49e5-4ab4-b19a-7ff38b59a2ca"
+                },
+                {
+                    "name": "Caring",
+                    "rating": "Good",
+                    "reportDate": "2016-04-07",
+                    "reportLinkId": "aefaee63-49e5-4ab4-b19a-7ff38b59a2ca"
+                },
+                {
+                    "name": "Responsive",
+                    "rating": "Good",
+                    "reportDate": "2016-04-07",
+                    "reportLinkId": "aefaee63-49e5-4ab4-b19a-7ff38b59a2ca"
+                },
+                {
+                    "name": "Effective",
+                    "rating": "Requires improvement",
+                    "reportDate": "2016-04-07",
+                    "reportLinkId": "aefaee63-49e5-4ab4-b19a-7ff38b59a2ca"
+                }
+            ],
+            "rating": "Requires improvement",
+            "reportDate": "2016-04-07",
+            "reportLinkId": "aefaee63-49e5-4ab4-b19a-7ff38b59a2ca"
+        },
+        "reportDate": "2016-04-07"
+    },
+    "deregistrationDate": "2016-11-29",
+    "dormancy": "N",
+    "gacServiceTypes": [
+        {
+            "description": "Care home service without nursing",
+            "name": "Residential homes"
+        }
+    ],
+    "inspectionAreas": [],
+    "inspectionCategories": [
+        {
+            "code": "S1",
+            "name": "Residential social care",
+            "primary": "true"
+        }
+    ],
+    "inspectionDirectorate": "Adult social care",
+    "lastInspection": {
+        "date": "2016-02-22"
+    },
+    "lastReport": {
+        "publicationDate": "2016-04-07"
+    },
+    "localAuthority": "Oldham",
+    "locationId": "1-821470523",
+    "locationTypes": [],
+    "mainPhoneNumber": "01616333850",
+    "name": "Willow House",
+    "numberOfBeds": 5,
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.546659,
+    "onspdLongitude": -2.153474,
+    "organisationType": "Location",
+    "postalAddressCounty": "Lancashire",
+    "postalAddressLine1": "Sunflower Grove",
+    "postalAddressLine2": "Chadderton",
+    "postalAddressTownCity": "Oldham",
+    "postalCode": "OL9 0JQ",
+    "providerId": "1-757123384",
+    "region": "North West",
+    "registrationDate": "2013-10-01",
+    "registrationStatus": "Deregistered",
+    "regulatedActivities": [],
+    "relationships": [
+        {
+            "reason": "New Provider",
+            "relatedLocationId": "1-146777340",
+            "relatedLocationName": "Willow House",
+            "type": "HSCA Predecessor"
+        }
+    ],
+    "reports": [
+        {
+            "firstVisitDate": "2016-02-22",
+            "linkId": "aefaee63-49e5-4ab4-b19a-7ff38b59a2ca",
+            "reportDate": "2016-04-07",
+            "reportType": "Location",
+            "reportUri": "/reports/aefaee63-49e5-4ab4-b19a-7ff38b59a2ca?20211030120000"
+        }
+    ],
+    "specialisms": [
+        {
+            "name": "Caring for adults under 65 yrs"
+        },
+        {
+            "name": "Learning disabilities"
+        },
+        {
+            "name": "Physical disabilities"
+        }
+    ],
+    "type": "Social Care Org"
+}

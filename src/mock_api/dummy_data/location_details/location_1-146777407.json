@@ -1,0 +1,63 @@
+{
+    "careHome": "Y",
+    "constituency": "Oldham West and Royton",
+    "deregistrationDate": "2011-06-29",
+    "dormancy": "N",
+    "gacServiceTypes": [
+        {
+            "description": "Care home service without nursing",
+            "name": "Residential homes"
+        },
+        {
+            "description": "Rehabilitation services",
+            "name": "Rehabilitation (illness/injury)"
+        }
+    ],
+    "inspectionAreas": [],
+    "inspectionDirectorate": "Unspecified",
+    "localAuthority": "Oldham",
+    "locationId": "1-146777407",
+    "locationTypes": [],
+    "mainPhoneNumber": "01617708255",
+    "name": "Butler Green House",
+    "numberOfBeds": 32,
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.5310744,
+    "onspdLongitude": -2.145543,
+    "organisationType": "Location",
+    "postalAddressCounty": "Lancashire",
+    "postalAddressLine1": "Wallis Street",
+    "postalAddressLine2": "Chadderton",
+    "postalAddressTownCity": "Oldham",
+    "postalCode": "OL9 8NG",
+    "providerId": "1-101668216",
+    "region": "North West",
+    "registrationDate": "2011-01-27",
+    "registrationStatus": "Deregistered",
+    "regulatedActivities": [],
+    "relationships": [
+        {
+            "reason": "NHS Transfer",
+            "relatedLocationId": "5J5X2",
+            "relatedLocationName": "Butler Green",
+            "type": "HSCA Successor"
+        }
+    ],
+    "specialisms": [
+        {
+            "name": "Caring for adults over 65 yrs"
+        },
+        {
+            "name": "Dementia"
+        },
+        {
+            "name": "Physical disabilities"
+        }
+    ],
+    "type": "Social Care Org",
+    "uprn": "422000017779",
+    "website": "www.oldham.gov.uk"
+}

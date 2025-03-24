@@ -1,0 +1,147 @@
+{
+    "careHome": "N",
+    "constituency": "Oldham West and Royton",
+    "currentRatings": {
+        "overall": {
+            "keyQuestionRatings": [
+                {
+                    "name": "Safe",
+                    "rating": "Good",
+                    "reportDate": "2018-09-04",
+                    "reportLinkId": "96e61e2c-64da-400b-a3c8-9b3c18fc6e18"
+                },
+                {
+                    "name": "Well-led",
+                    "rating": "Good",
+                    "reportDate": "2018-09-04",
+                    "reportLinkId": "96e61e2c-64da-400b-a3c8-9b3c18fc6e18"
+                },
+                {
+                    "name": "Caring",
+                    "rating": "Good",
+                    "reportDate": "2018-09-04",
+                    "reportLinkId": "96e61e2c-64da-400b-a3c8-9b3c18fc6e18"
+                },
+                {
+                    "name": "Responsive",
+                    "rating": "Good",
+                    "reportDate": "2018-09-04",
+                    "reportLinkId": "96e61e2c-64da-400b-a3c8-9b3c18fc6e18"
+                },
+                {
+                    "name": "Effective",
+                    "rating": "Good",
+                    "reportDate": "2018-09-04",
+                    "reportLinkId": "96e61e2c-64da-400b-a3c8-9b3c18fc6e18"
+                }
+            ],
+            "rating": "Good",
+            "reportDate": "2018-09-04",
+            "reportLinkId": "96e61e2c-64da-400b-a3c8-9b3c18fc6e18"
+        },
+        "reportDate": "2018-09-04"
+    },
+    "dormancy": "N",
+    "gacServiceTypes": [
+        {
+            "description": "Domiciliary care service",
+            "name": "Homecare agencies"
+        }
+    ],
+    "inspectionAreas": [],
+    "inspectionCategories": [
+        {
+            "code": "S2",
+            "name": "Community based adult social care services",
+            "primary": "true"
+        }
+    ],
+    "inspectionDirectorate": "Adult social care",
+    "lastInspection": {
+        "date": "2018-08-08"
+    },
+    "lastReport": {
+        "publicationDate": "2018-09-04"
+    },
+    "localAuthority": "Oldham",
+    "locationId": "1-3914470281",
+    "locationTypes": [],
+    "mainPhoneNumber": "07473166111",
+    "name": "Instant Care Rochdale",
+    "numberOfBeds": 0,
+    "odsCode": "VN8H1",
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.534943,
+    "onspdLongitude": -2.1331071,
+    "organisationType": "Location",
+    "postalAddressLine1": "45 Oxford Street",
+    "postalAddressTownCity": "Oldham",
+    "postalCode": "OL9 7SN",
+    "providerId": "1-3727324557",
+    "region": "North West",
+    "registrationDate": "2017-06-08",
+    "registrationStatus": "Registered",
+    "regulatedActivities": [
+        {
+            "code": "RA1",
+            "contacts": [
+                {
+                    "personFamilyName": "Shakeel",
+                    "personGivenName": "Shamila",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Mrs"
+                }
+            ],
+            "name": "Personal care"
+        }
+    ],
+    "relationships": [],
+    "reports": [
+        {
+            "firstVisitDate": "2018-08-08",
+            "linkId": "96e61e2c-64da-400b-a3c8-9b3c18fc6e18",
+            "reportDate": "2018-09-04",
+            "reportType": "Location",
+            "reportUri": "/reports/96e61e2c-64da-400b-a3c8-9b3c18fc6e18?20211030120000"
+        }
+    ],
+    "specialisms": [
+        {
+            "name": "Caring for adults over 65 yrs"
+        },
+        {
+            "name": "Caring for adults under 65 yrs"
+        },
+        {
+            "name": "Caring for children"
+        },
+        {
+            "name": "Dementia"
+        },
+        {
+            "name": "Eating disorders"
+        },
+        {
+            "name": "Learning disabilities"
+        },
+        {
+            "name": "Mental health conditions"
+        },
+        {
+            "name": "Physical disabilities"
+        },
+        {
+            "name": "Sensory impairment"
+        },
+        {
+            "name": "Substance misuse problems"
+        }
+    ],
+    "type": "Social Care Org",
+    "uprn": "422000096021"
+}

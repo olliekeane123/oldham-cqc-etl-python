@@ -1,0 +1,207 @@
+{
+    "careHome": "N",
+    "constituency": "Oldham West and Royton",
+    "currentRatings": {
+        "overall": {
+            "keyQuestionRatings": [
+                {
+                    "name": "Safe",
+                    "rating": "Good",
+                    "reportDate": "2023-09-14",
+                    "reportLinkId": "46399059-e3ea-4f62-9a97-17c3d9d05cda"
+                },
+                {
+                    "name": "Well-led",
+                    "rating": "Good",
+                    "reportDate": "2023-09-14",
+                    "reportLinkId": "46399059-e3ea-4f62-9a97-17c3d9d05cda"
+                },
+                {
+                    "name": "Caring",
+                    "rating": "Good",
+                    "reportDate": "2023-09-14",
+                    "reportLinkId": "46399059-e3ea-4f62-9a97-17c3d9d05cda"
+                },
+                {
+                    "name": "Responsive",
+                    "rating": "Good",
+                    "reportDate": "2023-09-14",
+                    "reportLinkId": "46399059-e3ea-4f62-9a97-17c3d9d05cda"
+                },
+                {
+                    "name": "Effective",
+                    "rating": "Good",
+                    "reportDate": "2023-09-14",
+                    "reportLinkId": "46399059-e3ea-4f62-9a97-17c3d9d05cda"
+                }
+            ],
+            "rating": "Good",
+            "reportDate": "2023-09-14",
+            "reportLinkId": "46399059-e3ea-4f62-9a97-17c3d9d05cda"
+        },
+        "reportDate": "2023-09-14"
+    },
+    "dormancy": "N",
+    "gacServiceTypes": [
+        {
+            "description": "Doctors treatment service",
+            "name": "Doctors/Gps"
+        }
+    ],
+    "historicRatings": [
+        {
+            "organisationId": "1-7967940976",
+            "overall": {
+                "keyQuestionRatings": [
+                    {
+                        "name": "Safe",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Well-led",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Caring",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Responsive",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Effective",
+                        "rating": "Good"
+                    }
+                ],
+                "rating": "Good"
+            },
+            "reportDate": "2022-05-18",
+            "reportLinkId": "e2de748b-a9fe-4880-8d8a-b84a5fad2db9"
+        }
+    ],
+    "inspectionAreas": [],
+    "inspectionCategories": [
+        {
+            "code": "P2",
+            "name": "GP Practices",
+            "primary": "true"
+        }
+    ],
+    "inspectionDirectorate": "Primary medical services",
+    "lastInspection": {
+        "date": "2023-08-02"
+    },
+    "lastReport": {
+        "publicationDate": "2023-09-14"
+    },
+    "localAuthority": "Oldham",
+    "locationId": "1-13449471679",
+    "locationTypes": [
+        {
+            "type": "GP Practice"
+        }
+    ],
+    "name": "Littletown Family Medical Practice",
+    "numberOfBeds": 0,
+    "odsCcgCode": "00Y",
+    "odsCcgName": "NHS Greater Manchester Icb - 00Y",
+    "odsCode": "P85605",
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.5291371,
+    "onspdLongitude": -2.1342976,
+    "organisationType": "Location",
+    "postalAddressCounty": "Greater Manchester",
+    "postalAddressLine1": "53 Manchester Road",
+    "postalAddressTownCity": "Oldham",
+    "postalCode": "OL8 4LR",
+    "providerId": "1-13168359125",
+    "region": "North West",
+    "registrationDate": "2022-08-05",
+    "registrationStatus": "Registered",
+    "regulatedActivities": [
+        {
+            "code": "RA11",
+            "contacts": [
+                {
+                    "personFamilyName": "Cains",
+                    "personGivenName": "Peter Daniel",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Dr"
+                }
+            ],
+            "name": "Maternity and midwifery services"
+        },
+        {
+            "code": "RA5",
+            "contacts": [
+                {
+                    "personFamilyName": "Cains",
+                    "personGivenName": "Peter Daniel",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Dr"
+                }
+            ],
+            "name": "Treatment of disease, disorder or injury"
+        },
+        {
+            "code": "RA7",
+            "contacts": [
+                {
+                    "personFamilyName": "Cains",
+                    "personGivenName": "Peter Daniel",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Dr"
+                }
+            ],
+            "name": "Surgical procedures"
+        },
+        {
+            "code": "RA8",
+            "contacts": [
+                {
+                    "personFamilyName": "Cains",
+                    "personGivenName": "Peter Daniel",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Dr"
+                }
+            ],
+            "name": "Diagnostic and screening procedures"
+        }
+    ],
+    "relationships": [
+        {
+            "reason": "Legal Entity Change",
+            "relatedLocationId": "1-7967940976",
+            "relatedLocationName": "Littletown Family Medical Practice",
+            "type": "HSCA Predecessor"
+        }
+    ],
+    "reports": [
+        {
+            "firstVisitDate": "2023-08-02",
+            "linkId": "46399059-e3ea-4f62-9a97-17c3d9d05cda",
+            "reportDate": "2023-09-14",
+            "reportType": "Location",
+            "reportUri": "/reports/46399059-e3ea-4f62-9a97-17c3d9d05cda?20230914070048"
+        }
+    ],
+    "specialisms": [
+        {
+            "name": "Services for everyone"
+        }
+    ],
+    "type": "Primary Medical Services",
+    "uprn": "422000105057"
+}

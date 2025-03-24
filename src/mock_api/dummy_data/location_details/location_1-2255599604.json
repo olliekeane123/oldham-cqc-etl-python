@@ -1,0 +1,83 @@
+{
+    "careHome": "N",
+    "constituency": "Oldham East and Saddleworth",
+    "deregistrationDate": "2016-11-02",
+    "dormancy": "N",
+    "gacServiceTypes": [
+        {
+            "description": "Domiciliary care service",
+            "name": "Homecare agencies"
+        },
+        {
+            "description": "Supported living service",
+            "name": "Supported living"
+        }
+    ],
+    "inspectionAreas": [],
+    "inspectionCategories": [
+        {
+            "code": "S2",
+            "name": "Community based adult social care services",
+            "primary": "true"
+        }
+    ],
+    "inspectionDirectorate": "Adult social care",
+    "localAuthority": "Oldham",
+    "locationId": "1-2255599604",
+    "locationTypes": [],
+    "mainPhoneNumber": "01612586039",
+    "name": "Select Support Partnerships Limited - Oldham Area and Bradford",
+    "numberOfBeds": 0,
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.54066,
+    "onspdLongitude": -2.097621,
+    "organisationType": "Location",
+    "postalAddressCounty": "Lancashire",
+    "postalAddressLine1": "Greengate Business Centre",
+    "postalAddressLine2": "2 Greengate Street",
+    "postalAddressTownCity": "Oldham",
+    "postalCode": "OL4 1FN",
+    "providerId": "1-101640848",
+    "region": "North West",
+    "registrationDate": "2015-10-21",
+    "registrationStatus": "Deregistered",
+    "regulatedActivities": [],
+    "relationships": [
+        {
+            "reason": "Location Move",
+            "relatedLocationId": "1-3026277756",
+            "relatedLocationName": "Oldham",
+            "type": "HSCA Successor"
+        }
+    ],
+    "specialisms": [
+        {
+            "name": "Caring for adults over 65 yrs"
+        },
+        {
+            "name": "Caring for adults under 65 yrs"
+        },
+        {
+            "name": "Dementia"
+        },
+        {
+            "name": "Eating disorders"
+        },
+        {
+            "name": "Learning disabilities"
+        },
+        {
+            "name": "Mental health conditions"
+        },
+        {
+            "name": "Physical disabilities"
+        },
+        {
+            "name": "Sensory impairment"
+        }
+    ],
+    "type": "Social Care Org"
+}

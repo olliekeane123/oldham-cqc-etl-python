@@ -1,0 +1,101 @@
+{
+    "careHome": "Y",
+    "constituency": "Oldham East and Saddleworth",
+    "currentRatings": {
+        "overall": {
+            "keyQuestionRatings": [
+                {
+                    "name": "Safe",
+                    "rating": "No published rating"
+                },
+                {
+                    "name": "Well-led",
+                    "rating": "No published rating"
+                },
+                {
+                    "name": "Caring",
+                    "rating": "No published rating"
+                },
+                {
+                    "name": "Responsive",
+                    "rating": "No published rating"
+                },
+                {
+                    "name": "Effective",
+                    "rating": "No published rating"
+                }
+            ],
+            "rating": "No published rating"
+        }
+    },
+    "deregistrationDate": "2012-11-20",
+    "dormancy": "N",
+    "gacServiceTypes": [
+        {
+            "description": "Care home service with nursing",
+            "name": "Nursing homes"
+        }
+    ],
+    "inspectionAreas": [],
+    "inspectionDirectorate": "Unspecified",
+    "lastInspection": {
+        "date": "2012-09-11"
+    },
+    "localAuthority": "Oldham",
+    "locationId": "1-222457842",
+    "locationTypes": [],
+    "mainPhoneNumber": "01616275868",
+    "name": "Longwood Lodge",
+    "numberOfBeds": 43,
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.5352713,
+    "onspdLongitude": -2.1029951,
+    "organisationType": "Location",
+    "postalAddressCounty": "Lancashire",
+    "postalAddressLine1": "61-63 Queens Road",
+    "postalAddressTownCity": "Oldham",
+    "postalCode": "OL8 2BA",
+    "providerId": "1-101679568",
+    "region": "North West",
+    "registrationDate": "2011-06-02",
+    "registrationStatus": "Deregistered",
+    "regulatedActivities": [],
+    "relationships": [
+        {
+            "reason": "New Provider",
+            "relatedLocationId": "1-470061969",
+            "relatedLocationName": "Longwood Lodge Care Home",
+            "type": "HSCA Successor"
+        }
+    ],
+    "reports": [
+        {
+            "firstVisitDate": "2012-09-11",
+            "linkId": "10d71ec3-fc88-4e8f-9c14-73e579bc0a3e",
+            "reportDate": "2012-10-03",
+            "reportUri": "/reports/10d71ec3-fc88-4e8f-9c14-73e579bc0a3e?20151016191357"
+        },
+        {
+            "linkId": "e00e2892-4e39-44d9-b40b-084bebe468ba",
+            "reportDate": "2011-11-07",
+            "reportUri": "/reports/e00e2892-4e39-44d9-b40b-084bebe468ba?20200430120000"
+        },
+        {
+            "firstVisitDate": "2011-07-21",
+            "linkId": "f1c54415-86a5-43fb-8263-e721fc6883c6",
+            "reportDate": "2011-08-03",
+            "reportUri": "/reports/f1c54415-86a5-43fb-8263-e721fc6883c6?20200430120000"
+        }
+    ],
+    "specialisms": [
+        {
+            "name": "Caring for adults over 65 yrs"
+        }
+    ],
+    "type": "Social Care Org",
+    "uprn": "422000001641",
+    "website": "www.eaglecrestcare.com"
+}

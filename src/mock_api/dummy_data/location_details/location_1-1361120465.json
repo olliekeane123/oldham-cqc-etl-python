@@ -1,0 +1,147 @@
+{
+    "brandId": "BD115",
+    "brandName": "BRAND Fresenius Medical Care Renal Services UK",
+    "careHome": "N",
+    "constituency": "Oldham West and Royton",
+    "currentRatings": {
+        "overall": {
+            "keyQuestionRatings": [
+                {
+                    "name": "Safe",
+                    "rating": "Inspected but not rated",
+                    "reportDate": "2017-12-22",
+                    "reportLinkId": "6151a3e0-dc44-4aa9-8384-97299c045df3"
+                },
+                {
+                    "name": "Well-led",
+                    "rating": "Inspected but not rated",
+                    "reportDate": "2017-12-22",
+                    "reportLinkId": "6151a3e0-dc44-4aa9-8384-97299c045df3"
+                },
+                {
+                    "name": "Caring",
+                    "rating": "Inspected but not rated",
+                    "reportDate": "2017-12-22",
+                    "reportLinkId": "6151a3e0-dc44-4aa9-8384-97299c045df3"
+                },
+                {
+                    "name": "Responsive",
+                    "rating": "Inspected but not rated",
+                    "reportDate": "2017-12-22",
+                    "reportLinkId": "6151a3e0-dc44-4aa9-8384-97299c045df3"
+                },
+                {
+                    "name": "Effective",
+                    "rating": "Inspected but not rated",
+                    "reportDate": "2017-12-22",
+                    "reportLinkId": "6151a3e0-dc44-4aa9-8384-97299c045df3"
+                }
+            ],
+            "rating": "Inspected but not rated",
+            "reportDate": "2017-12-22",
+            "reportLinkId": "6151a3e0-dc44-4aa9-8384-97299c045df3"
+        },
+        "reportDate": "2017-12-22",
+        "serviceRatings": [
+            {
+                "keyQuestionRatings": [
+                    {
+                        "name": "Caring",
+                        "rating": "Inspected but not rated"
+                    },
+                    {
+                        "name": "Effective",
+                        "rating": "Inspected but not rated"
+                    },
+                    {
+                        "name": "Responsive",
+                        "rating": "Inspected but not rated"
+                    },
+                    {
+                        "name": "Safe",
+                        "rating": "Inspected but not rated"
+                    },
+                    {
+                        "name": "Well-led",
+                        "rating": "Inspected but not rated"
+                    }
+                ],
+                "name": "dialysis",
+                "rating": "Inspected but not rated",
+                "reportDate": "2017-12-22",
+                "reportLinkId": "6151a3e0-dc44-4aa9-8384-97299c045df3"
+            }
+        ]
+    },
+    "deregistrationDate": "2024-11-27",
+    "dormancy": "N",
+    "gacServiceTypes": [
+        {
+            "description": "Acute services without overnight beds / listed acute services with or without overnight beds",
+            "name": "Clinic"
+        }
+    ],
+    "inspectionAreas": [
+        {
+            "inspectionAreaId": "dialysis",
+            "inspectionAreaName": "Dialysis services",
+            "status": "Active (Not rated)"
+        }
+    ],
+    "inspectionCategories": [
+        {
+            "code": "H4",
+            "name": "Acute hospital - Independent specialist",
+            "primary": "true"
+        }
+    ],
+    "inspectionDirectorate": "Hospitals",
+    "lastInspection": {
+        "date": "2017-04-25"
+    },
+    "lastReport": {
+        "publicationDate": "2017-12-22"
+    },
+    "localAuthority": "Oldham",
+    "locationId": "1-1361120465",
+    "locationTypes": [],
+    "mainPhoneNumber": "01616229870",
+    "name": "Oldham Dialysis Unit",
+    "numberOfBeds": 0,
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.5546897,
+    "onspdLongitude": -2.1253498,
+    "organisationType": "Location",
+    "postalAddressCounty": "Lancashire",
+    "postalAddressLine1": "48 Sheepfoot Lane",
+    "postalAddressTownCity": "Oldham",
+    "postalCode": "OL1 2PD",
+    "providerId": "1-101727389",
+    "region": "North West",
+    "registrationDate": "2014-04-22",
+    "registrationStatus": "Deregistered",
+    "regulatedActivities": [],
+    "relationships": [],
+    "reports": [
+        {
+            "firstVisitDate": "2017-04-25",
+            "linkId": "6151a3e0-dc44-4aa9-8384-97299c045df3",
+            "reportDate": "2017-12-22",
+            "reportType": "Location",
+            "reportUri": "/reports/6151a3e0-dc44-4aa9-8384-97299c045df3?20210117213215"
+        }
+    ],
+    "specialisms": [
+        {
+            "name": "Caring for adults over 65 yrs"
+        },
+        {
+            "name": "Caring for adults under 65 yrs"
+        }
+    ],
+    "type": "Independent Healthcare Org",
+    "uprn": "422000125610"
+}

@@ -1,0 +1,160 @@
+{
+    "careHome": "Y",
+    "constituency": "Oldham East and Saddleworth",
+    "currentRatings": {
+        "overall": {
+            "keyQuestionRatings": [
+                {
+                    "name": "Safe",
+                    "organisationId": "1-2711314834",
+                    "rating": "Good",
+                    "reportDate": "2018-06-14",
+                    "reportLinkId": "a88eb05a-45f8-4401-942c-220ad8cd2327"
+                },
+                {
+                    "name": "Well-led",
+                    "organisationId": "1-2711314834",
+                    "rating": "Good",
+                    "reportDate": "2018-06-14",
+                    "reportLinkId": "a88eb05a-45f8-4401-942c-220ad8cd2327"
+                },
+                {
+                    "name": "Caring",
+                    "organisationId": "1-2711314834",
+                    "rating": "Good",
+                    "reportDate": "2018-06-14",
+                    "reportLinkId": "a88eb05a-45f8-4401-942c-220ad8cd2327"
+                },
+                {
+                    "name": "Responsive",
+                    "organisationId": "1-2711314834",
+                    "rating": "Good",
+                    "reportDate": "2018-06-14",
+                    "reportLinkId": "a88eb05a-45f8-4401-942c-220ad8cd2327"
+                },
+                {
+                    "name": "Effective",
+                    "organisationId": "1-2711314834",
+                    "rating": "Good",
+                    "reportDate": "2018-06-14",
+                    "reportLinkId": "a88eb05a-45f8-4401-942c-220ad8cd2327"
+                }
+            ],
+            "rating": "Good",
+            "reportDate": "2018-06-14",
+            "reportLinkId": "a88eb05a-45f8-4401-942c-220ad8cd2327"
+        },
+        "reportDate": "2018-06-14"
+    },
+    "dormancy": "N",
+    "gacServiceTypes": [
+        {
+            "description": "Care home service without nursing",
+            "name": "Residential homes"
+        }
+    ],
+    "historicRatings": [
+        {
+            "organisationId": "1-2711314834",
+            "overall": {
+                "keyQuestionRatings": [
+                    {
+                        "name": "Safe",
+                        "rating": "Inspected but not rated"
+                    }
+                ],
+                "rating": "Inspected but not rated"
+            },
+            "reportDate": "2021-04-07",
+            "reportLinkId": "7c2c3e24-ed9f-41b0-9325-16e5e255b1c3"
+        }
+    ],
+    "inspectionAreas": [],
+    "inspectionCategories": [
+        {
+            "code": "S1",
+            "name": "Residential social care",
+            "primary": "true"
+        }
+    ],
+    "inspectionDirectorate": "Adult social care",
+    "lastReport": {
+        "publicationDate": "2021-04-07"
+    },
+    "localAuthority": "Oldham",
+    "locationId": "1-16483173019",
+    "locationTypes": [],
+    "mainPhoneNumber": "01616264079",
+    "name": "Fernbank",
+    "numberOfBeds": 29,
+    "odsCode": "VNQP2",
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.5345262,
+    "onspdLongitude": -2.0998231,
+    "organisationType": "Location",
+    "postalAddressLine1": "91-93 Queens Road",
+    "postalAddressTownCity": "Oldham",
+    "postalCode": "OL8 2BA",
+    "providerId": "1-16429477230",
+    "region": "North West",
+    "registrationDate": "2023-07-14",
+    "registrationStatus": "Registered",
+    "regulatedActivities": [
+        {
+            "code": "RA2",
+            "contacts": [
+                {
+                    "personFamilyName": "Brown",
+                    "personGivenName": "Holly Erin",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Mrs"
+                },
+                {
+                    "personFamilyName": "Zulfiqar",
+                    "personGivenName": "Uzma Sahdya",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Miss"
+                }
+            ],
+            "name": "Accommodation for persons who require nursing or personal care"
+        }
+    ],
+    "relationships": [
+        {
+            "reason": "Legal Entity Change",
+            "relatedLocationId": "1-2711314834",
+            "relatedLocationName": "Fern Bank Therapeutic Community Ltd",
+            "type": "HSCA Predecessor"
+        }
+    ],
+    "specialisms": [
+        {
+            "name": "Caring for adults over 65 yrs"
+        },
+        {
+            "name": "Caring for adults under 65 yrs"
+        },
+        {
+            "name": "Dementia"
+        },
+        {
+            "name": "Mental health conditions"
+        },
+        {
+            "name": "Physical disabilities"
+        },
+        {
+            "name": "Sensory impairment"
+        }
+    ],
+    "type": "Social Care Org",
+    "uprn": "422000126351",
+    "website": "www.fernbankcommunity.co.uk"
+}

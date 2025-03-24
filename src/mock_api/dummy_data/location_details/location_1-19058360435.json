@@ -1,0 +1,75 @@
+{
+    "careHome": "N",
+    "constituency": "Oldham West and Royton",
+    "dormancy": "Y",
+    "dormancyStartDate": "2024-04-29",
+    "gacServiceTypes": [
+        {
+            "description": "Domiciliary care service",
+            "name": "Homecare agencies"
+        }
+    ],
+    "inspectionAreas": [],
+    "inspectionCategories": [
+        {
+            "code": "S2",
+            "name": "Community based adult social care services",
+            "primary": "true"
+        }
+    ],
+    "inspectionDirectorate": "Adult social care",
+    "localAuthority": "Oldham",
+    "locationId": "1-19058360435",
+    "locationTypes": [],
+    "name": "54 Taylor Street",
+    "numberOfBeds": 0,
+    "odsCode": "VNV24",
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.5445814,
+    "onspdLongitude": -2.145889,
+    "organisationType": "Location",
+    "postalAddressLine1": "54 Taylor Street",
+    "postalAddressLine2": "Chadderton",
+    "postalAddressTownCity": "Oldham",
+    "postalCode": "OL9 9HH",
+    "providerId": "1-15631270181",
+    "region": "North West",
+    "registrationDate": "2024-04-29",
+    "registrationStatus": "Registered",
+    "regulatedActivities": [
+        {
+            "code": "RA1",
+            "contacts": [
+                {
+                    "personFamilyName": "Shoko",
+                    "personGivenName": "Mandisi Anita",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Miss"
+                }
+            ],
+            "name": "Personal care"
+        }
+    ],
+    "relationships": [],
+    "specialisms": [
+        {
+            "name": "Caring for adults over 65 yrs"
+        },
+        {
+            "name": "Caring for adults under 65 yrs"
+        },
+        {
+            "name": "Dementia"
+        },
+        {
+            "name": "Physical disabilities"
+        }
+    ],
+    "type": "Social Care Org",
+    "uprn": "422000007321"
+}

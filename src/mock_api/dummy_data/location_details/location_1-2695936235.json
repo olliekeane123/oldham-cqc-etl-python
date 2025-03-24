@@ -1,0 +1,214 @@
+{
+    "careHome": "N",
+    "constituency": "Oldham East and Saddleworth",
+    "currentRatings": {
+        "overall": {
+            "keyQuestionRatings": [
+                {
+                    "name": "Safe",
+                    "rating": "Requires improvement",
+                    "reportDate": "2023-01-14",
+                    "reportLinkId": "efb17887-ba22-4192-8bd6-c45a6d90f9da"
+                },
+                {
+                    "name": "Well-led",
+                    "rating": "Requires improvement",
+                    "reportDate": "2023-01-14",
+                    "reportLinkId": "efb17887-ba22-4192-8bd6-c45a6d90f9da"
+                },
+                {
+                    "name": "Caring",
+                    "rating": "Good",
+                    "reportDate": "2023-01-14",
+                    "reportLinkId": "efb17887-ba22-4192-8bd6-c45a6d90f9da"
+                },
+                {
+                    "name": "Responsive",
+                    "rating": "Good",
+                    "reportDate": "2018-09-21",
+                    "reportLinkId": "2f4787b4-35c5-4e78-a2f2-d7207b362a67"
+                },
+                {
+                    "name": "Effective",
+                    "rating": "Good",
+                    "reportDate": "2018-09-21",
+                    "reportLinkId": "2f4787b4-35c5-4e78-a2f2-d7207b362a67"
+                }
+            ],
+            "rating": "Requires improvement",
+            "reportDate": "2023-01-14",
+            "reportLinkId": "efb17887-ba22-4192-8bd6-c45a6d90f9da"
+        },
+        "reportDate": "2023-01-14"
+    },
+    "dormancy": "N",
+    "gacServiceTypes": [
+        {
+            "description": "Domiciliary care service",
+            "name": "Homecare agencies"
+        }
+    ],
+    "historicRatings": [
+        {
+            "overall": {
+                "keyQuestionRatings": [
+                    {
+                        "name": "Safe",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Well-led",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Caring",
+                        "rating": "Good"
+                    }
+                ],
+                "rating": "Good"
+            },
+            "reportDate": "2018-09-21",
+            "reportLinkId": "2f4787b4-35c5-4e78-a2f2-d7207b362a67"
+        },
+        {
+            "overall": {
+                "keyQuestionRatings": [
+                    {
+                        "name": "Safe",
+                        "rating": "Requires improvement"
+                    },
+                    {
+                        "name": "Well-led",
+                        "rating": "Requires improvement"
+                    },
+                    {
+                        "name": "Caring",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Responsive",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Effective",
+                        "rating": "Good"
+                    }
+                ],
+                "rating": "Requires improvement"
+            },
+            "reportDate": "2017-08-11",
+            "reportLinkId": "eabd87fb-086a-4e0f-a150-e5beecb96b53"
+        }
+    ],
+    "inspectionAreas": [],
+    "inspectionCategories": [
+        {
+            "code": "S2",
+            "name": "Community based adult social care services",
+            "primary": "true"
+        }
+    ],
+    "inspectionDirectorate": "Adult social care",
+    "lastInspection": {
+        "date": "2022-12-07"
+    },
+    "lastReport": {
+        "publicationDate": "2023-01-14"
+    },
+    "localAuthority": "Oldham",
+    "locationId": "1-2695936235",
+    "locationTypes": [],
+    "mainPhoneNumber": "01706882656",
+    "name": "Ambercare (North west) Ltd",
+    "numberOfBeds": 0,
+    "odsCode": "VN5HN",
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.5861512,
+    "onspdLongitude": -2.0935704,
+    "organisationType": "Location",
+    "postalAddressLine1": "Hilton House, Duchess Street",
+    "postalAddressLine2": "Shaw",
+    "postalAddressTownCity": "Oldham",
+    "postalCode": "OL2 7UT",
+    "providerId": "1-148988838",
+    "region": "North West",
+    "registrationDate": "2016-06-20",
+    "registrationStatus": "Registered",
+    "regulatedActivities": [
+        {
+            "code": "RA1",
+            "contacts": [
+                {
+                    "personFamilyName": "Kershaw",
+                    "personGivenName": "Susan Elizabeth",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Miss"
+                },
+                {
+                    "personFamilyName": "Wilson",
+                    "personGivenName": "Kelly Adele",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Mrs"
+                }
+            ],
+            "name": "Personal care"
+        }
+    ],
+    "relationships": [
+        {
+            "reason": "Location Move",
+            "relatedLocationId": "1-440568621",
+            "relatedLocationName": "Ambercare (North West) Ltd",
+            "type": "HSCA Predecessor"
+        }
+    ],
+    "reports": [
+        {
+            "firstVisitDate": "2022-12-07",
+            "linkId": "efb17887-ba22-4192-8bd6-c45a6d90f9da",
+            "reportDate": "2023-01-14",
+            "reportType": "Location",
+            "reportUri": "/reports/efb17887-ba22-4192-8bd6-c45a6d90f9da?20230119130000"
+        },
+        {
+            "firstVisitDate": "2018-08-30",
+            "linkId": "2f4787b4-35c5-4e78-a2f2-d7207b362a67",
+            "reportDate": "2018-09-21",
+            "reportType": "Location",
+            "reportUri": "/reports/2f4787b4-35c5-4e78-a2f2-d7207b362a67?20200129163919"
+        },
+        {
+            "firstVisitDate": "2017-06-27",
+            "linkId": "eabd87fb-086a-4e0f-a150-e5beecb96b53",
+            "reportDate": "2017-08-11",
+            "reportType": "Location",
+            "reportUri": "/reports/eabd87fb-086a-4e0f-a150-e5beecb96b53?20200129163919"
+        }
+    ],
+    "specialisms": [
+        {
+            "name": "Caring for adults over 65 yrs"
+        },
+        {
+            "name": "Caring for adults under 65 yrs"
+        },
+        {
+            "name": "Dementia"
+        },
+        {
+            "name": "Physical disabilities"
+        },
+        {
+            "name": "Sensory impairment"
+        }
+    ],
+    "type": "Social Care Org",
+    "uprn": "422000126870"
+}

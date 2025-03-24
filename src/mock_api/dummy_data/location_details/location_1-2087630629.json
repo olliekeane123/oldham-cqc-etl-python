@@ -1,0 +1,63 @@
+{
+    "careHome": "N",
+    "constituency": "Oldham East and Saddleworth",
+    "deregistrationDate": "2017-03-13",
+    "dormancy": "N",
+    "gacServiceTypes": [
+        {
+            "description": "Dental service",
+            "name": "Dentist"
+        }
+    ],
+    "inspectionAreas": [],
+    "inspectionCategories": [
+        {
+            "code": "P1",
+            "name": "Dentists",
+            "primary": "true"
+        }
+    ],
+    "inspectionDirectorate": "Primary medical services",
+    "localAuthority": "Oldham",
+    "locationId": "1-2087630629",
+    "locationTypes": [],
+    "mainPhoneNumber": "01616521205",
+    "name": "The Tooth Place",
+    "numberOfBeds": 0,
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.542459,
+    "onspdLongitude": -2.10597,
+    "organisationType": "Location",
+    "postalAddressCounty": "Lancashire",
+    "postalAddressLine1": "11 Rhodes Street",
+    "postalAddressTownCity": "Oldham",
+    "postalCode": "OL1 3TG",
+    "providerId": "1-2058496567",
+    "region": "North West",
+    "registrationDate": "2015-08-03",
+    "registrationStatus": "Deregistered",
+    "regulatedActivities": [],
+    "relationships": [
+        {
+            "reason": "Location Move",
+            "relatedLocationId": "1-2971699121",
+            "relatedLocationName": "The Tooth Place",
+            "type": "HSCA Successor"
+        },
+        {
+            "reason": "Legal Entity Change",
+            "relatedLocationId": "1-188690109",
+            "relatedLocationName": "The Tooth Place",
+            "type": "HSCA Predecessor"
+        }
+    ],
+    "specialisms": [
+        {
+            "name": "Services for everyone"
+        }
+    ],
+    "type": "Primary Dental Care"
+}

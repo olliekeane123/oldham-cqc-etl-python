@@ -1,0 +1,235 @@
+{
+    "careHome": "Y",
+    "constituency": "Oldham East and Saddleworth",
+    "currentRatings": {
+        "overall": {
+            "keyQuestionRatings": [
+                {
+                    "name": "Safe",
+                    "rating": "Good",
+                    "reportDate": "2021-11-20",
+                    "reportLinkId": "c7bab556-ddb9-4143-8567-92722e85795d"
+                },
+                {
+                    "name": "Well-led",
+                    "rating": "Good",
+                    "reportDate": "2021-11-20",
+                    "reportLinkId": "c7bab556-ddb9-4143-8567-92722e85795d"
+                },
+                {
+                    "name": "Caring",
+                    "rating": "Good",
+                    "reportDate": "2019-10-05",
+                    "reportLinkId": "97ae5d06-e384-40ae-bd0b-e2c896400047"
+                },
+                {
+                    "name": "Responsive",
+                    "rating": "Requires improvement",
+                    "reportDate": "2019-10-05",
+                    "reportLinkId": "97ae5d06-e384-40ae-bd0b-e2c896400047"
+                },
+                {
+                    "name": "Effective",
+                    "rating": "Requires improvement",
+                    "reportDate": "2019-10-05",
+                    "reportLinkId": "97ae5d06-e384-40ae-bd0b-e2c896400047"
+                }
+            ],
+            "rating": "Good",
+            "reportDate": "2021-11-20",
+            "reportLinkId": "c7bab556-ddb9-4143-8567-92722e85795d"
+        },
+        "reportDate": "2021-11-20"
+    },
+    "dormancy": "N",
+    "gacServiceTypes": [
+        {
+            "description": "Care home service without nursing",
+            "name": "Residential homes"
+        }
+    ],
+    "historicRatings": [
+        {
+            "overall": {
+                "keyQuestionRatings": [
+                    {
+                        "name": "Safe",
+                        "rating": "Requires improvement"
+                    },
+                    {
+                        "name": "Well-led",
+                        "rating": "Requires improvement"
+                    }
+                ],
+                "rating": "Requires improvement"
+            },
+            "reportDate": "2021-06-16",
+            "reportLinkId": "19ccf906-b54d-4725-a2d3-c64fb066e30a"
+        },
+        {
+            "overall": {
+                "keyQuestionRatings": [
+                    {
+                        "name": "Safe",
+                        "rating": "Requires improvement"
+                    },
+                    {
+                        "name": "Well-led",
+                        "rating": "Requires improvement"
+                    }
+                ],
+                "rating": "Requires improvement"
+            },
+            "reportDate": "2019-10-05",
+            "reportLinkId": "97ae5d06-e384-40ae-bd0b-e2c896400047"
+        },
+        {
+            "overall": {
+                "keyQuestionRatings": [
+                    {
+                        "name": "Safe",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Well-led",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Caring",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Responsive",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Effective",
+                        "rating": "Good"
+                    }
+                ],
+                "rating": "Good"
+            },
+            "reportDate": "2017-01-20",
+            "reportLinkId": "a77114aa-39cb-4d43-acac-a9b8af993660"
+        }
+    ],
+    "inspectionAreas": [],
+    "inspectionCategories": [
+        {
+            "code": "S1",
+            "name": "Residential social care",
+            "primary": "true"
+        }
+    ],
+    "inspectionDirectorate": "Adult social care",
+    "lastInspection": {
+        "date": "2021-11-01"
+    },
+    "lastReport": {
+        "publicationDate": "2021-11-20"
+    },
+    "localAuthority": "Oldham",
+    "locationId": "1-139948467",
+    "locationTypes": [],
+    "mainPhoneNumber": "01616241013",
+    "name": "Ashbourne House Care Home",
+    "numberOfBeds": 35,
+    "odsCode": "VM6CH",
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.5326191,
+    "onspdLongitude": -2.0657999,
+    "organisationType": "Location",
+    "postalAddressCounty": "Lancashire",
+    "postalAddressLine1": "230 Lees New Road",
+    "postalAddressTownCity": "Oldham",
+    "postalCode": "OL4 5PP",
+    "providerId": "1-101662253",
+    "region": "North West",
+    "registeredManagerAbsentDate": "2024-01-18",
+    "registrationDate": "2011-01-28",
+    "registrationStatus": "Registered",
+    "regulatedActivities": [
+        {
+            "code": "RA2",
+            "contacts": [],
+            "name": "Accommodation for persons who require nursing or personal care"
+        }
+    ],
+    "relationships": [],
+    "reports": [
+        {
+            "firstVisitDate": "2021-10-25",
+            "linkId": "c7bab556-ddb9-4143-8567-92722e85795d",
+            "reportDate": "2021-11-20",
+            "reportType": "Location",
+            "reportUri": "/reports/c7bab556-ddb9-4143-8567-92722e85795d?20211120130000"
+        },
+        {
+            "firstVisitDate": "2021-04-15",
+            "linkId": "19ccf906-b54d-4725-a2d3-c64fb066e30a",
+            "reportDate": "2021-06-16",
+            "reportType": "Location",
+            "reportUri": "/reports/19ccf906-b54d-4725-a2d3-c64fb066e30a?20211030120000"
+        },
+        {
+            "firstVisitDate": "2019-08-02",
+            "linkId": "97ae5d06-e384-40ae-bd0b-e2c896400047",
+            "reportDate": "2019-10-05",
+            "reportType": "Location",
+            "reportUri": "/reports/97ae5d06-e384-40ae-bd0b-e2c896400047?20191106130000"
+        },
+        {
+            "firstVisitDate": "2016-10-31",
+            "linkId": "a77114aa-39cb-4d43-acac-a9b8af993660",
+            "reportDate": "2017-01-20",
+            "reportType": "Location",
+            "reportUri": "/reports/a77114aa-39cb-4d43-acac-a9b8af993660?20211030120000"
+        },
+        {
+            "firstVisitDate": "2014-08-05",
+            "linkId": "071f87fd-ba15-4be9-8512-bd767b58c4cd",
+            "reportDate": "2014-10-01",
+            "reportUri": "/reports/071f87fd-ba15-4be9-8512-bd767b58c4cd?20200129163919"
+        },
+        {
+            "firstVisitDate": "2014-01-09",
+            "linkId": "8d58d29a-57b0-4967-b6b3-5eb42089d9b6",
+            "reportDate": "2014-02-08",
+            "reportUri": "/reports/8d58d29a-57b0-4967-b6b3-5eb42089d9b6?20200129163919"
+        },
+        {
+            "firstVisitDate": "2013-02-21",
+            "linkId": "3ac32626-8c54-44cf-8c1d-9e96c6a7784d",
+            "reportDate": "2013-03-20",
+            "reportUri": "/reports/3ac32626-8c54-44cf-8c1d-9e96c6a7784d?20200129163919"
+        },
+        {
+            "firstVisitDate": "2012-07-09",
+            "linkId": "cffe53c2-508a-4688-962d-8f8c0f9a2d48",
+            "reportDate": "2012-08-02",
+            "reportUri": "/reports/cffe53c2-508a-4688-962d-8f8c0f9a2d48?20200430120000"
+        }
+    ],
+    "specialisms": [
+        {
+            "name": "Caring for adults over 65 yrs"
+        },
+        {
+            "name": "Caring for adults under 65 yrs"
+        },
+        {
+            "name": "Dementia"
+        },
+        {
+            "name": "Physical disabilities"
+        },
+        {
+            "name": "Sensory impairment"
+        }
+    ],
+    "type": "Social Care Org",
+    "uprn": "100012461125"
+}

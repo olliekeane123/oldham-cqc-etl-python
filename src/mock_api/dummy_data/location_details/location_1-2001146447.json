@@ -1,0 +1,287 @@
+{
+    "careHome": "Y",
+    "constituency": "Oldham West and Royton",
+    "currentRatings": {
+        "overall": {
+            "keyQuestionRatings": [
+                {
+                    "name": "Safe",
+                    "rating": "Good",
+                    "reportDate": "2022-04-02",
+                    "reportLinkId": "832bf202-8663-460f-82b5-309a254698ed"
+                },
+                {
+                    "name": "Well-led",
+                    "rating": "Good",
+                    "reportDate": "2022-04-02",
+                    "reportLinkId": "832bf202-8663-460f-82b5-309a254698ed"
+                },
+                {
+                    "name": "Caring",
+                    "rating": "Good",
+                    "reportDate": "2018-07-10",
+                    "reportLinkId": "5e472e96-4dbf-4b18-8d6b-b56c14ceaeed"
+                },
+                {
+                    "name": "Responsive",
+                    "rating": "Good",
+                    "reportDate": "2018-07-10",
+                    "reportLinkId": "5e472e96-4dbf-4b18-8d6b-b56c14ceaeed"
+                },
+                {
+                    "name": "Effective",
+                    "rating": "Good",
+                    "reportDate": "2018-07-10",
+                    "reportLinkId": "5e472e96-4dbf-4b18-8d6b-b56c14ceaeed"
+                }
+            ],
+            "rating": "Good",
+            "reportDate": "2022-04-02",
+            "reportLinkId": "832bf202-8663-460f-82b5-309a254698ed"
+        },
+        "reportDate": "2022-04-02"
+    },
+    "dormancy": "N",
+    "gacServiceTypes": [
+        {
+            "description": "Care home service without nursing",
+            "name": "Residential homes"
+        }
+    ],
+    "historicRatings": [
+        {
+            "overall": {
+                "keyQuestionRatings": [
+                    {
+                        "name": "Safe",
+                        "rating": "Requires improvement"
+                    },
+                    {
+                        "name": "Well-led",
+                        "rating": "Requires improvement"
+                    }
+                ],
+                "rating": "Requires improvement"
+            },
+            "reportDate": "2020-12-12",
+            "reportLinkId": "468e67c1-2ac5-400c-aba1-794f2cf36e8a"
+        },
+        {
+            "overall": {
+                "keyQuestionRatings": [
+                    {
+                        "name": "Safe",
+                        "rating": "Requires improvement"
+                    },
+                    {
+                        "name": "Well-led",
+                        "rating": "Requires improvement"
+                    }
+                ],
+                "rating": "Requires improvement"
+            },
+            "reportDate": "2019-09-12",
+            "reportLinkId": "d18541af-93a8-4069-9a77-680dbf20dee8"
+        },
+        {
+            "overall": {
+                "keyQuestionRatings": [
+                    {
+                        "name": "Safe",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Well-led",
+                        "rating": "Good"
+                    }
+                ],
+                "rating": "Good"
+            },
+            "reportDate": "2018-07-10",
+            "reportLinkId": "5e472e96-4dbf-4b18-8d6b-b56c14ceaeed"
+        },
+        {
+            "overall": {
+                "keyQuestionRatings": [
+                    {
+                        "name": "Safe",
+                        "rating": "Inadequate"
+                    },
+                    {
+                        "name": "Well-led",
+                        "rating": "Inadequate"
+                    },
+                    {
+                        "name": "Caring",
+                        "rating": "Requires improvement"
+                    },
+                    {
+                        "name": "Responsive",
+                        "rating": "Requires improvement"
+                    },
+                    {
+                        "name": "Effective",
+                        "rating": "Requires improvement"
+                    }
+                ],
+                "rating": "Inadequate"
+            },
+            "reportDate": "2017-09-03",
+            "reportLinkId": "704966b5-2e55-45b6-b3d5-a710bdea26d4"
+        },
+        {
+            "overall": {
+                "keyQuestionRatings": [
+                    {
+                        "name": "Safe",
+                        "rating": "Requires improvement"
+                    },
+                    {
+                        "name": "Well-led",
+                        "rating": "Requires improvement"
+                    },
+                    {
+                        "name": "Caring",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Responsive",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Effective",
+                        "rating": "Requires improvement"
+                    }
+                ],
+                "rating": "Requires improvement"
+            },
+            "reportDate": "2017-06-08",
+            "reportLinkId": "ce8e0a71-51d6-4c99-b091-0e5b72813c0c"
+        }
+    ],
+    "inspectionAreas": [],
+    "inspectionCategories": [
+        {
+            "code": "S1",
+            "name": "Residential social care",
+            "primary": "true"
+        }
+    ],
+    "inspectionDirectorate": "Adult social care",
+    "lastInspection": {
+        "date": "2022-03-02"
+    },
+    "lastReport": {
+        "publicationDate": "2022-04-02"
+    },
+    "localAuthority": "Oldham",
+    "locationId": "1-2001146447",
+    "locationTypes": [],
+    "mainPhoneNumber": "01616248149",
+    "name": "Edge Hill Rest Home",
+    "numberOfBeds": 36,
+    "odsCode": "VM6EQ",
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.5565935,
+    "onspdLongitude": -2.120165,
+    "organisationType": "Location",
+    "postalAddressCounty": "Lancashire",
+    "postalAddressLine1": "315 Oldham Road",
+    "postalAddressLine2": "Royton",
+    "postalAddressTownCity": "Oldham",
+    "postalCode": "OL2 6AB",
+    "providerId": "1-1724973860",
+    "region": "North West",
+    "registrationDate": "2015-08-24",
+    "registrationStatus": "Registered",
+    "regulatedActivities": [
+        {
+            "code": "RA2",
+            "contacts": [
+                {
+                    "personFamilyName": "Walker",
+                    "personGivenName": "Joanne",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Mrs"
+                }
+            ],
+            "name": "Accommodation for persons who require nursing or personal care"
+        }
+    ],
+    "relationships": [
+        {
+            "reason": "Legal Entity Change",
+            "relatedLocationId": "1-130318817",
+            "relatedLocationName": "Edge Hill Rest Home",
+            "type": "HSCA Predecessor"
+        }
+    ],
+    "reports": [
+        {
+            "firstVisitDate": "2022-02-28",
+            "linkId": "832bf202-8663-460f-82b5-309a254698ed",
+            "reportDate": "2022-04-02",
+            "reportType": "Location",
+            "reportUri": "/reports/832bf202-8663-460f-82b5-309a254698ed?20220402120000"
+        },
+        {
+            "firstVisitDate": "2020-11-16",
+            "linkId": "468e67c1-2ac5-400c-aba1-794f2cf36e8a",
+            "reportDate": "2020-12-12",
+            "reportType": "Location",
+            "reportUri": "/reports/468e67c1-2ac5-400c-aba1-794f2cf36e8a?20210108130000"
+        },
+        {
+            "firstVisitDate": "2019-07-17",
+            "linkId": "d18541af-93a8-4069-9a77-680dbf20dee8",
+            "reportDate": "2019-09-12",
+            "reportType": "Location",
+            "reportUri": "/reports/d18541af-93a8-4069-9a77-680dbf20dee8?20211030120000"
+        },
+        {
+            "firstVisitDate": "2018-05-08",
+            "linkId": "5e472e96-4dbf-4b18-8d6b-b56c14ceaeed",
+            "reportDate": "2018-07-10",
+            "reportType": "Location",
+            "reportUri": "/reports/5e472e96-4dbf-4b18-8d6b-b56c14ceaeed?20190802143553"
+        },
+        {
+            "firstVisitDate": "2016-11-24",
+            "linkId": "704966b5-2e55-45b6-b3d5-a710bdea26d4",
+            "reportDate": "2017-09-03",
+            "reportType": "Location",
+            "reportUri": "/reports/704966b5-2e55-45b6-b3d5-a710bdea26d4?20211030120000"
+        },
+        {
+            "firstVisitDate": "2017-04-25",
+            "linkId": "ce8e0a71-51d6-4c99-b091-0e5b72813c0c",
+            "reportDate": "2017-06-08",
+            "reportType": "Location",
+            "reportUri": "/reports/ce8e0a71-51d6-4c99-b091-0e5b72813c0c?20211030120000"
+        }
+    ],
+    "specialisms": [
+        {
+            "name": "Caring for adults over 65 yrs"
+        },
+        {
+            "name": "Caring for adults under 65 yrs"
+        },
+        {
+            "name": "Dementia"
+        },
+        {
+            "name": "Mental health conditions"
+        },
+        {
+            "name": "Sensory impairment"
+        }
+    ],
+    "type": "Social Care Org",
+    "uprn": "422000050794"
+}

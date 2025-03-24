@@ -1,0 +1,79 @@
+{
+    "brandId": "BD600",
+    "brandName": "BRAND Bloomcare",
+    "careHome": "Y",
+    "constituency": "Oldham East and Saddleworth",
+    "dormancy": "N",
+    "gacServiceTypes": [
+        {
+            "description": "Care home service without nursing",
+            "name": "Residential homes"
+        }
+    ],
+    "inspectionAreas": [],
+    "inspectionCategories": [
+        {
+            "code": "S1",
+            "name": "Residential social care",
+            "primary": "true"
+        }
+    ],
+    "inspectionDirectorate": "Adult social care",
+    "localAuthority": "Oldham",
+    "locationId": "1-22070291186",
+    "locationTypes": [],
+    "name": "Miller House Care Home",
+    "numberOfBeds": 30,
+    "odsCode": "VNXJX",
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.5709307,
+    "onspdLongitude": -2.0977493,
+    "organisationType": "Location",
+    "postalAddressLine1": "Building 5, 77 Oldham Road",
+    "postalAddressLine2": "Shaw",
+    "postalAddressTownCity": "Oldham",
+    "postalCode": "OL2 8SP",
+    "providerId": "1-4521210418",
+    "region": "North West",
+    "registrationDate": "2025-02-25",
+    "registrationStatus": "Registered",
+    "regulatedActivities": [
+        {
+            "code": "RA2",
+            "contacts": [
+                {
+                    "personFamilyName": "Burutsa",
+                    "personGivenName": "Yvonne",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Miss"
+                }
+            ],
+            "name": "Accommodation for persons who require nursing or personal care"
+        }
+    ],
+    "relationships": [],
+    "specialisms": [
+        {
+            "name": "Caring for adults over 65 yrs"
+        },
+        {
+            "name": "Caring for adults under 65 yrs"
+        },
+        {
+            "name": "Dementia"
+        },
+        {
+            "name": "Physical disabilities"
+        },
+        {
+            "name": "Sensory impairment"
+        }
+    ],
+    "type": "Social Care Org",
+    "uprn": "422000086448"
+}

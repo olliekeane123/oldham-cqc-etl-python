@@ -1,0 +1,44 @@
+{
+    "careHome": "N",
+    "constituency": "Oldham West and Royton",
+    "deregistrationDate": "2012-09-06",
+    "dormancy": "N",
+    "gacServiceTypes": [
+        {
+            "description": "Dental service",
+            "name": "Dentist"
+        }
+    ],
+    "inspectionAreas": [],
+    "inspectionDirectorate": "Unspecified",
+    "localAuthority": "Oldham",
+    "locationId": "1-195427486",
+    "locationTypes": [],
+    "mainPhoneNumber": "01616811022",
+    "name": "Hollinwood Dental Practice",
+    "numberOfBeds": 0,
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.520731,
+    "onspdLongitude": -2.143803,
+    "organisationType": "Location",
+    "postalAddressCounty": "Greater Manchester",
+    "postalAddressLine1": "580 Manchester Road",
+    "postalAddressLine2": "Hollinwood",
+    "postalAddressTownCity": "Oldham",
+    "postalCode": "OL9 7LS",
+    "providerId": "1-152989656",
+    "region": "North West",
+    "registrationDate": "2011-06-20",
+    "registrationStatus": "Deregistered",
+    "regulatedActivities": [],
+    "relationships": [],
+    "specialisms": [
+        {
+            "name": "Services for everyone"
+        }
+    ],
+    "type": "Primary Dental Care"
+}

@@ -1,0 +1,270 @@
+{
+    "careHome": "Y",
+    "constituency": "Oldham West and Royton",
+    "currentRatings": {
+        "overall": {
+            "keyQuestionRatings": [
+                {
+                    "name": "Safe",
+                    "rating": "Requires improvement",
+                    "reportDate": "2022-11-17",
+                    "reportLinkId": "a4d7296b-8225-49d0-826c-982b3a03e297"
+                },
+                {
+                    "name": "Well-led",
+                    "rating": "Requires improvement",
+                    "reportDate": "2022-11-17",
+                    "reportLinkId": "a4d7296b-8225-49d0-826c-982b3a03e297"
+                },
+                {
+                    "name": "Caring",
+                    "rating": "Good",
+                    "reportDate": "2022-05-04",
+                    "reportLinkId": "37279916-a35d-41a4-a00d-49db6b96796b"
+                },
+                {
+                    "name": "Responsive",
+                    "rating": "Good",
+                    "reportDate": "2022-05-04",
+                    "reportLinkId": "37279916-a35d-41a4-a00d-49db6b96796b"
+                },
+                {
+                    "name": "Effective",
+                    "rating": "Requires improvement",
+                    "reportDate": "2022-05-04",
+                    "reportLinkId": "37279916-a35d-41a4-a00d-49db6b96796b"
+                }
+            ],
+            "rating": "Requires improvement",
+            "reportDate": "2022-11-17",
+            "reportLinkId": "a4d7296b-8225-49d0-826c-982b3a03e297"
+        },
+        "reportDate": "2022-11-17"
+    },
+    "deregistrationDate": "2023-08-31",
+    "dormancy": "N",
+    "gacServiceTypes": [
+        {
+            "description": "Care home service with nursing",
+            "name": "Nursing homes"
+        }
+    ],
+    "historicRatings": [
+        {
+            "overall": {
+                "keyQuestionRatings": [
+                    {
+                        "name": "Safe",
+                        "rating": "Requires improvement"
+                    },
+                    {
+                        "name": "Well-led",
+                        "rating": "Requires improvement"
+                    }
+                ],
+                "rating": "Requires improvement"
+            },
+            "reportDate": "2022-05-04",
+            "reportLinkId": "37279916-a35d-41a4-a00d-49db6b96796b"
+        },
+        {
+            "organisationId": "1-325393804",
+            "overall": {
+                "keyQuestionRatings": [
+                    {
+                        "name": "Safe",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Well-led",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Caring",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Responsive",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Effective",
+                        "rating": "Good"
+                    }
+                ],
+                "rating": "Good"
+            },
+            "reportDate": "2018-05-17",
+            "reportLinkId": "ed1ec20e-e11e-43cb-9c11-8a399de83802"
+        },
+        {
+            "organisationId": "1-325393804",
+            "overall": {
+                "keyQuestionRatings": [
+                    {
+                        "name": "Safe",
+                        "rating": "Requires improvement"
+                    },
+                    {
+                        "name": "Well-led",
+                        "rating": "Requires improvement"
+                    },
+                    {
+                        "name": "Caring",
+                        "rating": "Requires improvement"
+                    },
+                    {
+                        "name": "Responsive",
+                        "rating": "Requires improvement"
+                    },
+                    {
+                        "name": "Effective",
+                        "rating": "Requires improvement"
+                    }
+                ],
+                "rating": "Requires improvement"
+            },
+            "reportDate": "2017-03-11",
+            "reportLinkId": "43a5578f-d9e7-40fd-86e1-5ae39b9b0c62"
+        },
+        {
+            "organisationId": "1-325393804",
+            "overall": {
+                "keyQuestionRatings": [
+                    {
+                        "name": "Safe",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Well-led",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Caring",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Responsive",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Effective",
+                        "rating": "Good"
+                    }
+                ],
+                "rating": "Good"
+            },
+            "reportDate": "2016-02-26",
+            "reportLinkId": "7bdd402a-ad1e-40ad-8e01-d0936b0510a3"
+        },
+        {
+            "organisationId": "1-325393804",
+            "overall": {
+                "keyQuestionRatings": [
+                    {
+                        "name": "Safe",
+                        "rating": "Requires improvement"
+                    },
+                    {
+                        "name": "Well-led",
+                        "rating": "Requires improvement"
+                    },
+                    {
+                        "name": "Caring",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Responsive",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Effective",
+                        "rating": "Requires improvement"
+                    }
+                ],
+                "rating": "Requires improvement"
+            },
+            "reportDate": "2015-04-17",
+            "reportLinkId": "5a6f00ed-b8ce-42b1-8744-db879d4e0d7d"
+        }
+    ],
+    "inspectionAreas": [],
+    "inspectionCategories": [
+        {
+            "code": "S1",
+            "name": "Residential social care",
+            "primary": "true"
+        }
+    ],
+    "inspectionDirectorate": "Adult social care",
+    "lastInspection": {
+        "date": "2022-10-03"
+    },
+    "lastReport": {
+        "publicationDate": "2022-11-17"
+    },
+    "localAuthority": "Oldham",
+    "locationId": "1-9513445383",
+    "locationTypes": [],
+    "mainPhoneNumber": "01616267173",
+    "name": "Treelands Care Home",
+    "numberOfBeds": 80,
+    "odsCode": "VNGN6",
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.5189382,
+    "onspdLongitude": -2.104358,
+    "organisationType": "Location",
+    "postalAddressCounty": "Lancashire",
+    "postalAddressLine1": "Westerhill Road",
+    "postalAddressLine2": "Fitton Hill",
+    "postalAddressTownCity": "Oldham",
+    "postalCode": "OL8 2QH",
+    "providerId": "1-9299348986",
+    "region": "North West",
+    "registrationDate": "2020-09-10",
+    "registrationStatus": "Deregistered",
+    "regulatedActivities": [],
+    "relationships": [
+        {
+            "reason": "New Provider",
+            "relatedLocationId": "1-325393804",
+            "relatedLocationName": "Handsale Limited - Treelands Care Home",
+            "type": "HSCA Predecessor"
+        }
+    ],
+    "reports": [
+        {
+            "firstVisitDate": "2022-09-27",
+            "linkId": "a4d7296b-8225-49d0-826c-982b3a03e297",
+            "reportDate": "2022-11-17",
+            "reportType": "Location",
+            "reportUri": "/reports/a4d7296b-8225-49d0-826c-982b3a03e297?20221209130000"
+        },
+        {
+            "firstVisitDate": "2022-03-25",
+            "linkId": "37279916-a35d-41a4-a00d-49db6b96796b",
+            "reportDate": "2022-05-04",
+            "reportType": "Location",
+            "reportUri": "/reports/37279916-a35d-41a4-a00d-49db6b96796b?20220504120000"
+        }
+    ],
+    "specialisms": [
+        {
+            "name": "Caring for adults over 65 yrs"
+        },
+        {
+            "name": "Caring for adults under 65 yrs"
+        },
+        {
+            "name": "Dementia"
+        },
+        {
+            "name": "Mental health conditions"
+        }
+    ],
+    "type": "Social Care Org",
+    "uprn": "422000107199"
+}

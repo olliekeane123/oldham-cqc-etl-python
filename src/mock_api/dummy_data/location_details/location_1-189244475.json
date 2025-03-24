@@ -1,0 +1,146 @@
+{
+    "careHome": "N",
+    "constituency": "Oldham West and Royton",
+    "currentRatings": {
+        "overall": {
+            "keyQuestionRatings": [
+                {
+                    "name": "Safe",
+                    "rating": "No published rating"
+                },
+                {
+                    "name": "Well-led",
+                    "rating": "No published rating"
+                },
+                {
+                    "name": "Caring",
+                    "rating": "No published rating"
+                },
+                {
+                    "name": "Responsive",
+                    "rating": "No published rating"
+                },
+                {
+                    "name": "Effective",
+                    "rating": "No published rating"
+                }
+            ],
+            "rating": "Inspected but not rated",
+            "reportDate": "2023-05-05",
+            "reportLinkId": "039b07ab-2653-4865-afba-7dc8f5eac08c"
+        },
+        "reportDate": "2023-05-05"
+    },
+    "dormancy": "N",
+    "gacServiceTypes": [
+        {
+            "description": "Dental service",
+            "name": "Dentist"
+        }
+    ],
+    "inspectionAreas": [],
+    "inspectionCategories": [
+        {
+            "code": "P1",
+            "name": "Dentists",
+            "primary": "true"
+        }
+    ],
+    "inspectionDirectorate": "Primary medical services",
+    "lastInspection": {
+        "date": "2023-04-04"
+    },
+    "lastReport": {
+        "publicationDate": "2023-05-05"
+    },
+    "localAuthority": "Oldham",
+    "locationId": "1-189244475",
+    "locationTypes": [],
+    "mainPhoneNumber": "01615465850",
+    "name": "Royton Health and Wellbeing Centre",
+    "numberOfBeds": 0,
+    "odsCode": "V13713",
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.5664509,
+    "onspdLongitude": -2.1210363,
+    "organisationType": "Location",
+    "postalAddressCounty": "Greater Manchester",
+    "postalAddressLine1": "Park Street",
+    "postalAddressLine2": "Royton",
+    "postalAddressTownCity": "Oldham",
+    "postalCode": "OL2 6QW",
+    "providerId": "1-152989466",
+    "region": "North West",
+    "registrationDate": "2011-06-29",
+    "registrationStatus": "Registered",
+    "regulatedActivities": [
+        {
+            "code": "RA5",
+            "contacts": [
+                {
+                    "personFamilyName": "Hughes",
+                    "personGivenName": "Peter James",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Mr"
+                }
+            ],
+            "name": "Treatment of disease, disorder or injury"
+        },
+        {
+            "code": "RA7",
+            "contacts": [
+                {
+                    "personFamilyName": "Hughes",
+                    "personGivenName": "Peter James",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Mr"
+                }
+            ],
+            "name": "Surgical procedures"
+        },
+        {
+            "code": "RA8",
+            "contacts": [
+                {
+                    "personFamilyName": "Hughes",
+                    "personGivenName": "Peter James",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Mr"
+                }
+            ],
+            "name": "Diagnostic and screening procedures"
+        }
+    ],
+    "relationships": [],
+    "reports": [
+        {
+            "firstVisitDate": "2023-04-04",
+            "linkId": "039b07ab-2653-4865-afba-7dc8f5eac08c",
+            "reportDate": "2023-05-05",
+            "reportType": "Location",
+            "reportUri": "/reports/039b07ab-2653-4865-afba-7dc8f5eac08c?20230505070053"
+        },
+        {
+            "firstVisitDate": "2013-08-21",
+            "linkId": "6fb3bcd2-98a4-48c6-ab62-62a6b9198dec",
+            "reportDate": "2013-09-18",
+            "reportUri": "/reports/6fb3bcd2-98a4-48c6-ab62-62a6b9198dec?20151016191357"
+        }
+    ],
+    "specialisms": [
+        {
+            "name": "Services for everyone"
+        }
+    ],
+    "type": "Primary Dental Care",
+    "uprn": "422000119661"
+}

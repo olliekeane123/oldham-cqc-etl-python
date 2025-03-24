@@ -1,0 +1,99 @@
+{
+    "brandId": "BD583",
+    "brandName": "BRAND SpaMedica",
+    "careHome": "N",
+    "constituency": "Oldham West and Royton",
+    "dormancy": "N",
+    "gacServiceTypes": [
+        {
+            "description": "Acute services without overnight beds / listed acute services with or without overnight beds",
+            "name": "Clinic"
+        }
+    ],
+    "inspectionAreas": [],
+    "inspectionCategories": [
+        {
+            "code": "H3",
+            "name": "Acute hospital - Independent non-specialist",
+            "primary": "true"
+        }
+    ],
+    "inspectionDirectorate": "Hospitals",
+    "localAuthority": "Oldham",
+    "locationId": "1-12733014581",
+    "locationTypes": [],
+    "mainPhoneNumber": "01618380870",
+    "name": "SpaMedica Oldham",
+    "numberOfBeds": 0,
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.5546897,
+    "onspdLongitude": -2.1253498,
+    "organisationType": "Location",
+    "postalAddressLine1": "First Floor, Churchill House/Oldham Kidney Care Centre",
+    "postalAddressLine2": "48 Sheepfoot Lane",
+    "postalAddressTownCity": "Oldham",
+    "postalCode": "OL1 2PD",
+    "providerId": "1-101727990",
+    "region": "North West",
+    "registrationDate": "2022-04-28",
+    "registrationStatus": "Registered",
+    "regulatedActivities": [
+        {
+            "code": "RA5",
+            "contacts": [
+                {
+                    "personFamilyName": "Valentine",
+                    "personGivenName": "Georgia Louise",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Miss"
+                }
+            ],
+            "name": "Treatment of disease, disorder or injury"
+        },
+        {
+            "code": "RA7",
+            "contacts": [
+                {
+                    "personFamilyName": "Valentine",
+                    "personGivenName": "Georgia Louise",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Miss"
+                }
+            ],
+            "name": "Surgical procedures"
+        },
+        {
+            "code": "RA8",
+            "contacts": [
+                {
+                    "personFamilyName": "Valentine",
+                    "personGivenName": "Georgia Louise",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Miss"
+                }
+            ],
+            "name": "Diagnostic and screening procedures"
+        }
+    ],
+    "relationships": [],
+    "specialisms": [
+        {
+            "name": "Caring for adults over 65 yrs"
+        },
+        {
+            "name": "Caring for adults under 65 yrs"
+        }
+    ],
+    "type": "Independent Healthcare Org",
+    "uprn": "422000125610",
+    "website": "www.spamedica.co.uk"
+}

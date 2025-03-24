@@ -1,0 +1,138 @@
+{
+    "careHome": "N",
+    "constituency": "Oldham East and Saddleworth",
+    "currentRatings": {
+        "overall": {
+            "keyQuestionRatings": [
+                {
+                    "name": "Safe",
+                    "rating": "No published rating"
+                },
+                {
+                    "name": "Well-led",
+                    "rating": "No published rating"
+                },
+                {
+                    "name": "Caring",
+                    "rating": "No published rating"
+                },
+                {
+                    "name": "Responsive",
+                    "rating": "No published rating"
+                },
+                {
+                    "name": "Effective",
+                    "rating": "No published rating"
+                }
+            ],
+            "rating": "No published rating"
+        }
+    },
+    "deregistrationDate": "2015-01-23",
+    "dormancy": "N",
+    "gacServiceTypes": [
+        {
+            "description": "Domiciliary care service",
+            "name": "Homecare agencies"
+        },
+        {
+            "description": "Extra Care housing services",
+            "name": "Supported housing"
+        },
+        {
+            "description": "Rehabilitation services",
+            "name": "Rehabilitation (illness/injury)"
+        },
+        {
+            "description": "Supported living service",
+            "name": "Supported living"
+        }
+    ],
+    "inspectionAreas": [],
+    "inspectionCategories": [
+        {
+            "code": "H6",
+            "name": "Community health - NHS & Independent"
+        },
+        {
+            "code": "S2",
+            "name": "Community based adult social care services",
+            "primary": "true"
+        }
+    ],
+    "inspectionDirectorate": "Adult social care",
+    "lastInspection": {
+        "date": "2013-10-30"
+    },
+    "localAuthority": "Oldham",
+    "locationId": "1-151541420",
+    "locationTypes": [],
+    "mainPhoneNumber": "01706880780",
+    "name": "Able Care (Oldham) Limited",
+    "numberOfBeds": 0,
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.585612,
+    "onspdLongitude": -2.093373,
+    "organisationType": "Location",
+    "postalAddressCounty": "Greater Manchester",
+    "postalAddressLine1": "Able House, Trent Industrial Estate",
+    "postalAddressLine2": "Duchess Street, Shaw",
+    "postalAddressTownCity": "Oldham",
+    "postalCode": "OL2 7UT",
+    "providerId": "1-138327015",
+    "region": "North West",
+    "registrationDate": "2010-12-06",
+    "registrationStatus": "Deregistered",
+    "regulatedActivities": [],
+    "relationships": [],
+    "reports": [
+        {
+            "firstVisitDate": "2013-10-21",
+            "linkId": "f4115fe7-1bcd-46d0-bca7-0a89fc0869e4",
+            "reportDate": "2013-12-18",
+            "reportUri": "/reports/f4115fe7-1bcd-46d0-bca7-0a89fc0869e4?20151016191357"
+        },
+        {
+            "firstVisitDate": "2012-10-04",
+            "linkId": "b5317d53-7420-4a85-91d6-17565cced8fa",
+            "reportDate": "2012-10-25",
+            "reportUri": "/reports/b5317d53-7420-4a85-91d6-17565cced8fa?20200826120000"
+        },
+        {
+            "firstVisitDate": "2012-04-30",
+            "linkId": "12f2e83e-6454-4add-a8e0-cc43ca183b63",
+            "reportDate": "2012-06-11",
+            "reportUri": "/reports/12f2e83e-6454-4add-a8e0-cc43ca183b63?20200430120000"
+        }
+    ],
+    "specialisms": [
+        {
+            "name": "Caring for adults over 65 yrs"
+        },
+        {
+            "name": "Caring for adults under 65 yrs"
+        },
+        {
+            "name": "Caring for children"
+        },
+        {
+            "name": "Dementia"
+        },
+        {
+            "name": "Learning disabilities"
+        },
+        {
+            "name": "Mental health conditions"
+        },
+        {
+            "name": "Physical disabilities"
+        },
+        {
+            "name": "Sensory impairment"
+        }
+    ],
+    "type": "Social Care Org"
+}

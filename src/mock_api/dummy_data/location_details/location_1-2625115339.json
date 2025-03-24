@@ -1,0 +1,55 @@
+{
+    "careHome": "N",
+    "constituency": "Ashton-under-Lyne",
+    "deregistrationDate": "2022-03-23",
+    "dormancy": "N",
+    "gacServiceTypes": [
+        {
+            "description": "Doctors treatment service",
+            "name": "Doctors/Gps"
+        }
+    ],
+    "inspectionAreas": [],
+    "inspectionCategories": [
+        {
+            "code": "P3",
+            "name": "Out of hours",
+            "primary": "true"
+        }
+    ],
+    "inspectionDirectorate": "Primary medical services",
+    "localAuthority": "Oldham",
+    "locationId": "1-2625115339",
+    "locationTypes": [
+        {
+            "type": "NHS Out of Hours"
+        }
+    ],
+    "mainPhoneNumber": "01618260367",
+    "name": "Keppel Building",
+    "numberOfBeds": 0,
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.509855,
+    "onspdLongitude": -2.156747,
+    "organisationType": "Location",
+    "postalAddressCounty": "Greater Manchester",
+    "postalAddressLine1": "Ashton Road West",
+    "postalAddressLine2": "Failsworth",
+    "postalAddressTownCity": "Oldham",
+    "postalCode": "M35 0AD",
+    "providerId": "1-2517173072",
+    "region": "North West",
+    "registrationDate": "2016-06-14",
+    "registrationStatus": "Deregistered",
+    "regulatedActivities": [],
+    "relationships": [],
+    "specialisms": [
+        {
+            "name": "Services for everyone"
+        }
+    ],
+    "type": "Primary Medical Services"
+}

@@ -1,0 +1,127 @@
+{
+    "careHome": "N",
+    "constituency": "Oldham East and Saddleworth",
+    "currentRatings": {
+        "overall": {
+            "keyQuestionRatings": [
+                {
+                    "name": "Safe",
+                    "rating": "Inspected but not rated",
+                    "reportDate": "2017-02-16",
+                    "reportLinkId": "7c0629f0-b1c9-45b4-8395-083c868c13f5"
+                },
+                {
+                    "name": "Well-led",
+                    "rating": "Inspected but not rated",
+                    "reportDate": "2017-02-16",
+                    "reportLinkId": "7c0629f0-b1c9-45b4-8395-083c868c13f5"
+                },
+                {
+                    "name": "Caring",
+                    "rating": "Inspected but not rated",
+                    "reportDate": "2017-02-16",
+                    "reportLinkId": "7c0629f0-b1c9-45b4-8395-083c868c13f5"
+                },
+                {
+                    "name": "Responsive",
+                    "rating": "Inspected but not rated",
+                    "reportDate": "2017-02-16",
+                    "reportLinkId": "7c0629f0-b1c9-45b4-8395-083c868c13f5"
+                },
+                {
+                    "name": "Effective",
+                    "rating": "Inspected but not rated",
+                    "reportDate": "2017-02-16",
+                    "reportLinkId": "7c0629f0-b1c9-45b4-8395-083c868c13f5"
+                }
+            ],
+            "rating": "Inspected but not rated",
+            "reportDate": "2017-02-16",
+            "reportLinkId": "7c0629f0-b1c9-45b4-8395-083c868c13f5"
+        },
+        "reportDate": "2017-02-16"
+    },
+    "deregistrationDate": "2017-03-02",
+    "dormancy": "N",
+    "gacServiceTypes": [
+        {
+            "description": "Residential substance misuse treatment and/or rehabilitation service",
+            "name": "Rehabilitation (substance abuse)"
+        }
+    ],
+    "inspectionAreas": [],
+    "inspectionCategories": [
+        {
+            "code": "H10",
+            "name": "Residential substance misuse",
+            "primary": "true"
+        },
+        {
+            "code": "S1",
+            "name": "Residential social care"
+        }
+    ],
+    "inspectionDirectorate": "Hospitals",
+    "lastInspection": {
+        "date": "2016-12-12"
+    },
+    "lastReport": {
+        "publicationDate": "2017-02-16"
+    },
+    "localAuthority": "Oldham",
+    "locationId": "1-333124828",
+    "locationTypes": [],
+    "mainPhoneNumber": "01616334205",
+    "name": "St Clements Court",
+    "numberOfBeds": 29,
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.535827,
+    "onspdLongitude": -2.114343,
+    "organisationType": "Location",
+    "postalAddressCounty": "Greater Manchester",
+    "postalAddressLine1": "Falcon Street",
+    "postalAddressTownCity": "Oldham",
+    "postalCode": "OL8 1NG",
+    "providerId": "1-317612587",
+    "region": "North West",
+    "registrationDate": "2011-12-01",
+    "registrationStatus": "Deregistered",
+    "regulatedActivities": [],
+    "relationships": [],
+    "reports": [
+        {
+            "firstVisitDate": "2016-12-05",
+            "linkId": "7c0629f0-b1c9-45b4-8395-083c868c13f5",
+            "reportDate": "2017-02-16",
+            "reportType": "Location",
+            "reportUri": "/reports/7c0629f0-b1c9-45b4-8395-083c868c13f5?20210120065457"
+        },
+        {
+            "firstVisitDate": "2014-08-26",
+            "linkId": "eb56b76f-2b86-46e6-a4fe-49b0a7a102b2",
+            "reportDate": "2014-10-02",
+            "reportUri": "/reports/eb56b76f-2b86-46e6-a4fe-49b0a7a102b2?20200129163919"
+        },
+        {
+            "firstVisitDate": "2013-06-25",
+            "linkId": "9e0d1af3-4cfe-48a2-9175-46471b9a2d4d",
+            "reportDate": "2013-07-27",
+            "reportUri": "/reports/9e0d1af3-4cfe-48a2-9175-46471b9a2d4d?20200129163919"
+        },
+        {
+            "firstVisitDate": "2013-01-22",
+            "linkId": "33a98e20-ba5c-4810-ba7c-5fb9b8feed3d",
+            "reportDate": "2013-02-14",
+            "reportUri": "/reports/33a98e20-ba5c-4810-ba7c-5fb9b8feed3d?20200129163919"
+        }
+    ],
+    "specialisms": [
+        {
+            "name": "Substance misuse problems"
+        }
+    ],
+    "type": "Independent Healthcare Org"
+}

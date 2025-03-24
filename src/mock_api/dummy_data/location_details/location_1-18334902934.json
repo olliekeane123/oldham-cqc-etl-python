@@ -1,0 +1,83 @@
+{
+    "careHome": "N",
+    "constituency": "Oldham East and Saddleworth",
+    "dormancy": "Y",
+    "dormancyStartDate": "2024-01-29",
+    "gacServiceTypes": [
+        {
+            "description": "Domiciliary care service",
+            "name": "Homecare agencies"
+        }
+    ],
+    "inspectionAreas": [],
+    "inspectionCategories": [
+        {
+            "code": "S2",
+            "name": "Community based adult social care services",
+            "primary": "true"
+        }
+    ],
+    "inspectionDirectorate": "Adult social care",
+    "localAuthority": "Oldham",
+    "locationId": "1-18334902934",
+    "locationTypes": [],
+    "mainPhoneNumber": "07309035692",
+    "name": "Neonate House Limited",
+    "numberOfBeds": 0,
+    "odsCode": "VNT7E",
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.540767,
+    "onspdLongitude": -2.0963671,
+    "organisationType": "Location",
+    "postalAddressLine1": "Office 4, Offices at rear of Moorhey, Industrial Estate",
+    "postalAddressLine2": "Moorhey Street",
+    "postalAddressTownCity": "Oldham",
+    "postalCode": "OL4 1JE",
+    "providerId": "1-16900496836",
+    "region": "North West",
+    "registrationDate": "2024-01-10",
+    "registrationStatus": "Registered",
+    "regulatedActivities": [
+        {
+            "code": "RA1",
+            "contacts": [
+                {
+                    "personFamilyName": "Afolabi",
+                    "personGivenName": "Asiata Yemisi",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Ms"
+                }
+            ],
+            "name": "Personal care"
+        }
+    ],
+    "relationships": [],
+    "specialisms": [
+        {
+            "name": "Caring for adults over 65 yrs"
+        },
+        {
+            "name": "Caring for adults under 65 yrs"
+        },
+        {
+            "name": "Dementia"
+        },
+        {
+            "name": "Mental health conditions"
+        },
+        {
+            "name": "Physical disabilities"
+        },
+        {
+            "name": "Sensory impairment"
+        }
+    ],
+    "type": "Social Care Org",
+    "uprn": "422000124158",
+    "website": "www.neonatehouselimited.co.uk"
+}

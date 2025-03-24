@@ -1,0 +1,134 @@
+{
+    "careHome": "N",
+    "constituency": "Oldham West and Royton",
+    "currentRatings": {
+        "overall": {
+            "keyQuestionRatings": [
+                {
+                    "name": "Safe",
+                    "rating": "Good",
+                    "reportDate": "2022-10-05",
+                    "reportLinkId": "ce9368ff-3ac3-49b9-97e0-58b0658f2926"
+                },
+                {
+                    "name": "Well-led",
+                    "rating": "Good",
+                    "reportDate": "2022-10-05",
+                    "reportLinkId": "ce9368ff-3ac3-49b9-97e0-58b0658f2926"
+                },
+                {
+                    "name": "Caring",
+                    "rating": "Good",
+                    "reportDate": "2022-10-05",
+                    "reportLinkId": "ce9368ff-3ac3-49b9-97e0-58b0658f2926"
+                },
+                {
+                    "name": "Responsive",
+                    "rating": "Good",
+                    "reportDate": "2022-10-05",
+                    "reportLinkId": "ce9368ff-3ac3-49b9-97e0-58b0658f2926"
+                },
+                {
+                    "name": "Effective",
+                    "rating": "Good",
+                    "reportDate": "2022-10-05",
+                    "reportLinkId": "ce9368ff-3ac3-49b9-97e0-58b0658f2926"
+                }
+            ],
+            "rating": "Good",
+            "reportDate": "2022-10-05",
+            "reportLinkId": "ce9368ff-3ac3-49b9-97e0-58b0658f2926"
+        },
+        "reportDate": "2022-10-05"
+    },
+    "dormancy": "N",
+    "dormancyEndDate": "2022-04-21",
+    "gacServiceTypes": [
+        {
+            "description": "Domiciliary care service",
+            "name": "Homecare agencies"
+        }
+    ],
+    "inspectionAreas": [],
+    "inspectionCategories": [
+        {
+            "code": "S2",
+            "name": "Community based adult social care services",
+            "primary": "true"
+        }
+    ],
+    "inspectionDirectorate": "Adult social care",
+    "lastInspection": {
+        "date": "2022-09-12"
+    },
+    "lastReport": {
+        "publicationDate": "2022-10-05"
+    },
+    "localAuthority": "Oldham",
+    "locationId": "1-12598470778",
+    "locationTypes": [],
+    "mainPhoneNumber": "07859124462",
+    "name": "Rose Healthcare Services Ltd Ltd",
+    "numberOfBeds": 0,
+    "odsCode": "VNLK2",
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.5339614,
+    "onspdLongitude": -2.1424883,
+    "organisationType": "Location",
+    "postalAddressLine1": "35 Mona Road",
+    "postalAddressLine2": "Chadderton",
+    "postalAddressTownCity": "Oldham",
+    "postalCode": "OL9 8NS",
+    "providerId": "1-10154647570",
+    "region": "North West",
+    "registrationDate": "2022-02-17",
+    "registrationStatus": "Registered",
+    "regulatedActivities": [
+        {
+            "code": "RA1",
+            "contacts": [
+                {
+                    "personFamilyName": "Shodipe",
+                    "personGivenName": "Bolanle Oladapo",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Mrs"
+                }
+            ],
+            "name": "Personal care"
+        }
+    ],
+    "relationships": [],
+    "reports": [
+        {
+            "firstVisitDate": "2022-09-06",
+            "linkId": "ce9368ff-3ac3-49b9-97e0-58b0658f2926",
+            "reportDate": "2022-10-05",
+            "reportType": "Location",
+            "reportUri": "/reports/ce9368ff-3ac3-49b9-97e0-58b0658f2926?20221005120000"
+        }
+    ],
+    "specialisms": [
+        {
+            "name": "Caring for adults over 65 yrs"
+        },
+        {
+            "name": "Caring for adults under 65 yrs"
+        },
+        {
+            "name": "Dementia"
+        },
+        {
+            "name": "Eating disorders"
+        },
+        {
+            "name": "Learning disabilities"
+        }
+    ],
+    "type": "Social Care Org",
+    "uprn": "422000110426"
+}

@@ -1,0 +1,59 @@
+{
+    "careHome": "Y",
+    "constituency": "Oldham East and Saddleworth",
+    "deregistrationDate": "2014-12-11",
+    "dormancy": "N",
+    "gacServiceTypes": [
+        {
+            "description": "Care home service without nursing",
+            "name": "Residential homes"
+        }
+    ],
+    "inspectionAreas": [],
+    "inspectionCategories": [
+        {
+            "code": "S1",
+            "name": "Residential social care",
+            "primary": "true"
+        }
+    ],
+    "inspectionDirectorate": "Adult social care",
+    "localAuthority": "Oldham",
+    "locationId": "1-143831764",
+    "locationTypes": [],
+    "name": "Woodend House",
+    "numberOfBeds": 19,
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.53678,
+    "onspdLongitude": -2.065382,
+    "organisationType": "Location",
+    "postalAddressCounty": "Greater Manchester",
+    "postalAddressLine1": "Atherton Street",
+    "postalAddressLine2": "Springhead",
+    "postalAddressTownCity": "Oldham",
+    "postalCode": "OL4 5TQ",
+    "providerId": "1-131464318",
+    "region": "North West",
+    "registrationDate": "2010-12-23",
+    "registrationStatus": "Deregistered",
+    "regulatedActivities": [],
+    "relationships": [],
+    "specialisms": [
+        {
+            "name": "Caring for adults over 65 yrs"
+        },
+        {
+            "name": "Dementia"
+        },
+        {
+            "name": "Physical disabilities"
+        },
+        {
+            "name": "Sensory impairment"
+        }
+    ],
+    "type": "Social Care Org"
+}

@@ -1,0 +1,97 @@
+{
+    "careHome": "Y",
+    "constituency": "Oldham East and Saddleworth",
+    "currentRatings": {
+        "overall": {
+            "keyQuestionRatings": [
+                {
+                    "name": "Safe",
+                    "rating": "No published rating"
+                },
+                {
+                    "name": "Well-led",
+                    "rating": "No published rating"
+                },
+                {
+                    "name": "Caring",
+                    "rating": "No published rating"
+                },
+                {
+                    "name": "Responsive",
+                    "rating": "No published rating"
+                },
+                {
+                    "name": "Effective",
+                    "rating": "No published rating"
+                }
+            ],
+            "rating": "No published rating"
+        }
+    },
+    "deregistrationDate": "2012-09-03",
+    "dormancy": "N",
+    "gacServiceTypes": [
+        {
+            "description": "Care home service with nursing",
+            "name": "Nursing homes"
+        }
+    ],
+    "inspectionAreas": [],
+    "inspectionDirectorate": "Unspecified",
+    "lastInspection": {
+        "date": "2012-07-27"
+    },
+    "localAuthority": "Oldham",
+    "locationId": "1-117589436",
+    "locationTypes": [],
+    "mainPhoneNumber": "01616244594",
+    "name": "Oakdene Nursing Home Limited",
+    "numberOfBeds": 37,
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.5440514,
+    "onspdLongitude": -2.0673117,
+    "organisationType": "Location",
+    "postalAddressCounty": "Lancashire",
+    "postalAddressLine1": "32-34 Stamford Road",
+    "postalAddressLine2": "Lees",
+    "postalAddressTownCity": "Oldham",
+    "postalCode": "OL4 3LH",
+    "providerId": "1-101683688",
+    "region": "North West",
+    "registrationDate": "2011-01-19",
+    "registrationStatus": "Deregistered",
+    "regulatedActivities": [],
+    "relationships": [
+        {
+            "reason": "New Provider",
+            "relatedLocationId": "1-468164971",
+            "relatedLocationName": "Oakdene Nursing Home",
+            "type": "HSCA Successor"
+        }
+    ],
+    "reports": [
+        {
+            "firstVisitDate": "2012-07-27",
+            "linkId": "d7e3151f-5778-48a6-aa74-f3275f62e57c",
+            "reportDate": "2012-08-24",
+            "reportUri": "/reports/d7e3151f-5778-48a6-aa74-f3275f62e57c?20200430120000"
+        }
+    ],
+    "specialisms": [
+        {
+            "name": "Caring for adults over 65 yrs"
+        },
+        {
+            "name": "Dementia"
+        },
+        {
+            "name": "Physical disabilities"
+        }
+    ],
+    "type": "Social Care Org",
+    "uprn": "422000038080",
+    "website": "www.regencyhomesltd.co.uk"
+}

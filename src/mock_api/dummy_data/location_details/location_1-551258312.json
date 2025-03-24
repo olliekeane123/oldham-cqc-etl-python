@@ -1,0 +1,302 @@
+{
+    "careHome": "N",
+    "constituency": "Oldham West and Royton",
+    "currentRatings": {
+        "overall": {
+            "keyQuestionRatings": [
+                {
+                    "name": "Safe",
+                    "rating": "Good",
+                    "reportDate": "2021-05-31",
+                    "reportLinkId": "afa6dba5-8f6e-426b-820d-5ecaf09359a4"
+                },
+                {
+                    "name": "Well-led",
+                    "rating": "Good",
+                    "reportDate": "2021-05-31",
+                    "reportLinkId": "afa6dba5-8f6e-426b-820d-5ecaf09359a4"
+                },
+                {
+                    "name": "Caring",
+                    "rating": "Good",
+                    "reportDate": "2019-05-07",
+                    "reportLinkId": "acf2a570-8bf5-4a33-9517-c5cb185581a7"
+                },
+                {
+                    "name": "Responsive",
+                    "rating": "Good",
+                    "reportDate": "2019-05-07",
+                    "reportLinkId": "acf2a570-8bf5-4a33-9517-c5cb185581a7"
+                },
+                {
+                    "name": "Effective",
+                    "rating": "Good",
+                    "reportDate": "2021-05-31",
+                    "reportLinkId": "afa6dba5-8f6e-426b-820d-5ecaf09359a4"
+                }
+            ],
+            "rating": "Good",
+            "reportDate": "2021-05-31",
+            "reportLinkId": "afa6dba5-8f6e-426b-820d-5ecaf09359a4"
+        },
+        "reportDate": "2021-05-31",
+        "serviceRatings": [
+            {
+                "name": "conditions",
+                "rating": "Good",
+                "reportDate": "2021-05-31",
+                "reportLinkId": "afa6dba5-8f6e-426b-820d-5ecaf09359a4"
+            },
+            {
+                "name": "mothers",
+                "rating": "Good",
+                "reportDate": "2021-05-31",
+                "reportLinkId": "afa6dba5-8f6e-426b-820d-5ecaf09359a4"
+            },
+            {
+                "name": "old",
+                "rating": "Good",
+                "reportDate": "2021-05-31",
+                "reportLinkId": "afa6dba5-8f6e-426b-820d-5ecaf09359a4"
+            },
+            {
+                "name": "population",
+                "rating": "Good",
+                "reportDate": "2021-05-31",
+                "reportLinkId": "afa6dba5-8f6e-426b-820d-5ecaf09359a4"
+            },
+            {
+                "name": "problems",
+                "rating": "Good",
+                "reportDate": "2021-05-31",
+                "reportLinkId": "afa6dba5-8f6e-426b-820d-5ecaf09359a4"
+            },
+            {
+                "name": "vulnerable",
+                "rating": "Good",
+                "reportDate": "2021-05-31",
+                "reportLinkId": "afa6dba5-8f6e-426b-820d-5ecaf09359a4"
+            }
+        ]
+    },
+    "deregistrationDate": "2022-05-09",
+    "dormancy": "N",
+    "gacServiceTypes": [
+        {
+            "description": "Doctors consultation service",
+            "name": "Doctors/Gps"
+        }
+    ],
+    "historicRatings": [
+        {
+            "overall": {
+                "keyQuestionRatings": [
+                    {
+                        "name": "Safe",
+                        "rating": "Requires improvement"
+                    },
+                    {
+                        "name": "Well-led",
+                        "rating": "Requires improvement"
+                    },
+                    {
+                        "name": "Effective",
+                        "rating": "Requires improvement"
+                    }
+                ],
+                "rating": "Requires improvement"
+            },
+            "reportDate": "2019-05-07",
+            "reportLinkId": "acf2a570-8bf5-4a33-9517-c5cb185581a7",
+            "serviceRatings": [
+                {
+                    "name": "conditions",
+                    "rating": "Requires improvement"
+                },
+                {
+                    "name": "mothers",
+                    "rating": "Requires improvement"
+                },
+                {
+                    "name": "old",
+                    "rating": "Requires improvement"
+                },
+                {
+                    "name": "population",
+                    "rating": "Requires improvement"
+                },
+                {
+                    "name": "problems",
+                    "rating": "Requires improvement"
+                },
+                {
+                    "name": "vulnerable",
+                    "rating": "Requires improvement"
+                }
+            ]
+        },
+        {
+            "overall": {
+                "keyQuestionRatings": [
+                    {
+                        "name": "Safe",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Well-led",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Caring",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Responsive",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Effective",
+                        "rating": "Good"
+                    }
+                ],
+                "rating": "Good"
+            },
+            "reportDate": "2015-04-30",
+            "reportLinkId": "37ac5d85-e92b-4585-977c-6c18cfbc6377",
+            "serviceRatings": [
+                {
+                    "name": "conditions",
+                    "rating": "Good"
+                },
+                {
+                    "name": "mothers",
+                    "rating": "Good"
+                },
+                {
+                    "name": "old",
+                    "rating": "Good"
+                },
+                {
+                    "name": "population",
+                    "rating": "Good"
+                },
+                {
+                    "name": "problems",
+                    "rating": "Good"
+                },
+                {
+                    "name": "vulnerable",
+                    "rating": "Good"
+                }
+            ]
+        }
+    ],
+    "inspectionAreas": [
+        {
+            "inspectionAreaId": "conditions",
+            "inspectionAreaName": "People with long term conditions",
+            "status": "Active (Rated)"
+        },
+        {
+            "inspectionAreaId": "mothers",
+            "inspectionAreaName": "Families, children and young people",
+            "status": "Active (Rated)"
+        },
+        {
+            "inspectionAreaId": "old",
+            "inspectionAreaName": "Older people",
+            "status": "Active (Rated)"
+        },
+        {
+            "inspectionAreaId": "population",
+            "inspectionAreaName": "Working age people (including those recently retired and students)",
+            "status": "Active (Rated)"
+        },
+        {
+            "inspectionAreaId": "problems",
+            "inspectionAreaName": "People experiencing poor mental health (including people with dementia)",
+            "status": "Active (Rated)"
+        },
+        {
+            "inspectionAreaId": "vulnerable",
+            "inspectionAreaName": "People whose circumstances may make them vulnerable",
+            "status": "Active (Rated)"
+        }
+    ],
+    "inspectionCategories": [
+        {
+            "code": "P2",
+            "name": "GP Practices",
+            "primary": "true"
+        }
+    ],
+    "inspectionDirectorate": "Primary medical services",
+    "lastInspection": {
+        "date": "2021-05-21"
+    },
+    "lastReport": {
+        "publicationDate": "2021-05-31"
+    },
+    "localAuthority": "Oldham",
+    "locationId": "1-551258312",
+    "locationTypes": [
+        {
+            "type": "GP Practice"
+        }
+    ],
+    "mainPhoneNumber": "01616201611",
+    "name": "St Chads Medical Practice",
+    "numberOfBeds": 0,
+    "odsCcgCode": "00Y",
+    "odsCcgName": "NHS Greater Manchester Icb - 00Y",
+    "odsCode": "P85620",
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.5152223,
+    "onspdLongitude": -2.1267887,
+    "organisationType": "Location",
+    "postalAddressCounty": "Lancashire",
+    "postalAddressLine1": "St Chads Centre",
+    "postalAddressLine2": "Lime Green Parade, Lime Green",
+    "postalAddressTownCity": "Oldham",
+    "postalCode": "OL8 3HH",
+    "providerId": "1-199785325",
+    "region": "North West",
+    "registrationDate": "2013-04-01",
+    "registrationStatus": "Deregistered",
+    "regulatedActivities": [],
+    "relationships": [],
+    "reports": [
+        {
+            "firstVisitDate": "2021-05-21",
+            "linkId": "afa6dba5-8f6e-426b-820d-5ecaf09359a4",
+            "reportDate": "2021-05-31",
+            "reportType": "Location",
+            "reportUri": "/reports/afa6dba5-8f6e-426b-820d-5ecaf09359a4?20210601071536"
+        },
+        {
+            "firstVisitDate": "2019-03-15",
+            "linkId": "acf2a570-8bf5-4a33-9517-c5cb185581a7",
+            "reportDate": "2019-05-07",
+            "reportType": "Location",
+            "reportUri": "/reports/acf2a570-8bf5-4a33-9517-c5cb185581a7?20210116083041"
+        },
+        {
+            "firstVisitDate": "2015-03-17",
+            "linkId": "37ac5d85-e92b-4585-977c-6c18cfbc6377",
+            "reportDate": "2015-04-30",
+            "reportType": "Location",
+            "reportUri": "/reports/37ac5d85-e92b-4585-977c-6c18cfbc6377?20210130031720"
+        }
+    ],
+    "specialisms": [
+        {
+            "name": "Services for everyone"
+        }
+    ],
+    "type": "Primary Medical Services",
+    "uprn": "422000109886",
+    "website": "www.stchadsmedicalpractice.co.uk"
+}

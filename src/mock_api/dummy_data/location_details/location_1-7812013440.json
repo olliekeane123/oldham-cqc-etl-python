@@ -1,0 +1,182 @@
+{
+    "brandId": "BD306",
+    "brandName": "BRAND Tracscare",
+    "careHome": "Y",
+    "constituency": "Oldham East and Saddleworth",
+    "currentRatings": {
+        "overall": {
+            "keyQuestionRatings": [
+                {
+                    "name": "Safe",
+                    "rating": "Requires improvement",
+                    "reportDate": "2023-02-10",
+                    "reportLinkId": "bccc60e2-3781-4dc4-8249-f39515f135bc"
+                },
+                {
+                    "name": "Well-led",
+                    "rating": "Requires improvement",
+                    "reportDate": "2023-02-10",
+                    "reportLinkId": "bccc60e2-3781-4dc4-8249-f39515f135bc"
+                },
+                {
+                    "name": "Caring",
+                    "rating": "Good",
+                    "reportDate": "2021-09-01",
+                    "reportLinkId": "bb2fbd9c-6d4a-4818-9768-a27b1ababae7"
+                },
+                {
+                    "name": "Responsive",
+                    "rating": "Good",
+                    "reportDate": "2021-09-01",
+                    "reportLinkId": "bb2fbd9c-6d4a-4818-9768-a27b1ababae7"
+                },
+                {
+                    "name": "Effective",
+                    "rating": "Good",
+                    "reportDate": "2021-09-01",
+                    "reportLinkId": "bb2fbd9c-6d4a-4818-9768-a27b1ababae7"
+                }
+            ],
+            "rating": "Requires improvement",
+            "reportDate": "2023-02-10",
+            "reportLinkId": "bccc60e2-3781-4dc4-8249-f39515f135bc"
+        },
+        "reportDate": "2023-02-10"
+    },
+    "dormancy": "N",
+    "gacServiceTypes": [
+        {
+            "description": "Care home service without nursing",
+            "name": "Residential homes"
+        }
+    ],
+    "historicRatings": [
+        {
+            "overall": {
+                "keyQuestionRatings": [
+                    {
+                        "name": "Safe",
+                        "rating": "Requires improvement"
+                    },
+                    {
+                        "name": "Well-led",
+                        "rating": "Requires improvement"
+                    }
+                ],
+                "rating": "Requires improvement"
+            },
+            "reportDate": "2021-09-01",
+            "reportLinkId": "bb2fbd9c-6d4a-4818-9768-a27b1ababae7"
+        },
+        {
+            "overall": {
+                "keyQuestionRatings": [
+                    {
+                        "name": "Safe",
+                        "rating": "Requires improvement"
+                    },
+                    {
+                        "name": "Well-led",
+                        "rating": "Requires improvement"
+                    }
+                ],
+                "rating": "Inspected but not rated"
+            },
+            "reportDate": "2020-11-18",
+            "reportLinkId": "9157da89-d31d-46b9-a506-f00e040f283f"
+        }
+    ],
+    "inspectionAreas": [],
+    "inspectionCategories": [
+        {
+            "code": "S1",
+            "name": "Residential social care",
+            "primary": "true"
+        }
+    ],
+    "inspectionDirectorate": "Adult social care",
+    "lastInspection": {
+        "date": "2022-12-13"
+    },
+    "lastReport": {
+        "publicationDate": "2023-02-10"
+    },
+    "localAuthority": "Oldham",
+    "locationId": "1-7812013440",
+    "locationTypes": [],
+    "mainPhoneNumber": "01615092921",
+    "name": "Boston House",
+    "numberOfBeds": 17,
+    "odsCode": "VNF30",
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdLatitude": 53.530554,
+    "onspdLongitude": -2.111522,
+    "organisationType": "Location",
+    "postalAddressCounty": "Lancashire",
+    "postalAddressLine1": "Broadway Street",
+    "postalAddressTownCity": "Oldham",
+    "postalCode": "OL8 1XR",
+    "providerId": "1-101653489",
+    "region": "North West",
+    "registrationDate": "2020-01-17",
+    "registrationStatus": "Registered",
+    "regulatedActivities": [
+        {
+            "code": "RA2",
+            "contacts": [
+                {
+                    "personFamilyName": "Simpkin",
+                    "personGivenName": "Rebecca",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Ms"
+                }
+            ],
+            "name": "Accommodation for persons who require nursing or personal care"
+        }
+    ],
+    "relationships": [],
+    "reports": [
+        {
+            "firstVisitDate": "2022-11-22",
+            "linkId": "bccc60e2-3781-4dc4-8249-f39515f135bc",
+            "reportDate": "2023-02-10",
+            "reportType": "Location",
+            "reportUri": "/reports/bccc60e2-3781-4dc4-8249-f39515f135bc?20230210135955"
+        },
+        {
+            "firstVisitDate": "2021-06-16",
+            "linkId": "bb2fbd9c-6d4a-4818-9768-a27b1ababae7",
+            "reportDate": "2021-09-01",
+            "reportType": "Location",
+            "reportUri": "/reports/bb2fbd9c-6d4a-4818-9768-a27b1ababae7?20220929120002"
+        },
+        {
+            "firstVisitDate": "2020-10-09",
+            "linkId": "9157da89-d31d-46b9-a506-f00e040f283f",
+            "reportDate": "2020-11-18",
+            "reportType": "Location",
+            "reportUri": "/reports/9157da89-d31d-46b9-a506-f00e040f283f?20201118130000"
+        }
+    ],
+    "specialisms": [
+        {
+            "name": "Caring for adults over 65 yrs"
+        },
+        {
+            "name": "Caring for adults under 65 yrs"
+        },
+        {
+            "name": "Mental health conditions"
+        },
+        {
+            "name": "Physical disabilities"
+        },
+        {
+            "name": "Sensory impairment"
+        }
+    ],
+    "type": "Social Care Org"
+}

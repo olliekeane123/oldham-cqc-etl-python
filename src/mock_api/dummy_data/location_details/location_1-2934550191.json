@@ -1,0 +1,191 @@
+{
+    "careHome": "N",
+    "constituency": "Oldham West and Royton",
+    "currentRatings": {
+        "overall": {
+            "keyQuestionRatings": [
+                {
+                    "name": "Safe",
+                    "rating": "Good",
+                    "reportDate": "2019-07-12",
+                    "reportLinkId": "1cfd1ee6-aa7c-4b61-be42-eea1cf76f9e6"
+                },
+                {
+                    "name": "Well-led",
+                    "rating": "Good",
+                    "reportDate": "2019-07-12",
+                    "reportLinkId": "1cfd1ee6-aa7c-4b61-be42-eea1cf76f9e6"
+                },
+                {
+                    "name": "Caring",
+                    "rating": "Good",
+                    "reportDate": "2019-07-12",
+                    "reportLinkId": "1cfd1ee6-aa7c-4b61-be42-eea1cf76f9e6"
+                },
+                {
+                    "name": "Responsive",
+                    "rating": "Good",
+                    "reportDate": "2019-07-12",
+                    "reportLinkId": "1cfd1ee6-aa7c-4b61-be42-eea1cf76f9e6"
+                },
+                {
+                    "name": "Effective",
+                    "rating": "Good",
+                    "reportDate": "2019-07-12",
+                    "reportLinkId": "1cfd1ee6-aa7c-4b61-be42-eea1cf76f9e6"
+                }
+            ],
+            "rating": "Good",
+            "reportDate": "2019-07-12",
+            "reportLinkId": "1cfd1ee6-aa7c-4b61-be42-eea1cf76f9e6"
+        },
+        "reportDate": "2019-07-12"
+    },
+    "dormancy": "N",
+    "gacServiceTypes": [
+        {
+            "description": "Domiciliary care service",
+            "name": "Homecare agencies"
+        }
+    ],
+    "historicRatings": [
+        {
+            "overall": {
+                "keyQuestionRatings": [
+                    {
+                        "name": "Safe",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Well-led",
+                        "rating": "Requires improvement"
+                    },
+                    {
+                        "name": "Caring",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Responsive",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Effective",
+                        "rating": "Good"
+                    }
+                ],
+                "rating": "Good"
+            },
+            "reportDate": "2018-07-12",
+            "reportLinkId": "6f5b040b-02ac-4ca6-acf6-c5a672d43b93"
+        }
+    ],
+    "inspectionAreas": [],
+    "inspectionCategories": [
+        {
+            "code": "S2",
+            "name": "Community based adult social care services",
+            "primary": "true"
+        }
+    ],
+    "inspectionDirectorate": "Adult social care",
+    "lastInspection": {
+        "date": "2019-07-05"
+    },
+    "lastReport": {
+        "publicationDate": "2019-07-12"
+    },
+    "localAuthority": "Oldham",
+    "locationId": "1-2934550191",
+    "locationTypes": [],
+    "mainPhoneNumber": "01616284222",
+    "name": "Nightingales Homecare",
+    "numberOfBeds": 0,
+    "odsCode": "VN4NK",
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.560764,
+    "onspdLongitude": -2.110802,
+    "organisationType": "Location",
+    "postalAddressCounty": "Lancashire",
+    "postalAddressLine1": "17 Salmon Fields Business Village",
+    "postalAddressLine2": "Royton",
+    "postalAddressTownCity": "Oldham",
+    "postalCode": "OL2 6HT",
+    "providerId": "1-120628603",
+    "region": "North West",
+    "registrationDate": "2016-10-27",
+    "registrationStatus": "Registered",
+    "regulatedActivities": [
+        {
+            "code": "RA1",
+            "contacts": [
+                {
+                    "personFamilyName": "Fraser",
+                    "personGivenName": "Mandy",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Mrs"
+                }
+            ],
+            "name": "Personal care"
+        }
+    ],
+    "relationships": [
+        {
+            "reason": "Location Move",
+            "relatedLocationId": "1-2058385384",
+            "relatedLocationName": "Nightingales Homecare",
+            "type": "HSCA Predecessor"
+        }
+    ],
+    "reports": [
+        {
+            "firstVisitDate": "2019-07-03",
+            "linkId": "1cfd1ee6-aa7c-4b61-be42-eea1cf76f9e6",
+            "reportDate": "2019-07-12",
+            "reportType": "Location",
+            "reportUri": "/reports/1cfd1ee6-aa7c-4b61-be42-eea1cf76f9e6?20190712120000"
+        },
+        {
+            "firstVisitDate": "2018-05-29",
+            "linkId": "6f5b040b-02ac-4ca6-acf6-c5a672d43b93",
+            "reportDate": "2018-07-12",
+            "reportType": "Location",
+            "reportUri": "/reports/6f5b040b-02ac-4ca6-acf6-c5a672d43b93?20211030120000"
+        }
+    ],
+    "specialisms": [
+        {
+            "name": "Caring for adults over 65 yrs"
+        },
+        {
+            "name": "Caring for adults under 65 yrs"
+        },
+        {
+            "name": "Dementia"
+        },
+        {
+            "name": "Eating disorders"
+        },
+        {
+            "name": "Learning disabilities"
+        },
+        {
+            "name": "Mental health conditions"
+        },
+        {
+            "name": "Physical disabilities"
+        },
+        {
+            "name": "Sensory impairment"
+        },
+        {
+            "name": "Substance misuse problems"
+        }
+    ],
+    "type": "Social Care Org",
+    "website": "www.nightingales-online.co.uk"
+}

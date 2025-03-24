@@ -1,0 +1,76 @@
+{
+    "alsoKnownAs": "C24 Homecare Limited",
+    "careHome": "N",
+    "constituency": "Oldham West and Royton",
+    "dormancy": "N",
+    "dormancyEndDate": "2024-12-05",
+    "gacServiceTypes": [
+        {
+            "description": "Domiciliary care service",
+            "name": "Homecare agencies"
+        },
+        {
+            "description": "Extra Care housing services",
+            "name": "Supported housing"
+        }
+    ],
+    "inspectionAreas": [],
+    "inspectionCategories": [
+        {
+            "code": "S2",
+            "name": "Community based adult social care services",
+            "primary": "true"
+        }
+    ],
+    "inspectionDirectorate": "Adult social care",
+    "localAuthority": "Oldham",
+    "locationId": "1-19058248827",
+    "locationTypes": [],
+    "mainPhoneNumber": "08001182013",
+    "name": "Complex Care Experts",
+    "numberOfBeds": 0,
+    "odsCode": "VNV76",
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.5314166,
+    "onspdLongitude": -2.150717,
+    "organisationType": "Location",
+    "postalAddressLine1": "110 Higher House Close",
+    "postalAddressLine2": "Chadderton",
+    "postalAddressTownCity": "Oldham",
+    "postalCode": "OL9 8LP",
+    "providerId": "1-17713482698",
+    "region": "North West",
+    "registeredManagerAbsentDate": "2025-03-10",
+    "registrationDate": "2024-05-15",
+    "registrationStatus": "Registered",
+    "regulatedActivities": [
+        {
+            "code": "RA1",
+            "contacts": [],
+            "name": "Personal care"
+        }
+    ],
+    "relationships": [],
+    "specialisms": [
+        {
+            "name": "Caring for adults over 65 yrs"
+        },
+        {
+            "name": "Caring for adults under 65 yrs"
+        },
+        {
+            "name": "Dementia"
+        },
+        {
+            "name": "Physical disabilities"
+        },
+        {
+            "name": "Sensory impairment"
+        }
+    ],
+    "type": "Social Care Org",
+    "uprn": "422000017612"
+}

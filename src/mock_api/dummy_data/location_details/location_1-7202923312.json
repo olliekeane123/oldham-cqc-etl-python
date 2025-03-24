@@ -1,0 +1,131 @@
+{
+    "brandId": "BD214",
+    "brandName": "BRAND Cera Care",
+    "careHome": "N",
+    "constituency": "Oldham West and Royton",
+    "currentRatings": {
+        "overall": {
+            "keyQuestionRatings": [
+                {
+                    "name": "Safe",
+                    "rating": "Requires improvement",
+                    "reportDate": "2021-03-23",
+                    "reportLinkId": "c3c0a340-6d12-4b47-912d-2b52e9bbef27"
+                },
+                {
+                    "name": "Well-led",
+                    "rating": "Requires improvement",
+                    "reportDate": "2021-03-23",
+                    "reportLinkId": "c3c0a340-6d12-4b47-912d-2b52e9bbef27"
+                },
+                {
+                    "name": "Caring",
+                    "rating": "Good",
+                    "reportDate": "2021-03-23",
+                    "reportLinkId": "c3c0a340-6d12-4b47-912d-2b52e9bbef27"
+                },
+                {
+                    "name": "Responsive",
+                    "rating": "Good",
+                    "reportDate": "2021-03-23",
+                    "reportLinkId": "c3c0a340-6d12-4b47-912d-2b52e9bbef27"
+                },
+                {
+                    "name": "Effective",
+                    "rating": "Good",
+                    "reportDate": "2021-03-23",
+                    "reportLinkId": "c3c0a340-6d12-4b47-912d-2b52e9bbef27"
+                }
+            ],
+            "rating": "Requires improvement",
+            "reportDate": "2021-03-23",
+            "reportLinkId": "c3c0a340-6d12-4b47-912d-2b52e9bbef27"
+        },
+        "reportDate": "2021-03-23"
+    },
+    "deregistrationDate": "2022-05-12",
+    "dormancy": "N",
+    "gacServiceTypes": [
+        {
+            "description": "Domiciliary care service",
+            "name": "Homecare agencies"
+        }
+    ],
+    "inspectionAreas": [],
+    "inspectionCategories": [
+        {
+            "code": "S2",
+            "name": "Community based adult social care services",
+            "primary": "true"
+        }
+    ],
+    "inspectionDirectorate": "Adult social care",
+    "lastInspection": {
+        "date": "2021-02-04"
+    },
+    "lastReport": {
+        "publicationDate": "2021-03-23"
+    },
+    "localAuthority": "Oldham",
+    "locationId": "1-7202923312",
+    "locationTypes": [],
+    "mainPhoneNumber": "01613122818",
+    "name": "Cera Oldham",
+    "numberOfBeds": 0,
+    "odsCode": "VNE13",
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.5379165,
+    "onspdLongitude": -2.1281241,
+    "organisationType": "Location",
+    "postalAddressLine1": "Suite 4 Italia House",
+    "postalAddressLine2": "2 Pass Street",
+    "postalAddressTownCity": "Oldham",
+    "postalCode": "OL9 6HZ",
+    "providerId": "1-184856305",
+    "region": "North West",
+    "registrationDate": "2019-08-02",
+    "registrationStatus": "Deregistered",
+    "regulatedActivities": [],
+    "relationships": [],
+    "reports": [
+        {
+            "firstVisitDate": "2021-01-19",
+            "linkId": "c3c0a340-6d12-4b47-912d-2b52e9bbef27",
+            "reportDate": "2021-03-23",
+            "reportType": "Location",
+            "reportUri": "/reports/c3c0a340-6d12-4b47-912d-2b52e9bbef27?20210904120000"
+        }
+    ],
+    "specialisms": [
+        {
+            "name": "Caring for adults over 65 yrs"
+        },
+        {
+            "name": "Caring for adults under 65 yrs"
+        },
+        {
+            "name": "Dementia"
+        },
+        {
+            "name": "Eating disorders"
+        },
+        {
+            "name": "Learning disabilities"
+        },
+        {
+            "name": "Mental health conditions"
+        },
+        {
+            "name": "Physical disabilities"
+        },
+        {
+            "name": "Sensory impairment"
+        }
+    ],
+    "type": "Social Care Org",
+    "uprn": "10091983471",
+    "website": "www.homecare4u.info"
+}

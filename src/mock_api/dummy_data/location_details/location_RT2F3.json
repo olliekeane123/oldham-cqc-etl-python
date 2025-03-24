@@ -1,0 +1,112 @@
+{
+    "brandId": "Q83",
+    "brandName": "NHS England North (Greater Manchester)",
+    "careHome": "N",
+    "constituency": "Oldham West and Royton",
+    "currentRatings": {
+        "overall": {
+            "keyQuestionRatings": [
+                {
+                    "name": "Safe",
+                    "rating": "No published rating"
+                },
+                {
+                    "name": "Well-led",
+                    "rating": "No published rating"
+                },
+                {
+                    "name": "Caring",
+                    "rating": "No published rating"
+                },
+                {
+                    "name": "Responsive",
+                    "rating": "No published rating"
+                },
+                {
+                    "name": "Effective",
+                    "rating": "No published rating"
+                }
+            ],
+            "rating": "Inspected but not rated",
+            "reportDate": "2017-05-08",
+            "reportLinkId": "8bfa91b3-e0f8-4392-a4c0-7a90797cf485"
+        },
+        "reportDate": "2017-05-08"
+    },
+    "deregistrationDate": "2019-07-30",
+    "dormancy": "N",
+    "gacServiceTypes": [
+        {
+            "description": "Dental service",
+            "name": "Dentist"
+        }
+    ],
+    "inspectionAreas": [],
+    "inspectionCategories": [
+        {
+            "code": "H6",
+            "name": "Community health - NHS & Independent",
+            "primary": "true"
+        },
+        {
+            "code": "P1",
+            "name": "Dentists"
+        }
+    ],
+    "inspectionDirectorate": "Hospitals",
+    "lastInspection": {
+        "date": "2017-02-23"
+    },
+    "lastReport": {
+        "publicationDate": "2017-05-08"
+    },
+    "localAuthority": "Oldham",
+    "locationId": "RT2F3",
+    "locationTypes": [],
+    "name": "Integrated Care Centre",
+    "numberOfBeds": 0,
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.543824,
+    "onspdLongitude": -2.116945,
+    "organisationType": "Location",
+    "postalAddressCounty": "Lancashire",
+    "postalAddressLine1": "New Radcliffe Street",
+    "postalAddressTownCity": "Oldham",
+    "postalCode": "OL1 1NL",
+    "providerId": "RT2",
+    "providerInspectionAreas": [
+        {
+            "inspectionAreaId": "chschildren",
+            "reports": [
+                {
+                    "inspectionId": "SPL1-2542777941",
+                    "locationId": "RT2F3",
+                    "providerId": "RT2",
+                    "reportLinkId": "f4cf6dfc-ad6c-46d0-8789-ce35daef5c1a"
+                }
+            ]
+        }
+    ],
+    "region": "North West",
+    "registrationDate": "2014-08-15",
+    "registrationStatus": "Deregistered",
+    "regulatedActivities": [],
+    "relationships": [],
+    "reports": [
+        {
+            "linkId": "8bfa91b3-e0f8-4392-a4c0-7a90797cf485",
+            "reportDate": "2017-05-08",
+            "reportType": "Location",
+            "reportUri": "/reports/8bfa91b3-e0f8-4392-a4c0-7a90797cf485?20210119060616"
+        }
+    ],
+    "specialisms": [
+        {
+            "name": "Services for everyone"
+        }
+    ],
+    "type": "NHS Healthcare Organisation"
+}

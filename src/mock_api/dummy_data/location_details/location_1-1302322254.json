@@ -1,0 +1,122 @@
+{
+    "careHome": "N",
+    "constituency": "Oldham East and Saddleworth",
+    "currentRatings": {
+        "overall": {
+            "keyQuestionRatings": [
+                {
+                    "name": "Safe",
+                    "rating": "Requires improvement",
+                    "reportDate": "2017-01-27",
+                    "reportLinkId": "87a96781-bb52-441f-9f0e-d50feae926fd"
+                },
+                {
+                    "name": "Well-led",
+                    "rating": "Requires improvement",
+                    "reportDate": "2017-01-27",
+                    "reportLinkId": "87a96781-bb52-441f-9f0e-d50feae926fd"
+                },
+                {
+                    "name": "Caring",
+                    "rating": "Good",
+                    "reportDate": "2017-01-27",
+                    "reportLinkId": "87a96781-bb52-441f-9f0e-d50feae926fd"
+                },
+                {
+                    "name": "Responsive",
+                    "rating": "Requires improvement",
+                    "reportDate": "2017-01-27",
+                    "reportLinkId": "87a96781-bb52-441f-9f0e-d50feae926fd"
+                },
+                {
+                    "name": "Effective",
+                    "rating": "Good",
+                    "reportDate": "2017-01-27",
+                    "reportLinkId": "87a96781-bb52-441f-9f0e-d50feae926fd"
+                }
+            ],
+            "rating": "Requires improvement",
+            "reportDate": "2017-01-27",
+            "reportLinkId": "87a96781-bb52-441f-9f0e-d50feae926fd"
+        },
+        "reportDate": "2017-01-27"
+    },
+    "deregistrationDate": "2018-03-02",
+    "dormancy": "N",
+    "gacServiceTypes": [
+        {
+            "description": "Domiciliary care service",
+            "name": "Homecare agencies"
+        }
+    ],
+    "inspectionAreas": [],
+    "inspectionCategories": [
+        {
+            "code": "S2",
+            "name": "Community based adult social care services",
+            "primary": "true"
+        }
+    ],
+    "inspectionDirectorate": "Adult social care",
+    "lastInspection": {
+        "date": "2017-01-04"
+    },
+    "lastReport": {
+        "publicationDate": "2017-01-27"
+    },
+    "localAuthority": "Oldham",
+    "locationId": "1-1302322254",
+    "locationTypes": [],
+    "mainPhoneNumber": "01616260023",
+    "name": "Pennine Social Care Limited Head Office",
+    "numberOfBeds": 0,
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.541831,
+    "onspdLongitude": -2.104928,
+    "organisationType": "Location",
+    "postalAddressCounty": "Lancashire",
+    "postalAddressLine1": "First Floor Offices, Rhodes Bank Chambers",
+    "postalAddressLine2": "184-188 Union Street",
+    "postalAddressTownCity": "Oldham",
+    "postalCode": "OL1 1EN",
+    "providerId": "1-1135822928",
+    "region": "North West",
+    "registrationDate": "2014-05-01",
+    "registrationStatus": "Deregistered",
+    "regulatedActivities": [],
+    "relationships": [],
+    "reports": [
+        {
+            "firstVisitDate": "2017-01-04",
+            "linkId": "87a96781-bb52-441f-9f0e-d50feae926fd",
+            "reportDate": "2017-01-27",
+            "reportType": "Location",
+            "reportUri": "/reports/87a96781-bb52-441f-9f0e-d50feae926fd?20200129163919"
+        }
+    ],
+    "specialisms": [
+        {
+            "name": "Caring for adults over 65 yrs"
+        },
+        {
+            "name": "Caring for adults under 65 yrs"
+        },
+        {
+            "name": "Learning disabilities"
+        },
+        {
+            "name": "Mental health conditions"
+        },
+        {
+            "name": "Physical disabilities"
+        },
+        {
+            "name": "Sensory impairment"
+        }
+    ],
+    "type": "Social Care Org",
+    "website": "www.penninesocialcare.com"
+}

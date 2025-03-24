@@ -1,0 +1,106 @@
+{
+    "careHome": "N",
+    "constituency": "Oldham West and Royton",
+    "currentRatings": {
+        "overall": {
+            "keyQuestionRatings": [
+                {
+                    "name": "Safe",
+                    "rating": "No published rating"
+                },
+                {
+                    "name": "Well-led",
+                    "rating": "No published rating"
+                },
+                {
+                    "name": "Caring",
+                    "rating": "No published rating"
+                },
+                {
+                    "name": "Responsive",
+                    "rating": "No published rating"
+                },
+                {
+                    "name": "Effective",
+                    "rating": "No published rating"
+                }
+            ],
+            "rating": "No published rating"
+        }
+    },
+    "deregistrationDate": "2013-10-11",
+    "dormancy": "N",
+    "gacServiceTypes": [
+        {
+            "description": "Domiciliary care service",
+            "name": "Homecare agencies"
+        }
+    ],
+    "inspectionAreas": [],
+    "inspectionDirectorate": "Unspecified",
+    "lastInspection": {
+        "date": "2012-12-13"
+    },
+    "localAuthority": "Oldham",
+    "locationId": "1-138238882",
+    "locationTypes": [],
+    "mainPhoneNumber": "01616206557",
+    "name": "Bridging the Gap Limited - Oldham",
+    "numberOfBeds": 0,
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.525771,
+    "onspdLongitude": -2.137907,
+    "organisationType": "Location",
+    "postalAddressCounty": "Greater Manchester",
+    "postalAddressLine1": "370-372 Manchester Road",
+    "postalAddressTownCity": "Oldham",
+    "postalCode": "OL9 7PG",
+    "providerId": "1-101680104",
+    "region": "North West",
+    "registrationDate": "2011-01-18",
+    "registrationStatus": "Deregistered",
+    "regulatedActivities": [],
+    "relationships": [
+        {
+            "reason": "Location Move",
+            "relatedLocationId": "1-997176041",
+            "relatedLocationName": "Bridging the Gap Limited - Oldham",
+            "type": "HSCA Successor"
+        }
+    ],
+    "reports": [
+        {
+            "firstVisitDate": "2012-12-13",
+            "linkId": "54f1e89b-b4cf-43ef-b125-0a9257e057b9",
+            "reportDate": "2013-02-13",
+            "reportUri": "/reports/54f1e89b-b4cf-43ef-b125-0a9257e057b9?20200129163919"
+        },
+        {
+            "firstVisitDate": "2012-03-07",
+            "linkId": "8d2de0eb-3f57-4f63-b848-cfb12c35e175",
+            "reportDate": "2012-06-11",
+            "reportUri": "/reports/8d2de0eb-3f57-4f63-b848-cfb12c35e175?20200430120000"
+        }
+    ],
+    "specialisms": [
+        {
+            "name": "Caring for adults over 65 yrs"
+        },
+        {
+            "name": "Caring for adults under 65 yrs"
+        },
+        {
+            "name": "Learning disabilities"
+        },
+        {
+            "name": "Mental health conditions"
+        },
+        {
+            "name": "Physical disabilities"
+        }
+    ],
+    "type": "Social Care Org"
+}

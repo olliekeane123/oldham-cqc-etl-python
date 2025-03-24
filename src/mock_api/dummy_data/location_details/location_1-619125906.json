@@ -1,0 +1,64 @@
+{
+    "careHome": "N",
+    "constituency": "Oldham East and Saddleworth",
+    "deregistrationDate": "2015-08-04",
+    "dormancy": "N",
+    "gacServiceTypes": [
+        {
+            "description": "Dental service",
+            "name": "Dentist"
+        }
+    ],
+    "inspectionAreas": [],
+    "inspectionCategories": [
+        {
+            "code": "P1",
+            "name": "Dentists",
+            "primary": "true"
+        }
+    ],
+    "inspectionDirectorate": "Primary medical services",
+    "localAuthority": "Oldham",
+    "locationId": "1-619125906",
+    "locationTypes": [],
+    "mainPhoneNumber": "01616248551",
+    "name": "Ripponden Road Dental Practice",
+    "numberOfBeds": 0,
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.552093,
+    "onspdLongitude": -2.085195,
+    "organisationType": "Location",
+    "postalAddressCounty": "Lancashire",
+    "postalAddressLine1": "177 -187 Littlemoor Lane",
+    "postalAddressLine2": "Watersheddings",
+    "postalAddressTownCity": "Oldham",
+    "postalCode": "OL4 2SF",
+    "providerId": "1-610026572",
+    "region": "North West",
+    "registrationDate": "2014-06-03",
+    "registrationStatus": "Deregistered",
+    "regulatedActivities": [],
+    "relationships": [
+        {
+            "reason": "Legal Entity Change",
+            "relatedLocationId": "1-1015412687",
+            "relatedLocationName": "Ripponden Road Dental Practice",
+            "type": "HSCA Predecessor"
+        },
+        {
+            "reason": "Legal Entity Change",
+            "relatedLocationId": "1-2084621570",
+            "relatedLocationName": "Mydentist - Ripponden Road - Oldham",
+            "type": "HSCA Successor"
+        }
+    ],
+    "specialisms": [
+        {
+            "name": "Services for everyone"
+        }
+    ],
+    "type": "Primary Dental Care"
+}

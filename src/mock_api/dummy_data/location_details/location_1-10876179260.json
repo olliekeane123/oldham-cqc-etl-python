@@ -1,0 +1,57 @@
+{
+    "careHome": "N",
+    "constituency": "Oldham West and Royton",
+    "deregistrationDate": "2024-12-10",
+    "dormancy": "Y",
+    "dormancyStartDate": "2022-06-23",
+    "gacServiceTypes": [
+        {
+            "description": "Domiciliary care service",
+            "name": "Homecare agencies"
+        }
+    ],
+    "inspectionAreas": [],
+    "inspectionCategories": [
+        {
+            "code": "S2",
+            "name": "Community based adult social care services",
+            "primary": "true"
+        }
+    ],
+    "inspectionDirectorate": "Adult social care",
+    "localAuthority": "Oldham",
+    "locationId": "1-10876179260",
+    "locationTypes": [],
+    "mainPhoneNumber": "01619600785",
+    "name": "High Regard Healthcare - Main Office",
+    "numberOfBeds": 0,
+    "odsCode": "VNJFE",
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.5350692,
+    "onspdLongitude": -2.1745984,
+    "organisationType": "Location",
+    "postalAddressLine1": "Turner Business Centre, Greengate",
+    "postalAddressLine2": "Middleton",
+    "postalAddressTownCity": "Manchester",
+    "postalCode": "M24 1RU",
+    "providerId": "1-9946142152",
+    "region": "North West",
+    "registrationDate": "2021-05-19",
+    "registrationStatus": "Deregistered",
+    "regulatedActivities": [],
+    "relationships": [],
+    "specialisms": [
+        {
+            "name": "Dementia"
+        },
+        {
+            "name": "Physical disabilities"
+        }
+    ],
+    "type": "Social Care Org",
+    "uprn": "422000127985",
+    "website": "www.highregardhealthcare.co.uk"
+}

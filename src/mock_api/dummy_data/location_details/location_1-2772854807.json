@@ -1,0 +1,59 @@
+{
+    "careHome": "N",
+    "constituency": "Ashton-under-Lyne",
+    "deregistrationDate": "2019-12-01",
+    "dormancy": "N",
+    "gacServiceTypes": [
+        {
+            "description": "Dental service",
+            "name": "Dentist"
+        }
+    ],
+    "inspectionAreas": [],
+    "inspectionCategories": [
+        {
+            "code": "P1",
+            "name": "Dentists",
+            "primary": "true"
+        }
+    ],
+    "inspectionDirectorate": "Primary medical services",
+    "localAuthority": "Oldham",
+    "locationId": "1-2772854807",
+    "locationTypes": [],
+    "mainPhoneNumber": "07849709620",
+    "name": "Dental Surgery - Oldham Road",
+    "numberOfBeds": 0,
+    "odsCode": "V00143",
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.508362,
+    "onspdLongitude": -2.16416,
+    "organisationType": "Location",
+    "postalAddressCounty": "Lancashire",
+    "postalAddressLine1": "293 Oldham Road",
+    "postalAddressLine2": "Failsworth",
+    "postalAddressTownCity": "Manchester",
+    "postalCode": "M35 0AS",
+    "providerId": "1-2562571760",
+    "region": "North West",
+    "registrationDate": "2016-07-13",
+    "registrationStatus": "Deregistered",
+    "regulatedActivities": [],
+    "relationships": [
+        {
+            "reason": "New Provider",
+            "relatedLocationId": "1-7694849544",
+            "relatedLocationName": "Pearl Smile Oldham Limited",
+            "type": "HSCA Successor"
+        }
+    ],
+    "specialisms": [
+        {
+            "name": "Services for everyone"
+        }
+    ],
+    "type": "Primary Dental Care"
+}

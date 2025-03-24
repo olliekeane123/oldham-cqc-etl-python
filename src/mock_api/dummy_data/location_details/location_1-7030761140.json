@@ -1,0 +1,130 @@
+{
+    "careHome": "N",
+    "constituency": "Oldham West and Royton",
+    "currentRatings": {
+        "overall": {
+            "keyQuestionRatings": [
+                {
+                    "name": "Safe",
+                    "rating": "Inspected but not rated",
+                    "reportDate": "2019-12-05",
+                    "reportLinkId": "4bc37210-52e2-4e8f-8544-b58de8e444ce"
+                },
+                {
+                    "name": "Well-led",
+                    "rating": "Inspected but not rated",
+                    "reportDate": "2019-12-05",
+                    "reportLinkId": "4bc37210-52e2-4e8f-8544-b58de8e444ce"
+                },
+                {
+                    "name": "Caring",
+                    "rating": "No published rating"
+                },
+                {
+                    "name": "Responsive",
+                    "rating": "No published rating"
+                },
+                {
+                    "name": "Effective",
+                    "rating": "Inspected but not rated",
+                    "reportDate": "2019-12-05",
+                    "reportLinkId": "4bc37210-52e2-4e8f-8544-b58de8e444ce"
+                }
+            ],
+            "rating": "Inspected but not rated",
+            "reportDate": "2019-12-05",
+            "reportLinkId": "4bc37210-52e2-4e8f-8544-b58de8e444ce"
+        },
+        "reportDate": "2019-12-05",
+        "serviceRatings": [
+            {
+                "keyQuestionRatings": [
+                    {
+                        "name": "Effective",
+                        "rating": "Inspected but not rated"
+                    },
+                    {
+                        "name": "Safe",
+                        "rating": "Inspected but not rated"
+                    },
+                    {
+                        "name": "Well-led",
+                        "rating": "Inspected but not rated"
+                    }
+                ],
+                "name": "diagnostic",
+                "rating": "Inspected but not rated",
+                "reportDate": "2019-12-05",
+                "reportLinkId": "4bc37210-52e2-4e8f-8544-b58de8e444ce"
+            }
+        ]
+    },
+    "deregistrationDate": "2023-02-28",
+    "dormancy": "N",
+    "gacServiceTypes": [
+        {
+            "description": "Diagnostic and/or screening service",
+            "name": "Diagnosis/screening"
+        }
+    ],
+    "inspectionAreas": [
+        {
+            "inspectionAreaId": "diagnostic",
+            "inspectionAreaName": "Diagnostic imaging",
+            "status": "Active (Not rated)"
+        }
+    ],
+    "inspectionCategories": [
+        {
+            "code": "H4",
+            "name": "Acute hospital - Independent specialist",
+            "primary": "true"
+        }
+    ],
+    "inspectionDirectorate": "Hospitals",
+    "lastInspection": {
+        "date": "2019-09-13"
+    },
+    "lastReport": {
+        "publicationDate": "2019-12-05"
+    },
+    "localAuthority": "Oldham",
+    "locationId": "1-7030761140",
+    "locationTypes": [],
+    "mainPhoneNumber": "07915599175",
+    "name": "Precious Glimpse Oldham",
+    "numberOfBeds": 0,
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.5407049,
+    "onspdLongitude": -2.1174642,
+    "organisationType": "Location",
+    "postalAddressLine1": "7-9 King Street",
+    "postalAddressTownCity": "Oldham",
+    "postalCode": "OL8 1DW",
+    "providerId": "1-2564387514",
+    "region": "North West",
+    "registrationDate": "2019-06-18",
+    "registrationStatus": "Deregistered",
+    "regulatedActivities": [],
+    "relationships": [],
+    "reports": [
+        {
+            "firstVisitDate": "2019-09-13",
+            "linkId": "4bc37210-52e2-4e8f-8544-b58de8e444ce",
+            "reportDate": "2019-12-05",
+            "reportType": "Location",
+            "reportUri": "/reports/4bc37210-52e2-4e8f-8544-b58de8e444ce?20210114234109"
+        }
+    ],
+    "specialisms": [
+        {
+            "name": "Caring for adults under 65 yrs"
+        }
+    ],
+    "type": "Independent Healthcare Org",
+    "uprn": "422000125766",
+    "website": "preciousglimpse.co.uk"
+}

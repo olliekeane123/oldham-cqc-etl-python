@@ -1,0 +1,120 @@
+{
+    "careHome": "N",
+    "constituency": "Oldham East and Saddleworth",
+    "currentRatings": {
+        "overall": {
+            "keyQuestionRatings": [
+                {
+                    "name": "Safe",
+                    "rating": "No published rating"
+                },
+                {
+                    "name": "Well-led",
+                    "rating": "No published rating"
+                },
+                {
+                    "name": "Caring",
+                    "rating": "No published rating"
+                },
+                {
+                    "name": "Responsive",
+                    "rating": "No published rating"
+                },
+                {
+                    "name": "Effective",
+                    "rating": "No published rating"
+                }
+            ],
+            "rating": "Inspected but not rated",
+            "reportDate": "2019-07-01",
+            "reportLinkId": "b87384c3-02eb-48ec-acb6-421ade9caab0"
+        },
+        "reportDate": "2019-07-01"
+    },
+    "dormancy": "N",
+    "gacServiceTypes": [
+        {
+            "description": "Dental service",
+            "name": "Dentist"
+        }
+    ],
+    "inspectionAreas": [],
+    "inspectionCategories": [
+        {
+            "code": "P1",
+            "name": "Dentists",
+            "primary": "true"
+        }
+    ],
+    "inspectionDirectorate": "Primary medical services",
+    "lastInspection": {
+        "date": "2019-05-14"
+    },
+    "lastReport": {
+        "publicationDate": "2019-07-01"
+    },
+    "localAuthority": "Oldham",
+    "locationId": "1-2778332409",
+    "locationTypes": [],
+    "mainPhoneNumber": "016162888642",
+    "name": "Harmony Dental Spa",
+    "numberOfBeds": 0,
+    "odsCode": "V00144",
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.53788,
+    "onspdLongitude": -2.0740596,
+    "organisationType": "Location",
+    "postalAddressCounty": "Lancashire",
+    "postalAddressLine1": "36 High Street",
+    "postalAddressLine2": "Lees",
+    "postalAddressTownCity": "Oldham",
+    "postalCode": "OL4 5AQ",
+    "providerId": "1-2672828781",
+    "region": "North West",
+    "registrationDate": "2016-08-01",
+    "registrationStatus": "Registered",
+    "regulatedActivities": [
+        {
+            "code": "RA5",
+            "contacts": [],
+            "name": "Treatment of disease, disorder or injury"
+        },
+        {
+            "code": "RA7",
+            "contacts": [],
+            "name": "Surgical procedures"
+        },
+        {
+            "code": "RA8",
+            "contacts": [],
+            "name": "Diagnostic and screening procedures"
+        }
+    ],
+    "relationships": [
+        {
+            "reason": "Legal Entity Change",
+            "relatedLocationId": "1-2298989337",
+            "relatedLocationName": "Mr Michael Garside - High Street Lees",
+            "type": "HSCA Predecessor"
+        }
+    ],
+    "reports": [
+        {
+            "firstVisitDate": "2019-05-14",
+            "linkId": "b87384c3-02eb-48ec-acb6-421ade9caab0",
+            "reportDate": "2019-07-01",
+            "reportType": "Location",
+            "reportUri": "/reports/b87384c3-02eb-48ec-acb6-421ade9caab0?20210116034509"
+        }
+    ],
+    "specialisms": [
+        {
+            "name": "Services for everyone"
+        }
+    ],
+    "type": "Primary Dental Care",
+    "uprn": "422000040625"
+}

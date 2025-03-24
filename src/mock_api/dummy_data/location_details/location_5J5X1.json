@@ -1,0 +1,42 @@
+{
+    "brandId": "Q31",
+    "brandName": "North West Strategic Health Authority",
+    "careHome": "N",
+    "constituency": "Oldham East and Saddleworth",
+    "deregistrationDate": "2011-06-20",
+    "dormancy": "N",
+    "gacServiceTypes": [
+        {
+            "description": "Rehabilitation services",
+            "name": "Rehabilitation (illness/injury)"
+        }
+    ],
+    "inspectionAreas": [],
+    "inspectionDirectorate": "Unspecified",
+    "localAuthority": "Oldham",
+    "locationId": "5J5X1",
+    "locationTypes": [],
+    "name": "Oldham Community Recovery Unit",
+    "numberOfBeds": 0,
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.570914,
+    "onspdLongitude": -2.097752,
+    "organisationType": "Location",
+    "postalAddressCounty": "Greater Manchester",
+    "postalAddressLine1": "77 Oldham Road",
+    "postalAddressLine2": "Shaw",
+    "postalAddressTownCity": "Oldham",
+    "postalCode": "OL2 8SP",
+    "providerId": "5J5",
+    "region": "North West",
+    "registrationDate": "2010-09-18",
+    "registrationStatus": "Deregistered",
+    "regulatedActivities": [],
+    "relationships": [],
+    "specialisms": [],
+    "type": "NHS Healthcare Organisation",
+    "website": "www.oldham.nhs.uk"
+}

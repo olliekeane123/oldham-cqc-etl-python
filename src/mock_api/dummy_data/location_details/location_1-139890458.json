@@ -1,0 +1,259 @@
+{
+    "careHome": "Y",
+    "constituency": "Oldham West and Royton",
+    "currentRatings": {
+        "overall": {
+            "keyQuestionRatings": [
+                {
+                    "name": "Safe",
+                    "rating": "Good",
+                    "reportDate": "2018-06-02",
+                    "reportLinkId": "e0bf3b77-2589-478e-90ee-2045a32fc2f1"
+                },
+                {
+                    "name": "Well-led",
+                    "rating": "Good",
+                    "reportDate": "2018-06-02",
+                    "reportLinkId": "e0bf3b77-2589-478e-90ee-2045a32fc2f1"
+                },
+                {
+                    "name": "Caring",
+                    "rating": "Good",
+                    "reportDate": "2018-01-30",
+                    "reportLinkId": "470731f8-45f9-4b16-9d47-2f55ff3db7b9"
+                },
+                {
+                    "name": "Responsive",
+                    "rating": "Good",
+                    "reportDate": "2018-01-30",
+                    "reportLinkId": "470731f8-45f9-4b16-9d47-2f55ff3db7b9"
+                },
+                {
+                    "name": "Effective",
+                    "rating": "Good",
+                    "reportDate": "2018-01-30",
+                    "reportLinkId": "470731f8-45f9-4b16-9d47-2f55ff3db7b9"
+                }
+            ],
+            "rating": "Good",
+            "reportDate": "2018-06-02",
+            "reportLinkId": "e0bf3b77-2589-478e-90ee-2045a32fc2f1"
+        },
+        "reportDate": "2018-06-02"
+    },
+    "dormancy": "N",
+    "gacServiceTypes": [
+        {
+            "description": "Care home service without nursing",
+            "name": "Residential homes"
+        }
+    ],
+    "historicRatings": [
+        {
+            "overall": {
+                "keyQuestionRatings": [
+                    {
+                        "name": "Safe",
+                        "rating": "Inspected but not rated"
+                    }
+                ],
+                "rating": "Inspected but not rated"
+            },
+            "reportDate": "2022-02-18",
+            "reportLinkId": "5b9c65f2-d70a-405c-b421-6e67fdc88e0a"
+        },
+        {
+            "overall": {
+                "keyQuestionRatings": [
+                    {
+                        "name": "Safe",
+                        "rating": "Inspected but not rated"
+                    }
+                ],
+                "rating": "Inspected but not rated"
+            },
+            "reportDate": "2021-03-31",
+            "reportLinkId": "84232740-3972-4025-8fdf-d44d08b40058"
+        },
+        {
+            "overall": {
+                "keyQuestionRatings": [
+                    {
+                        "name": "Safe",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Well-led",
+                        "rating": "Good"
+                    }
+                ],
+                "rating": "Good"
+            },
+            "reportDate": "2018-01-30",
+            "reportLinkId": "470731f8-45f9-4b16-9d47-2f55ff3db7b9"
+        },
+        {
+            "overall": {
+                "keyQuestionRatings": [
+                    {
+                        "name": "Safe",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Well-led",
+                        "rating": "Requires improvement"
+                    },
+                    {
+                        "name": "Caring",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Responsive",
+                        "rating": "Requires improvement"
+                    },
+                    {
+                        "name": "Effective",
+                        "rating": "Good"
+                    }
+                ],
+                "rating": "Requires improvement"
+            },
+            "reportDate": "2016-12-07",
+            "reportLinkId": "b46b1ac3-31a9-4d92-8e9f-88e23c877805"
+        }
+    ],
+    "inspectionAreas": [],
+    "inspectionCategories": [
+        {
+            "code": "S1",
+            "name": "Residential social care",
+            "primary": "true"
+        }
+    ],
+    "inspectionDirectorate": "Adult social care",
+    "lastInspection": {
+        "date": "2022-02-04"
+    },
+    "lastReport": {
+        "publicationDate": "2022-02-18"
+    },
+    "localAuthority": "Oldham",
+    "locationId": "1-139890458",
+    "locationTypes": [],
+    "mainPhoneNumber": "01616244085",
+    "name": "Werneth Lodge Care Home",
+    "numberOfBeds": 42,
+    "odsCode": "VM6CJ",
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.533975,
+    "onspdLongitude": -2.132291,
+    "organisationType": "Location",
+    "postalAddressCounty": "Lancashire",
+    "postalAddressLine1": "38 Manchester Road",
+    "postalAddressTownCity": "Oldham",
+    "postalCode": "OL9 7AP",
+    "providerId": "1-101662253",
+    "region": "North West",
+    "registrationDate": "2011-01-28",
+    "registrationStatus": "Registered",
+    "regulatedActivities": [
+        {
+            "code": "RA2",
+            "contacts": [
+                {
+                    "personFamilyName": "Moss",
+                    "personGivenName": "Kelly Anne",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Mrs"
+                }
+            ],
+            "name": "Accommodation for persons who require nursing or personal care"
+        }
+    ],
+    "relationships": [],
+    "reports": [
+        {
+            "firstVisitDate": "2022-02-04",
+            "linkId": "5b9c65f2-d70a-405c-b421-6e67fdc88e0a",
+            "reportDate": "2022-02-18",
+            "reportType": "Location",
+            "reportUri": "/reports/5b9c65f2-d70a-405c-b421-6e67fdc88e0a?20220218130000"
+        },
+        {
+            "firstVisitDate": "2021-03-17",
+            "linkId": "84232740-3972-4025-8fdf-d44d08b40058",
+            "reportDate": "2021-03-31",
+            "reportType": "Location",
+            "reportUri": "/reports/84232740-3972-4025-8fdf-d44d08b40058?20210331120000"
+        },
+        {
+            "firstVisitDate": "2018-04-20",
+            "linkId": "e0bf3b77-2589-478e-90ee-2045a32fc2f1",
+            "reportDate": "2018-06-02",
+            "reportType": "Location",
+            "reportUri": "/reports/e0bf3b77-2589-478e-90ee-2045a32fc2f1?20180602120000"
+        },
+        {
+            "firstVisitDate": "2017-12-19",
+            "linkId": "470731f8-45f9-4b16-9d47-2f55ff3db7b9",
+            "reportDate": "2018-01-30",
+            "reportType": "Location",
+            "reportUri": "/reports/470731f8-45f9-4b16-9d47-2f55ff3db7b9?20211030120000"
+        },
+        {
+            "firstVisitDate": "2016-10-03",
+            "linkId": "b46b1ac3-31a9-4d92-8e9f-88e23c877805",
+            "reportDate": "2016-12-07",
+            "reportType": "Location",
+            "reportUri": "/reports/b46b1ac3-31a9-4d92-8e9f-88e23c877805?20200129163919"
+        },
+        {
+            "firstVisitDate": "2014-05-16",
+            "linkId": "5949e9cd-f697-4dfc-b3dc-6a37a95d8369",
+            "reportDate": "2014-07-10",
+            "reportUri": "/reports/5949e9cd-f697-4dfc-b3dc-6a37a95d8369?20151016191357"
+        },
+        {
+            "firstVisitDate": "2013-04-09",
+            "linkId": "18a651af-b38f-43c6-b385-bc6b8ca98791",
+            "reportDate": "2013-05-08",
+            "reportUri": "/reports/18a651af-b38f-43c6-b385-bc6b8ca98791?20200129163919"
+        },
+        {
+            "firstVisitDate": "2012-12-06",
+            "linkId": "52dc9705-3f93-4307-97ff-e1064a5a77bb",
+            "reportDate": "2012-12-21",
+            "reportUri": "/reports/52dc9705-3f93-4307-97ff-e1064a5a77bb?20200129163919"
+        },
+        {
+            "firstVisitDate": "2012-06-25",
+            "linkId": "bacd24ae-6803-4f2e-91f9-4e8c985d92ef",
+            "reportDate": "2012-07-16",
+            "reportUri": "/reports/bacd24ae-6803-4f2e-91f9-4e8c985d92ef?20200430120000"
+        }
+    ],
+    "specialisms": [
+        {
+            "name": "Caring for adults over 65 yrs"
+        },
+        {
+            "name": "Caring for adults under 65 yrs"
+        },
+        {
+            "name": "Dementia"
+        },
+        {
+            "name": "Physical disabilities"
+        },
+        {
+            "name": "Sensory impairment"
+        }
+    ],
+    "type": "Social Care Org",
+    "uprn": "100012461207"
+}

@@ -1,0 +1,118 @@
+{
+    "careHome": "N",
+    "constituency": "Oldham West and Royton",
+    "currentRatings": {
+        "overall": {
+            "keyQuestionRatings": [
+                {
+                    "name": "Safe",
+                    "rating": "No published rating"
+                },
+                {
+                    "name": "Well-led",
+                    "rating": "No published rating"
+                },
+                {
+                    "name": "Caring",
+                    "rating": "No published rating"
+                },
+                {
+                    "name": "Responsive",
+                    "rating": "No published rating"
+                },
+                {
+                    "name": "Effective",
+                    "rating": "No published rating"
+                }
+            ],
+            "rating": "No published rating"
+        }
+    },
+    "deregistrationDate": "2014-08-15",
+    "dormancy": "N",
+    "gacServiceTypes": [
+        {
+            "description": "Domiciliary care service",
+            "name": "Homecare agencies"
+        }
+    ],
+    "inspectionAreas": [],
+    "inspectionCategories": [
+        {
+            "code": "S2",
+            "name": "Community based adult social care services",
+            "primary": "true"
+        }
+    ],
+    "inspectionDirectorate": "Adult social care",
+    "lastInspection": {
+        "date": "2013-12-11"
+    },
+    "localAuthority": "Oldham",
+    "locationId": "1-115750273",
+    "locationTypes": [],
+    "mainPhoneNumber": "01616331616",
+    "name": "Communicare",
+    "numberOfBeds": 0,
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.548316,
+    "onspdLongitude": -2.136592,
+    "organisationType": "Location",
+    "postalAddressCounty": "Greater Manchester",
+    "postalAddressLine1": "Unit C11, Falcon Enterprise Centre",
+    "postalAddressLine2": "Victoria Street, Chadderton",
+    "postalAddressTownCity": "Oldham",
+    "postalCode": "OL9 0HB",
+    "providerId": "1-101723089",
+    "region": "North West",
+    "registrationDate": "2011-01-19",
+    "registrationStatus": "Deregistered",
+    "regulatedActivities": [],
+    "relationships": [
+        {
+            "reason": "Legal Entity Change",
+            "relatedLocationId": "1-1581968371",
+            "relatedLocationName": "Communicare",
+            "type": "HSCA Successor"
+        }
+    ],
+    "reports": [
+        {
+            "firstVisitDate": "2013-12-11",
+            "linkId": "ef832966-e181-48c7-aaa4-b71e756201e5",
+            "reportDate": "2014-01-10",
+            "reportUri": "/reports/ef832966-e181-48c7-aaa4-b71e756201e5?20200129163919"
+        },
+        {
+            "firstVisitDate": "2012-07-12",
+            "linkId": "184dba2f-bcd1-470f-857b-76cdb25496dc",
+            "reportDate": "2012-09-21",
+            "reportUri": "/reports/184dba2f-bcd1-470f-857b-76cdb25496dc?20200430120000"
+        }
+    ],
+    "specialisms": [
+        {
+            "name": "Caring for adults over 65 yrs"
+        },
+        {
+            "name": "Dementia"
+        },
+        {
+            "name": "Mental health conditions"
+        },
+        {
+            "name": "Physical disabilities"
+        },
+        {
+            "name": "Sensory impairment"
+        },
+        {
+            "name": "Substance misuse problems"
+        }
+    ],
+    "type": "Social Care Org",
+    "website": "www.communicarehcs.co.uk"
+}

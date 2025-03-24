@@ -1,0 +1,214 @@
+{
+    "careHome": "N",
+    "constituency": "Oldham West and Royton",
+    "currentRatings": {
+        "overall": {
+            "keyQuestionRatings": [
+                {
+                    "name": "Safe",
+                    "rating": "No published rating"
+                },
+                {
+                    "name": "Well-led",
+                    "rating": "No published rating"
+                },
+                {
+                    "name": "Caring",
+                    "rating": "No published rating"
+                },
+                {
+                    "name": "Responsive",
+                    "rating": "No published rating"
+                },
+                {
+                    "name": "Effective",
+                    "rating": "No published rating"
+                }
+            ],
+            "rating": "Inspected but not rated",
+            "reportDate": "2023-10-17",
+            "reportLinkId": "37623379-1983-414a-a25e-3df7d225aa31"
+        },
+        "reportDate": "2023-10-17"
+    },
+    "dormancy": "N",
+    "gacServiceTypes": [
+        {
+            "description": "Dental service",
+            "name": "Dentist"
+        }
+    ],
+    "historicRatings": [
+        {
+            "overall": {
+                "rating": "Inspected but not rated"
+            },
+            "reportDate": "2022-07-19",
+            "reportLinkId": "d26bb331-618b-4c2b-a3cc-c35bf468bc90"
+        },
+        {
+            "overall": {
+                "rating": "Inspected but not rated"
+            },
+            "reportDate": "2021-01-05",
+            "reportLinkId": "42584a2a-3632-4a81-ba3b-4749a035e261"
+        },
+        {
+            "overall": {
+                "rating": "Inspected but not rated"
+            },
+            "reportDate": "2020-04-23",
+            "reportLinkId": "bbb5352c-0c38-456b-81a6-cec69c580d33"
+        },
+        {
+            "organisationId": "1-198904190",
+            "overall": {
+                "rating": "Inspected but not rated"
+            },
+            "reportDate": "2019-08-21",
+            "reportLinkId": "8703b135-5344-4f11-bf6f-e73160a02d66"
+        },
+        {
+            "organisationId": "1-198904190",
+            "overall": {
+                "rating": "Inspected but not rated"
+            },
+            "reportDate": "2019-02-07",
+            "reportLinkId": "225ab238-2610-4497-a7fb-b36d3ac20889"
+        },
+        {
+            "organisationId": "1-198904190",
+            "overall": {
+                "rating": "Inspected but not rated"
+            },
+            "reportDate": "2018-10-24",
+            "reportLinkId": "da59c833-1843-4094-96e4-54112edb9209"
+        }
+    ],
+    "inspectionAreas": [],
+    "inspectionCategories": [
+        {
+            "code": "P1",
+            "name": "Dentists",
+            "primary": "true"
+        }
+    ],
+    "inspectionDirectorate": "Primary medical services",
+    "lastInspection": {
+        "date": "2023-09-07"
+    },
+    "lastReport": {
+        "publicationDate": "2023-10-17"
+    },
+    "localAuthority": "Oldham",
+    "locationId": "1-6555842938",
+    "locationTypes": [],
+    "mainPhoneNumber": "01616823587",
+    "name": "Hollins Road Dental Practice",
+    "numberOfBeds": 0,
+    "odsCode": "V00169",
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.5207839,
+    "onspdLongitude": -2.1353707,
+    "organisationType": "Location",
+    "postalAddressCounty": "Greater Manchester",
+    "postalAddressLine1": "756 Hollins Road",
+    "postalAddressTownCity": "Oldham",
+    "postalCode": "OL8 4SA",
+    "providerId": "1-6514789186",
+    "region": "North West",
+    "registrationDate": "2019-10-03",
+    "registrationStatus": "Registered",
+    "regulatedActivities": [
+        {
+            "code": "RA5",
+            "contacts": [
+                {
+                    "personFamilyName": "Peram",
+                    "personGivenName": "Brahmananda Reddy",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Dr"
+                }
+            ],
+            "name": "Treatment of disease, disorder or injury"
+        },
+        {
+            "code": "RA7",
+            "contacts": [
+                {
+                    "personFamilyName": "Peram",
+                    "personGivenName": "Brahmananda Reddy",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Dr"
+                }
+            ],
+            "name": "Surgical procedures"
+        },
+        {
+            "code": "RA8",
+            "contacts": [
+                {
+                    "personFamilyName": "Peram",
+                    "personGivenName": "Brahmananda Reddy",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Dr"
+                }
+            ],
+            "name": "Diagnostic and screening procedures"
+        }
+    ],
+    "relationships": [
+        {
+            "reason": "New Provider",
+            "relatedLocationId": "1-198904190",
+            "relatedLocationName": "Mr Gehad Philobbos",
+            "type": "HSCA Predecessor"
+        }
+    ],
+    "reports": [
+        {
+            "firstVisitDate": "2023-09-07",
+            "linkId": "37623379-1983-414a-a25e-3df7d225aa31",
+            "reportDate": "2023-10-17",
+            "reportType": "Location",
+            "reportUri": "/reports/37623379-1983-414a-a25e-3df7d225aa31?20231017070047"
+        },
+        {
+            "firstVisitDate": "2022-06-13",
+            "linkId": "d26bb331-618b-4c2b-a3cc-c35bf468bc90",
+            "reportDate": "2022-07-19",
+            "reportType": "Location",
+            "reportUri": "/reports/d26bb331-618b-4c2b-a3cc-c35bf468bc90?20220719070116"
+        },
+        {
+            "firstVisitDate": "2020-11-25",
+            "linkId": "42584a2a-3632-4a81-ba3b-4749a035e261",
+            "reportDate": "2021-01-05",
+            "reportType": "Location",
+            "reportUri": "/reports/42584a2a-3632-4a81-ba3b-4749a035e261?20210301170448"
+        },
+        {
+            "firstVisitDate": "2020-02-28",
+            "linkId": "bbb5352c-0c38-456b-81a6-cec69c580d33",
+            "reportDate": "2020-04-23",
+            "reportType": "Location",
+            "reportUri": "/reports/bbb5352c-0c38-456b-81a6-cec69c580d33?20210112203351"
+        }
+    ],
+    "specialisms": [
+        {
+            "name": "Services for everyone"
+        }
+    ],
+    "type": "Primary Dental Care",
+    "uprn": "422000045425"
+}

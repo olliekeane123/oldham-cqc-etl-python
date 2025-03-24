@@ -1,0 +1,151 @@
+{
+    "careHome": "Y",
+    "constituency": "Oldham West and Royton",
+    "currentRatings": {
+        "overall": {
+            "keyQuestionRatings": [
+                {
+                    "name": "Safe",
+                    "rating": "Good",
+                    "reportDate": "2016-07-14",
+                    "reportLinkId": "e82bfd2e-05c1-48d8-8480-1c8740ef21d0"
+                },
+                {
+                    "name": "Well-led",
+                    "rating": "Good",
+                    "reportDate": "2016-07-14",
+                    "reportLinkId": "e82bfd2e-05c1-48d8-8480-1c8740ef21d0"
+                },
+                {
+                    "name": "Caring",
+                    "rating": "Good",
+                    "reportDate": "2016-07-14",
+                    "reportLinkId": "e82bfd2e-05c1-48d8-8480-1c8740ef21d0"
+                },
+                {
+                    "name": "Responsive",
+                    "rating": "Good",
+                    "reportDate": "2016-07-14",
+                    "reportLinkId": "e82bfd2e-05c1-48d8-8480-1c8740ef21d0"
+                },
+                {
+                    "name": "Effective",
+                    "rating": "Good",
+                    "reportDate": "2016-07-14",
+                    "reportLinkId": "e82bfd2e-05c1-48d8-8480-1c8740ef21d0"
+                }
+            ],
+            "rating": "Good",
+            "reportDate": "2016-07-14",
+            "reportLinkId": "e82bfd2e-05c1-48d8-8480-1c8740ef21d0"
+        },
+        "reportDate": "2016-07-14"
+    },
+    "deregistrationDate": "2018-11-19",
+    "dormancy": "N",
+    "gacServiceTypes": [
+        {
+            "description": "Care home service without nursing",
+            "name": "Residential homes"
+        }
+    ],
+    "historicRatings": [
+        {
+            "overall": {
+                "rating": "Inspected but not rated"
+            },
+            "reportDate": "2014-08-20",
+            "reportLinkId": "f55569ae-835c-49bd-b72d-e00526a21bbd"
+        }
+    ],
+    "inspectionAreas": [],
+    "inspectionCategories": [
+        {
+            "code": "S1",
+            "name": "Residential social care",
+            "primary": "true"
+        }
+    ],
+    "inspectionDirectorate": "Adult social care",
+    "lastInspection": {
+        "date": "2016-06-03"
+    },
+    "lastReport": {
+        "publicationDate": "2016-07-14"
+    },
+    "localAuthority": "Oldham",
+    "locationId": "1-122386733",
+    "locationTypes": [],
+    "mainPhoneNumber": "01616787870",
+    "name": "Franklin House Limited",
+    "numberOfBeds": 38,
+    "odsCode": "VLD29",
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.5476449,
+    "onspdLongitude": -2.116427,
+    "organisationType": "Location",
+    "postalAddressCounty": "Lancashire",
+    "postalAddressLine1": "Franklin House",
+    "postalAddressLine2": "4 Franklin Street",
+    "postalAddressTownCity": "Oldham",
+    "postalCode": "OL1 2DP",
+    "providerId": "1-101630246",
+    "region": "North West",
+    "registrationDate": "2010-12-23",
+    "registrationStatus": "Deregistered",
+    "regulatedActivities": [],
+    "relationships": [
+        {
+            "reason": "New Provider",
+            "relatedLocationId": "1-5312102242",
+            "relatedLocationName": "Franklin House Limited",
+            "type": "HSCA Successor"
+        }
+    ],
+    "reports": [
+        {
+            "firstVisitDate": "2016-06-02",
+            "linkId": "e82bfd2e-05c1-48d8-8480-1c8740ef21d0",
+            "reportDate": "2016-07-14",
+            "reportType": "Location",
+            "reportUri": "/reports/e82bfd2e-05c1-48d8-8480-1c8740ef21d0?20211030120000"
+        },
+        {
+            "linkId": "f55569ae-835c-49bd-b72d-e00526a21bbd",
+            "reportDate": "2014-08-20",
+            "reportType": "Location",
+            "reportUri": "/reports/f55569ae-835c-49bd-b72d-e00526a21bbd?20210131001548"
+        },
+        {
+            "firstVisitDate": "2013-10-09",
+            "linkId": "58c4adf4-c59c-4e28-810f-bb6e4634bfbe",
+            "reportDate": "2013-11-08",
+            "reportUri": "/reports/58c4adf4-c59c-4e28-810f-bb6e4634bfbe?20201114130000"
+        },
+        {
+            "firstVisitDate": "2012-12-06",
+            "linkId": "7f4ccf1f-8843-42fe-a703-8908d0a1de91",
+            "reportDate": "2013-01-24",
+            "reportUri": "/reports/7f4ccf1f-8843-42fe-a703-8908d0a1de91?20151016191357"
+        },
+        {
+            "firstVisitDate": "2012-02-21",
+            "linkId": "6ba25981-f484-4f11-9056-cdd5032e7cd3",
+            "reportDate": "2012-04-27",
+            "reportUri": "/reports/6ba25981-f484-4f11-9056-cdd5032e7cd3?20200430120000"
+        }
+    ],
+    "specialisms": [
+        {
+            "name": "Caring for adults over 65 yrs"
+        },
+        {
+            "name": "Dementia"
+        }
+    ],
+    "type": "Social Care Org",
+    "uprn": "422000010744"
+}

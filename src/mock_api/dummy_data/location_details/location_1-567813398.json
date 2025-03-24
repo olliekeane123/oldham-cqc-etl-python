@@ -1,0 +1,317 @@
+{
+    "careHome": "N",
+    "constituency": "Oldham East and Saddleworth",
+    "currentRatings": {
+        "overall": {
+            "keyQuestionRatings": [
+                {
+                    "name": "Safe",
+                    "rating": "Good",
+                    "reportDate": "2017-09-28",
+                    "reportLinkId": "f4749a99-4023-4ad2-a6ab-b2c316787104"
+                },
+                {
+                    "name": "Well-led",
+                    "rating": "Good",
+                    "reportDate": "2017-09-28",
+                    "reportLinkId": "f4749a99-4023-4ad2-a6ab-b2c316787104"
+                },
+                {
+                    "name": "Caring",
+                    "rating": "Good",
+                    "reportDate": "2017-09-28",
+                    "reportLinkId": "f4749a99-4023-4ad2-a6ab-b2c316787104"
+                },
+                {
+                    "name": "Responsive",
+                    "rating": "Good",
+                    "reportDate": "2017-09-28",
+                    "reportLinkId": "f4749a99-4023-4ad2-a6ab-b2c316787104"
+                },
+                {
+                    "name": "Effective",
+                    "rating": "Good",
+                    "reportDate": "2017-09-28",
+                    "reportLinkId": "f4749a99-4023-4ad2-a6ab-b2c316787104"
+                }
+            ],
+            "rating": "Good",
+            "reportDate": "2017-09-28",
+            "reportLinkId": "f4749a99-4023-4ad2-a6ab-b2c316787104"
+        },
+        "reportDate": "2017-09-28",
+        "serviceRatings": [
+            {
+                "name": "conditions",
+                "rating": "Good",
+                "reportDate": "2017-09-28",
+                "reportLinkId": "f4749a99-4023-4ad2-a6ab-b2c316787104"
+            },
+            {
+                "name": "mothers",
+                "rating": "Good",
+                "reportDate": "2017-09-28",
+                "reportLinkId": "f4749a99-4023-4ad2-a6ab-b2c316787104"
+            },
+            {
+                "name": "old",
+                "rating": "Good",
+                "reportDate": "2017-09-28",
+                "reportLinkId": "f4749a99-4023-4ad2-a6ab-b2c316787104"
+            },
+            {
+                "name": "population",
+                "rating": "Good",
+                "reportDate": "2017-09-28",
+                "reportLinkId": "f4749a99-4023-4ad2-a6ab-b2c316787104"
+            },
+            {
+                "name": "problems",
+                "rating": "Good",
+                "reportDate": "2017-09-28",
+                "reportLinkId": "f4749a99-4023-4ad2-a6ab-b2c316787104"
+            },
+            {
+                "name": "vulnerable",
+                "rating": "Good",
+                "reportDate": "2017-09-28",
+                "reportLinkId": "f4749a99-4023-4ad2-a6ab-b2c316787104"
+            }
+        ]
+    },
+    "dormancy": "N",
+    "gacServiceTypes": [
+        {
+            "description": "Doctors consultation service",
+            "name": "Doctors/Gps"
+        }
+    ],
+    "historicRatings": [
+        {
+            "overall": {
+                "keyQuestionRatings": [
+                    {
+                        "name": "Safe",
+                        "rating": "Requires improvement"
+                    },
+                    {
+                        "name": "Well-led",
+                        "rating": "Requires improvement"
+                    },
+                    {
+                        "name": "Caring",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Responsive",
+                        "rating": "Requires improvement"
+                    },
+                    {
+                        "name": "Effective",
+                        "rating": "Requires improvement"
+                    }
+                ],
+                "rating": "Requires improvement"
+            },
+            "reportDate": "2016-09-23",
+            "reportLinkId": "8b958472-614d-42e4-9b6e-831e316937ea",
+            "serviceRatings": [
+                {
+                    "name": "conditions",
+                    "rating": "Requires improvement"
+                },
+                {
+                    "name": "mothers",
+                    "rating": "Requires improvement"
+                },
+                {
+                    "name": "old",
+                    "rating": "Requires improvement"
+                },
+                {
+                    "name": "population",
+                    "rating": "Requires improvement"
+                },
+                {
+                    "name": "problems",
+                    "rating": "Requires improvement"
+                },
+                {
+                    "name": "vulnerable",
+                    "rating": "Requires improvement"
+                }
+            ]
+        }
+    ],
+    "inspectionAreas": [
+        {
+            "inspectionAreaId": "conditions",
+            "inspectionAreaName": "People with long term conditions",
+            "status": "Active (Rated)"
+        },
+        {
+            "inspectionAreaId": "mothers",
+            "inspectionAreaName": "Families, children and young people",
+            "status": "Active (Rated)"
+        },
+        {
+            "inspectionAreaId": "old",
+            "inspectionAreaName": "Older people",
+            "status": "Active (Rated)"
+        },
+        {
+            "inspectionAreaId": "population",
+            "inspectionAreaName": "Working age people (including those recently retired and students)",
+            "status": "Active (Rated)"
+        },
+        {
+            "inspectionAreaId": "problems",
+            "inspectionAreaName": "People experiencing poor mental health (including people with dementia)",
+            "status": "Active (Rated)"
+        },
+        {
+            "inspectionAreaId": "vulnerable",
+            "inspectionAreaName": "People whose circumstances may make them vulnerable",
+            "status": "Active (Rated)"
+        }
+    ],
+    "inspectionCategories": [
+        {
+            "code": "P2",
+            "name": "GP Practices",
+            "primary": "true"
+        }
+    ],
+    "inspectionDirectorate": "Primary medical services",
+    "lastInspection": {
+        "date": "2017-08-10"
+    },
+    "lastReport": {
+        "publicationDate": "2017-09-28"
+    },
+    "localAuthority": "Oldham",
+    "locationId": "1-567813398",
+    "locationTypes": [
+        {
+            "type": "GP Practice"
+        }
+    ],
+    "mainPhoneNumber": "01613572260",
+    "name": "St Mary's Medical Centre",
+    "numberOfBeds": 0,
+    "odsCcgCode": "00Y",
+    "odsCcgName": "NHS Greater Manchester Icb - 00Y",
+    "odsCode": "P85002",
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.5436416,
+    "onspdLongitude": -2.1085516,
+    "organisationType": "Location",
+    "postalAddressCounty": "Lancashire",
+    "postalAddressLine1": "Rock Street",
+    "postalAddressTownCity": "Oldham",
+    "postalCode": "OL1 3UL",
+    "providerId": "1-199785236",
+    "region": "North West",
+    "registrationDate": "2013-04-01",
+    "registrationStatus": "Registered",
+    "regulatedActivities": [
+        {
+            "code": "RA11",
+            "contacts": [
+                {
+                    "personFamilyName": "Lewis",
+                    "personGivenName": "Brian",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Dr"
+                }
+            ],
+            "name": "Maternity and midwifery services"
+        },
+        {
+            "code": "RA15",
+            "contacts": [
+                {
+                    "personFamilyName": "Lewis",
+                    "personGivenName": "Brian",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Dr"
+                }
+            ],
+            "name": "Family planning"
+        },
+        {
+            "code": "RA5",
+            "contacts": [
+                {
+                    "personFamilyName": "Lewis",
+                    "personGivenName": "Brian",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Dr"
+                }
+            ],
+            "name": "Treatment of disease, disorder or injury"
+        },
+        {
+            "code": "RA7",
+            "contacts": [
+                {
+                    "personFamilyName": "Lewis",
+                    "personGivenName": "Brian",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Dr"
+                }
+            ],
+            "name": "Surgical procedures"
+        },
+        {
+            "code": "RA8",
+            "contacts": [
+                {
+                    "personFamilyName": "Lewis",
+                    "personGivenName": "Brian",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Dr"
+                }
+            ],
+            "name": "Diagnostic and screening procedures"
+        }
+    ],
+    "relationships": [],
+    "reports": [
+        {
+            "firstVisitDate": "2017-08-10",
+            "linkId": "f4749a99-4023-4ad2-a6ab-b2c316787104",
+            "reportDate": "2017-09-28",
+            "reportType": "Location",
+            "reportUri": "/reports/f4749a99-4023-4ad2-a6ab-b2c316787104?20210118033222"
+        },
+        {
+            "firstVisitDate": "2016-07-25",
+            "linkId": "8b958472-614d-42e4-9b6e-831e316937ea",
+            "reportDate": "2016-09-23",
+            "reportType": "Location",
+            "reportUri": "/reports/8b958472-614d-42e4-9b6e-831e316937ea?20210122060831"
+        }
+    ],
+    "specialisms": [
+        {
+            "name": "Services for everyone"
+        }
+    ],
+    "type": "Primary Medical Services",
+    "uprn": "422000071138",
+    "website": "www.stmarymc.co.uk"
+}

@@ -1,0 +1,187 @@
+{
+    "careHome": "N",
+    "constituency": "Oldham West and Royton",
+    "currentRatings": {
+        "overall": {
+            "keyQuestionRatings": [
+                {
+                    "name": "Safe",
+                    "rating": "Good",
+                    "reportDate": "2019-06-19",
+                    "reportLinkId": "d057ab35-49d1-442a-a125-6be9a0533676"
+                },
+                {
+                    "name": "Well-led",
+                    "rating": "Good",
+                    "reportDate": "2019-06-19",
+                    "reportLinkId": "d057ab35-49d1-442a-a125-6be9a0533676"
+                },
+                {
+                    "name": "Caring",
+                    "rating": "Good",
+                    "reportDate": "2019-06-19",
+                    "reportLinkId": "d057ab35-49d1-442a-a125-6be9a0533676"
+                },
+                {
+                    "name": "Responsive",
+                    "rating": "Good",
+                    "reportDate": "2019-06-19",
+                    "reportLinkId": "d057ab35-49d1-442a-a125-6be9a0533676"
+                },
+                {
+                    "name": "Effective",
+                    "rating": "Good",
+                    "reportDate": "2019-06-19",
+                    "reportLinkId": "d057ab35-49d1-442a-a125-6be9a0533676"
+                }
+            ],
+            "rating": "Good",
+            "reportDate": "2019-06-19",
+            "reportLinkId": "d057ab35-49d1-442a-a125-6be9a0533676"
+        },
+        "reportDate": "2019-06-19"
+    },
+    "dormancy": "N",
+    "gacServiceTypes": [
+        {
+            "description": "Domiciliary care service",
+            "name": "Homecare agencies"
+        }
+    ],
+    "historicRatings": [
+        {
+            "overall": {
+                "keyQuestionRatings": [
+                    {
+                        "name": "Safe",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Well-led",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Caring",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Responsive",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Effective",
+                        "rating": "Good"
+                    }
+                ],
+                "rating": "Good"
+            },
+            "reportDate": "2016-11-22",
+            "reportLinkId": "c9a34a40-37df-4a1f-9805-1f2f004a3f62"
+        }
+    ],
+    "inspectionAreas": [],
+    "inspectionCategories": [
+        {
+            "code": "S2",
+            "name": "Community based adult social care services",
+            "primary": "true"
+        }
+    ],
+    "inspectionDirectorate": "Adult social care",
+    "lastInspection": {
+        "date": "2019-04-24"
+    },
+    "lastReport": {
+        "publicationDate": "2019-06-19"
+    },
+    "localAuthority": "Oldham",
+    "locationId": "1-1296307944",
+    "locationTypes": [],
+    "mainPhoneNumber": "01616209160",
+    "name": "Choices Homecare (Oldham)",
+    "numberOfBeds": 0,
+    "odsCode": "VN6MM",
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.525439,
+    "onspdLongitude": -2.135717,
+    "organisationType": "Location",
+    "postalAddressCounty": "Lancashire",
+    "postalAddressLine1": "Chambers Business Centre",
+    "postalAddressLine2": "Chapel Road",
+    "postalAddressTownCity": "Oldham",
+    "postalCode": "OL8 4QQ",
+    "providerId": "1-221674762",
+    "region": "North West",
+    "registrationDate": "2014-03-11",
+    "registrationStatus": "Registered",
+    "regulatedActivities": [
+        {
+            "code": "RA1",
+            "contacts": [
+                {
+                    "personFamilyName": "Pass",
+                    "personGivenName": "Ethel Elizabeth Lynn",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Mrs"
+                }
+            ],
+            "name": "Personal care"
+        }
+    ],
+    "relationships": [
+        {
+            "reason": "Location Move",
+            "relatedLocationId": "1-254950962",
+            "relatedLocationName": "Safehands Support Services UK Limited",
+            "type": "HSCA Predecessor"
+        }
+    ],
+    "reports": [
+        {
+            "firstVisitDate": "2019-04-24",
+            "linkId": "d057ab35-49d1-442a-a125-6be9a0533676",
+            "reportDate": "2019-06-19",
+            "reportType": "Location",
+            "reportUri": "/reports/d057ab35-49d1-442a-a125-6be9a0533676?20190619145834"
+        },
+        {
+            "firstVisitDate": "2016-09-28",
+            "linkId": "c9a34a40-37df-4a1f-9805-1f2f004a3f62",
+            "reportDate": "2016-11-22",
+            "reportType": "Location",
+            "reportUri": "/reports/c9a34a40-37df-4a1f-9805-1f2f004a3f62?20211030120000"
+        },
+        {
+            "firstVisitDate": "2014-04-22",
+            "linkId": "e9336e75-4dc3-47d5-83b9-28cff91b8655",
+            "reportDate": "2014-05-24",
+            "reportUri": "/reports/e9336e75-4dc3-47d5-83b9-28cff91b8655?20200129163919"
+        }
+    ],
+    "specialisms": [
+        {
+            "name": "Caring for adults over 65 yrs"
+        },
+        {
+            "name": "Caring for adults under 65 yrs"
+        },
+        {
+            "name": "Dementia"
+        },
+        {
+            "name": "Learning disabilities"
+        },
+        {
+            "name": "Physical disabilities"
+        },
+        {
+            "name": "Sensory impairment"
+        }
+    ],
+    "type": "Social Care Org"
+}

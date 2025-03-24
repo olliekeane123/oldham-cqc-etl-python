@@ -1,0 +1,383 @@
+{
+    "alsoKnownAs": "Moorside Medical Practice",
+    "careHome": "N",
+    "constituency": "Oldham East and Saddleworth",
+    "currentRatings": {
+        "overall": {
+            "keyQuestionRatings": [
+                {
+                    "name": "Safe",
+                    "rating": "Good",
+                    "reportDate": "2023-07-07",
+                    "reportLinkId": "e4e3d2a7-c655-493c-b587-66350a0b5354"
+                },
+                {
+                    "name": "Well-led",
+                    "rating": "Good",
+                    "reportDate": "2023-07-07",
+                    "reportLinkId": "e4e3d2a7-c655-493c-b587-66350a0b5354"
+                },
+                {
+                    "name": "Caring",
+                    "rating": "Good",
+                    "reportDate": "2023-07-07",
+                    "reportLinkId": "e4e3d2a7-c655-493c-b587-66350a0b5354"
+                },
+                {
+                    "name": "Responsive",
+                    "rating": "Good",
+                    "reportDate": "2023-07-07",
+                    "reportLinkId": "e4e3d2a7-c655-493c-b587-66350a0b5354"
+                },
+                {
+                    "name": "Effective",
+                    "rating": "Good",
+                    "reportDate": "2023-07-07",
+                    "reportLinkId": "e4e3d2a7-c655-493c-b587-66350a0b5354"
+                }
+            ],
+            "rating": "Good",
+            "reportDate": "2023-07-07",
+            "reportLinkId": "e4e3d2a7-c655-493c-b587-66350a0b5354"
+        },
+        "reportDate": "2023-07-07"
+    },
+    "dormancy": "N",
+    "gacServiceTypes": [
+        {
+            "description": "Doctors consultation service",
+            "name": "Doctors/Gps"
+        }
+    ],
+    "historicRatings": [
+        {
+            "overall": {
+                "keyQuestionRatings": [
+                    {
+                        "name": "Safe",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Well-led",
+                        "rating": "Requires improvement"
+                    },
+                    {
+                        "name": "Caring",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Responsive",
+                        "rating": "Requires improvement"
+                    },
+                    {
+                        "name": "Effective",
+                        "rating": "Requires improvement"
+                    }
+                ],
+                "rating": "Requires improvement"
+            },
+            "reportDate": "2022-05-11",
+            "reportLinkId": "d194a564-78f9-4001-a3d9-3ebe1127ece6"
+        },
+        {
+            "overall": {
+                "keyQuestionRatings": [
+                    {
+                        "name": "Safe",
+                        "rating": "Inspected but not rated"
+                    },
+                    {
+                        "name": "Effective",
+                        "rating": "Inspected but not rated"
+                    }
+                ],
+                "rating": "Inspected but not rated"
+            },
+            "reportDate": "2021-12-10",
+            "reportLinkId": "339b2b1d-6667-4ebb-a162-664cb9862237"
+        },
+        {
+            "overall": {
+                "keyQuestionRatings": [
+                    {
+                        "name": "Safe",
+                        "rating": "Inadequate"
+                    },
+                    {
+                        "name": "Well-led",
+                        "rating": "Inadequate"
+                    },
+                    {
+                        "name": "Caring",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Responsive",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Effective",
+                        "rating": "Inadequate"
+                    }
+                ],
+                "rating": "Inadequate"
+            },
+            "reportDate": "2021-09-23",
+            "reportLinkId": "e0c90360-f213-40e1-a256-696655d6a7d0",
+            "serviceRatings": [
+                {
+                    "name": "conditions",
+                    "rating": "Inadequate"
+                },
+                {
+                    "name": "mothers",
+                    "rating": "Inadequate"
+                },
+                {
+                    "name": "old",
+                    "rating": "Inadequate"
+                },
+                {
+                    "name": "population",
+                    "rating": "Inadequate"
+                },
+                {
+                    "name": "problems",
+                    "rating": "Inadequate"
+                },
+                {
+                    "name": "vulnerable",
+                    "rating": "Inadequate"
+                }
+            ]
+        },
+        {
+            "overall": {
+                "keyQuestionRatings": [
+                    {
+                        "name": "Safe",
+                        "rating": "Requires improvement"
+                    },
+                    {
+                        "name": "Well-led",
+                        "rating": "Requires improvement"
+                    },
+                    {
+                        "name": "Caring",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Responsive",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Effective",
+                        "rating": "Requires improvement"
+                    }
+                ],
+                "rating": "Requires improvement"
+            },
+            "reportDate": "2019-05-30",
+            "reportLinkId": "afdf0cde-2171-4515-b163-0bcb1f8e5eed",
+            "serviceRatings": [
+                {
+                    "name": "conditions",
+                    "rating": "Requires improvement"
+                },
+                {
+                    "name": "mothers",
+                    "rating": "Requires improvement"
+                },
+                {
+                    "name": "old",
+                    "rating": "Requires improvement"
+                },
+                {
+                    "name": "population",
+                    "rating": "Requires improvement"
+                },
+                {
+                    "name": "problems",
+                    "rating": "Requires improvement"
+                },
+                {
+                    "name": "vulnerable",
+                    "rating": "Requires improvement"
+                }
+            ]
+        },
+        {
+            "overall": {
+                "keyQuestionRatings": [
+                    {
+                        "name": "Safe",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Well-led",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Caring",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Responsive",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Effective",
+                        "rating": "Good"
+                    }
+                ],
+                "rating": "Good"
+            },
+            "reportDate": "2015-05-21",
+            "reportLinkId": "a4e36e72-d314-4d36-a778-19e4bf7adebd",
+            "serviceRatings": [
+                {
+                    "name": "conditions",
+                    "rating": "Good"
+                },
+                {
+                    "name": "mothers",
+                    "rating": "Good"
+                },
+                {
+                    "name": "old",
+                    "rating": "Good"
+                },
+                {
+                    "name": "population",
+                    "rating": "Good"
+                },
+                {
+                    "name": "problems",
+                    "rating": "Good"
+                },
+                {
+                    "name": "vulnerable",
+                    "rating": "Good"
+                }
+            ]
+        }
+    ],
+    "inspectionAreas": [],
+    "inspectionCategories": [
+        {
+            "code": "P2",
+            "name": "GP Practices",
+            "primary": "true"
+        }
+    ],
+    "inspectionDirectorate": "Primary medical services",
+    "lastInspection": {
+        "date": "2023-06-09"
+    },
+    "lastReport": {
+        "publicationDate": "2023-07-07"
+    },
+    "localAuthority": "Oldham",
+    "locationId": "1-487304329",
+    "locationTypes": [
+        {
+            "type": "GP Practice"
+        }
+    ],
+    "mainPhoneNumber": "01613448150",
+    "name": "Dr Kiren Kaur",
+    "numberOfBeds": 0,
+    "odsCcgCode": "00Y",
+    "odsCcgName": "NHS Greater Manchester Icb - 00Y",
+    "odsCode": "P85606",
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.561455,
+    "onspdLongitude": -2.076954,
+    "organisationType": "Location",
+    "postalAddressCounty": "Lancashire",
+    "postalAddressLine1": "Moorside Medical Centre",
+    "postalAddressLine2": "681 Ripponden Road",
+    "postalAddressTownCity": "Oldham",
+    "postalCode": "OL1 4JU",
+    "providerId": "1-199785528",
+    "region": "North West",
+    "registrationDate": "2013-04-01",
+    "registrationStatus": "Registered",
+    "regulatedActivities": [
+        {
+            "code": "RA11",
+            "contacts": [],
+            "name": "Maternity and midwifery services"
+        },
+        {
+            "code": "RA5",
+            "contacts": [],
+            "name": "Treatment of disease, disorder or injury"
+        },
+        {
+            "code": "RA7",
+            "contacts": [],
+            "name": "Surgical procedures"
+        },
+        {
+            "code": "RA8",
+            "contacts": [],
+            "name": "Diagnostic and screening procedures"
+        }
+    ],
+    "relationships": [],
+    "reports": [
+        {
+            "firstVisitDate": "2023-06-09",
+            "linkId": "e4e3d2a7-c655-493c-b587-66350a0b5354",
+            "reportDate": "2023-07-07",
+            "reportType": "Location",
+            "reportUri": "/reports/e4e3d2a7-c655-493c-b587-66350a0b5354?20230707070450"
+        },
+        {
+            "firstVisitDate": "2022-03-23",
+            "linkId": "d194a564-78f9-4001-a3d9-3ebe1127ece6",
+            "reportDate": "2022-05-11",
+            "reportType": "Location",
+            "reportUri": "/reports/d194a564-78f9-4001-a3d9-3ebe1127ece6?20220527075637"
+        },
+        {
+            "firstVisitDate": "2021-11-22",
+            "linkId": "339b2b1d-6667-4ebb-a162-664cb9862237",
+            "reportDate": "2021-12-10",
+            "reportType": "Location",
+            "reportUri": "/reports/339b2b1d-6667-4ebb-a162-664cb9862237?20211210080348"
+        },
+        {
+            "firstVisitDate": "2021-08-23",
+            "linkId": "e0c90360-f213-40e1-a256-696655d6a7d0",
+            "reportDate": "2021-09-23",
+            "reportType": "Location",
+            "reportUri": "/reports/e0c90360-f213-40e1-a256-696655d6a7d0?20211209110135"
+        },
+        {
+            "firstVisitDate": "2019-03-25",
+            "linkId": "afdf0cde-2171-4515-b163-0bcb1f8e5eed",
+            "reportDate": "2019-05-30",
+            "reportType": "Location",
+            "reportUri": "/reports/afdf0cde-2171-4515-b163-0bcb1f8e5eed?20210116060942"
+        },
+        {
+            "firstVisitDate": "2015-03-25",
+            "linkId": "a4e36e72-d314-4d36-a778-19e4bf7adebd",
+            "reportDate": "2015-05-21",
+            "reportType": "Location",
+            "reportUri": "/reports/a4e36e72-d314-4d36-a778-19e4bf7adebd?20210129060845"
+        }
+    ],
+    "specialisms": [
+        {
+            "name": "Services for everyone"
+        }
+    ],
+    "type": "Primary Medical Services",
+    "website": "www.doctorsatmoorside.co.uk"
+}

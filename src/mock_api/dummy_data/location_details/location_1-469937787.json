@@ -1,0 +1,93 @@
+{
+    "brandId": "BD230",
+    "brandName": "BRAND IDH Dental",
+    "careHome": "N",
+    "constituency": "Oldham West and Royton",
+    "currentRatings": {
+        "overall": {
+            "keyQuestionRatings": [
+                {
+                    "name": "Safe",
+                    "rating": "No published rating"
+                },
+                {
+                    "name": "Well-led",
+                    "rating": "No published rating"
+                },
+                {
+                    "name": "Caring",
+                    "rating": "No published rating"
+                },
+                {
+                    "name": "Responsive",
+                    "rating": "No published rating"
+                },
+                {
+                    "name": "Effective",
+                    "rating": "No published rating"
+                }
+            ],
+            "rating": "No published rating"
+        }
+    },
+    "deregistrationDate": "2014-01-14",
+    "dormancy": "N",
+    "gacServiceTypes": [
+        {
+            "description": "Dental service",
+            "name": "Dentist"
+        }
+    ],
+    "inspectionAreas": [],
+    "inspectionDirectorate": "Unspecified",
+    "lastInspection": {
+        "date": "2013-08-21"
+    },
+    "localAuthority": "Oldham",
+    "locationId": "1-469937787",
+    "locationTypes": [],
+    "mainPhoneNumber": "01616811022",
+    "name": "Hollinwood Dental Practice",
+    "numberOfBeds": 0,
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.5207308,
+    "onspdLongitude": -2.1438031,
+    "organisationType": "Location",
+    "postalAddressCounty": "Lancashire",
+    "postalAddressLine1": "580 Manchester Road",
+    "postalAddressLine2": "Hollinwood",
+    "postalAddressTownCity": "Oldham",
+    "postalCode": "OL9 7LS",
+    "providerId": "1-464838146",
+    "region": "North West",
+    "registrationDate": "2012-09-05",
+    "registrationStatus": "Deregistered",
+    "regulatedActivities": [],
+    "relationships": [
+        {
+            "reason": "Partnership Change",
+            "relatedLocationId": "1-1142286034",
+            "relatedLocationName": "Mydentist - Manchester Road - Oldham",
+            "type": "HSCA Successor"
+        }
+    ],
+    "reports": [
+        {
+            "firstVisitDate": "2013-08-21",
+            "linkId": "b0d51c50-37e6-4a6e-b882-55e026f8a68f",
+            "reportDate": "2013-09-02",
+            "reportUri": "/reports/b0d51c50-37e6-4a6e-b882-55e026f8a68f?20151021113845"
+        }
+    ],
+    "specialisms": [
+        {
+            "name": "Services for everyone"
+        }
+    ],
+    "type": "Primary Dental Care",
+    "uprn": "422000045486",
+    "website": "www.idhgroup.co.uk"
+}

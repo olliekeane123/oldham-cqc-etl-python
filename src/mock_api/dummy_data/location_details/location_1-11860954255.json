@@ -1,0 +1,138 @@
+{
+    "careHome": "N",
+    "constituency": "Oldham West and Royton",
+    "currentRatings": {
+        "overall": {
+            "keyQuestionRatings": [
+                {
+                    "name": "Safe",
+                    "rating": "Good",
+                    "reportDate": "2022-11-19",
+                    "reportLinkId": "b827dd4d-7e40-4f64-9943-944954951eec"
+                },
+                {
+                    "name": "Well-led",
+                    "rating": "Good",
+                    "reportDate": "2022-11-19",
+                    "reportLinkId": "b827dd4d-7e40-4f64-9943-944954951eec"
+                },
+                {
+                    "name": "Caring",
+                    "rating": "Good",
+                    "reportDate": "2022-11-19",
+                    "reportLinkId": "b827dd4d-7e40-4f64-9943-944954951eec"
+                },
+                {
+                    "name": "Responsive",
+                    "rating": "Good",
+                    "reportDate": "2022-11-19",
+                    "reportLinkId": "b827dd4d-7e40-4f64-9943-944954951eec"
+                },
+                {
+                    "name": "Effective",
+                    "rating": "Good",
+                    "reportDate": "2022-11-19",
+                    "reportLinkId": "b827dd4d-7e40-4f64-9943-944954951eec"
+                }
+            ],
+            "rating": "Good",
+            "reportDate": "2022-11-19",
+            "reportLinkId": "b827dd4d-7e40-4f64-9943-944954951eec"
+        },
+        "reportDate": "2022-11-19"
+    },
+    "dormancy": "Y",
+    "dormancyStartDate": "2023-07-31",
+    "gacServiceTypes": [
+        {
+            "description": "Domiciliary care service",
+            "name": "Homecare agencies"
+        }
+    ],
+    "inspectionAreas": [],
+    "inspectionCategories": [
+        {
+            "code": "S2",
+            "name": "Community based adult social care services",
+            "primary": "true"
+        }
+    ],
+    "inspectionDirectorate": "Adult social care",
+    "lastInspection": {
+        "date": "2022-11-09"
+    },
+    "lastReport": {
+        "publicationDate": "2022-11-19"
+    },
+    "localAuthority": "Oldham",
+    "locationId": "1-11860954255",
+    "locationTypes": [],
+    "mainPhoneNumber": "01484608700",
+    "name": "Choices Homecare South Kirklees",
+    "numberOfBeds": 0,
+    "odsCode": "VNKLE",
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.5253948,
+    "onspdLongitude": -2.1354155,
+    "organisationType": "Location",
+    "postalAddressLine1": "Unity 563 Chambers Business Centre",
+    "postalAddressLine2": "Chapel Road",
+    "postalAddressTownCity": "Oldham",
+    "postalCode": "OL8 4QQ",
+    "providerId": "1-101669560",
+    "region": "North West",
+    "registrationDate": "2021-10-25",
+    "registrationStatus": "Registered",
+    "regulatedActivities": [
+        {
+            "code": "RA1",
+            "contacts": [
+                {
+                    "personFamilyName": "Stuart",
+                    "personGivenName": "Anthea Elizabeth",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Mrs"
+                }
+            ],
+            "name": "Personal care"
+        }
+    ],
+    "relationships": [],
+    "reports": [
+        {
+            "firstVisitDate": "2022-10-28",
+            "linkId": "b827dd4d-7e40-4f64-9943-944954951eec",
+            "reportDate": "2022-11-19",
+            "reportType": "Location",
+            "reportUri": "/reports/b827dd4d-7e40-4f64-9943-944954951eec?20221119130000"
+        }
+    ],
+    "specialisms": [
+        {
+            "name": "Caring for adults over 65 yrs"
+        },
+        {
+            "name": "Caring for adults under 65 yrs"
+        },
+        {
+            "name": "Dementia"
+        },
+        {
+            "name": "Learning disabilities"
+        },
+        {
+            "name": "Physical disabilities"
+        },
+        {
+            "name": "Sensory impairment"
+        }
+    ],
+    "type": "Social Care Org",
+    "uprn": "10092047923",
+    "website": "www.carewithchoices.co.uk"
+}

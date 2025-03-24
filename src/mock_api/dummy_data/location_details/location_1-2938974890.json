@@ -1,0 +1,119 @@
+{
+    "brandId": "BD349",
+    "brandName": "BRAND Kare Plus",
+    "careHome": "N",
+    "constituency": "Oldham West and Royton",
+    "currentRatings": {
+        "overall": {
+            "keyQuestionRatings": [
+                {
+                    "name": "Safe",
+                    "rating": "Good",
+                    "reportDate": "2019-01-03",
+                    "reportLinkId": "ab25c6ce-3ff9-4831-903e-95a473f3a3f2"
+                },
+                {
+                    "name": "Well-led",
+                    "rating": "Good",
+                    "reportDate": "2019-01-03",
+                    "reportLinkId": "ab25c6ce-3ff9-4831-903e-95a473f3a3f2"
+                },
+                {
+                    "name": "Caring",
+                    "rating": "Good",
+                    "reportDate": "2019-01-03",
+                    "reportLinkId": "ab25c6ce-3ff9-4831-903e-95a473f3a3f2"
+                },
+                {
+                    "name": "Responsive",
+                    "rating": "Good",
+                    "reportDate": "2019-01-03",
+                    "reportLinkId": "ab25c6ce-3ff9-4831-903e-95a473f3a3f2"
+                },
+                {
+                    "name": "Effective",
+                    "rating": "Good",
+                    "reportDate": "2019-01-03",
+                    "reportLinkId": "ab25c6ce-3ff9-4831-903e-95a473f3a3f2"
+                }
+            ],
+            "rating": "Good",
+            "reportDate": "2019-01-03",
+            "reportLinkId": "ab25c6ce-3ff9-4831-903e-95a473f3a3f2"
+        },
+        "reportDate": "2019-01-03"
+    },
+    "deregistrationDate": "2020-10-26",
+    "dormancy": "N",
+    "dormancyEndDate": "2021-09-22",
+    "gacServiceTypes": [
+        {
+            "description": "Domiciliary care service",
+            "name": "Homecare agencies"
+        }
+    ],
+    "inspectionAreas": [],
+    "inspectionCategories": [
+        {
+            "code": "S2",
+            "name": "Community based adult social care services",
+            "primary": "true"
+        }
+    ],
+    "inspectionDirectorate": "Adult social care",
+    "lastInspection": {
+        "date": "2018-12-21"
+    },
+    "lastReport": {
+        "publicationDate": "2019-01-03"
+    },
+    "localAuthority": "Oldham",
+    "locationId": "1-2938974890",
+    "locationTypes": [],
+    "mainPhoneNumber": "01617110220",
+    "name": "Amalfi House",
+    "numberOfBeds": 0,
+    "odsCode": "VN7NV",
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.54939,
+    "onspdLongitude": -2.1239781,
+    "organisationType": "Location",
+    "postalAddressLine1": "285a Featherstall Road North",
+    "postalAddressTownCity": "Oldham",
+    "postalCode": "OL1 2NH",
+    "providerId": "1-2923255265",
+    "region": "North West",
+    "registrationDate": "2016-11-25",
+    "registrationStatus": "Deregistered",
+    "regulatedActivities": [],
+    "relationships": [],
+    "reports": [
+        {
+            "firstVisitDate": "2018-12-20",
+            "linkId": "ab25c6ce-3ff9-4831-903e-95a473f3a3f2",
+            "reportDate": "2019-01-03",
+            "reportType": "Location",
+            "reportUri": "/reports/ab25c6ce-3ff9-4831-903e-95a473f3a3f2?20200129163919"
+        }
+    ],
+    "specialisms": [
+        {
+            "name": "Caring for adults over 65 yrs"
+        },
+        {
+            "name": "Caring for adults under 65 yrs"
+        },
+        {
+            "name": "Physical disabilities"
+        },
+        {
+            "name": "Sensory impairment"
+        }
+    ],
+    "type": "Social Care Org",
+    "uprn": "422000124350",
+    "website": "www.kareplus.co.uk/oldham"
+}

@@ -1,0 +1,59 @@
+{
+    "careHome": "N",
+    "constituency": "Ashton-under-Lyne",
+    "deregistrationDate": "2022-06-14",
+    "dormancy": "N",
+    "gacServiceTypes": [
+        {
+            "description": "Dental service",
+            "name": "Dentist"
+        }
+    ],
+    "inspectionAreas": [],
+    "inspectionCategories": [
+        {
+            "code": "P1",
+            "name": "Dentists",
+            "primary": "true"
+        }
+    ],
+    "inspectionDirectorate": "Primary medical services",
+    "localAuthority": "Oldham",
+    "locationId": "1-12339211727",
+    "locationTypes": [],
+    "mainPhoneNumber": "01616824751",
+    "name": "Oldham Road Dental Practice",
+    "numberOfBeds": 0,
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.5099687,
+    "onspdLongitude": -2.1603079,
+    "organisationType": "Location",
+    "postalAddressCounty": "Greater Manchester",
+    "postalAddressLine1": "353 Oldham Road",
+    "postalAddressLine2": "Failsworth",
+    "postalAddressTownCity": "Manchester",
+    "postalCode": "M35 0AN",
+    "providerId": "1-11455947389",
+    "region": "North West",
+    "registrationDate": "2022-01-06",
+    "registrationStatus": "Deregistered",
+    "regulatedActivities": [],
+    "relationships": [
+        {
+            "reason": "New Provider",
+            "relatedLocationId": "1-13016185643",
+            "relatedLocationName": "Alpha Dental Care Failsworth",
+            "type": "HSCA Successor"
+        }
+    ],
+    "specialisms": [
+        {
+            "name": "Services for everyone"
+        }
+    ],
+    "type": "Primary Dental Care",
+    "uprn": "422000032748"
+}

@@ -1,0 +1,111 @@
+{
+    "careHome": "N",
+    "constituency": "Oldham East and Saddleworth",
+    "currentRatings": {
+        "overall": {
+            "keyQuestionRatings": [
+                {
+                    "name": "Safe",
+                    "rating": "No published rating"
+                },
+                {
+                    "name": "Well-led",
+                    "rating": "No published rating"
+                },
+                {
+                    "name": "Caring",
+                    "rating": "No published rating"
+                },
+                {
+                    "name": "Responsive",
+                    "rating": "No published rating"
+                },
+                {
+                    "name": "Effective",
+                    "rating": "No published rating"
+                }
+            ],
+            "rating": "Inspected but not rated",
+            "reportDate": "2019-10-16",
+            "reportLinkId": "3aa15f7c-e8af-4747-a987-1e6bddf99871"
+        },
+        "reportDate": "2019-10-16"
+    },
+    "deregistrationDate": "2019-12-10",
+    "dormancy": "N",
+    "gacServiceTypes": [
+        {
+            "description": "Dental service",
+            "name": "Dentist"
+        }
+    ],
+    "inspectionAreas": [],
+    "inspectionCategories": [
+        {
+            "code": "P1",
+            "name": "Dentists",
+            "primary": "true"
+        }
+    ],
+    "inspectionDirectorate": "Primary medical services",
+    "lastInspection": {
+        "date": "2019-09-10"
+    },
+    "lastReport": {
+        "publicationDate": "2019-10-16"
+    },
+    "localAuthority": "Oldham",
+    "locationId": "1-200337440",
+    "locationTypes": [],
+    "mainPhoneNumber": "01616338227",
+    "name": "Lees Dental Centre",
+    "numberOfBeds": 0,
+    "odsCode": "V00163",
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.5378825,
+    "onspdLongitude": -2.0723264,
+    "organisationType": "Location",
+    "postalAddressCounty": "Greater Manchester",
+    "postalAddressLine1": "74 High Street",
+    "postalAddressLine2": "Lees",
+    "postalAddressTownCity": "Oldham",
+    "postalCode": "OL4 5AA",
+    "providerId": "1-152989536",
+    "region": "North West",
+    "registrationDate": "2011-06-10",
+    "registrationStatus": "Deregistered",
+    "regulatedActivities": [],
+    "relationships": [
+        {
+            "reason": "New Provider",
+            "relatedLocationId": "1-7484287387",
+            "relatedLocationName": "Lees Dental Centre",
+            "type": "HSCA Successor"
+        }
+    ],
+    "reports": [
+        {
+            "firstVisitDate": "2019-09-10",
+            "linkId": "3aa15f7c-e8af-4747-a987-1e6bddf99871",
+            "reportDate": "2019-10-16",
+            "reportType": "Location",
+            "reportUri": "/reports/3aa15f7c-e8af-4747-a987-1e6bddf99871?20210115060533"
+        },
+        {
+            "firstVisitDate": "2012-02-23",
+            "linkId": "f9839b51-c855-451e-b3b2-337c2acba0bf",
+            "reportDate": "2012-04-30",
+            "reportUri": "/reports/f9839b51-c855-451e-b3b2-337c2acba0bf?20200430120000"
+        }
+    ],
+    "specialisms": [
+        {
+            "name": "Services for everyone"
+        }
+    ],
+    "type": "Primary Dental Care",
+    "uprn": "422000040624"
+}

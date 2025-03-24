@@ -1,0 +1,104 @@
+{
+    "brandId": "BD133",
+    "brandName": "BRAND Turning Point",
+    "careHome": "Y",
+    "constituency": "Oldham West and Royton",
+    "currentRatings": {
+        "overall": {
+            "keyQuestionRatings": [
+                {
+                    "name": "Safe",
+                    "rating": "No published rating"
+                },
+                {
+                    "name": "Well-led",
+                    "rating": "No published rating"
+                },
+                {
+                    "name": "Caring",
+                    "rating": "No published rating"
+                },
+                {
+                    "name": "Responsive",
+                    "rating": "No published rating"
+                },
+                {
+                    "name": "Effective",
+                    "rating": "No published rating"
+                }
+            ],
+            "rating": "No published rating"
+        }
+    },
+    "deregistrationDate": "2016-06-13",
+    "dormancy": "N",
+    "gacServiceTypes": [
+        {
+            "description": "Care home service without nursing",
+            "name": "Residential homes"
+        }
+    ],
+    "inspectionAreas": [],
+    "inspectionCategories": [
+        {
+            "code": "S1",
+            "name": "Residential social care",
+            "primary": "true"
+        }
+    ],
+    "inspectionDirectorate": "Adult social care",
+    "lastInspection": {
+        "date": "2013-05-16"
+    },
+    "localAuthority": "Oldham",
+    "locationId": "1-124012653",
+    "locationTypes": [],
+    "mainPhoneNumber": "01616241908",
+    "name": "Turning Point - Edward House",
+    "numberOfBeds": 16,
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.536546,
+    "onspdLongitude": -2.132345,
+    "organisationType": "Location",
+    "postalAddressCounty": "Lancashire",
+    "postalAddressLine1": "14-16 Edward Street",
+    "postalAddressLine2": "Werneth",
+    "postalAddressTownCity": "Oldham",
+    "postalCode": "OL9 7QW",
+    "providerId": "1-102642564",
+    "region": "North West",
+    "registrationDate": "2011-02-08",
+    "registrationStatus": "Deregistered",
+    "regulatedActivities": [],
+    "relationships": [],
+    "reports": [
+        {
+            "firstVisitDate": "2013-05-16",
+            "linkId": "9fbd5ad8-c8f5-42e4-9efd-260a70e884fe",
+            "reportDate": "2013-06-18",
+            "reportUri": "/reports/9fbd5ad8-c8f5-42e4-9efd-260a70e884fe?20200129163919"
+        },
+        {
+            "firstVisitDate": "2012-05-23",
+            "linkId": "1b5b6e47-836f-4262-afe3-ed51b21e99fa",
+            "reportDate": "2012-06-15",
+            "reportUri": "/reports/1b5b6e47-836f-4262-afe3-ed51b21e99fa?20200430120000"
+        }
+    ],
+    "specialisms": [
+        {
+            "name": "Caring for adults over 65 yrs"
+        },
+        {
+            "name": "Caring for adults under 65 yrs"
+        },
+        {
+            "name": "Mental health conditions"
+        }
+    ],
+    "type": "Social Care Org",
+    "website": "www.turning-point.co.uk"
+}

@@ -1,0 +1,246 @@
+{
+    "brandId": "BD231",
+    "brandName": "BRAND Virgin",
+    "careHome": "N",
+    "constituency": "Oldham West and Royton",
+    "currentRatings": {
+        "overall": {
+            "keyQuestionRatings": [
+                {
+                    "name": "Safe",
+                    "rating": "Good",
+                    "reportDate": "2021-11-26",
+                    "reportLinkId": "9c690496-dae2-45f8-920c-6f166e71f93c"
+                },
+                {
+                    "name": "Well-led",
+                    "rating": "Good",
+                    "reportDate": "2021-11-26",
+                    "reportLinkId": "9c690496-dae2-45f8-920c-6f166e71f93c"
+                },
+                {
+                    "name": "Caring",
+                    "rating": "Good",
+                    "reportDate": "2021-11-26",
+                    "reportLinkId": "9c690496-dae2-45f8-920c-6f166e71f93c"
+                },
+                {
+                    "name": "Responsive",
+                    "rating": "Good",
+                    "reportDate": "2021-11-26",
+                    "reportLinkId": "9c690496-dae2-45f8-920c-6f166e71f93c"
+                },
+                {
+                    "name": "Effective",
+                    "rating": "Good",
+                    "reportDate": "2021-11-26",
+                    "reportLinkId": "9c690496-dae2-45f8-920c-6f166e71f93c"
+                }
+            ],
+            "rating": "Good",
+            "reportDate": "2021-11-26",
+            "reportLinkId": "9c690496-dae2-45f8-920c-6f166e71f93c"
+        },
+        "reportDate": "2021-11-26",
+        "serviceRatings": [
+            {
+                "keyQuestionRatings": [
+                    {
+                        "name": "Caring",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Effective",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Responsive",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Safe",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Well-led",
+                        "rating": "Good"
+                    }
+                ],
+                "name": "chsadults",
+                "rating": "Good",
+                "reportDate": "2021-11-26",
+                "reportLinkId": "9c690496-dae2-45f8-920c-6f166e71f93c"
+            },
+            {
+                "keyQuestionRatings": [
+                    {
+                        "name": "Caring",
+                        "rating": "Outstanding"
+                    },
+                    {
+                        "name": "Effective",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Responsive",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Safe",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Well-led",
+                        "rating": "Good"
+                    }
+                ],
+                "name": "communitysexual",
+                "rating": "Good",
+                "reportDate": "2021-11-26",
+                "reportLinkId": "9c690496-dae2-45f8-920c-6f166e71f93c"
+            }
+        ]
+    },
+    "dormancy": "N",
+    "gacServiceTypes": [
+        {
+            "description": "Community healthcare service",
+            "name": "Community services - Healthcare"
+        }
+    ],
+    "inspectionAreas": [
+        {
+            "inspectionAreaId": "chsadults",
+            "inspectionAreaName": "Community health services for adults",
+            "status": "Active (Rated)"
+        },
+        {
+            "inspectionAreaId": "communitysexual",
+            "inspectionAreaName": "Community health sexual health services",
+            "status": "Active (Rated)"
+        }
+    ],
+    "inspectionCategories": [
+        {
+            "code": "H6",
+            "name": "Community health - NHS & Independent",
+            "primary": "true"
+        }
+    ],
+    "inspectionDirectorate": "Hospitals",
+    "lastInspection": {
+        "date": "2021-09-30"
+    },
+    "lastReport": {
+        "publicationDate": "2021-11-26"
+    },
+    "localAuthority": "Oldham",
+    "locationId": "1-2086060515",
+    "locationTypes": [],
+    "mainPhoneNumber": "01616213400",
+    "name": "Oldham Health Services",
+    "numberOfBeds": 0,
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.543824,
+    "onspdLongitude": -2.116945,
+    "organisationType": "Location",
+    "postalAddressCounty": "Lancashire",
+    "postalAddressLine1": "Oldham Intergrated Care Centre",
+    "postalAddressLine2": "New Radcliffe Street",
+    "postalAddressTownCity": "Oldham",
+    "postalCode": "OL1 1NL",
+    "providerId": "1-351584301",
+    "providerInspectionAreas": [
+        {
+            "inspectionAreaId": "chsadults",
+            "reports": [
+                {
+                    "inspectionId": "SPL1-3051573745",
+                    "locationId": "1-2086060515",
+                    "providerId": "1-351584301",
+                    "reportLinkId": "ee32aa6d-380e-416f-b6fe-78714387d83c"
+                }
+            ]
+        }
+    ],
+    "region": "North West",
+    "registrationDate": "2015-06-30",
+    "registrationStatus": "Registered",
+    "regulatedActivities": [
+        {
+            "code": "RA15",
+            "contacts": [
+                {
+                    "personFamilyName": "Devaney",
+                    "personGivenName": "Charlotte Lucy",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Miss"
+                }
+            ],
+            "name": "Family planning"
+        },
+        {
+            "code": "RA5",
+            "contacts": [
+                {
+                    "personFamilyName": "Devaney",
+                    "personGivenName": "Charlotte Lucy",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Miss"
+                }
+            ],
+            "name": "Treatment of disease, disorder or injury"
+        },
+        {
+            "code": "RA7",
+            "contacts": [
+                {
+                    "personFamilyName": "Devaney",
+                    "personGivenName": "Charlotte Lucy",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Miss"
+                }
+            ],
+            "name": "Surgical procedures"
+        },
+        {
+            "code": "RA8",
+            "contacts": [
+                {
+                    "personFamilyName": "Devaney",
+                    "personGivenName": "Charlotte Lucy",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Miss"
+                }
+            ],
+            "name": "Diagnostic and screening procedures"
+        }
+    ],
+    "relationships": [],
+    "reports": [
+        {
+            "firstVisitDate": "2021-09-29",
+            "linkId": "9c690496-dae2-45f8-920c-6f166e71f93c",
+            "reportDate": "2021-11-26",
+            "reportType": "Location",
+            "reportUri": "/reports/9c690496-dae2-45f8-920c-6f166e71f93c?20211126090038"
+        }
+    ],
+    "specialisms": [
+        {
+            "name": "Services for everyone"
+        }
+    ],
+    "type": "Independent Healthcare Org"
+}

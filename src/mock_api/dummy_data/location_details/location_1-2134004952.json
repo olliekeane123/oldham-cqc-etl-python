@@ -1,0 +1,167 @@
+{
+    "careHome": "N",
+    "constituency": "Oldham West and Royton",
+    "currentRatings": {
+        "overall": {
+            "keyQuestionRatings": [
+                {
+                    "name": "Safe",
+                    "rating": "Good",
+                    "reportDate": "2019-06-22",
+                    "reportLinkId": "874cf443-0472-4042-a052-2e7c20c585d1"
+                },
+                {
+                    "name": "Well-led",
+                    "rating": "Requires improvement",
+                    "reportDate": "2019-06-22",
+                    "reportLinkId": "874cf443-0472-4042-a052-2e7c20c585d1"
+                },
+                {
+                    "name": "Caring",
+                    "rating": "Good",
+                    "reportDate": "2019-06-22",
+                    "reportLinkId": "874cf443-0472-4042-a052-2e7c20c585d1"
+                },
+                {
+                    "name": "Responsive",
+                    "rating": "Good",
+                    "reportDate": "2019-06-22",
+                    "reportLinkId": "874cf443-0472-4042-a052-2e7c20c585d1"
+                },
+                {
+                    "name": "Effective",
+                    "rating": "Good",
+                    "reportDate": "2019-06-22",
+                    "reportLinkId": "874cf443-0472-4042-a052-2e7c20c585d1"
+                }
+            ],
+            "rating": "Good",
+            "reportDate": "2019-06-22",
+            "reportLinkId": "874cf443-0472-4042-a052-2e7c20c585d1"
+        },
+        "reportDate": "2019-06-22"
+    },
+    "dormancy": "N",
+    "gacServiceTypes": [
+        {
+            "description": "Domiciliary care service",
+            "name": "Homecare agencies"
+        }
+    ],
+    "historicRatings": [
+        {
+            "overall": {
+                "keyQuestionRatings": [
+                    {
+                        "name": "Safe",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Well-led",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Caring",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Responsive",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Effective",
+                        "rating": "Good"
+                    }
+                ],
+                "rating": "Good"
+            },
+            "reportDate": "2016-11-12",
+            "reportLinkId": "ef8539bb-20c4-44ac-810a-b739a6863bfe"
+        }
+    ],
+    "inspectionAreas": [],
+    "inspectionCategories": [
+        {
+            "code": "S2",
+            "name": "Community based adult social care services",
+            "primary": "true"
+        }
+    ],
+    "inspectionDirectorate": "Adult social care",
+    "lastInspection": {
+        "date": "2019-04-11"
+    },
+    "lastReport": {
+        "publicationDate": "2019-06-22"
+    },
+    "localAuthority": "Oldham",
+    "locationId": "1-2134004952",
+    "locationTypes": [],
+    "mainPhoneNumber": "01616828685",
+    "name": "Liberty Support - North",
+    "numberOfBeds": 0,
+    "odsCode": "VN9VW",
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.553723,
+    "onspdLongitude": -2.139523,
+    "organisationType": "Location",
+    "postalAddressCounty": "Manchester",
+    "postalAddressLine1": "235-243 Burnley Lane",
+    "postalAddressLine2": "Chadderton",
+    "postalAddressTownCity": "Oldham",
+    "postalCode": "OL9 0EW",
+    "providerId": "1-574768183",
+    "region": "North West",
+    "registeredManagerAbsentDate": "2024-06-26",
+    "registrationDate": "2015-10-28",
+    "registrationStatus": "Registered",
+    "regulatedActivities": [
+        {
+            "code": "RA1",
+            "contacts": [],
+            "name": "Personal care"
+        }
+    ],
+    "relationships": [],
+    "reports": [
+        {
+            "firstVisitDate": "2019-04-10",
+            "linkId": "874cf443-0472-4042-a052-2e7c20c585d1",
+            "reportDate": "2019-06-22",
+            "reportType": "Location",
+            "reportUri": "/reports/874cf443-0472-4042-a052-2e7c20c585d1?20190622120000"
+        },
+        {
+            "firstVisitDate": "2016-10-04",
+            "linkId": "ef8539bb-20c4-44ac-810a-b739a6863bfe",
+            "reportDate": "2016-11-12",
+            "reportType": "Location",
+            "reportUri": "/reports/ef8539bb-20c4-44ac-810a-b739a6863bfe?20211030120000"
+        }
+    ],
+    "specialisms": [
+        {
+            "name": "Caring for adults over 65 yrs"
+        },
+        {
+            "name": "Caring for adults under 65 yrs"
+        },
+        {
+            "name": "Learning disabilities"
+        },
+        {
+            "name": "Mental health conditions"
+        },
+        {
+            "name": "Physical disabilities"
+        },
+        {
+            "name": "Sensory impairment"
+        }
+    ],
+    "type": "Social Care Org",
+    "website": "www.libertysupportservices.co.uk"
+}

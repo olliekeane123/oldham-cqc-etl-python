@@ -1,0 +1,96 @@
+{
+    "careHome": "N",
+    "constituency": "Oldham West and Royton",
+    "currentRatings": {
+        "overall": {
+            "keyQuestionRatings": [
+                {
+                    "name": "Safe",
+                    "rating": "No published rating"
+                },
+                {
+                    "name": "Well-led",
+                    "rating": "No published rating"
+                },
+                {
+                    "name": "Caring",
+                    "rating": "No published rating"
+                },
+                {
+                    "name": "Responsive",
+                    "rating": "No published rating"
+                },
+                {
+                    "name": "Effective",
+                    "rating": "No published rating"
+                }
+            ],
+            "rating": "No published rating"
+        }
+    },
+    "deregistrationDate": "2016-05-09",
+    "dormancy": "N",
+    "gacServiceTypes": [
+        {
+            "description": "Dental service",
+            "name": "Dentist"
+        }
+    ],
+    "inspectionAreas": [],
+    "inspectionCategories": [
+        {
+            "code": "P1",
+            "name": "Dentists",
+            "primary": "true"
+        }
+    ],
+    "inspectionDirectorate": "Primary medical services",
+    "lastInspection": {
+        "date": "2013-12-20"
+    },
+    "localAuthority": "Oldham",
+    "locationId": "1-445808941",
+    "locationTypes": [],
+    "mainPhoneNumber": "01616220987",
+    "name": "Oldham Orthodontics",
+    "numberOfBeds": 0,
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.524793,
+    "onspdLongitude": -2.12006,
+    "organisationType": "Location",
+    "postalAddressCounty": "Lancashire",
+    "postalAddressLine1": "221 Hollins Road",
+    "postalAddressTownCity": "Oldham",
+    "postalCode": "OL8 3AA",
+    "providerId": "1-152989406",
+    "region": "North West",
+    "registrationDate": "2012-07-12",
+    "registrationStatus": "Deregistered",
+    "regulatedActivities": [],
+    "relationships": [
+        {
+            "reason": "New Provider",
+            "relatedLocationId": "1-2501153205",
+            "relatedLocationName": "Oldham Orthodontics",
+            "type": "HSCA Successor"
+        }
+    ],
+    "reports": [
+        {
+            "firstVisitDate": "2013-12-20",
+            "linkId": "c4edafda-cd11-454f-bd6b-816b2fdd4afb",
+            "reportDate": "2014-01-25",
+            "reportUri": "/reports/c4edafda-cd11-454f-bd6b-816b2fdd4afb?20200129163919"
+        }
+    ],
+    "specialisms": [
+        {
+            "name": "Services for everyone"
+        }
+    ],
+    "type": "Primary Dental Care",
+    "website": "www.oldhamorthodontics.co.uk"
+}

@@ -1,0 +1,142 @@
+{
+    "careHome": "N",
+    "constituency": "Ashton-under-Lyne",
+    "currentRatings": {
+        "overall": {
+            "keyQuestionRatings": [
+                {
+                    "name": "Safe",
+                    "rating": "Requires improvement",
+                    "reportDate": "2023-01-21",
+                    "reportLinkId": "42bb0c60-f781-4d4d-88d7-38d275783e85"
+                },
+                {
+                    "name": "Well-led",
+                    "rating": "Requires improvement",
+                    "reportDate": "2023-01-21",
+                    "reportLinkId": "42bb0c60-f781-4d4d-88d7-38d275783e85"
+                },
+                {
+                    "name": "Caring",
+                    "rating": "Requires improvement",
+                    "reportDate": "2023-01-21",
+                    "reportLinkId": "42bb0c60-f781-4d4d-88d7-38d275783e85"
+                },
+                {
+                    "name": "Responsive",
+                    "rating": "Requires improvement",
+                    "reportDate": "2023-01-21",
+                    "reportLinkId": "42bb0c60-f781-4d4d-88d7-38d275783e85"
+                },
+                {
+                    "name": "Effective",
+                    "rating": "Requires improvement",
+                    "reportDate": "2023-01-21",
+                    "reportLinkId": "42bb0c60-f781-4d4d-88d7-38d275783e85"
+                }
+            ],
+            "rating": "Requires improvement",
+            "reportDate": "2023-01-21",
+            "reportLinkId": "42bb0c60-f781-4d4d-88d7-38d275783e85"
+        },
+        "reportDate": "2023-01-21"
+    },
+    "dormancy": "N",
+    "dormancyEndDate": "2022-07-06",
+    "gacServiceTypes": [
+        {
+            "description": "Domiciliary care service",
+            "name": "Homecare agencies"
+        },
+        {
+            "description": "Supported living service",
+            "name": "Supported living"
+        }
+    ],
+    "inspectionAreas": [],
+    "inspectionCategories": [
+        {
+            "code": "S2",
+            "name": "Community based adult social care services",
+            "primary": "true"
+        }
+    ],
+    "inspectionDirectorate": "Adult social care",
+    "lastInspection": {
+        "date": "2022-12-07"
+    },
+    "lastReport": {
+        "publicationDate": "2023-01-21"
+    },
+    "localAuthority": "Oldham",
+    "locationId": "1-6321709131",
+    "locationTypes": [],
+    "mainPhoneNumber": "01616374130",
+    "name": "BlueCross Life Care",
+    "numberOfBeds": 0,
+    "odsCode": "VNCKL",
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.5120651,
+    "onspdLongitude": -2.1572985,
+    "organisationType": "Location",
+    "postalAddressLine1": "Ivy Mill",
+    "postalAddressLine2": "Crown Street, Failsworth",
+    "postalAddressTownCity": "Manchester",
+    "postalCode": "M35 9BG",
+    "providerId": "1-5927404766",
+    "region": "North West",
+    "registrationDate": "2019-01-18",
+    "registrationStatus": "Registered",
+    "regulatedActivities": [
+        {
+            "code": "RA1",
+            "contacts": [
+                {
+                    "personFamilyName": "Sheu",
+                    "personGivenName": "Rahmon Abayomi",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Mr"
+                }
+            ],
+            "name": "Personal care"
+        }
+    ],
+    "relationships": [],
+    "reports": [
+        {
+            "firstVisitDate": "2022-11-24",
+            "linkId": "42bb0c60-f781-4d4d-88d7-38d275783e85",
+            "reportDate": "2023-01-21",
+            "reportType": "Location",
+            "reportUri": "/reports/42bb0c60-f781-4d4d-88d7-38d275783e85?20230317130000"
+        }
+    ],
+    "specialisms": [
+        {
+            "name": "Caring for adults over 65 yrs"
+        },
+        {
+            "name": "Caring for adults under 65 yrs"
+        },
+        {
+            "name": "Dementia"
+        },
+        {
+            "name": "Learning disabilities"
+        },
+        {
+            "name": "Mental health conditions"
+        },
+        {
+            "name": "Physical disabilities"
+        }
+    ],
+    "type": "Social Care Org",
+    "uprn": "422000118571",
+    "website": "www.bluecrosslifecareltd.co.uk"
+}

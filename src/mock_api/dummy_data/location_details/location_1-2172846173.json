@@ -1,0 +1,191 @@
+{
+    "careHome": "N",
+    "constituency": "Ashton-under-Lyne",
+    "currentRatings": {
+        "overall": {
+            "keyQuestionRatings": [
+                {
+                    "name": "Safe",
+                    "rating": "Good",
+                    "reportDate": "2023-08-19",
+                    "reportLinkId": "5ead0b43-da82-4a65-b79c-2a5cc4c517e5"
+                },
+                {
+                    "name": "Well-led",
+                    "rating": "Good",
+                    "reportDate": "2023-08-19",
+                    "reportLinkId": "5ead0b43-da82-4a65-b79c-2a5cc4c517e5"
+                },
+                {
+                    "name": "Caring",
+                    "rating": "Good",
+                    "reportDate": "2023-08-19",
+                    "reportLinkId": "5ead0b43-da82-4a65-b79c-2a5cc4c517e5"
+                },
+                {
+                    "name": "Responsive",
+                    "rating": "Good",
+                    "reportDate": "2023-08-19",
+                    "reportLinkId": "5ead0b43-da82-4a65-b79c-2a5cc4c517e5"
+                },
+                {
+                    "name": "Effective",
+                    "rating": "Good",
+                    "reportDate": "2023-08-19",
+                    "reportLinkId": "5ead0b43-da82-4a65-b79c-2a5cc4c517e5"
+                }
+            ],
+            "rating": "Good",
+            "reportDate": "2023-08-19",
+            "reportLinkId": "5ead0b43-da82-4a65-b79c-2a5cc4c517e5"
+        },
+        "reportDate": "2023-08-19"
+    },
+    "dormancy": "N",
+    "gacServiceTypes": [
+        {
+            "description": "Domiciliary care service",
+            "name": "Homecare agencies"
+        }
+    ],
+    "historicRatings": [
+        {
+            "overall": {
+                "keyQuestionRatings": [
+                    {
+                        "name": "Safe",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Well-led",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Caring",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Responsive",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Effective",
+                        "rating": "Good"
+                    }
+                ],
+                "rating": "Good"
+            },
+            "reportDate": "2018-04-13",
+            "reportLinkId": "e865d96c-749b-438d-a16f-2c94a6cb1850"
+        }
+    ],
+    "inspectionAreas": [],
+    "inspectionCategories": [
+        {
+            "code": "S2",
+            "name": "Community based adult social care services",
+            "primary": "true"
+        }
+    ],
+    "inspectionDirectorate": "Adult social care",
+    "lastInspection": {
+        "date": "2023-06-16"
+    },
+    "lastReport": {
+        "publicationDate": "2023-08-19"
+    },
+    "localAuthority": "Oldham",
+    "locationId": "1-2172846173",
+    "locationTypes": [],
+    "name": "Ordinary Lifestyles",
+    "numberOfBeds": 0,
+    "odsCode": "VN0JR",
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.512065,
+    "onspdLongitude": -2.157298,
+    "organisationType": "Location",
+    "postalAddressCounty": "Lancashire",
+    "postalAddressLine1": "Ivy Mill Business Centre, 3rd Floor Office",
+    "postalAddressLine2": "Crown Street, Failsworth",
+    "postalAddressTownCity": "Manchester",
+    "postalCode": "M35 9BG",
+    "providerId": "1-101644866",
+    "region": "North West",
+    "registrationDate": "2015-08-18",
+    "registrationStatus": "Registered",
+    "regulatedActivities": [
+        {
+            "code": "RA1",
+            "contacts": [
+                {
+                    "personFamilyName": "Cowburn",
+                    "personGivenName": "Jemma",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Miss"
+                },
+                {
+                    "personFamilyName": "McGurrin",
+                    "personGivenName": "Clodagh Louise",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Mrs"
+                },
+                {
+                    "personFamilyName": "Okunola-Adeleke",
+                    "personGivenName": "Iyabode Abimbola",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Mrs"
+                }
+            ],
+            "name": "Personal care"
+        }
+    ],
+    "relationships": [
+        {
+            "reason": "Location Move",
+            "relatedLocationId": "1-138741389",
+            "relatedLocationName": "Ordinary lifestyles",
+            "type": "HSCA Predecessor"
+        }
+    ],
+    "reports": [
+        {
+            "firstVisitDate": "2023-06-12",
+            "linkId": "5ead0b43-da82-4a65-b79c-2a5cc4c517e5",
+            "reportDate": "2023-08-19",
+            "reportType": "Location",
+            "reportUri": "/reports/5ead0b43-da82-4a65-b79c-2a5cc4c517e5?20230819120000"
+        },
+        {
+            "firstVisitDate": "2018-03-13",
+            "linkId": "e865d96c-749b-438d-a16f-2c94a6cb1850",
+            "reportDate": "2018-04-13",
+            "reportType": "Location",
+            "reportUri": "/reports/e865d96c-749b-438d-a16f-2c94a6cb1850?20211030120000"
+        }
+    ],
+    "specialisms": [
+        {
+            "name": "Caring for adults over 65 yrs"
+        },
+        {
+            "name": "Caring for adults under 65 yrs"
+        },
+        {
+            "name": "Learning disabilities"
+        },
+        {
+            "name": "Physical disabilities"
+        }
+    ],
+    "type": "Social Care Org",
+    "website": "www.ordinary-lifestyles.org.uk"
+}

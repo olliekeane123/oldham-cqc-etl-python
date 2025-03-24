@@ -1,0 +1,162 @@
+{
+    "careHome": "N",
+    "constituency": "Oldham East and Saddleworth",
+    "currentRatings": {
+        "overall": {
+            "keyQuestionRatings": [
+                {
+                    "name": "Safe",
+                    "rating": "No published rating"
+                },
+                {
+                    "name": "Well-led",
+                    "rating": "No published rating"
+                },
+                {
+                    "name": "Caring",
+                    "rating": "No published rating"
+                },
+                {
+                    "name": "Responsive",
+                    "rating": "No published rating"
+                },
+                {
+                    "name": "Effective",
+                    "rating": "No published rating"
+                }
+            ],
+            "rating": "Inspected but not rated",
+            "reportDate": "2019-03-27",
+            "reportLinkId": "4bac8c95-f429-40a8-a1cf-a607ed6beeaa"
+        },
+        "reportDate": "2019-03-27"
+    },
+    "dormancy": "N",
+    "gacServiceTypes": [
+        {
+            "description": "Dental service",
+            "name": "Dentist"
+        }
+    ],
+    "historicRatings": [
+        {
+            "overall": {
+                "rating": "Inspected but not rated"
+            },
+            "reportDate": "2019-01-31",
+            "reportLinkId": "d373a814-9a0e-42c8-975d-319c32547cf6"
+        }
+    ],
+    "inspectionAreas": [],
+    "inspectionCategories": [
+        {
+            "code": "P1",
+            "name": "Dentists",
+            "primary": "true"
+        }
+    ],
+    "inspectionDirectorate": "Primary medical services",
+    "lastInspection": {
+        "date": "2019-03-07"
+    },
+    "lastReport": {
+        "publicationDate": "2019-03-27"
+    },
+    "localAuthority": "Oldham",
+    "locationId": "1-3110585879",
+    "locationTypes": [],
+    "name": "P & J  Noble Dental Practice",
+    "numberOfBeds": 0,
+    "odsCode": "V00146",
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.5342993,
+    "onspdLongitude": -2.0030673,
+    "organisationType": "Location",
+    "postalAddressCounty": "Lancashire",
+    "postalAddressLine1": "146 Chew Valley Road",
+    "postalAddressLine2": "Greenfield",
+    "postalAddressTownCity": "Oldham",
+    "postalCode": "OL3 7DD",
+    "providerId": "1-2731849225",
+    "region": "North West",
+    "registrationDate": "2016-12-06",
+    "registrationStatus": "Registered",
+    "regulatedActivities": [
+        {
+            "code": "RA5",
+            "contacts": [
+                {
+                    "personFamilyName": "Noble",
+                    "personGivenName": "Philip Jonathan",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Mr"
+                }
+            ],
+            "name": "Treatment of disease, disorder or injury"
+        },
+        {
+            "code": "RA7",
+            "contacts": [
+                {
+                    "personFamilyName": "Noble",
+                    "personGivenName": "Philip Jonathan",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Mr"
+                }
+            ],
+            "name": "Surgical procedures"
+        },
+        {
+            "code": "RA8",
+            "contacts": [
+                {
+                    "personFamilyName": "Noble",
+                    "personGivenName": "Philip Jonathan",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Mr"
+                }
+            ],
+            "name": "Diagnostic and screening procedures"
+        }
+    ],
+    "relationships": [
+        {
+            "reason": "Legal Entity Change",
+            "relatedLocationId": "1-200643649",
+            "relatedLocationName": "P J Noble Dental Practice",
+            "type": "HSCA Predecessor"
+        }
+    ],
+    "reports": [
+        {
+            "firstVisitDate": "2019-03-07",
+            "linkId": "4bac8c95-f429-40a8-a1cf-a607ed6beeaa",
+            "reportDate": "2019-03-27",
+            "reportType": "Location",
+            "reportUri": "/reports/4bac8c95-f429-40a8-a1cf-a607ed6beeaa?20210116112740"
+        },
+        {
+            "firstVisitDate": "2018-12-12",
+            "linkId": "d373a814-9a0e-42c8-975d-319c32547cf6",
+            "reportDate": "2019-01-31",
+            "reportType": "Location",
+            "reportUri": "/reports/d373a814-9a0e-42c8-975d-319c32547cf6?20210116164111"
+        }
+    ],
+    "specialisms": [
+        {
+            "name": "Services for everyone"
+        }
+    ],
+    "type": "Primary Dental Care",
+    "uprn": "422000060819"
+}

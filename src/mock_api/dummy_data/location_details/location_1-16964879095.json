@@ -1,0 +1,250 @@
+{
+    "careHome": "Y",
+    "constituency": "Oldham West and Royton",
+    "currentRatings": {
+        "overall": {
+            "keyQuestionRatings": [
+                {
+                    "name": "Safe",
+                    "organisationId": "1-120641405",
+                    "rating": "Requires improvement",
+                    "reportDate": "2023-04-13",
+                    "reportLinkId": "54cfc3ff-a355-421c-9aaa-93332dc14717"
+                },
+                {
+                    "name": "Well-led",
+                    "organisationId": "1-120641405",
+                    "rating": "Requires improvement",
+                    "reportDate": "2023-04-13",
+                    "reportLinkId": "54cfc3ff-a355-421c-9aaa-93332dc14717"
+                },
+                {
+                    "name": "Caring",
+                    "organisationId": "1-120641405",
+                    "rating": "Good",
+                    "reportDate": "2020-11-28",
+                    "reportLinkId": "7627d634-41d1-406f-8ad8-0f0ffb657dbf"
+                },
+                {
+                    "name": "Responsive",
+                    "organisationId": "1-120641405",
+                    "rating": "Good",
+                    "reportDate": "2023-04-13",
+                    "reportLinkId": "54cfc3ff-a355-421c-9aaa-93332dc14717"
+                },
+                {
+                    "name": "Effective",
+                    "organisationId": "1-120641405",
+                    "rating": "Requires improvement",
+                    "reportDate": "2023-04-13",
+                    "reportLinkId": "54cfc3ff-a355-421c-9aaa-93332dc14717"
+                }
+            ],
+            "rating": "Requires improvement",
+            "reportDate": "2023-04-13",
+            "reportLinkId": "54cfc3ff-a355-421c-9aaa-93332dc14717"
+        },
+        "reportDate": "2023-04-13"
+    },
+    "dormancy": "N",
+    "gacServiceTypes": [
+        {
+            "description": "Care home service with nursing",
+            "name": "Nursing homes"
+        }
+    ],
+    "historicRatings": [
+        {
+            "organisationId": "1-120641405",
+            "overall": {
+                "keyQuestionRatings": [
+                    {
+                        "name": "Safe",
+                        "rating": "Requires improvement"
+                    },
+                    {
+                        "name": "Well-led",
+                        "rating": "Requires improvement"
+                    }
+                ],
+                "rating": "Requires improvement"
+            },
+            "reportDate": "2020-11-28",
+            "reportLinkId": "7627d634-41d1-406f-8ad8-0f0ffb657dbf"
+        },
+        {
+            "organisationId": "1-120641405",
+            "overall": {
+                "keyQuestionRatings": [
+                    {
+                        "name": "Safe",
+                        "rating": "Requires improvement"
+                    },
+                    {
+                        "name": "Well-led",
+                        "rating": "Requires improvement"
+                    },
+                    {
+                        "name": "Caring",
+                        "rating": "Requires improvement"
+                    },
+                    {
+                        "name": "Responsive",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Effective",
+                        "rating": "Good"
+                    }
+                ],
+                "rating": "Requires improvement"
+            },
+            "reportDate": "2019-04-17",
+            "reportLinkId": "d82a9c6b-9302-48e1-a20b-0058b47ccfad"
+        },
+        {
+            "organisationId": "1-120641405",
+            "overall": {
+                "keyQuestionRatings": [
+                    {
+                        "name": "Safe",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Well-led",
+                        "rating": "Requires improvement"
+                    },
+                    {
+                        "name": "Caring",
+                        "rating": "Requires improvement"
+                    },
+                    {
+                        "name": "Responsive",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Effective",
+                        "rating": "Good"
+                    }
+                ],
+                "rating": "Requires improvement"
+            },
+            "reportDate": "2018-02-24",
+            "reportLinkId": "add103db-e65c-4140-a226-ef1f6b7e789d"
+        },
+        {
+            "organisationId": "1-120641405",
+            "overall": {
+                "keyQuestionRatings": [
+                    {
+                        "name": "Safe",
+                        "rating": "Requires improvement"
+                    },
+                    {
+                        "name": "Well-led",
+                        "rating": "Requires improvement"
+                    },
+                    {
+                        "name": "Caring",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Responsive",
+                        "rating": "Requires improvement"
+                    },
+                    {
+                        "name": "Effective",
+                        "rating": "Requires improvement"
+                    }
+                ],
+                "rating": "Requires improvement"
+            },
+            "reportDate": "2016-03-12",
+            "reportLinkId": "fed1de46-d68b-4c24-a040-70be92724c1f"
+        }
+    ],
+    "inspectionAreas": [],
+    "inspectionCategories": [
+        {
+            "code": "S1",
+            "name": "Residential social care",
+            "primary": "true"
+        }
+    ],
+    "inspectionDirectorate": "Adult social care",
+    "lastReport": {
+        "publicationDate": "2023-04-13"
+    },
+    "localAuthority": "Oldham",
+    "locationId": "1-16964879095",
+    "locationTypes": [],
+    "mainPhoneNumber": "01616270027",
+    "name": "Chadderton Total Care",
+    "numberOfBeds": 146,
+    "odsCode": "VNR4P",
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.546411,
+    "onspdLongitude": -2.1505,
+    "organisationType": "Location",
+    "postalAddressCounty": "Lancashire",
+    "postalAddressLine1": "Middlewood Court",
+    "postalAddressLine2": "Chadderton",
+    "postalAddressTownCity": "Oldham",
+    "postalCode": "OL9 9SR",
+    "providerId": "1-16941266051",
+    "region": "North West",
+    "registrationDate": "2023-09-08",
+    "registrationStatus": "Registered",
+    "regulatedActivities": [
+        {
+            "code": "RA2",
+            "contacts": [
+                {
+                    "personFamilyName": "Handley",
+                    "personGivenName": "Sara Gabrielle",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Mrs"
+                }
+            ],
+            "name": "Accommodation for persons who require nursing or personal care"
+        },
+        {
+            "code": "RA5",
+            "contacts": [
+                {
+                    "personFamilyName": "Handley",
+                    "personGivenName": "Sara Gabrielle",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Mrs"
+                }
+            ],
+            "name": "Treatment of disease, disorder or injury"
+        }
+    ],
+    "relationships": [
+        {
+            "reason": "New Provider",
+            "relatedLocationId": "1-120641405",
+            "relatedLocationName": "Chadderton Total Care Unit Limited",
+            "type": "HSCA Predecessor"
+        }
+    ],
+    "specialisms": [
+        {
+            "name": "Caring for adults over 65 yrs"
+        },
+        {
+            "name": "Dementia"
+        }
+    ],
+    "type": "Social Care Org",
+    "uprn": "100012461636",
+    "website": "www.total-care.org.uk"
+}

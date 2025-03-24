@@ -1,0 +1,72 @@
+{
+    "careHome": "N",
+    "constituency": "Oldham East and Saddleworth",
+    "dormancy": "N",
+    "gacServiceTypes": [
+        {
+            "description": "Supported living service",
+            "name": "Supported living"
+        }
+    ],
+    "inspectionAreas": [],
+    "inspectionCategories": [
+        {
+            "code": "S2",
+            "name": "Community based adult social care services",
+            "primary": "true"
+        }
+    ],
+    "inspectionDirectorate": "Adult social care",
+    "localAuthority": "Oldham",
+    "locationId": "1-22095289119",
+    "locationTypes": [],
+    "mainPhoneNumber": "01617577505",
+    "name": "Greater Manchester Specialist Support Service",
+    "numberOfBeds": 0,
+    "odsCode": "VNXQ5",
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.5327641,
+    "onspdLongitude": -2.1103797,
+    "organisationType": "Location",
+    "postalAddressLine1": "Goddard Mews",
+    "postalAddressLine2": "100A Goddard Street",
+    "postalAddressTownCity": "Oldham",
+    "postalCode": "OL8 1LH",
+    "providerId": "1-592058383",
+    "region": "North West",
+    "registrationDate": "2025-03-13",
+    "registrationStatus": "Registered",
+    "regulatedActivities": [
+        {
+            "code": "RA1",
+            "contacts": [
+                {
+                    "personFamilyName": "Lewis",
+                    "personGivenName": "Lindsey Joanne",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Ms"
+                }
+            ],
+            "name": "Personal care"
+        }
+    ],
+    "relationships": [],
+    "specialisms": [
+        {
+            "name": "Caring for adults over 65 yrs"
+        },
+        {
+            "name": "Caring for adults under 65 yrs"
+        },
+        {
+            "name": "Learning disabilities"
+        }
+    ],
+    "type": "Social Care Org",
+    "uprn": "422000001119"
+}

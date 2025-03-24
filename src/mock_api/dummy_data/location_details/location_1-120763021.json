@@ -1,0 +1,107 @@
+{
+    "careHome": "Y",
+    "constituency": "Oldham East and Saddleworth",
+    "currentRatings": {
+        "overall": {
+            "keyQuestionRatings": [
+                {
+                    "name": "Safe",
+                    "rating": "No published rating"
+                },
+                {
+                    "name": "Well-led",
+                    "rating": "No published rating"
+                },
+                {
+                    "name": "Caring",
+                    "rating": "No published rating"
+                },
+                {
+                    "name": "Responsive",
+                    "rating": "No published rating"
+                },
+                {
+                    "name": "Effective",
+                    "rating": "No published rating"
+                }
+            ],
+            "rating": "No published rating"
+        }
+    },
+    "deregistrationDate": "2014-07-01",
+    "dormancy": "N",
+    "gacServiceTypes": [
+        {
+            "description": "Care home service with nursing",
+            "name": "Nursing homes"
+        }
+    ],
+    "inspectionAreas": [],
+    "inspectionCategories": [
+        {
+            "code": "S1",
+            "name": "Residential social care",
+            "primary": "true"
+        }
+    ],
+    "inspectionDirectorate": "Adult social care",
+    "lastInspection": {
+        "date": "2014-01-21"
+    },
+    "localAuthority": "Oldham",
+    "locationId": "1-120763021",
+    "locationTypes": [],
+    "mainPhoneNumber": "01616264433",
+    "name": "St Georges Nursing Home (Oldham) Limited",
+    "numberOfBeds": 77,
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.563731,
+    "onspdLongitude": -2.075315,
+    "organisationType": "Location",
+    "postalAddressCounty": "Lancashire",
+    "postalAddressLine1": "Northgate Lane",
+    "postalAddressTownCity": "Oldham",
+    "postalCode": "OL1 4RU",
+    "providerId": "1-101644104",
+    "region": "North West",
+    "registrationDate": "2010-12-17",
+    "registrationStatus": "Deregistered",
+    "regulatedActivities": [],
+    "relationships": [
+        {
+            "reason": "New Provider",
+            "relatedLocationId": "1-1442899058",
+            "relatedLocationName": "St George's Nursing Home (Oldham)",
+            "type": "HSCA Successor"
+        }
+    ],
+    "reports": [
+        {
+            "firstVisitDate": "2014-01-14",
+            "linkId": "0c12d4d0-fa5a-4b59-943b-c0b18fb11433",
+            "reportDate": "2014-03-04",
+            "reportUri": "/reports/0c12d4d0-fa5a-4b59-943b-c0b18fb11433?20200129163919"
+        },
+        {
+            "firstVisitDate": "2012-08-21",
+            "linkId": "c2f671dc-6f7d-401b-a0e1-5c7833e987d5",
+            "reportDate": "2012-09-17",
+            "reportUri": "/reports/c2f671dc-6f7d-401b-a0e1-5c7833e987d5?20200430120000"
+        }
+    ],
+    "specialisms": [
+        {
+            "name": "Caring for adults over 65 yrs"
+        },
+        {
+            "name": "Dementia"
+        },
+        {
+            "name": "Mental health conditions"
+        }
+    ],
+    "type": "Social Care Org"
+}

@@ -1,0 +1,529 @@
+{
+    "careHome": "N",
+    "constituency": "Oldham West and Royton",
+    "currentRatings": {
+        "overall": {
+            "keyQuestionRatings": [
+                {
+                    "name": "Safe",
+                    "rating": "Good",
+                    "reportDate": "2022-07-15",
+                    "reportLinkId": "d9978a2a-187a-45d1-942a-1b93fd3267e3"
+                },
+                {
+                    "name": "Well-led",
+                    "rating": "Good",
+                    "reportDate": "2022-07-15",
+                    "reportLinkId": "d9978a2a-187a-45d1-942a-1b93fd3267e3"
+                },
+                {
+                    "name": "Caring",
+                    "rating": "Good",
+                    "reportDate": "2021-05-31",
+                    "reportLinkId": "6fe8bf0c-e0d9-4b34-8c57-996417adf453"
+                },
+                {
+                    "name": "Responsive",
+                    "rating": "Requires improvement",
+                    "reportDate": "2024-02-22",
+                    "reportLinkId": "828178c4-8d58-4b1e-9c55-675af0cd560a"
+                },
+                {
+                    "name": "Effective",
+                    "rating": "Good",
+                    "reportDate": "2022-07-15",
+                    "reportLinkId": "d9978a2a-187a-45d1-942a-1b93fd3267e3"
+                }
+            ],
+            "rating": "Good",
+            "reportDate": "2024-02-22",
+            "reportLinkId": "828178c4-8d58-4b1e-9c55-675af0cd560a"
+        },
+        "reportDate": "2024-02-22"
+    },
+    "dormancy": "N",
+    "gacServiceTypes": [
+        {
+            "description": "Doctors consultation service",
+            "name": "Doctors/Gps"
+        }
+    ],
+    "historicRatings": [
+        {
+            "overall": {
+                "rating": "Good"
+            },
+            "reportDate": "2022-07-15",
+            "reportLinkId": "d9978a2a-187a-45d1-942a-1b93fd3267e3"
+        },
+        {
+            "overall": {
+                "keyQuestionRatings": [
+                    {
+                        "name": "Safe",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Well-led",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Responsive",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Effective",
+                        "rating": "Good"
+                    }
+                ],
+                "rating": "Good"
+            },
+            "reportDate": "2021-05-31",
+            "reportLinkId": "6fe8bf0c-e0d9-4b34-8c57-996417adf453",
+            "serviceRatings": [
+                {
+                    "name": "conditions",
+                    "rating": "Good"
+                },
+                {
+                    "name": "mothers",
+                    "rating": "Good"
+                },
+                {
+                    "name": "old",
+                    "rating": "Good"
+                },
+                {
+                    "name": "population",
+                    "rating": "Good"
+                },
+                {
+                    "name": "problems",
+                    "rating": "Good"
+                },
+                {
+                    "name": "vulnerable",
+                    "rating": "Good"
+                }
+            ]
+        },
+        {
+            "overall": {
+                "keyQuestionRatings": [
+                    {
+                        "name": "Safe",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Well-led",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Caring",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Responsive",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Effective",
+                        "rating": "Requires improvement"
+                    }
+                ],
+                "rating": "Good"
+            },
+            "reportDate": "2020-02-14",
+            "reportLinkId": "7dd71f8c-ac3d-41e3-bd4d-ebff38e12614",
+            "serviceRatings": [
+                {
+                    "name": "conditions",
+                    "rating": "Good"
+                },
+                {
+                    "name": "mothers",
+                    "rating": "Requires improvement"
+                },
+                {
+                    "name": "old",
+                    "rating": "Good"
+                },
+                {
+                    "name": "population",
+                    "rating": "Requires improvement"
+                },
+                {
+                    "name": "problems",
+                    "rating": "Good"
+                },
+                {
+                    "name": "vulnerable",
+                    "rating": "Good"
+                }
+            ]
+        },
+        {
+            "overall": {
+                "keyQuestionRatings": [
+                    {
+                        "name": "Safe",
+                        "rating": "Requires improvement"
+                    },
+                    {
+                        "name": "Well-led",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Caring",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Responsive",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Effective",
+                        "rating": "Good"
+                    }
+                ],
+                "rating": "Good"
+            },
+            "reportDate": "2019-01-03",
+            "reportLinkId": "d28f3ba6-997c-4386-969d-aca89924a139",
+            "serviceRatings": [
+                {
+                    "name": "conditions",
+                    "rating": "Good"
+                },
+                {
+                    "name": "mothers",
+                    "rating": "Good"
+                },
+                {
+                    "name": "old",
+                    "rating": "Good"
+                },
+                {
+                    "name": "population",
+                    "rating": "Good"
+                },
+                {
+                    "name": "problems",
+                    "rating": "Good"
+                },
+                {
+                    "name": "vulnerable",
+                    "rating": "Good"
+                }
+            ]
+        },
+        {
+            "overall": {
+                "keyQuestionRatings": [
+                    {
+                        "name": "Safe",
+                        "rating": "Inspected but not rated"
+                    },
+                    {
+                        "name": "Well-led",
+                        "rating": "Inspected but not rated"
+                    },
+                    {
+                        "name": "Caring",
+                        "rating": "Inspected but not rated"
+                    },
+                    {
+                        "name": "Responsive",
+                        "rating": "Inspected but not rated"
+                    },
+                    {
+                        "name": "Effective",
+                        "rating": "Inspected but not rated"
+                    }
+                ],
+                "rating": "Inspected but not rated"
+            },
+            "reportDate": "2018-08-28",
+            "reportLinkId": "3fdb63ff-7a6b-492e-9f5c-a2f1cca99c7c"
+        },
+        {
+            "overall": {
+                "keyQuestionRatings": [
+                    {
+                        "name": "Safe",
+                        "rating": "Inadequate"
+                    },
+                    {
+                        "name": "Well-led",
+                        "rating": "Inadequate"
+                    },
+                    {
+                        "name": "Caring",
+                        "rating": "Requires improvement"
+                    },
+                    {
+                        "name": "Responsive",
+                        "rating": "Requires improvement"
+                    },
+                    {
+                        "name": "Effective",
+                        "rating": "Requires improvement"
+                    }
+                ],
+                "rating": "Inadequate"
+            },
+            "reportDate": "2018-05-01",
+            "reportLinkId": "f8b2c917-8876-453b-950f-d45c1f93b67b",
+            "serviceRatings": [
+                {
+                    "name": "conditions",
+                    "rating": "Inadequate"
+                },
+                {
+                    "name": "mothers",
+                    "rating": "Inadequate"
+                },
+                {
+                    "name": "old",
+                    "rating": "Inadequate"
+                },
+                {
+                    "name": "population",
+                    "rating": "Inadequate"
+                },
+                {
+                    "name": "problems",
+                    "rating": "Inadequate"
+                },
+                {
+                    "name": "vulnerable",
+                    "rating": "Inadequate"
+                }
+            ]
+        },
+        {
+            "overall": {
+                "keyQuestionRatings": [
+                    {
+                        "name": "Safe",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Well-led",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Caring",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Responsive",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Effective",
+                        "rating": "Good"
+                    }
+                ],
+                "rating": "Good"
+            },
+            "reportDate": "2015-06-04",
+            "reportLinkId": "81c843bf-c45c-414b-a354-0aa729482b89",
+            "serviceRatings": [
+                {
+                    "name": "conditions",
+                    "rating": "Good"
+                },
+                {
+                    "name": "mothers",
+                    "rating": "Good"
+                },
+                {
+                    "name": "old",
+                    "rating": "Good"
+                },
+                {
+                    "name": "population",
+                    "rating": "Good"
+                },
+                {
+                    "name": "problems",
+                    "rating": "Good"
+                },
+                {
+                    "name": "vulnerable",
+                    "rating": "Good"
+                }
+            ]
+        }
+    ],
+    "inspectionAreas": [],
+    "inspectionCategories": [
+        {
+            "code": "P2",
+            "name": "GP Practices",
+            "primary": "true"
+        }
+    ],
+    "inspectionDirectorate": "Primary medical services",
+    "lastInspection": {
+        "date": "2024-01-25"
+    },
+    "lastReport": {
+        "publicationDate": "2024-02-22"
+    },
+    "localAuthority": "Oldham",
+    "locationId": "1-545872379",
+    "locationTypes": [
+        {
+            "type": "GP Practice"
+        }
+    ],
+    "mainPhoneNumber": "01616244716",
+    "name": "Oldham Medical Services",
+    "numberOfBeds": 0,
+    "odsCcgCode": "00Y",
+    "odsCcgName": "NHS Greater Manchester Icb - 00Y",
+    "odsCode": "P85012",
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.5258241,
+    "onspdLongitude": -2.1114328,
+    "organisationType": "Location",
+    "postalAddressCounty": "Lancashire",
+    "postalAddressLine1": "Langham House",
+    "postalAddressLine2": "368 Ashton Road",
+    "postalAddressTownCity": "Oldham",
+    "postalCode": "OL8 3HF",
+    "providerId": "1-199785334",
+    "region": "North West",
+    "registrationDate": "2013-04-01",
+    "registrationStatus": "Registered",
+    "regulatedActivities": [
+        {
+            "code": "RA11",
+            "contacts": [
+                {
+                    "personFamilyName": "Hasan",
+                    "personGivenName": "Aliaa Mahmood",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Dr"
+                }
+            ],
+            "name": "Maternity and midwifery services"
+        },
+        {
+            "code": "RA5",
+            "contacts": [
+                {
+                    "personFamilyName": "Hasan",
+                    "personGivenName": "Aliaa Mahmood",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Dr"
+                }
+            ],
+            "name": "Treatment of disease, disorder or injury"
+        },
+        {
+            "code": "RA7",
+            "contacts": [
+                {
+                    "personFamilyName": "Hasan",
+                    "personGivenName": "Aliaa Mahmood",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Dr"
+                }
+            ],
+            "name": "Surgical procedures"
+        },
+        {
+            "code": "RA8",
+            "contacts": [
+                {
+                    "personFamilyName": "Hasan",
+                    "personGivenName": "Aliaa Mahmood",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Dr"
+                }
+            ],
+            "name": "Diagnostic and screening procedures"
+        }
+    ],
+    "relationships": [],
+    "reports": [
+        {
+            "firstVisitDate": "2024-01-25",
+            "linkId": "828178c4-8d58-4b1e-9c55-675af0cd560a",
+            "reportDate": "2024-02-22",
+            "reportType": "Location",
+            "reportUri": "/reports/828178c4-8d58-4b1e-9c55-675af0cd560a?20240222080041"
+        },
+        {
+            "firstVisitDate": "2022-06-21",
+            "linkId": "d9978a2a-187a-45d1-942a-1b93fd3267e3",
+            "reportDate": "2022-07-15",
+            "reportType": "Location",
+            "reportUri": "/reports/d9978a2a-187a-45d1-942a-1b93fd3267e3?20220715143839"
+        },
+        {
+            "firstVisitDate": "2021-05-28",
+            "linkId": "6fe8bf0c-e0d9-4b34-8c57-996417adf453",
+            "reportDate": "2021-05-31",
+            "reportType": "Location",
+            "reportUri": "/reports/6fe8bf0c-e0d9-4b34-8c57-996417adf453?20210531070048"
+        },
+        {
+            "firstVisitDate": "2019-12-18",
+            "linkId": "7dd71f8c-ac3d-41e3-bd4d-ebff38e12614",
+            "reportDate": "2020-02-14",
+            "reportType": "Location",
+            "reportUri": "/reports/7dd71f8c-ac3d-41e3-bd4d-ebff38e12614?20210114103256"
+        },
+        {
+            "firstVisitDate": "2018-11-09",
+            "linkId": "d28f3ba6-997c-4386-969d-aca89924a139",
+            "reportDate": "2019-01-03",
+            "reportType": "Location",
+            "reportUri": "/reports/d28f3ba6-997c-4386-969d-aca89924a139?20210116192642"
+        },
+        {
+            "firstVisitDate": "2018-07-27",
+            "linkId": "3fdb63ff-7a6b-492e-9f5c-a2f1cca99c7c",
+            "reportDate": "2018-08-28",
+            "reportType": "Location",
+            "reportUri": "/reports/3fdb63ff-7a6b-492e-9f5c-a2f1cca99c7c?20210116232840"
+        },
+        {
+            "firstVisitDate": "2018-02-16",
+            "linkId": "f8b2c917-8876-453b-950f-d45c1f93b67b",
+            "reportDate": "2018-05-01",
+            "reportType": "Location",
+            "reportUri": "/reports/f8b2c917-8876-453b-950f-d45c1f93b67b?20210117194415"
+        },
+        {
+            "firstVisitDate": "2015-03-05",
+            "linkId": "81c843bf-c45c-414b-a354-0aa729482b89",
+            "reportDate": "2015-06-04",
+            "reportType": "Location",
+            "reportUri": "/reports/81c843bf-c45c-414b-a354-0aa729482b89?20210129015022"
+        }
+    ],
+    "specialisms": [
+        {
+            "name": "Services for everyone"
+        }
+    ],
+    "type": "Primary Medical Services",
+    "uprn": "422000126618",
+    "website": "www.oldhammedicalservices.co.uk"
+}

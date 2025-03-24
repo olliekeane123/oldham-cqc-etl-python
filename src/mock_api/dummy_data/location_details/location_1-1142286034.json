@@ -1,0 +1,106 @@
+{
+    "alsoKnownAs": "mydentist",
+    "brandId": "BD230",
+    "brandName": "BRAND IDH Dental",
+    "careHome": "N",
+    "constituency": "Oldham West and Royton",
+    "dormancy": "N",
+    "gacServiceTypes": [
+        {
+            "description": "Dental service",
+            "name": "Dentist"
+        }
+    ],
+    "inspectionAreas": [],
+    "inspectionCategories": [
+        {
+            "code": "P1",
+            "name": "Dentists",
+            "primary": "true"
+        }
+    ],
+    "inspectionDirectorate": "Primary medical services",
+    "localAuthority": "Oldham",
+    "locationId": "1-1142286034",
+    "locationTypes": [],
+    "mainPhoneNumber": "01616811022",
+    "name": "Mydentist - Manchester Road - Oldham",
+    "numberOfBeds": 0,
+    "odsCode": "V00171",
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.520747,
+    "onspdLongitude": -2.1438017,
+    "organisationType": "Location",
+    "postalAddressCounty": "Lancashire",
+    "postalAddressLine1": "580 Manchester Road",
+    "postalAddressLine2": "Hollinwood",
+    "postalAddressTownCity": "Oldham",
+    "postalCode": "OL9 7LS",
+    "providerId": "1-1099636871",
+    "region": "North West",
+    "registrationDate": "2014-01-14",
+    "registrationStatus": "Registered",
+    "regulatedActivities": [
+        {
+            "code": "RA5",
+            "contacts": [
+                {
+                    "personFamilyName": "Grayson",
+                    "personGivenName": "Sarah Marie",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Mrs"
+                }
+            ],
+            "name": "Treatment of disease, disorder or injury"
+        },
+        {
+            "code": "RA7",
+            "contacts": [
+                {
+                    "personFamilyName": "Grayson",
+                    "personGivenName": "Sarah Marie",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Mrs"
+                }
+            ],
+            "name": "Surgical procedures"
+        },
+        {
+            "code": "RA8",
+            "contacts": [
+                {
+                    "personFamilyName": "Grayson",
+                    "personGivenName": "Sarah Marie",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Mrs"
+                }
+            ],
+            "name": "Diagnostic and screening procedures"
+        }
+    ],
+    "relationships": [
+        {
+            "reason": "Partnership Change",
+            "relatedLocationId": "1-469937787",
+            "relatedLocationName": "Hollinwood Dental Practice",
+            "type": "HSCA Predecessor"
+        }
+    ],
+    "specialisms": [
+        {
+            "name": "Services for everyone"
+        }
+    ],
+    "type": "Primary Dental Care",
+    "uprn": "422000045486",
+    "website": "www.mydentist.co.uk"
+}

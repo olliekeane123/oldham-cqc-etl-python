@@ -1,0 +1,189 @@
+{
+    "careHome": "N",
+    "constituency": "Oldham West and Royton",
+    "currentRatings": {
+        "overall": {
+            "keyQuestionRatings": [
+                {
+                    "name": "Safe",
+                    "rating": "Good",
+                    "reportDate": "2016-12-22",
+                    "reportLinkId": "bc002bda-f677-40de-a707-4804251bc4b8"
+                },
+                {
+                    "name": "Well-led",
+                    "rating": "Good",
+                    "reportDate": "2016-12-22",
+                    "reportLinkId": "bc002bda-f677-40de-a707-4804251bc4b8"
+                },
+                {
+                    "name": "Caring",
+                    "rating": "Good",
+                    "reportDate": "2016-12-22",
+                    "reportLinkId": "bc002bda-f677-40de-a707-4804251bc4b8"
+                },
+                {
+                    "name": "Responsive",
+                    "rating": "Good",
+                    "reportDate": "2016-12-22",
+                    "reportLinkId": "bc002bda-f677-40de-a707-4804251bc4b8"
+                },
+                {
+                    "name": "Effective",
+                    "rating": "Good",
+                    "reportDate": "2016-12-22",
+                    "reportLinkId": "bc002bda-f677-40de-a707-4804251bc4b8"
+                }
+            ],
+            "rating": "Good",
+            "reportDate": "2016-12-22",
+            "reportLinkId": "bc002bda-f677-40de-a707-4804251bc4b8"
+        },
+        "reportDate": "2016-12-22"
+    },
+    "dormancy": "N",
+    "gacServiceTypes": [
+        {
+            "description": "Hospice services",
+            "name": "Hospice"
+        },
+        {
+            "description": "Hospice services at home",
+            "name": "Home hospice care"
+        }
+    ],
+    "inspectionAreas": [],
+    "inspectionCategories": [
+        {
+            "code": "H12",
+            "name": "Hospice services",
+            "primary": "true"
+        }
+    ],
+    "inspectionDirectorate": "Hospitals",
+    "lastInspection": {
+        "date": "2016-10-27"
+    },
+    "lastReport": {
+        "publicationDate": "2016-12-22"
+    },
+    "localAuthority": "Oldham",
+    "locationId": "1-123327578",
+    "locationTypes": [],
+    "mainPhoneNumber": "01616242727",
+    "name": "Dr Kershaw's Hospice",
+    "numberOfBeds": 12,
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.5609065,
+    "onspdLongitude": -2.1123873,
+    "organisationType": "Location",
+    "postalAddressCounty": "Greater Manchester",
+    "postalAddressLine1": "Turf Lane",
+    "postalAddressLine2": "Royton",
+    "postalAddressTownCity": "Oldham",
+    "postalCode": "OL2 6EU",
+    "providerId": "1-101728663",
+    "region": "North West",
+    "registrationDate": "2010-12-31",
+    "registrationStatus": "Registered",
+    "regulatedActivities": [
+        {
+            "code": "RA1",
+            "contacts": [
+                {
+                    "personFamilyName": "Doherty",
+                    "personGivenName": "Adele Rose",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Ms"
+                }
+            ],
+            "name": "Personal care"
+        },
+        {
+            "code": "RA5",
+            "contacts": [
+                {
+                    "personFamilyName": "Doherty",
+                    "personGivenName": "Adele Rose",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Ms"
+                }
+            ],
+            "name": "Treatment of disease, disorder or injury"
+        },
+        {
+            "code": "RA7",
+            "contacts": [
+                {
+                    "personFamilyName": "Doherty",
+                    "personGivenName": "Adele Rose",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Ms"
+                }
+            ],
+            "name": "Surgical procedures"
+        },
+        {
+            "code": "RA8",
+            "contacts": [
+                {
+                    "personFamilyName": "Doherty",
+                    "personGivenName": "Adele Rose",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Ms"
+                }
+            ],
+            "name": "Diagnostic and screening procedures"
+        }
+    ],
+    "relationships": [],
+    "reports": [
+        {
+            "firstVisitDate": "2016-10-27",
+            "linkId": "bc002bda-f677-40de-a707-4804251bc4b8",
+            "reportDate": "2016-12-22",
+            "reportType": "Location",
+            "reportUri": "/reports/bc002bda-f677-40de-a707-4804251bc4b8?20200129163919"
+        },
+        {
+            "firstVisitDate": "2013-08-15",
+            "linkId": "40cc7c05-3d5b-48d5-8620-7ee0a883114c",
+            "reportDate": "2013-08-24",
+            "reportUri": "/reports/40cc7c05-3d5b-48d5-8620-7ee0a883114c?20200129163919"
+        },
+        {
+            "firstVisitDate": "2012-12-03",
+            "linkId": "564b4b07-0f1c-4471-ab5e-b7ab0a826533",
+            "reportDate": "2012-12-20",
+            "reportUri": "/reports/564b4b07-0f1c-4471-ab5e-b7ab0a826533?20200129163919"
+        },
+        {
+            "firstVisitDate": "2012-03-09",
+            "linkId": "5a74fcba-2c9d-4562-90e0-5a4675eaaf13",
+            "reportDate": "2012-04-20",
+            "reportUri": "/reports/5a74fcba-2c9d-4562-90e0-5a4675eaaf13?20200430120000"
+        }
+    ],
+    "specialisms": [
+        {
+            "name": "Caring for adults over 65 yrs"
+        },
+        {
+            "name": "Caring for adults under 65 yrs"
+        }
+    ],
+    "type": "Independent Healthcare Org",
+    "uprn": "422000054678",
+    "website": "www.drkershawshospice.org.uk"
+}

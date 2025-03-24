@@ -1,0 +1,196 @@
+{
+    "alsoKnownAs": "Danson Family Practice",
+    "careHome": "N",
+    "constituency": "Oldham West and Royton",
+    "currentRatings": {
+        "overall": {
+            "keyQuestionRatings": [
+                {
+                    "name": "Safe",
+                    "rating": "Good",
+                    "reportDate": "2018-10-30",
+                    "reportLinkId": "37d10c1b-2df1-4250-b4cb-02cac5b29fa6"
+                },
+                {
+                    "name": "Well-led",
+                    "rating": "Good",
+                    "reportDate": "2018-10-30",
+                    "reportLinkId": "37d10c1b-2df1-4250-b4cb-02cac5b29fa6"
+                },
+                {
+                    "name": "Caring",
+                    "rating": "Good",
+                    "reportDate": "2018-10-30",
+                    "reportLinkId": "37d10c1b-2df1-4250-b4cb-02cac5b29fa6"
+                },
+                {
+                    "name": "Responsive",
+                    "rating": "Good",
+                    "reportDate": "2018-10-30",
+                    "reportLinkId": "37d10c1b-2df1-4250-b4cb-02cac5b29fa6"
+                },
+                {
+                    "name": "Effective",
+                    "rating": "Good",
+                    "reportDate": "2018-10-30",
+                    "reportLinkId": "37d10c1b-2df1-4250-b4cb-02cac5b29fa6"
+                }
+            ],
+            "rating": "Good",
+            "reportDate": "2018-10-30",
+            "reportLinkId": "37d10c1b-2df1-4250-b4cb-02cac5b29fa6"
+        },
+        "reportDate": "2018-10-30",
+        "serviceRatings": [
+            {
+                "name": "conditions",
+                "rating": "Good",
+                "reportDate": "2018-10-30",
+                "reportLinkId": "37d10c1b-2df1-4250-b4cb-02cac5b29fa6"
+            },
+            {
+                "name": "mothers",
+                "rating": "Good",
+                "reportDate": "2018-10-30",
+                "reportLinkId": "37d10c1b-2df1-4250-b4cb-02cac5b29fa6"
+            },
+            {
+                "name": "old",
+                "rating": "Good",
+                "reportDate": "2018-10-30",
+                "reportLinkId": "37d10c1b-2df1-4250-b4cb-02cac5b29fa6"
+            },
+            {
+                "name": "population",
+                "rating": "Good",
+                "reportDate": "2018-10-30",
+                "reportLinkId": "37d10c1b-2df1-4250-b4cb-02cac5b29fa6"
+            },
+            {
+                "name": "problems",
+                "rating": "Good",
+                "reportDate": "2018-10-30",
+                "reportLinkId": "37d10c1b-2df1-4250-b4cb-02cac5b29fa6"
+            },
+            {
+                "name": "vulnerable",
+                "rating": "Good",
+                "reportDate": "2018-10-30",
+                "reportLinkId": "37d10c1b-2df1-4250-b4cb-02cac5b29fa6"
+            }
+        ]
+    },
+    "deregistrationDate": "2020-06-23",
+    "dormancy": "N",
+    "gacServiceTypes": [
+        {
+            "description": "Doctors consultation service",
+            "name": "Doctors/Gps"
+        }
+    ],
+    "inspectionAreas": [
+        {
+            "inspectionAreaId": "conditions",
+            "inspectionAreaName": "People with long term conditions",
+            "status": "Active (Rated)"
+        },
+        {
+            "inspectionAreaId": "mothers",
+            "inspectionAreaName": "Families, children and young people",
+            "status": "Active (Rated)"
+        },
+        {
+            "inspectionAreaId": "old",
+            "inspectionAreaName": "Older people",
+            "status": "Active (Rated)"
+        },
+        {
+            "inspectionAreaId": "population",
+            "inspectionAreaName": "Working age people (including those recently retired and students)",
+            "status": "Active (Rated)"
+        },
+        {
+            "inspectionAreaId": "problems",
+            "inspectionAreaName": "People experiencing poor mental health (including people with dementia)",
+            "status": "Active (Rated)"
+        },
+        {
+            "inspectionAreaId": "vulnerable",
+            "inspectionAreaName": "People whose circumstances may make them vulnerable",
+            "status": "Active (Rated)"
+        }
+    ],
+    "inspectionCategories": [
+        {
+            "code": "P2",
+            "name": "GP Practices",
+            "primary": "true"
+        }
+    ],
+    "inspectionDirectorate": "Primary medical services",
+    "lastInspection": {
+        "date": "2018-09-19"
+    },
+    "lastReport": {
+        "publicationDate": "2018-10-30"
+    },
+    "localAuthority": "Oldham",
+    "locationId": "1-495470481",
+    "locationTypes": [
+        {
+            "type": "GP Practice"
+        }
+    ],
+    "mainPhoneNumber": "01614841484",
+    "name": "Dr John Danson",
+    "numberOfBeds": 0,
+    "odsCcgCode": "00Y",
+    "odsCcgName": "NHS Greater Manchester Icb - 00Y",
+    "odsCode": "P85018",
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.53731,
+    "onspdLongitude": -2.130534,
+    "organisationType": "Location",
+    "postalAddressCounty": "Lancashire",
+    "postalAddressLine1": "Featherstall Road South",
+    "postalAddressTownCity": "Oldham",
+    "postalCode": "OL9 7AY",
+    "providerId": "1-199785393",
+    "region": "North West",
+    "registrationDate": "2013-04-01",
+    "registrationStatus": "Deregistered",
+    "regulatedActivities": [],
+    "relationships": [
+        {
+            "reason": "New Provider",
+            "relatedLocationId": "1-8969943052",
+            "relatedLocationName": "Danson Family Practice",
+            "type": "HSCA Successor"
+        }
+    ],
+    "reports": [
+        {
+            "firstVisitDate": "2018-09-19",
+            "linkId": "37d10c1b-2df1-4250-b4cb-02cac5b29fa6",
+            "reportDate": "2018-10-30",
+            "reportType": "Location",
+            "reportUri": "/reports/37d10c1b-2df1-4250-b4cb-02cac5b29fa6?20210117121650"
+        },
+        {
+            "firstVisitDate": "2014-01-07",
+            "linkId": "738721be-314e-4cb3-9592-532c7a1b064b",
+            "reportDate": "2014-02-05",
+            "reportUri": "/reports/738721be-314e-4cb3-9592-532c7a1b064b?20200129163919"
+        }
+    ],
+    "specialisms": [
+        {
+            "name": "Services for everyone"
+        }
+    ],
+    "type": "Primary Medical Services",
+    "website": "www.dansonfamilypractice.co.uk"
+}

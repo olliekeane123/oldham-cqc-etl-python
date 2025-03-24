@@ -1,0 +1,255 @@
+{
+    "careHome": "N",
+    "constituency": "Oldham West and Royton",
+    "currentRatings": {
+        "overall": {
+            "keyQuestionRatings": [
+                {
+                    "name": "Safe",
+                    "rating": "Requires improvement",
+                    "reportDate": "2016-09-15",
+                    "reportLinkId": "32c53a8f-aed9-436f-a260-4ec4565af9c9"
+                },
+                {
+                    "name": "Well-led",
+                    "rating": "Good",
+                    "reportDate": "2016-09-15",
+                    "reportLinkId": "32c53a8f-aed9-436f-a260-4ec4565af9c9"
+                },
+                {
+                    "name": "Caring",
+                    "rating": "Requires improvement",
+                    "reportDate": "2016-09-15",
+                    "reportLinkId": "32c53a8f-aed9-436f-a260-4ec4565af9c9"
+                },
+                {
+                    "name": "Responsive",
+                    "rating": "Good",
+                    "reportDate": "2016-09-15",
+                    "reportLinkId": "32c53a8f-aed9-436f-a260-4ec4565af9c9"
+                },
+                {
+                    "name": "Effective",
+                    "rating": "Requires improvement",
+                    "reportDate": "2016-09-15",
+                    "reportLinkId": "32c53a8f-aed9-436f-a260-4ec4565af9c9"
+                }
+            ],
+            "rating": "Requires improvement",
+            "reportDate": "2016-09-15",
+            "reportLinkId": "32c53a8f-aed9-436f-a260-4ec4565af9c9"
+        },
+        "reportDate": "2016-09-15",
+        "serviceRatings": [
+            {
+                "name": "conditions",
+                "rating": "Requires improvement",
+                "reportDate": "2016-09-15",
+                "reportLinkId": "32c53a8f-aed9-436f-a260-4ec4565af9c9"
+            },
+            {
+                "name": "mothers",
+                "rating": "Requires improvement",
+                "reportDate": "2016-09-15",
+                "reportLinkId": "32c53a8f-aed9-436f-a260-4ec4565af9c9"
+            },
+            {
+                "name": "old",
+                "rating": "Requires improvement",
+                "reportDate": "2016-09-15",
+                "reportLinkId": "32c53a8f-aed9-436f-a260-4ec4565af9c9"
+            },
+            {
+                "name": "population",
+                "rating": "Requires improvement",
+                "reportDate": "2016-09-15",
+                "reportLinkId": "32c53a8f-aed9-436f-a260-4ec4565af9c9"
+            },
+            {
+                "name": "problems",
+                "rating": "Requires improvement",
+                "reportDate": "2016-09-15",
+                "reportLinkId": "32c53a8f-aed9-436f-a260-4ec4565af9c9"
+            },
+            {
+                "name": "vulnerable",
+                "rating": "Requires improvement",
+                "reportDate": "2016-09-15",
+                "reportLinkId": "32c53a8f-aed9-436f-a260-4ec4565af9c9"
+            }
+        ]
+    },
+    "deregistrationDate": "2018-04-06",
+    "dormancy": "N",
+    "dormancyEndDate": "2021-09-22",
+    "gacServiceTypes": [
+        {
+            "description": "Doctors consultation service",
+            "name": "Doctors/Gps"
+        }
+    ],
+    "historicRatings": [
+        {
+            "overall": {
+                "keyQuestionRatings": [
+                    {
+                        "name": "Safe",
+                        "rating": "Inadequate"
+                    },
+                    {
+                        "name": "Well-led",
+                        "rating": "Inadequate"
+                    },
+                    {
+                        "name": "Caring",
+                        "rating": "Requires improvement"
+                    },
+                    {
+                        "name": "Responsive",
+                        "rating": "Inadequate"
+                    },
+                    {
+                        "name": "Effective",
+                        "rating": "Inadequate"
+                    }
+                ],
+                "rating": "Inadequate"
+            },
+            "reportDate": "2016-02-11",
+            "reportLinkId": "ac723f3e-a631-40ec-97a5-70edc9632138",
+            "serviceRatings": [
+                {
+                    "name": "conditions",
+                    "rating": "Inadequate"
+                },
+                {
+                    "name": "mothers",
+                    "rating": "Inadequate"
+                },
+                {
+                    "name": "old",
+                    "rating": "Inadequate"
+                },
+                {
+                    "name": "population",
+                    "rating": "Inadequate"
+                },
+                {
+                    "name": "problems",
+                    "rating": "Inadequate"
+                },
+                {
+                    "name": "vulnerable",
+                    "rating": "Inadequate"
+                }
+            ]
+        }
+    ],
+    "inspectionAreas": [
+        {
+            "inspectionAreaId": "conditions",
+            "inspectionAreaName": "People with long term conditions",
+            "status": "Active (Rated)"
+        },
+        {
+            "inspectionAreaId": "mothers",
+            "inspectionAreaName": "Families, children and young people",
+            "status": "Active (Rated)"
+        },
+        {
+            "inspectionAreaId": "old",
+            "inspectionAreaName": "Older people",
+            "status": "Active (Rated)"
+        },
+        {
+            "inspectionAreaId": "population",
+            "inspectionAreaName": "Working age people (including those recently retired and students)",
+            "status": "Active (Rated)"
+        },
+        {
+            "inspectionAreaId": "problems",
+            "inspectionAreaName": "People experiencing poor mental health (including people with dementia)",
+            "status": "Active (Rated)"
+        },
+        {
+            "inspectionAreaId": "vulnerable",
+            "inspectionAreaName": "People whose circumstances may make them vulnerable",
+            "status": "Active (Rated)"
+        }
+    ],
+    "inspectionCategories": [
+        {
+            "code": "P2",
+            "name": "GP Practices",
+            "primary": "true"
+        }
+    ],
+    "inspectionDirectorate": "Primary medical services",
+    "lastInspection": {
+        "date": "2016-08-05"
+    },
+    "lastReport": {
+        "publicationDate": "2016-09-15"
+    },
+    "localAuthority": "Oldham",
+    "locationId": "1-540790252",
+    "locationTypes": [
+        {
+            "type": "GP Practice"
+        }
+    ],
+    "mainPhoneNumber": "01616213535",
+    "name": "Dr Mohua Chowdhury",
+    "numberOfBeds": 0,
+    "odsCcgCode": "00Y",
+    "odsCcgName": "NHS Greater Manchester Icb - 00Y",
+    "odsCode": "P85003",
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.543824,
+    "onspdLongitude": -2.116945,
+    "organisationType": "Location",
+    "postalAddressCounty": "Lancashire",
+    "postalAddressLine1": "Integrated Care Centre",
+    "postalAddressLine2": "New Radcliffe Street",
+    "postalAddressTownCity": "Oldham",
+    "postalCode": "OL1 1NL",
+    "providerId": "1-199785246",
+    "region": "North West",
+    "registrationDate": "2013-04-01",
+    "registrationStatus": "Deregistered",
+    "regulatedActivities": [],
+    "relationships": [
+        {
+            "reason": "Legal Entity Change",
+            "relatedLocationId": "1-4982724971",
+            "relatedLocationName": "The Chowdhury Practice",
+            "type": "HSCA Successor"
+        }
+    ],
+    "reports": [
+        {
+            "firstVisitDate": "2016-08-05",
+            "linkId": "32c53a8f-aed9-436f-a260-4ec4565af9c9",
+            "reportDate": "2016-09-15",
+            "reportType": "Location",
+            "reportUri": "/reports/32c53a8f-aed9-436f-a260-4ec4565af9c9?20210122202026"
+        },
+        {
+            "firstVisitDate": "2015-11-19",
+            "linkId": "ac723f3e-a631-40ec-97a5-70edc9632138",
+            "reportDate": "2016-02-11",
+            "reportType": "Location",
+            "reportUri": "/reports/ac723f3e-a631-40ec-97a5-70edc9632138?20210124081613"
+        }
+    ],
+    "specialisms": [
+        {
+            "name": "Services for everyone"
+        }
+    ],
+    "type": "Primary Medical Services",
+    "website": "www.surgeriesonline.com/chowdhury"
+}

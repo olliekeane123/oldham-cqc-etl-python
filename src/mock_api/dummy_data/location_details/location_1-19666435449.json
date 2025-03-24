@@ -1,0 +1,155 @@
+{
+    "brandId": "BD214",
+    "brandName": "BRAND Cera Care",
+    "careHome": "N",
+    "constituency": "Oldham West and Royton",
+    "currentRatings": {
+        "overall": {
+            "keyQuestionRatings": [
+                {
+                    "name": "Safe",
+                    "organisationId": "1-9075180925",
+                    "rating": "Requires improvement",
+                    "reportDate": "2023-06-06",
+                    "reportLinkId": "90699028-f579-42d2-b92a-100e885a8cae"
+                },
+                {
+                    "name": "Well-led",
+                    "organisationId": "1-9075180925",
+                    "rating": "Requires improvement",
+                    "reportDate": "2023-06-06",
+                    "reportLinkId": "90699028-f579-42d2-b92a-100e885a8cae"
+                },
+                {
+                    "name": "Caring",
+                    "organisationId": "1-9075180925",
+                    "rating": "Good",
+                    "reportDate": "2021-05-12",
+                    "reportLinkId": "357f9d1e-e696-44b0-9c56-6fba5490e28d"
+                },
+                {
+                    "name": "Responsive",
+                    "organisationId": "1-9075180925",
+                    "rating": "Good",
+                    "reportDate": "2021-05-12",
+                    "reportLinkId": "357f9d1e-e696-44b0-9c56-6fba5490e28d"
+                },
+                {
+                    "name": "Effective",
+                    "organisationId": "1-9075180925",
+                    "rating": "Good",
+                    "reportDate": "2021-05-12",
+                    "reportLinkId": "357f9d1e-e696-44b0-9c56-6fba5490e28d"
+                }
+            ],
+            "rating": "Requires improvement",
+            "reportDate": "2023-06-06",
+            "reportLinkId": "90699028-f579-42d2-b92a-100e885a8cae"
+        },
+        "reportDate": "2023-06-06"
+    },
+    "dormancy": "N",
+    "gacServiceTypes": [
+        {
+            "description": "Domiciliary care service",
+            "name": "Homecare agencies"
+        }
+    ],
+    "historicRatings": [
+        {
+            "organisationId": "1-9075180925",
+            "overall": {
+                "keyQuestionRatings": [
+                    {
+                        "name": "Safe",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Well-led",
+                        "rating": "Good"
+                    }
+                ],
+                "rating": "Good"
+            },
+            "reportDate": "2021-05-12",
+            "reportLinkId": "357f9d1e-e696-44b0-9c56-6fba5490e28d"
+        }
+    ],
+    "inspectionAreas": [],
+    "inspectionCategories": [
+        {
+            "code": "S2",
+            "name": "Community based adult social care services",
+            "primary": "true"
+        }
+    ],
+    "inspectionDirectorate": "Adult social care",
+    "lastReport": {
+        "publicationDate": "2023-06-06"
+    },
+    "localAuthority": "Oldham",
+    "locationId": "1-19666435449",
+    "locationTypes": [],
+    "mainPhoneNumber": "01615051970",
+    "name": "Apex Prime Care - Oldham",
+    "numberOfBeds": 0,
+    "odsCode": "VNW6Y",
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.5604114,
+    "onspdLongitude": -2.111191,
+    "organisationType": "Location",
+    "postalAddressLine1": "22b Salmon Fields",
+    "postalAddressLine2": "Royton",
+    "postalAddressTownCity": "Oldham",
+    "postalCode": "OL2 6HT",
+    "providerId": "1-101644687",
+    "region": "North West",
+    "registrationDate": "2024-09-19",
+    "registrationStatus": "Registered",
+    "regulatedActivities": [
+        {
+            "code": "RA1",
+            "contacts": [
+                {
+                    "personFamilyName": "Kenyon",
+                    "personGivenName": "Michelle Anne Brogan",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Mrs"
+                }
+            ],
+            "name": "Personal care"
+        }
+    ],
+    "relationships": [
+        {
+            "reason": "Location Move",
+            "relatedLocationId": "1-9075180925",
+            "relatedLocationName": "Nobilis Care Oldham",
+            "type": "HSCA Predecessor"
+        }
+    ],
+    "specialisms": [
+        {
+            "name": "Caring for adults over 65 yrs"
+        },
+        {
+            "name": "Caring for adults under 65 yrs"
+        },
+        {
+            "name": "Dementia"
+        },
+        {
+            "name": "Mental health conditions"
+        },
+        {
+            "name": "Sensory impairment"
+        }
+    ],
+    "type": "Social Care Org",
+    "uprn": "422000126638"
+}

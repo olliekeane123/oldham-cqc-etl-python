@@ -1,0 +1,45 @@
+{
+    "careHome": "N",
+    "constituency": "Oldham East and Saddleworth",
+    "deregistrationDate": "2013-12-16",
+    "dormancy": "N",
+    "gacServiceTypes": [
+        {
+            "description": "Domiciliary care service",
+            "name": "Homecare agencies"
+        }
+    ],
+    "inspectionAreas": [],
+    "inspectionDirectorate": "Unspecified",
+    "localAuthority": "Oldham",
+    "locationId": "1-427610841",
+    "locationTypes": [],
+    "mainPhoneNumber": "01457810341",
+    "name": "Hennessy Fletcher Support Specialists",
+    "numberOfBeds": 0,
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.564965,
+    "onspdLongitude": -2.019557,
+    "organisationType": "Location",
+    "postalAddressCounty": "Lancashire",
+    "postalAddressLine1": "Unit 15 Saddleworth Business Centre",
+    "postalAddressLine2": "Huddersfield Road, Delph",
+    "postalAddressTownCity": "Oldham",
+    "postalCode": "OL3 5DF",
+    "providerId": "1-141810350",
+    "region": "North West",
+    "registrationDate": "2012-05-28",
+    "registrationStatus": "Deregistered",
+    "regulatedActivities": [],
+    "relationships": [],
+    "specialisms": [
+        {
+            "name": "Learning disabilities"
+        }
+    ],
+    "type": "Social Care Org",
+    "website": "www.hfss.org.uk"
+}

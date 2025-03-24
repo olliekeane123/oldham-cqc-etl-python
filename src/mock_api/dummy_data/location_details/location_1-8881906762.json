@@ -1,0 +1,183 @@
+{
+    "careHome": "N",
+    "constituency": "Oldham East and Saddleworth",
+    "currentRatings": {
+        "overall": {
+            "keyQuestionRatings": [
+                {
+                    "name": "Safe",
+                    "rating": "Good",
+                    "reportDate": "2022-06-09",
+                    "reportLinkId": "e79442ac-17d8-4ddc-b8c3-4b591d1d94d1"
+                },
+                {
+                    "name": "Well-led",
+                    "rating": "Outstanding",
+                    "reportDate": "2022-06-09",
+                    "reportLinkId": "e79442ac-17d8-4ddc-b8c3-4b591d1d94d1"
+                },
+                {
+                    "name": "Caring",
+                    "rating": "Good",
+                    "reportDate": "2022-06-09",
+                    "reportLinkId": "e79442ac-17d8-4ddc-b8c3-4b591d1d94d1"
+                },
+                {
+                    "name": "Responsive",
+                    "rating": "Good",
+                    "reportDate": "2022-06-09",
+                    "reportLinkId": "e79442ac-17d8-4ddc-b8c3-4b591d1d94d1"
+                },
+                {
+                    "name": "Effective",
+                    "rating": "Good",
+                    "reportDate": "2022-06-09",
+                    "reportLinkId": "e79442ac-17d8-4ddc-b8c3-4b591d1d94d1"
+                }
+            ],
+            "rating": "Good",
+            "reportDate": "2022-06-09",
+            "reportLinkId": "e79442ac-17d8-4ddc-b8c3-4b591d1d94d1"
+        },
+        "reportDate": "2022-06-09"
+    },
+    "dormancy": "N",
+    "gacServiceTypes": [
+        {
+            "description": "Doctors consultation service",
+            "name": "Doctors/Gps"
+        }
+    ],
+    "inspectionAreas": [],
+    "inspectionCategories": [
+        {
+            "code": "P2",
+            "name": "GP Practices",
+            "primary": "true"
+        }
+    ],
+    "inspectionDirectorate": "Primary medical services",
+    "lastInspection": {
+        "date": "2022-04-08"
+    },
+    "lastReport": {
+        "publicationDate": "2022-06-09"
+    },
+    "localAuthority": "Oldham",
+    "locationId": "1-8881906762",
+    "locationTypes": [
+        {
+            "type": "GP Practice"
+        }
+    ],
+    "mainPhoneNumber": "01613572020",
+    "name": "Glodwick Medical Practice",
+    "numberOfBeds": 0,
+    "odsCcgCode": "00Y",
+    "odsCcgName": "NHS Greater Manchester Icb - 00Y",
+    "odsCode": "P85621",
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.537786,
+    "onspdLongitude": -2.095095,
+    "organisationType": "Location",
+    "postalAddressCounty": "Lancashire",
+    "postalAddressLine1": "137 Glodwick Road",
+    "postalAddressTownCity": "Oldham",
+    "postalCode": "OL4 1YN",
+    "providerId": "1-199810820",
+    "region": "North West",
+    "registrationDate": "2020-06-15",
+    "registrationStatus": "Registered",
+    "regulatedActivities": [
+        {
+            "code": "RA11",
+            "contacts": [
+                {
+                    "personFamilyName": "Neilson",
+                    "personGivenName": "Laura",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Dr"
+                }
+            ],
+            "name": "Maternity and midwifery services"
+        },
+        {
+            "code": "RA15",
+            "contacts": [
+                {
+                    "personFamilyName": "Neilson",
+                    "personGivenName": "Laura",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Dr"
+                }
+            ],
+            "name": "Family planning"
+        },
+        {
+            "code": "RA5",
+            "contacts": [
+                {
+                    "personFamilyName": "Neilson",
+                    "personGivenName": "Laura",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Dr"
+                }
+            ],
+            "name": "Treatment of disease, disorder or injury"
+        },
+        {
+            "code": "RA7",
+            "contacts": [
+                {
+                    "personFamilyName": "Neilson",
+                    "personGivenName": "Laura",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Dr"
+                }
+            ],
+            "name": "Surgical procedures"
+        },
+        {
+            "code": "RA8",
+            "contacts": [
+                {
+                    "personFamilyName": "Neilson",
+                    "personGivenName": "Laura",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Dr"
+                }
+            ],
+            "name": "Diagnostic and screening procedures"
+        }
+    ],
+    "relationships": [],
+    "reports": [
+        {
+            "firstVisitDate": "2022-04-08",
+            "linkId": "e79442ac-17d8-4ddc-b8c3-4b591d1d94d1",
+            "reportDate": "2022-06-09",
+            "reportType": "Location",
+            "reportUri": "/reports/e79442ac-17d8-4ddc-b8c3-4b591d1d94d1?20220705081638"
+        }
+    ],
+    "specialisms": [
+        {
+            "name": "Services for everyone"
+        }
+    ],
+    "type": "Primary Medical Services",
+    "website": "www.sunvalleymedicalpractice.org.uk/"
+}

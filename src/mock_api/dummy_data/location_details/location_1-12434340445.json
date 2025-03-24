@@ -1,0 +1,80 @@
+{
+    "careHome": "N",
+    "constituency": "Oldham West and Royton",
+    "dormancy": "N",
+    "dormancyEndDate": "2024-09-27",
+    "gacServiceTypes": [
+        {
+            "description": "Domiciliary care service",
+            "name": "Homecare agencies"
+        },
+        {
+            "description": "Supported living service",
+            "name": "Supported living"
+        }
+    ],
+    "inspectionAreas": [],
+    "inspectionCategories": [
+        {
+            "code": "S2",
+            "name": "Community based adult social care services",
+            "primary": "true"
+        }
+    ],
+    "inspectionDirectorate": "Adult social care",
+    "localAuthority": "Oldham",
+    "locationId": "1-12434340445",
+    "locationTypes": [],
+    "mainPhoneNumber": "07808663434",
+    "name": "Tarnta Care Group Ltd",
+    "numberOfBeds": 0,
+    "odsCode": "VNLG1",
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.5343061,
+    "onspdLongitude": -2.1739767,
+    "organisationType": "Location",
+    "postalAddressLine1": "Unit 3B, Turner  Business Centre",
+    "postalAddressLine2": "Greengate, Middleton",
+    "postalAddressTownCity": "Manchester",
+    "postalCode": "M24 1RU",
+    "providerId": "1-12251001504",
+    "region": "North West",
+    "registrationDate": "2022-02-04",
+    "registrationStatus": "Registered",
+    "regulatedActivities": [
+        {
+            "code": "RA1",
+            "contacts": [
+                {
+                    "personFamilyName": "Chairuka",
+                    "personGivenName": "Albert",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Mr"
+                }
+            ],
+            "name": "Personal care"
+        }
+    ],
+    "relationships": [],
+    "specialisms": [
+        {
+            "name": "Caring for adults over 65 yrs"
+        },
+        {
+            "name": "Caring for adults under 65 yrs"
+        },
+        {
+            "name": "Dementia"
+        },
+        {
+            "name": "Learning disabilities"
+        }
+    ],
+    "type": "Social Care Org",
+    "uprn": "422000121125"
+}

@@ -1,0 +1,69 @@
+{
+    "careHome": "N",
+    "constituency": "Ashton-under-Lyne",
+    "deregistrationDate": "2022-07-18",
+    "dormancy": "Y",
+    "dormancyStartDate": "2020-11-12",
+    "gacServiceTypes": [
+        {
+            "description": "Domiciliary care service",
+            "name": "Homecare agencies"
+        }
+    ],
+    "inspectionAreas": [],
+    "inspectionCategories": [
+        {
+            "code": "S2",
+            "name": "Community based adult social care services",
+            "primary": "true"
+        }
+    ],
+    "inspectionDirectorate": "Adult social care",
+    "localAuthority": "Oldham",
+    "locationId": "1-9253286337",
+    "locationTypes": [],
+    "mainPhoneNumber": "07946434759",
+    "name": "Super Support Services Ltd",
+    "numberOfBeds": 0,
+    "odsCode": "VNG9G",
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.512049,
+    "onspdLongitude": -2.1572999,
+    "organisationType": "Location",
+    "postalAddressLine1": "Unit SC 307, Ivy Mill Business Centre",
+    "postalAddressLine2": "Crown Street, Failsworth",
+    "postalAddressTownCity": "Manchester",
+    "postalCode": "M35 9BG",
+    "providerId": "1-8359664050",
+    "region": "North West",
+    "registrationDate": "2020-07-22",
+    "registrationStatus": "Deregistered",
+    "regulatedActivities": [],
+    "relationships": [],
+    "specialisms": [
+        {
+            "name": "Caring for adults over 65 yrs"
+        },
+        {
+            "name": "Caring for adults under 65 yrs"
+        },
+        {
+            "name": "Dementia"
+        },
+        {
+            "name": "Mental health conditions"
+        },
+        {
+            "name": "Physical disabilities"
+        },
+        {
+            "name": "Sensory impairment"
+        }
+    ],
+    "type": "Social Care Org",
+    "uprn": "422000118571",
+    "website": "www.sscare.net"
+}

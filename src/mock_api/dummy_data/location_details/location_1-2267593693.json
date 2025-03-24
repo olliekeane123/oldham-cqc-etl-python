@@ -1,0 +1,273 @@
+{
+    "careHome": "N",
+    "constituency": "Oldham West and Royton",
+    "currentRatings": {
+        "overall": {
+            "keyQuestionRatings": [
+                {
+                    "name": "Safe",
+                    "rating": "Good",
+                    "reportDate": "2021-06-09",
+                    "reportLinkId": "a8720bd1-07f7-4bc4-8caf-73473909d8f5"
+                },
+                {
+                    "name": "Well-led",
+                    "rating": "Good",
+                    "reportDate": "2021-06-09",
+                    "reportLinkId": "a8720bd1-07f7-4bc4-8caf-73473909d8f5"
+                },
+                {
+                    "name": "Caring",
+                    "rating": "Good",
+                    "reportDate": "2020-01-28",
+                    "reportLinkId": "4f880291-c54a-4327-846c-f9cacd825203"
+                },
+                {
+                    "name": "Responsive",
+                    "rating": "Good",
+                    "reportDate": "2020-01-28",
+                    "reportLinkId": "4f880291-c54a-4327-846c-f9cacd825203"
+                },
+                {
+                    "name": "Effective",
+                    "rating": "Good",
+                    "reportDate": "2020-01-28",
+                    "reportLinkId": "4f880291-c54a-4327-846c-f9cacd825203"
+                }
+            ],
+            "rating": "Good",
+            "reportDate": "2021-06-09",
+            "reportLinkId": "a8720bd1-07f7-4bc4-8caf-73473909d8f5"
+        },
+        "reportDate": "2021-06-09"
+    },
+    "dormancy": "N",
+    "gacServiceTypes": [
+        {
+            "description": "Domiciliary care service",
+            "name": "Homecare agencies"
+        },
+        {
+            "description": "Supported living service",
+            "name": "Supported living"
+        }
+    ],
+    "historicRatings": [
+        {
+            "overall": {
+                "keyQuestionRatings": [
+                    {
+                        "name": "Safe",
+                        "rating": "Requires improvement"
+                    },
+                    {
+                        "name": "Well-led",
+                        "rating": "Requires improvement"
+                    }
+                ],
+                "rating": "Requires improvement"
+            },
+            "reportDate": "2020-01-28",
+            "reportLinkId": "4f880291-c54a-4327-846c-f9cacd825203"
+        },
+        {
+            "overall": {
+                "keyQuestionRatings": [
+                    {
+                        "name": "Safe",
+                        "rating": "Requires improvement"
+                    },
+                    {
+                        "name": "Well-led",
+                        "rating": "Requires improvement"
+                    }
+                ],
+                "rating": "Requires improvement"
+            },
+            "reportDate": "2018-12-18",
+            "reportLinkId": "e24ab6fe-0a76-451f-9bf7-ab50776b04e9"
+        },
+        {
+            "overall": {
+                "keyQuestionRatings": [
+                    {
+                        "name": "Safe",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Well-led",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Caring",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Responsive",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Effective",
+                        "rating": "Good"
+                    }
+                ],
+                "rating": "Good"
+            },
+            "reportDate": "2018-02-22",
+            "reportLinkId": "333faf99-67e7-4a37-b94c-9d3edad8b56d"
+        },
+        {
+            "overall": {
+                "keyQuestionRatings": [
+                    {
+                        "name": "Safe",
+                        "rating": "Requires improvement"
+                    },
+                    {
+                        "name": "Well-led",
+                        "rating": "Requires improvement"
+                    },
+                    {
+                        "name": "Caring",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Responsive",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Effective",
+                        "rating": "Requires improvement"
+                    }
+                ],
+                "rating": "Requires improvement"
+            },
+            "reportDate": "2016-11-05",
+            "reportLinkId": "cd6b4912-2bcd-46b4-a152-340b676c9964"
+        }
+    ],
+    "inspectionAreas": [],
+    "inspectionCategories": [
+        {
+            "code": "S2",
+            "name": "Community based adult social care services",
+            "primary": "true"
+        }
+    ],
+    "inspectionDirectorate": "Adult social care",
+    "lastInspection": {
+        "date": "2021-05-06"
+    },
+    "lastReport": {
+        "publicationDate": "2021-06-09"
+    },
+    "localAuthority": "Oldham",
+    "locationId": "1-2267593693",
+    "locationTypes": [],
+    "mainPhoneNumber": "01614083816",
+    "name": "Grace 247 Care Manchester",
+    "numberOfBeds": 0,
+    "odsCode": "VNA8M",
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.525439,
+    "onspdLongitude": -2.135717,
+    "organisationType": "Location",
+    "postalAddressCounty": "Lancashire",
+    "postalAddressLine1": "Chambers Business Centre",
+    "postalAddressLine2": "Chapel Road",
+    "postalAddressTownCity": "Oldham",
+    "postalCode": "OL8 4QQ",
+    "providerId": "1-933554867",
+    "region": "North West",
+    "registrationDate": "2015-12-02",
+    "registrationStatus": "Registered",
+    "regulatedActivities": [
+        {
+            "code": "RA5",
+            "contacts": [
+                {
+                    "personFamilyName": "McNiven",
+                    "personGivenName": "Rachael Elizabeth",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Mrs"
+                }
+            ],
+            "name": "Treatment of disease, disorder or injury"
+        }
+    ],
+    "relationships": [
+        {
+            "reason": "Location Move",
+            "relatedLocationId": "1-1794742848",
+            "relatedLocationName": "Grace Live In Carers Ltd",
+            "type": "HSCA Predecessor"
+        }
+    ],
+    "reports": [
+        {
+            "firstVisitDate": "2021-05-06",
+            "linkId": "a8720bd1-07f7-4bc4-8caf-73473909d8f5",
+            "reportDate": "2021-06-09",
+            "reportType": "Location",
+            "reportUri": "/reports/a8720bd1-07f7-4bc4-8caf-73473909d8f5?20231202130000"
+        },
+        {
+            "firstVisitDate": "2019-12-18",
+            "linkId": "4f880291-c54a-4327-846c-f9cacd825203",
+            "reportDate": "2020-01-28",
+            "reportType": "Location",
+            "reportUri": "/reports/4f880291-c54a-4327-846c-f9cacd825203?20200129163919"
+        },
+        {
+            "firstVisitDate": "2018-10-30",
+            "linkId": "e24ab6fe-0a76-451f-9bf7-ab50776b04e9",
+            "reportDate": "2018-12-18",
+            "reportType": "Location",
+            "reportUri": "/reports/e24ab6fe-0a76-451f-9bf7-ab50776b04e9?20190109130000"
+        },
+        {
+            "firstVisitDate": "2018-01-17",
+            "linkId": "333faf99-67e7-4a37-b94c-9d3edad8b56d",
+            "reportDate": "2018-02-22",
+            "reportType": "Location",
+            "reportUri": "/reports/333faf99-67e7-4a37-b94c-9d3edad8b56d?20200129163919"
+        },
+        {
+            "firstVisitDate": "2016-09-19",
+            "linkId": "cd6b4912-2bcd-46b4-a152-340b676c9964",
+            "reportDate": "2016-11-05",
+            "reportType": "Location",
+            "reportUri": "/reports/cd6b4912-2bcd-46b4-a152-340b676c9964?20200129163919"
+        }
+    ],
+    "specialisms": [
+        {
+            "name": "Caring for adults over 65 yrs"
+        },
+        {
+            "name": "Caring for adults under 65 yrs"
+        },
+        {
+            "name": "Dementia"
+        },
+        {
+            "name": "Learning disabilities"
+        },
+        {
+            "name": "Mental health conditions"
+        },
+        {
+            "name": "Physical disabilities"
+        },
+        {
+            "name": "Sensory impairment"
+        }
+    ],
+    "type": "Social Care Org",
+    "website": "www.graceliveincarers.co.uk"
+}

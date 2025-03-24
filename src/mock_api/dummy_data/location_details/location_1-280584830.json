@@ -1,0 +1,159 @@
+{
+    "careHome": "Y",
+    "constituency": "Oldham East and Saddleworth",
+    "currentRatings": {
+        "overall": {
+            "keyQuestionRatings": [
+                {
+                    "name": "Safe",
+                    "rating": "Requires improvement",
+                    "reportDate": "2016-07-19",
+                    "reportLinkId": "275a4664-3e91-48be-b522-036b936f3981"
+                },
+                {
+                    "name": "Well-led",
+                    "rating": "Good",
+                    "reportDate": "2016-07-19",
+                    "reportLinkId": "275a4664-3e91-48be-b522-036b936f3981"
+                },
+                {
+                    "name": "Caring",
+                    "rating": "Good",
+                    "reportDate": "2016-07-19",
+                    "reportLinkId": "275a4664-3e91-48be-b522-036b936f3981"
+                },
+                {
+                    "name": "Responsive",
+                    "rating": "Good",
+                    "reportDate": "2016-07-19",
+                    "reportLinkId": "275a4664-3e91-48be-b522-036b936f3981"
+                },
+                {
+                    "name": "Effective",
+                    "rating": "Good",
+                    "reportDate": "2016-07-19",
+                    "reportLinkId": "275a4664-3e91-48be-b522-036b936f3981"
+                }
+            ],
+            "rating": "Good",
+            "reportDate": "2016-07-19",
+            "reportLinkId": "275a4664-3e91-48be-b522-036b936f3981"
+        },
+        "reportDate": "2016-07-19"
+    },
+    "deregistrationDate": "2018-06-18",
+    "dormancy": "N",
+    "gacServiceTypes": [
+        {
+            "description": "Care home service with nursing",
+            "name": "Nursing homes"
+        }
+    ],
+    "inspectionAreas": [],
+    "inspectionCategories": [
+        {
+            "code": "S1",
+            "name": "Residential social care",
+            "primary": "true"
+        }
+    ],
+    "inspectionDirectorate": "Adult social care",
+    "lastInspection": {
+        "date": "2016-05-10"
+    },
+    "lastReport": {
+        "publicationDate": "2016-07-19"
+    },
+    "localAuthority": "Oldham",
+    "locationId": "1-280584830",
+    "locationTypes": [],
+    "mainPhoneNumber": "01616286811",
+    "name": "Treetops Nursing Home",
+    "numberOfBeds": 31,
+    "odsCode": "VM0EV",
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.5320471,
+    "onspdLongitude": -2.1101383,
+    "organisationType": "Location",
+    "postalAddressCounty": "Greater Manchester",
+    "postalAddressLine1": "Carthage Street",
+    "postalAddressTownCity": "Oldham",
+    "postalCode": "OL8 1LL",
+    "providerId": "1-254522886",
+    "region": "North West",
+    "registrationDate": "2011-09-21",
+    "registrationStatus": "Deregistered",
+    "regulatedActivities": [],
+    "relationships": [
+        {
+            "reason": "New Provider",
+            "relatedLocationId": "1-123173965",
+            "relatedLocationName": "Treetops Nursing Home",
+            "type": "HSCA Predecessor"
+        },
+        {
+            "reason": "New Provider",
+            "relatedLocationId": "1-5203053560",
+            "relatedLocationName": "Treetops Nursing Home",
+            "type": "HSCA Successor"
+        }
+    ],
+    "reports": [
+        {
+            "firstVisitDate": "2016-05-06",
+            "linkId": "275a4664-3e91-48be-b522-036b936f3981",
+            "reportDate": "2016-07-19",
+            "reportType": "Location",
+            "reportUri": "/reports/275a4664-3e91-48be-b522-036b936f3981?20211030120000"
+        },
+        {
+            "firstVisitDate": "2013-06-13",
+            "linkId": "c1cfe9d9-ad10-42f7-801c-d284d6e46f7e",
+            "reportDate": "2013-06-22",
+            "reportUri": "/reports/c1cfe9d9-ad10-42f7-801c-d284d6e46f7e?20200129163919"
+        },
+        {
+            "firstVisitDate": "2012-11-06",
+            "linkId": "1b56c81a-d098-4e1e-aa91-a15f8f4ca333",
+            "reportDate": "2012-11-15",
+            "reportUri": "/reports/1b56c81a-d098-4e1e-aa91-a15f8f4ca333?20151016191357"
+        },
+        {
+            "firstVisitDate": "2012-09-06",
+            "linkId": "01e00f5a-32c3-4a6d-8a67-141ae9317faf",
+            "reportDate": "2012-09-18",
+            "reportUri": "/reports/01e00f5a-32c3-4a6d-8a67-141ae9317faf?20200430120000"
+        },
+        {
+            "firstVisitDate": "2012-02-03",
+            "linkId": "2a62f25a-a3fd-4c64-85ae-318a27d9cffc",
+            "reportDate": "2012-03-15",
+            "reportUri": "/reports/2a62f25a-a3fd-4c64-85ae-318a27d9cffc?20200430120000"
+        }
+    ],
+    "specialisms": [
+        {
+            "name": "Caring for adults over 65 yrs"
+        },
+        {
+            "name": "Dementia"
+        },
+        {
+            "name": "Learning disabilities"
+        },
+        {
+            "name": "Mental health conditions"
+        },
+        {
+            "name": "Physical disabilities"
+        },
+        {
+            "name": "Sensory impairment"
+        }
+    ],
+    "type": "Social Care Org",
+    "uprn": "422000001245"
+}

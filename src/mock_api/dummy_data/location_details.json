@@ -1,0 +1,92 @@
+{
+    "locationId": "1-11177962695",
+    "providerId": "1-10523018097",
+    "organisationType": "Location",
+    "type": "Primary Dental Care",
+    "name": "Rhodes Street Dental",
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "registrationStatus": "Registered",
+    "registrationDate": "2021-07-02",
+    "dormancy": "N",
+    "onspdLatitude": 53.542459,
+    "onspdLongitude": -2.10597,
+    "careHome": "N",
+    "inspectionDirectorate": "Primary medical services",
+    "postalAddressLine1": "11 Rhodes Street",
+    "postalAddressTownCity": "Oldham",
+    "postalAddressCounty": "Greater Manchester",
+    "region": "North West",
+    "postalCode": "OL1 3TG",
+    "mainPhoneNumber": "01618235329",
+    "numberOfBeds": 0,
+    "constituency": "Oldham East and Saddleworth",
+    "localAuthority": "Oldham",
+    "relationships": [],
+    "locationTypes": [],
+    "regulatedActivities": [
+        {
+            "name": "Treatment of disease, disorder or injury",
+            "code": "RA5",
+            "contacts": [
+                {
+                    "personTitle": "Dr",
+                    "personGivenName": "Ambareen",
+                    "personFamilyName": "Tejani-Sharif",
+                    "personRoles": [
+                        "Registered Manager"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Surgical procedures",
+            "code": "RA7",
+            "contacts": [
+                {
+                    "personTitle": "Dr",
+                    "personGivenName": "Ambareen",
+                    "personFamilyName": "Tejani-Sharif",
+                    "personRoles": [
+                        "Registered Manager"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Diagnostic and screening procedures",
+            "code": "RA8",
+            "contacts": [
+                {
+                    "personTitle": "Dr",
+                    "personGivenName": "Ambareen",
+                    "personFamilyName": "Tejani-Sharif",
+                    "personRoles": [
+                        "Registered Manager"
+                    ]
+                }
+            ]
+        }
+    ],
+    "gacServiceTypes": [
+        {
+            "name": "Dentist",
+            "description": "Dental service"
+        }
+    ],
+    "specialisms": [
+        {
+            "name": "Services for everyone"
+        }
+    ],
+    "inspectionCategories": [
+        {
+            "code": "P1",
+            "primary": "true",
+            "name": "Dentists"
+        }
+    ],
+    "inspectionAreas": []
+}

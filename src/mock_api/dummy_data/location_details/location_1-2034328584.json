@@ -1,0 +1,139 @@
+{
+    "brandId": "BD239",
+    "brandName": "BRAND Accord Housing Association Limited",
+    "careHome": "N",
+    "constituency": "Oldham East and Saddleworth",
+    "currentRatings": {
+        "overall": {
+            "keyQuestionRatings": [
+                {
+                    "name": "Safe",
+                    "rating": "Requires improvement",
+                    "reportDate": "2016-08-09",
+                    "reportLinkId": "986f12a8-bae9-47b3-a2e0-571776669225"
+                },
+                {
+                    "name": "Well-led",
+                    "rating": "Requires improvement",
+                    "reportDate": "2016-08-09",
+                    "reportLinkId": "986f12a8-bae9-47b3-a2e0-571776669225"
+                },
+                {
+                    "name": "Caring",
+                    "rating": "Requires improvement",
+                    "reportDate": "2016-08-09",
+                    "reportLinkId": "986f12a8-bae9-47b3-a2e0-571776669225"
+                },
+                {
+                    "name": "Responsive",
+                    "rating": "Requires improvement",
+                    "reportDate": "2016-08-09",
+                    "reportLinkId": "986f12a8-bae9-47b3-a2e0-571776669225"
+                },
+                {
+                    "name": "Effective",
+                    "rating": "Requires improvement",
+                    "reportDate": "2016-08-09",
+                    "reportLinkId": "986f12a8-bae9-47b3-a2e0-571776669225"
+                }
+            ],
+            "rating": "Requires improvement",
+            "reportDate": "2016-08-09",
+            "reportLinkId": "986f12a8-bae9-47b3-a2e0-571776669225"
+        },
+        "reportDate": "2016-08-09"
+    },
+    "deregistrationDate": "2017-04-11",
+    "dormancy": "N",
+    "gacServiceTypes": [
+        {
+            "description": "Domiciliary care service",
+            "name": "Homecare agencies"
+        }
+    ],
+    "inspectionAreas": [],
+    "inspectionCategories": [
+        {
+            "code": "S2",
+            "name": "Community based adult social care services",
+            "primary": "true"
+        }
+    ],
+    "inspectionDirectorate": "Adult social care",
+    "lastInspection": {
+        "date": "2016-05-25"
+    },
+    "lastReport": {
+        "publicationDate": "2016-08-09"
+    },
+    "localAuthority": "Oldham",
+    "locationId": "1-2034328584",
+    "locationTypes": [],
+    "mainPhoneNumber": "01616249510",
+    "name": "Direct Health (Oldham)",
+    "numberOfBeds": 0,
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.540142,
+    "onspdLongitude": -2.101888,
+    "organisationType": "Location",
+    "postalAddressCounty": "Lancashire",
+    "postalAddressLine1": "Unit 4 Whitney Court",
+    "postalAddressLine2": "Southlink Business Park, Hamilton Street",
+    "postalAddressTownCity": "Oldham",
+    "postalCode": "OL4 1DB",
+    "providerId": "1-101676275",
+    "region": "North West",
+    "registrationDate": "2015-06-02",
+    "registrationStatus": "Deregistered",
+    "regulatedActivities": [],
+    "relationships": [
+        {
+            "reason": "New Provider",
+            "relatedLocationId": "1-3561815892",
+            "relatedLocationName": "Direct Health (Oldham)",
+            "type": "HSCA Successor"
+        },
+        {
+            "reason": "Legal Entity Change",
+            "relatedLocationId": "1-340762758",
+            "relatedLocationName": "Domus Healthcare Oldham Limited",
+            "type": "HSCA Predecessor"
+        }
+    ],
+    "reports": [
+        {
+            "firstVisitDate": "2016-05-23",
+            "linkId": "986f12a8-bae9-47b3-a2e0-571776669225",
+            "reportDate": "2016-08-09",
+            "reportType": "Location",
+            "reportUri": "/reports/986f12a8-bae9-47b3-a2e0-571776669225?20211030120000"
+        }
+    ],
+    "specialisms": [
+        {
+            "name": "Caring for adults over 65 yrs"
+        },
+        {
+            "name": "Caring for adults under 65 yrs"
+        },
+        {
+            "name": "Dementia"
+        },
+        {
+            "name": "Learning disabilities"
+        },
+        {
+            "name": "Mental health conditions"
+        },
+        {
+            "name": "Physical disabilities"
+        },
+        {
+            "name": "Sensory impairment"
+        }
+    ],
+    "type": "Social Care Org"
+}

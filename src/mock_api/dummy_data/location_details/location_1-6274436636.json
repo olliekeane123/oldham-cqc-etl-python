@@ -1,0 +1,201 @@
+{
+    "careHome": "N",
+    "constituency": "Oldham East and Saddleworth",
+    "currentRatings": {
+        "overall": {
+            "keyQuestionRatings": [
+                {
+                    "name": "Safe",
+                    "rating": "Good",
+                    "reportDate": "2020-03-11",
+                    "reportLinkId": "b12f1634-36ab-4d92-b4e4-2d8575c04dcf"
+                },
+                {
+                    "name": "Well-led",
+                    "rating": "Good",
+                    "reportDate": "2020-03-11",
+                    "reportLinkId": "b12f1634-36ab-4d92-b4e4-2d8575c04dcf"
+                },
+                {
+                    "name": "Caring",
+                    "rating": "Good",
+                    "reportDate": "2020-03-11",
+                    "reportLinkId": "b12f1634-36ab-4d92-b4e4-2d8575c04dcf"
+                },
+                {
+                    "name": "Responsive",
+                    "rating": "Good",
+                    "reportDate": "2020-03-11",
+                    "reportLinkId": "b12f1634-36ab-4d92-b4e4-2d8575c04dcf"
+                },
+                {
+                    "name": "Effective",
+                    "rating": "Good",
+                    "reportDate": "2020-03-11",
+                    "reportLinkId": "b12f1634-36ab-4d92-b4e4-2d8575c04dcf"
+                }
+            ],
+            "rating": "Good",
+            "reportDate": "2020-03-11",
+            "reportLinkId": "b12f1634-36ab-4d92-b4e4-2d8575c04dcf"
+        },
+        "reportDate": "2020-03-11",
+        "serviceRatings": [
+            {
+                "name": "conditions",
+                "rating": "Good",
+                "reportDate": "2020-03-11",
+                "reportLinkId": "b12f1634-36ab-4d92-b4e4-2d8575c04dcf"
+            },
+            {
+                "name": "mothers",
+                "rating": "Good",
+                "reportDate": "2020-03-11",
+                "reportLinkId": "b12f1634-36ab-4d92-b4e4-2d8575c04dcf"
+            },
+            {
+                "name": "old",
+                "rating": "Good",
+                "reportDate": "2020-03-11",
+                "reportLinkId": "b12f1634-36ab-4d92-b4e4-2d8575c04dcf"
+            },
+            {
+                "name": "population",
+                "rating": "Good",
+                "reportDate": "2020-03-11",
+                "reportLinkId": "b12f1634-36ab-4d92-b4e4-2d8575c04dcf"
+            },
+            {
+                "name": "problems",
+                "rating": "Good",
+                "reportDate": "2020-03-11",
+                "reportLinkId": "b12f1634-36ab-4d92-b4e4-2d8575c04dcf"
+            },
+            {
+                "name": "vulnerable",
+                "rating": "Good",
+                "reportDate": "2020-03-11",
+                "reportLinkId": "b12f1634-36ab-4d92-b4e4-2d8575c04dcf"
+            }
+        ]
+    },
+    "dormancy": "N",
+    "gacServiceTypes": [
+        {
+            "description": "Doctors treatment service",
+            "name": "Doctors/Gps"
+        }
+    ],
+    "inspectionAreas": [
+        {
+            "inspectionAreaId": "conditions",
+            "inspectionAreaName": "People with long term conditions",
+            "status": "Active (Rated)"
+        },
+        {
+            "inspectionAreaId": "mothers",
+            "inspectionAreaName": "Families, children and young people",
+            "status": "Active (Rated)"
+        },
+        {
+            "inspectionAreaId": "old",
+            "inspectionAreaName": "Older people",
+            "status": "Active (Rated)"
+        },
+        {
+            "inspectionAreaId": "population",
+            "inspectionAreaName": "Working age people (including those recently retired and students)",
+            "status": "Active (Rated)"
+        },
+        {
+            "inspectionAreaId": "problems",
+            "inspectionAreaName": "People experiencing poor mental health (including people with dementia)",
+            "status": "Active (Rated)"
+        },
+        {
+            "inspectionAreaId": "vulnerable",
+            "inspectionAreaName": "People whose circumstances may make them vulnerable",
+            "status": "Active (Rated)"
+        }
+    ],
+    "inspectionCategories": [
+        {
+            "code": "P2",
+            "name": "GP Practices",
+            "primary": "true"
+        }
+    ],
+    "inspectionDirectorate": "Primary medical services",
+    "lastInspection": {
+        "date": "2020-01-24"
+    },
+    "lastReport": {
+        "publicationDate": "2020-03-11"
+    },
+    "localAuthority": "Oldham",
+    "locationId": "1-6274436636",
+    "locationTypes": [
+        {
+            "type": "GP Practice"
+        }
+    ],
+    "mainPhoneNumber": "01616283628",
+    "name": "Hopwood House Medical Practice",
+    "numberOfBeds": 0,
+    "odsCcgCode": "00Y",
+    "odsCcgName": "NHS Greater Manchester Icb - 00Y",
+    "odsCode": "P85014",
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.5423506,
+    "onspdLongitude": -2.0964481,
+    "organisationType": "Location",
+    "postalAddressLine1": "Lees Road",
+    "postalAddressTownCity": "Oldham",
+    "postalCode": "OL4 1JN",
+    "providerId": "1-6182886715",
+    "region": "North West",
+    "registrationDate": "2019-01-11",
+    "registrationStatus": "Registered",
+    "regulatedActivities": [
+        {
+            "code": "RA11",
+            "contacts": [],
+            "name": "Maternity and midwifery services"
+        },
+        {
+            "code": "RA5",
+            "contacts": [],
+            "name": "Treatment of disease, disorder or injury"
+        },
+        {
+            "code": "RA7",
+            "contacts": [],
+            "name": "Surgical procedures"
+        },
+        {
+            "code": "RA8",
+            "contacts": [],
+            "name": "Diagnostic and screening procedures"
+        }
+    ],
+    "relationships": [],
+    "reports": [
+        {
+            "firstVisitDate": "2020-01-24",
+            "linkId": "b12f1634-36ab-4d92-b4e4-2d8575c04dcf",
+            "reportDate": "2020-03-11",
+            "reportType": "Location",
+            "reportUri": "/reports/b12f1634-36ab-4d92-b4e4-2d8575c04dcf?20210114001544"
+        }
+    ],
+    "specialisms": [
+        {
+            "name": "Services for everyone"
+        }
+    ],
+    "type": "Primary Medical Services",
+    "uprn": "422000075745"
+}

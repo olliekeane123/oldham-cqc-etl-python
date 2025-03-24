@@ -1,0 +1,55 @@
+{
+    "alsoKnownAs": "Hilltop Surgery",
+    "careHome": "N",
+    "constituency": "Oldham West and Royton",
+    "deregistrationDate": "2013-06-11",
+    "dormancy": "N",
+    "gacServiceTypes": [
+        {
+            "description": "Doctors consultation service",
+            "name": "Doctors/Gps"
+        }
+    ],
+    "inspectionAreas": [],
+    "inspectionDirectorate": "Unspecified",
+    "localAuthority": "Oldham",
+    "locationId": "1-540250915",
+    "locationTypes": [
+        {
+            "type": "GP Practice"
+        }
+    ],
+    "mainPhoneNumber": "01616222760",
+    "name": "Hope Citadel Healthcare CIC",
+    "numberOfBeds": 0,
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.522961,
+    "onspdLongitude": -2.098651,
+    "organisationType": "Location",
+    "postalAddressLine1": "57 Deanshut Road, Fitton Hill",
+    "postalAddressTownCity": "Oldham",
+    "postalCode": "OL8 2PN",
+    "providerId": "1-199810820",
+    "region": "North West",
+    "registrationDate": "2013-04-01",
+    "registrationStatus": "Deregistered",
+    "regulatedActivities": [],
+    "relationships": [
+        {
+            "reason": "Location Move",
+            "relatedLocationId": "1-718554672",
+            "relatedLocationName": "Hill Top Surgery",
+            "type": "HSCA Successor"
+        }
+    ],
+    "specialisms": [
+        {
+            "name": "Services for everyone"
+        }
+    ],
+    "type": "Primary Medical Services",
+    "website": "www.hilltopsurgery.org"
+}

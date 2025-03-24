@@ -1,0 +1,150 @@
+{
+    "brandId": "BD359",
+    "brandName": "BRAND PortmanDentex",
+    "careHome": "N",
+    "constituency": "Oldham East and Saddleworth",
+    "currentRatings": {
+        "overall": {
+            "keyQuestionRatings": [
+                {
+                    "name": "Safe",
+                    "rating": "No published rating"
+                },
+                {
+                    "name": "Well-led",
+                    "rating": "No published rating"
+                },
+                {
+                    "name": "Caring",
+                    "rating": "No published rating"
+                },
+                {
+                    "name": "Responsive",
+                    "rating": "No published rating"
+                },
+                {
+                    "name": "Effective",
+                    "rating": "No published rating"
+                }
+            ],
+            "rating": "Inspected but not rated",
+            "reportDate": "2018-05-16",
+            "reportLinkId": "0437bbd4-f3d6-46b0-b968-95e6b1ec9c09"
+        },
+        "reportDate": "2018-05-16"
+    },
+    "dormancy": "N",
+    "gacServiceTypes": [
+        {
+            "description": "Dental service",
+            "name": "Dentist"
+        }
+    ],
+    "inspectionAreas": [],
+    "inspectionCategories": [
+        {
+            "code": "P1",
+            "name": "Dentists",
+            "primary": "true"
+        }
+    ],
+    "inspectionDirectorate": "Primary medical services",
+    "lastInspection": {
+        "date": "2018-03-13"
+    },
+    "lastReport": {
+        "publicationDate": "2018-05-16"
+    },
+    "localAuthority": "Oldham",
+    "locationId": "1-2072371474",
+    "locationTypes": [],
+    "mainPhoneNumber": "01457821800",
+    "name": "Apollonia House Dental & Health Care",
+    "numberOfBeds": 0,
+    "odsCode": "V80156",
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.530501,
+    "onspdLongitude": -2.0353962,
+    "organisationType": "Location",
+    "postalAddressCounty": "Lancashire",
+    "postalAddressLine1": "167 Mossley Road",
+    "postalAddressLine2": "Grasscroft",
+    "postalAddressTownCity": "Oldham",
+    "postalCode": "OL4 4HA",
+    "providerId": "1-153032466",
+    "region": "North West",
+    "registrationDate": "2015-05-22",
+    "registrationStatus": "Registered",
+    "regulatedActivities": [
+        {
+            "code": "RA5",
+            "contacts": [
+                {
+                    "personFamilyName": "Bennett",
+                    "personGivenName": "Natalie",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Mrs"
+                }
+            ],
+            "name": "Treatment of disease, disorder or injury"
+        },
+        {
+            "code": "RA7",
+            "contacts": [
+                {
+                    "personFamilyName": "Bennett",
+                    "personGivenName": "Natalie",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Mrs"
+                }
+            ],
+            "name": "Surgical procedures"
+        },
+        {
+            "code": "RA8",
+            "contacts": [
+                {
+                    "personFamilyName": "Bennett",
+                    "personGivenName": "Natalie",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Mrs"
+                }
+            ],
+            "name": "Diagnostic and screening procedures"
+        }
+    ],
+    "relationships": [
+        {
+            "reason": "New Provider",
+            "relatedLocationId": "1-188876884",
+            "relatedLocationName": "Apollonia House Dental & Health Care Limited",
+            "type": "HSCA Predecessor"
+        }
+    ],
+    "reports": [
+        {
+            "firstVisitDate": "2018-03-13",
+            "linkId": "0437bbd4-f3d6-46b0-b968-95e6b1ec9c09",
+            "reportDate": "2018-05-16",
+            "reportType": "Location",
+            "reportUri": "/reports/0437bbd4-f3d6-46b0-b968-95e6b1ec9c09?20210117194415"
+        }
+    ],
+    "specialisms": [
+        {
+            "name": "Services for everyone"
+        }
+    ],
+    "type": "Primary Dental Care",
+    "uprn": "422000112182",
+    "website": "www.apolloniahouse.com"
+}

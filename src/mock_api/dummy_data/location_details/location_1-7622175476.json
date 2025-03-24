@@ -1,0 +1,68 @@
+{
+    "careHome": "N",
+    "constituency": "Ashton-under-Lyne",
+    "deregistrationDate": "2022-12-05",
+    "dormancy": "Y",
+    "dormancyStartDate": "2021-07-07",
+    "gacServiceTypes": [
+        {
+            "description": "Domiciliary care service",
+            "name": "Homecare agencies"
+        }
+    ],
+    "inspectionAreas": [],
+    "inspectionCategories": [
+        {
+            "code": "S2",
+            "name": "Community based adult social care services",
+            "primary": "true"
+        }
+    ],
+    "inspectionDirectorate": "Adult social care",
+    "localAuthority": "Oldham",
+    "locationId": "1-7622175476",
+    "locationTypes": [],
+    "mainPhoneNumber": "01613174587",
+    "name": "Green Leaf Health and Social Care",
+    "numberOfBeds": 0,
+    "odsCode": "VNEF2",
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.512049,
+    "onspdLongitude": -2.1572999,
+    "organisationType": "Location",
+    "postalAddressLine1": "Ivy Business Centre",
+    "postalAddressLine2": "Crown Street, Failsworth",
+    "postalAddressTownCity": "Manchester",
+    "postalCode": "M35 9BG",
+    "providerId": "1-6673669102",
+    "region": "North West",
+    "registrationDate": "2019-10-04",
+    "registrationStatus": "Deregistered",
+    "regulatedActivities": [],
+    "relationships": [],
+    "specialisms": [
+        {
+            "name": "Caring for adults over 65 yrs"
+        },
+        {
+            "name": "Caring for adults under 65 yrs"
+        },
+        {
+            "name": "Dementia"
+        },
+        {
+            "name": "Learning disabilities"
+        },
+        {
+            "name": "Mental health conditions"
+        },
+        {
+            "name": "Physical disabilities"
+        }
+    ],
+    "type": "Social Care Org",
+    "uprn": "422000118571"
+}

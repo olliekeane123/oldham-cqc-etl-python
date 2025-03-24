@@ -1,0 +1,51 @@
+{
+    "careHome": "N",
+    "constituency": "Ashton-under-Lyne",
+    "deregistrationDate": "2011-12-29",
+    "dormancy": "N",
+    "gacServiceTypes": [
+        {
+            "description": "Dental service",
+            "name": "Dentist"
+        }
+    ],
+    "inspectionAreas": [],
+    "inspectionDirectorate": "Unspecified",
+    "localAuthority": "Oldham",
+    "locationId": "1-226488706",
+    "locationTypes": [],
+    "mainPhoneNumber": "01616812100",
+    "name": "Dental Surgery - Oldham Road",
+    "numberOfBeds": 0,
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.508362,
+    "onspdLongitude": -2.16416,
+    "organisationType": "Location",
+    "postalAddressCounty": "Lancashire",
+    "postalAddressLine1": "293 Oldham Road",
+    "postalAddressLine2": "Failsworth",
+    "postalAddressTownCity": "Manchester",
+    "postalCode": "M35 0AS",
+    "providerId": "1-152981215",
+    "region": "North West",
+    "registrationDate": "2011-06-21",
+    "registrationStatus": "Deregistered",
+    "regulatedActivities": [],
+    "relationships": [
+        {
+            "reason": "Partnership Change",
+            "relatedLocationId": "1-354620176",
+            "relatedLocationName": "Dental Surgery - Oldham Road",
+            "type": "HSCA Successor"
+        }
+    ],
+    "specialisms": [
+        {
+            "name": "Services for everyone"
+        }
+    ],
+    "type": "Primary Dental Care"
+}

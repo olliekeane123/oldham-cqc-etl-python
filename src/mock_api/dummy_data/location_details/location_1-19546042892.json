@@ -1,0 +1,72 @@
+{
+    "brandId": "BD643",
+    "brandName": "BRAND Denturly",
+    "careHome": "N",
+    "constituency": "Oldham West and Royton",
+    "dormancy": "N",
+    "gacServiceTypes": [
+        {
+            "description": "Dental service",
+            "name": "Dentist"
+        }
+    ],
+    "inspectionAreas": [],
+    "inspectionCategories": [
+        {
+            "code": "P1",
+            "name": "Dentists",
+            "primary": "true"
+        }
+    ],
+    "inspectionDirectorate": "Primary medical services",
+    "localAuthority": "Oldham",
+    "locationId": "1-19546042892",
+    "locationTypes": [],
+    "mainPhoneNumber": "08083048960",
+    "name": "Denturly Oldham",
+    "numberOfBeds": 0,
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.5199789,
+    "onspdLongitude": -2.1397119,
+    "organisationType": "Location",
+    "postalAddressLine1": "872-874",
+    "postalAddressLine2": "Hollins Road",
+    "postalAddressTownCity": "Oldham",
+    "postalCode": "OL8 4SR",
+    "providerId": "1-16495076304",
+    "region": "North West",
+    "registeredManagerAbsentDate": "2024-09-19",
+    "registrationDate": "2024-06-28",
+    "registrationStatus": "Registered",
+    "regulatedActivities": [
+        {
+            "code": "RA5",
+            "contacts": [],
+            "name": "Treatment of disease, disorder or injury"
+        },
+        {
+            "code": "RA7",
+            "contacts": [],
+            "name": "Surgical procedures"
+        },
+        {
+            "code": "RA8",
+            "contacts": [],
+            "name": "Diagnostic and screening procedures"
+        }
+    ],
+    "relationships": [],
+    "specialisms": [
+        {
+            "name": "Caring for adults over 65 yrs"
+        },
+        {
+            "name": "Caring for adults under 65 yrs"
+        }
+    ],
+    "type": "Primary Dental Care",
+    "uprn": "422000045428"
+}

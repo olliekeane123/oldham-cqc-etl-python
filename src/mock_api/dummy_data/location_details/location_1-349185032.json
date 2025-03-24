@@ -1,0 +1,155 @@
+{
+    "careHome": "N",
+    "constituency": "Oldham West and Royton",
+    "currentRatings": {
+        "overall": {
+            "keyQuestionRatings": [
+                {
+                    "name": "Safe",
+                    "rating": "Requires improvement",
+                    "reportDate": "2015-05-06",
+                    "reportLinkId": "d270b899-864e-482b-bb72-82fd5b6e7eb5"
+                },
+                {
+                    "name": "Well-led",
+                    "rating": "Good",
+                    "reportDate": "2015-05-06",
+                    "reportLinkId": "d270b899-864e-482b-bb72-82fd5b6e7eb5"
+                },
+                {
+                    "name": "Caring",
+                    "rating": "Good",
+                    "reportDate": "2015-05-06",
+                    "reportLinkId": "d270b899-864e-482b-bb72-82fd5b6e7eb5"
+                },
+                {
+                    "name": "Responsive",
+                    "rating": "Good",
+                    "reportDate": "2015-05-06",
+                    "reportLinkId": "d270b899-864e-482b-bb72-82fd5b6e7eb5"
+                },
+                {
+                    "name": "Effective",
+                    "rating": "Good",
+                    "reportDate": "2015-05-06",
+                    "reportLinkId": "d270b899-864e-482b-bb72-82fd5b6e7eb5"
+                }
+            ],
+            "rating": "Good",
+            "reportDate": "2015-05-06",
+            "reportLinkId": "d270b899-864e-482b-bb72-82fd5b6e7eb5"
+        },
+        "reportDate": "2015-05-06"
+    },
+    "deregistrationDate": "2015-05-27",
+    "dormancy": "N",
+    "gacServiceTypes": [
+        {
+            "description": "Domiciliary care service",
+            "name": "Homecare agencies"
+        }
+    ],
+    "inspectionAreas": [],
+    "inspectionCategories": [
+        {
+            "code": "S2",
+            "name": "Community based adult social care services",
+            "primary": "true"
+        }
+    ],
+    "inspectionDirectorate": "Adult social care",
+    "lastInspection": {
+        "date": "2014-12-18"
+    },
+    "lastReport": {
+        "publicationDate": "2015-05-06"
+    },
+    "localAuthority": "Oldham",
+    "locationId": "1-349185032",
+    "locationTypes": [],
+    "mainPhoneNumber": "01616284222",
+    "name": "Nightingales Homecare",
+    "numberOfBeds": 0,
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.529876,
+    "onspdLongitude": -2.132957,
+    "organisationType": "Location",
+    "postalAddressCounty": "Lancashire",
+    "postalAddressLine1": "Beech House",
+    "postalAddressLine2": "Springbank Street",
+    "postalAddressTownCity": "Oldham",
+    "postalCode": "OL8 4LH",
+    "providerId": "1-120628603",
+    "region": "North West",
+    "registrationDate": "2011-12-18",
+    "registrationStatus": "Deregistered",
+    "regulatedActivities": [],
+    "relationships": [
+        {
+            "reason": "Location Move",
+            "relatedLocationId": "1-236287122",
+            "relatedLocationName": "Nightingale Homecare",
+            "type": "HSCA Predecessor"
+        },
+        {
+            "reason": "Location Move",
+            "relatedLocationId": "1-2058385384",
+            "relatedLocationName": "Nightingales Homecare",
+            "type": "HSCA Successor"
+        }
+    ],
+    "reports": [
+        {
+            "firstVisitDate": "2014-12-18",
+            "linkId": "d270b899-864e-482b-bb72-82fd5b6e7eb5",
+            "reportDate": "2015-05-06",
+            "reportType": "Location",
+            "reportUri": "/reports/d270b899-864e-482b-bb72-82fd5b6e7eb5?20210130060915"
+        },
+        {
+            "firstVisitDate": "2013-11-07",
+            "linkId": "bfcc3924-f5ca-4ae2-b2cb-0bf3279af068",
+            "reportDate": "2013-12-18",
+            "reportUri": "/reports/bfcc3924-f5ca-4ae2-b2cb-0bf3279af068?20200129163919"
+        },
+        {
+            "firstVisitDate": "2013-01-24",
+            "linkId": "00578535-2ea5-4d13-8384-8de4e9a98a1d",
+            "reportDate": "2013-02-19",
+            "reportUri": "/reports/00578535-2ea5-4d13-8384-8de4e9a98a1d?20151016191357"
+        }
+    ],
+    "specialisms": [
+        {
+            "name": "Caring for adults over 65 yrs"
+        },
+        {
+            "name": "Caring for adults under 65 yrs"
+        },
+        {
+            "name": "Dementia"
+        },
+        {
+            "name": "Eating disorders"
+        },
+        {
+            "name": "Learning disabilities"
+        },
+        {
+            "name": "Mental health conditions"
+        },
+        {
+            "name": "Physical disabilities"
+        },
+        {
+            "name": "Sensory impairment"
+        },
+        {
+            "name": "Substance misuse problems"
+        }
+    ],
+    "type": "Social Care Org"
+}

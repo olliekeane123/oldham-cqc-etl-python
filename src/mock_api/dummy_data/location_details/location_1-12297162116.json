@@ -1,0 +1,169 @@
+{
+    "careHome": "N",
+    "constituency": "Ashton-under-Lyne",
+    "currentRatings": {
+        "overall": {
+            "keyQuestionRatings": [
+                {
+                    "name": "Safe",
+                    "rating": "Good",
+                    "reportDate": "2023-09-27",
+                    "reportLinkId": "1762dd3a-407b-42df-9bb0-307209c43e09"
+                },
+                {
+                    "name": "Well-led",
+                    "rating": "Good",
+                    "reportDate": "2023-09-27",
+                    "reportLinkId": "1762dd3a-407b-42df-9bb0-307209c43e09"
+                },
+                {
+                    "name": "Caring",
+                    "rating": "Good",
+                    "reportDate": "2023-09-27",
+                    "reportLinkId": "1762dd3a-407b-42df-9bb0-307209c43e09"
+                },
+                {
+                    "name": "Responsive",
+                    "rating": "Good",
+                    "reportDate": "2023-09-27",
+                    "reportLinkId": "1762dd3a-407b-42df-9bb0-307209c43e09"
+                },
+                {
+                    "name": "Effective",
+                    "rating": "Good",
+                    "reportDate": "2023-09-27",
+                    "reportLinkId": "1762dd3a-407b-42df-9bb0-307209c43e09"
+                }
+            ],
+            "rating": "Good",
+            "reportDate": "2023-09-27",
+            "reportLinkId": "1762dd3a-407b-42df-9bb0-307209c43e09"
+        },
+        "reportDate": "2023-09-27",
+        "serviceRatings": [
+            {
+                "keyQuestionRatings": [
+                    {
+                        "name": "Caring",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Effective",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Responsive",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Safe",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Well-led",
+                        "rating": "Good"
+                    }
+                ],
+                "name": "transport",
+                "rating": "Good",
+                "reportDate": "2023-09-27",
+                "reportLinkId": "1762dd3a-407b-42df-9bb0-307209c43e09"
+            }
+        ]
+    },
+    "dormancy": "N",
+    "gacServiceTypes": [
+        {
+            "description": "Ambulance service",
+            "name": "Ambulances"
+        }
+    ],
+    "inspectionAreas": [
+        {
+            "inspectionAreaId": "transport",
+            "inspectionAreaName": "Patient transport services",
+            "status": "Active (Rated)"
+        }
+    ],
+    "inspectionCategories": [
+        {
+            "code": "H5",
+            "name": "Ambulance service",
+            "primary": "true"
+        }
+    ],
+    "inspectionDirectorate": "Hospitals",
+    "lastInspection": {
+        "date": "2023-08-11"
+    },
+    "lastReport": {
+        "publicationDate": "2023-09-27"
+    },
+    "localAuthority": "Oldham",
+    "locationId": "1-12297162116",
+    "locationTypes": [],
+    "mainPhoneNumber": "07889263607",
+    "name": "A F J Manchester",
+    "numberOfBeds": 0,
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.5044915,
+    "onspdLongitude": -2.1753941,
+    "organisationType": "Location",
+    "postalAddressLine1": "Dob Lane Chapel, Oldham Road",
+    "postalAddressLine2": "Failsworth",
+    "postalAddressTownCity": "Manchester",
+    "postalCode": "M35 0BR",
+    "providerId": "1-153035852",
+    "region": "North West",
+    "registrationDate": "2022-01-04",
+    "registrationStatus": "Registered",
+    "regulatedActivities": [
+        {
+            "code": "RA10",
+            "contacts": [
+                {
+                    "personFamilyName": "Shakil",
+                    "personGivenName": "Hassan",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Mr"
+                }
+            ],
+            "name": "Transport services, triage and medical advice provided remotely"
+        }
+    ],
+    "relationships": [],
+    "reports": [
+        {
+            "firstVisitDate": "2023-08-09",
+            "linkId": "1762dd3a-407b-42df-9bb0-307209c43e09",
+            "reportDate": "2023-09-27",
+            "reportType": "Location",
+            "reportUri": "/reports/1762dd3a-407b-42df-9bb0-307209c43e09?20230927070348"
+        }
+    ],
+    "specialisms": [
+        {
+            "name": "Caring for adults over 65 yrs"
+        },
+        {
+            "name": "Caring for adults under 65 yrs"
+        },
+        {
+            "name": "Dementia"
+        },
+        {
+            "name": "Learning disabilities"
+        },
+        {
+            "name": "Physical disabilities"
+        }
+    ],
+    "type": "Independent Ambulance",
+    "uprn": "422000118739",
+    "website": "www.afjtravel.com"
+}

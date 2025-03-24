@@ -1,0 +1,140 @@
+{
+    "brandId": "BD230",
+    "brandName": "BRAND IDH Dental",
+    "careHome": "N",
+    "constituency": "Oldham East and Saddleworth",
+    "currentRatings": {
+        "overall": {
+            "keyQuestionRatings": [
+                {
+                    "name": "Safe",
+                    "rating": "No published rating"
+                },
+                {
+                    "name": "Well-led",
+                    "rating": "No published rating"
+                },
+                {
+                    "name": "Caring",
+                    "rating": "No published rating"
+                },
+                {
+                    "name": "Responsive",
+                    "rating": "No published rating"
+                },
+                {
+                    "name": "Effective",
+                    "rating": "No published rating"
+                }
+            ],
+            "rating": "Inspected but not rated",
+            "reportDate": "2022-03-02",
+            "reportLinkId": "24263753-4c8d-482c-8c88-816b15713475"
+        },
+        "reportDate": "2022-03-02"
+    },
+    "dormancy": "N",
+    "gacServiceTypes": [
+        {
+            "description": "Dental service",
+            "name": "Dentist"
+        }
+    ],
+    "inspectionAreas": [],
+    "inspectionCategories": [
+        {
+            "code": "P1",
+            "name": "Dentists",
+            "primary": "true"
+        }
+    ],
+    "inspectionDirectorate": "Primary medical services",
+    "lastInspection": {
+        "date": "2022-02-02"
+    },
+    "lastReport": {
+        "publicationDate": "2022-03-02"
+    },
+    "localAuthority": "Oldham",
+    "locationId": "1-6353664640",
+    "locationTypes": [],
+    "mainPhoneNumber": "01616248551",
+    "name": "MyDentist - Ripponden Road - Oldham",
+    "numberOfBeds": 0,
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.5513904,
+    "onspdLongitude": -2.085871,
+    "organisationType": "Location",
+    "postalAddressLine1": "177 Littlemoor Lane",
+    "postalAddressTownCity": "Oldham",
+    "postalCode": "OL4 2SF",
+    "providerId": "1-161851228",
+    "region": "North West",
+    "registrationDate": "2019-01-28",
+    "registrationStatus": "Registered",
+    "regulatedActivities": [
+        {
+            "code": "RA5",
+            "contacts": [
+                {
+                    "personFamilyName": "Smith",
+                    "personGivenName": "Anne Margaret",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Ms"
+                }
+            ],
+            "name": "Treatment of disease, disorder or injury"
+        },
+        {
+            "code": "RA7",
+            "contacts": [
+                {
+                    "personFamilyName": "Smith",
+                    "personGivenName": "Anne Margaret",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Ms"
+                }
+            ],
+            "name": "Surgical procedures"
+        },
+        {
+            "code": "RA8",
+            "contacts": [
+                {
+                    "personFamilyName": "Smith",
+                    "personGivenName": "Anne Margaret",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Ms"
+                }
+            ],
+            "name": "Diagnostic and screening procedures"
+        }
+    ],
+    "relationships": [],
+    "reports": [
+        {
+            "firstVisitDate": "2022-02-02",
+            "linkId": "24263753-4c8d-482c-8c88-816b15713475",
+            "reportDate": "2022-03-02",
+            "reportType": "Location",
+            "reportUri": "/reports/24263753-4c8d-482c-8c88-816b15713475?20220302080043"
+        }
+    ],
+    "specialisms": [
+        {
+            "name": "Services for everyone"
+        }
+    ],
+    "type": "Primary Dental Care",
+    "uprn": "422000091258",
+    "website": "www.mydentist.co.uk"
+}

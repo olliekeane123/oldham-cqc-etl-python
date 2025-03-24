@@ -1,0 +1,101 @@
+{
+    "careHome": "N",
+    "constituency": "Oldham East and Saddleworth",
+    "dormancy": "N",
+    "gacServiceTypes": [
+        {
+            "description": "Dental service",
+            "name": "Dentist"
+        }
+    ],
+    "inspectionAreas": [],
+    "inspectionCategories": [
+        {
+            "code": "P1",
+            "name": "Dentists",
+            "primary": "true"
+        }
+    ],
+    "inspectionDirectorate": "Primary medical services",
+    "localAuthority": "Oldham",
+    "locationId": "1-14347783565",
+    "locationTypes": [],
+    "mainPhoneNumber": "01617102702",
+    "name": "Synergy Dental Clinic Oldham",
+    "numberOfBeds": 0,
+    "odsCode": "V348971",
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.5413868,
+    "onspdLongitude": -2.107218,
+    "organisationType": "Location",
+    "postalAddressLine1": "133 Union Street",
+    "postalAddressTownCity": "Oldham",
+    "postalCode": "OL1 1TE",
+    "providerId": "1-14160768207",
+    "region": "North West",
+    "registrationDate": "2023-11-01",
+    "registrationStatus": "Registered",
+    "regulatedActivities": [
+        {
+            "code": "RA5",
+            "contacts": [
+                {
+                    "personFamilyName": "Ahmad",
+                    "personGivenName": "Chaudhary Mateen",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Dr"
+                }
+            ],
+            "name": "Treatment of disease, disorder or injury"
+        },
+        {
+            "code": "RA7",
+            "contacts": [
+                {
+                    "personFamilyName": "Ahmad",
+                    "personGivenName": "Chaudhary Mateen",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Dr"
+                }
+            ],
+            "name": "Surgical procedures"
+        },
+        {
+            "code": "RA8",
+            "contacts": [
+                {
+                    "personFamilyName": "Ahmad",
+                    "personGivenName": "Chaudhary Mateen",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Dr"
+                }
+            ],
+            "name": "Diagnostic and screening procedures"
+        }
+    ],
+    "relationships": [
+        {
+            "reason": "Location Move",
+            "relatedLocationId": "1-15885286735",
+            "relatedLocationName": "Union Street Dental Practice",
+            "type": "HSCA Predecessor"
+        }
+    ],
+    "specialisms": [
+        {
+            "name": "Services for everyone"
+        }
+    ],
+    "type": "Primary Dental Care",
+    "uprn": "422000069144",
+    "website": "www.synergydental.org.uk"
+}

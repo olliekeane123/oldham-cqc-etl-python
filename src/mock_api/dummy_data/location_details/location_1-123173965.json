@@ -1,0 +1,62 @@
+{
+    "careHome": "Y",
+    "constituency": "Oldham East and Saddleworth",
+    "deregistrationDate": "2011-10-28",
+    "dormancy": "N",
+    "gacServiceTypes": [
+        {
+            "description": "Care home service with nursing",
+            "name": "Nursing homes"
+        }
+    ],
+    "inspectionAreas": [],
+    "inspectionDirectorate": "Unspecified",
+    "localAuthority": "Oldham",
+    "locationId": "1-123173965",
+    "locationTypes": [],
+    "mainPhoneNumber": "01616286811",
+    "name": "Treetops Nursing Home",
+    "numberOfBeds": 33,
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.532271,
+    "onspdLongitude": -2.110652,
+    "organisationType": "Location",
+    "postalAddressCounty": "Greater Manchester",
+    "postalAddressLine1": "Carthage Street",
+    "postalAddressTownCity": "Oldham",
+    "postalCode": "OL8 1LL",
+    "providerId": "1-101717336",
+    "region": "North West",
+    "registrationDate": "2011-02-03",
+    "registrationStatus": "Deregistered",
+    "regulatedActivities": [],
+    "relationships": [
+        {
+            "reason": "New Provider",
+            "relatedLocationId": "1-280584830",
+            "relatedLocationName": "Treetops Nursing Home",
+            "type": "HSCA Successor"
+        }
+    ],
+    "specialisms": [
+        {
+            "name": "Caring for adults over 65 yrs"
+        },
+        {
+            "name": "Dementia"
+        },
+        {
+            "name": "Learning disabilities"
+        },
+        {
+            "name": "Physical disabilities"
+        },
+        {
+            "name": "Sensory impairment"
+        }
+    ],
+    "type": "Social Care Org"
+}

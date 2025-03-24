@@ -1,0 +1,211 @@
+{
+    "brandId": "BD249",
+    "brandName": "BRAND Grosvenor Health and Social Care",
+    "careHome": "N",
+    "constituency": "Oldham West and Royton",
+    "currentRatings": {
+        "overall": {
+            "keyQuestionRatings": [
+                {
+                    "name": "Safe",
+                    "rating": "Good",
+                    "reportDate": "2022-05-25",
+                    "reportLinkId": "a02d50cb-8b76-4441-a1a0-574ed548f87b"
+                },
+                {
+                    "name": "Well-led",
+                    "rating": "Good",
+                    "reportDate": "2022-05-25",
+                    "reportLinkId": "a02d50cb-8b76-4441-a1a0-574ed548f87b"
+                },
+                {
+                    "name": "Caring",
+                    "rating": "Good",
+                    "reportDate": "2022-05-25",
+                    "reportLinkId": "a02d50cb-8b76-4441-a1a0-574ed548f87b"
+                },
+                {
+                    "name": "Responsive",
+                    "rating": "Good",
+                    "reportDate": "2022-05-25",
+                    "reportLinkId": "a02d50cb-8b76-4441-a1a0-574ed548f87b"
+                },
+                {
+                    "name": "Effective",
+                    "rating": "Good",
+                    "reportDate": "2022-05-25",
+                    "reportLinkId": "a02d50cb-8b76-4441-a1a0-574ed548f87b"
+                }
+            ],
+            "rating": "Good",
+            "reportDate": "2022-05-25",
+            "reportLinkId": "a02d50cb-8b76-4441-a1a0-574ed548f87b"
+        },
+        "reportDate": "2022-05-25"
+    },
+    "dormancy": "N",
+    "gacServiceTypes": [
+        {
+            "description": "Domiciliary care service",
+            "name": "Homecare agencies"
+        }
+    ],
+    "historicRatings": [
+        {
+            "organisationId": "1-1221269650",
+            "overall": {
+                "keyQuestionRatings": [
+                    {
+                        "name": "Safe",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Well-led",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Caring",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Responsive",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Effective",
+                        "rating": "Good"
+                    }
+                ],
+                "rating": "Good"
+            },
+            "reportDate": "2019-01-04",
+            "reportLinkId": "d063493c-85f2-4588-9d95-93e38f8b98f6"
+        },
+        {
+            "organisationId": "1-1221269650",
+            "overall": {
+                "keyQuestionRatings": [
+                    {
+                        "name": "Safe",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Well-led",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Caring",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Responsive",
+                        "rating": "Requires improvement"
+                    },
+                    {
+                        "name": "Effective",
+                        "rating": "Good"
+                    }
+                ],
+                "rating": "Good"
+            },
+            "reportDate": "2016-03-31",
+            "reportLinkId": "58ed8507-6e98-4b52-a205-7e1d18614cdb"
+        }
+    ],
+    "inspectionAreas": [],
+    "inspectionCategories": [
+        {
+            "code": "S2",
+            "name": "Community based adult social care services",
+            "primary": "true"
+        }
+    ],
+    "inspectionDirectorate": "Adult social care",
+    "lastInspection": {
+        "date": "2022-04-27"
+    },
+    "lastReport": {
+        "publicationDate": "2022-05-25"
+    },
+    "localAuthority": "Oldham",
+    "locationId": "1-9583134750",
+    "locationTypes": [],
+    "mainPhoneNumber": "01616828703",
+    "name": "Meridian Health and Social Care - Manchester",
+    "numberOfBeds": 0,
+    "odsCode": "VNGTV",
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.525495,
+    "onspdLongitude": -2.162778,
+    "organisationType": "Location",
+    "postalAddressCounty": "Lancashire",
+    "postalAddressLine1": "1st Floor, 498 Broadway",
+    "postalAddressLine2": "Chadderton",
+    "postalAddressTownCity": "Oldham",
+    "postalCode": "OL9 9PY",
+    "providerId": "1-9480064195",
+    "region": "North West",
+    "registrationDate": "2020-10-12",
+    "registrationStatus": "Registered",
+    "regulatedActivities": [
+        {
+            "code": "RA1",
+            "contacts": [
+                {
+                    "personFamilyName": "Wilson",
+                    "personGivenName": "Leanne Danielle",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Miss"
+                }
+            ],
+            "name": "Personal care"
+        }
+    ],
+    "relationships": [
+        {
+            "reason": "Legal Entity Change",
+            "relatedLocationId": "1-1221269650",
+            "relatedLocationName": "Synergy Homecare - Manchester",
+            "type": "HSCA Predecessor"
+        }
+    ],
+    "reports": [
+        {
+            "firstVisitDate": "2022-04-27",
+            "linkId": "a02d50cb-8b76-4441-a1a0-574ed548f87b",
+            "reportDate": "2022-05-25",
+            "reportType": "Location",
+            "reportUri": "/reports/a02d50cb-8b76-4441-a1a0-574ed548f87b?20220525120000"
+        }
+    ],
+    "specialisms": [
+        {
+            "name": "Caring for adults over 65 yrs"
+        },
+        {
+            "name": "Caring for adults under 65 yrs"
+        },
+        {
+            "name": "Dementia"
+        },
+        {
+            "name": "Learning disabilities"
+        },
+        {
+            "name": "Mental health conditions"
+        },
+        {
+            "name": "Physical disabilities"
+        },
+        {
+            "name": "Sensory impairment"
+        }
+    ],
+    "type": "Social Care Org",
+    "website": "www.meridianhsc.co.uk"
+}

@@ -1,0 +1,58 @@
+{
+    "brandId": "Q83",
+    "brandName": "NHS England North (Greater Manchester)",
+    "careHome": "N",
+    "constituency": "Oldham West and Royton",
+    "deregistrationDate": "2017-01-18",
+    "dormancy": "N",
+    "gacServiceTypes": [
+        {
+            "description": "Acute services with overnight beds",
+            "name": "Hospital"
+        }
+    ],
+    "inspectionAreas": [],
+    "inspectionCategories": [
+        {
+            "code": "H1",
+            "name": "Acute hospital - NHS non-specialist",
+            "primary": "true"
+        }
+    ],
+    "inspectionDirectorate": "Hospitals",
+    "localAuthority": "Oldham",
+    "locationId": "RW6X2",
+    "locationTypes": [],
+    "mainPhoneNumber": "01617708255",
+    "name": "Butler Green House",
+    "numberOfBeds": 0,
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.5310744,
+    "onspdLongitude": -2.145543,
+    "organisationType": "Location",
+    "postalAddressCounty": "Lancashire",
+    "postalAddressLine1": "Wallis Street",
+    "postalAddressLine2": "Chadderton",
+    "postalAddressTownCity": "Oldham",
+    "postalCode": "OL9 8NG",
+    "providerId": "RW6",
+    "region": "North West",
+    "registrationDate": "2012-01-06",
+    "registrationStatus": "Deregistered",
+    "regulatedActivities": [],
+    "relationships": [],
+    "specialisms": [
+        {
+            "name": "Caring for adults over 65 yrs"
+        },
+        {
+            "name": "Caring for adults under 65 yrs"
+        }
+    ],
+    "type": "NHS Healthcare Organisation",
+    "uprn": "422000017779",
+    "website": "www.pat.nhs.uk"
+}

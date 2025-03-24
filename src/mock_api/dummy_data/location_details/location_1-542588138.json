@@ -1,0 +1,330 @@
+{
+    "careHome": "N",
+    "constituency": "Oldham West and Royton",
+    "currentRatings": {
+        "overall": {
+            "keyQuestionRatings": [
+                {
+                    "name": "Safe",
+                    "rating": "Good",
+                    "reportDate": "2019-12-09",
+                    "reportLinkId": "af7e82a5-f60d-4945-963e-47861e406cc6"
+                },
+                {
+                    "name": "Well-led",
+                    "rating": "Good",
+                    "reportDate": "2019-12-09",
+                    "reportLinkId": "af7e82a5-f60d-4945-963e-47861e406cc6"
+                },
+                {
+                    "name": "Caring",
+                    "rating": "Good",
+                    "reportDate": "2019-12-09",
+                    "reportLinkId": "af7e82a5-f60d-4945-963e-47861e406cc6"
+                },
+                {
+                    "name": "Responsive",
+                    "rating": "Good",
+                    "reportDate": "2019-12-09",
+                    "reportLinkId": "af7e82a5-f60d-4945-963e-47861e406cc6"
+                },
+                {
+                    "name": "Effective",
+                    "rating": "Good",
+                    "reportDate": "2019-12-09",
+                    "reportLinkId": "af7e82a5-f60d-4945-963e-47861e406cc6"
+                }
+            ],
+            "rating": "Good",
+            "reportDate": "2019-12-09",
+            "reportLinkId": "af7e82a5-f60d-4945-963e-47861e406cc6"
+        },
+        "reportDate": "2019-12-09",
+        "serviceRatings": [
+            {
+                "name": "conditions",
+                "rating": "Good",
+                "reportDate": "2019-12-09",
+                "reportLinkId": "af7e82a5-f60d-4945-963e-47861e406cc6"
+            },
+            {
+                "name": "mothers",
+                "rating": "Good",
+                "reportDate": "2019-12-09",
+                "reportLinkId": "af7e82a5-f60d-4945-963e-47861e406cc6"
+            },
+            {
+                "name": "old",
+                "rating": "Good",
+                "reportDate": "2019-12-09",
+                "reportLinkId": "af7e82a5-f60d-4945-963e-47861e406cc6"
+            },
+            {
+                "name": "population",
+                "rating": "Requires improvement",
+                "reportDate": "2019-12-09",
+                "reportLinkId": "af7e82a5-f60d-4945-963e-47861e406cc6"
+            },
+            {
+                "name": "problems",
+                "rating": "Good",
+                "reportDate": "2019-12-09",
+                "reportLinkId": "af7e82a5-f60d-4945-963e-47861e406cc6"
+            },
+            {
+                "name": "vulnerable",
+                "rating": "Good",
+                "reportDate": "2019-12-09",
+                "reportLinkId": "af7e82a5-f60d-4945-963e-47861e406cc6"
+            }
+        ]
+    },
+    "deregistrationDate": "2019-12-05",
+    "dormancy": "N",
+    "gacServiceTypes": [
+        {
+            "description": "Doctors consultation service",
+            "name": "Doctors/Gps"
+        }
+    ],
+    "historicRatings": [
+        {
+            "overall": {
+                "rating": "Inspected but not rated"
+            },
+            "reportDate": "2019-07-29",
+            "reportLinkId": "e7add68e-a483-48c4-ab71-2c848c8a71dd"
+        },
+        {
+            "overall": {
+                "keyQuestionRatings": [
+                    {
+                        "name": "Safe",
+                        "rating": "Inadequate"
+                    },
+                    {
+                        "name": "Well-led",
+                        "rating": "Inadequate"
+                    },
+                    {
+                        "name": "Caring",
+                        "rating": "Requires improvement"
+                    },
+                    {
+                        "name": "Responsive",
+                        "rating": "Requires improvement"
+                    },
+                    {
+                        "name": "Effective",
+                        "rating": "Requires improvement"
+                    }
+                ],
+                "rating": "Inadequate"
+            },
+            "reportDate": "2019-04-23",
+            "reportLinkId": "2b9186c3-d75e-48a1-9a6d-4574f2bf4bc4",
+            "serviceRatings": [
+                {
+                    "name": "conditions",
+                    "rating": "Requires improvement"
+                },
+                {
+                    "name": "mothers",
+                    "rating": "Requires improvement"
+                },
+                {
+                    "name": "old",
+                    "rating": "Requires improvement"
+                },
+                {
+                    "name": "population",
+                    "rating": "Requires improvement"
+                },
+                {
+                    "name": "problems",
+                    "rating": "Requires improvement"
+                },
+                {
+                    "name": "vulnerable",
+                    "rating": "Requires improvement"
+                }
+            ]
+        },
+        {
+            "overall": {
+                "keyQuestionRatings": [
+                    {
+                        "name": "Safe",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Well-led",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Caring",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Responsive",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Effective",
+                        "rating": "Good"
+                    }
+                ],
+                "rating": "Good"
+            },
+            "reportDate": "2015-04-23",
+            "reportLinkId": "e5b97b12-7ba9-46e4-a503-35684ac58215",
+            "serviceRatings": [
+                {
+                    "name": "conditions",
+                    "rating": "Good"
+                },
+                {
+                    "name": "mothers",
+                    "rating": "Good"
+                },
+                {
+                    "name": "old",
+                    "rating": "Good"
+                },
+                {
+                    "name": "population",
+                    "rating": "Good"
+                },
+                {
+                    "name": "problems",
+                    "rating": "Good"
+                },
+                {
+                    "name": "vulnerable",
+                    "rating": "Good"
+                }
+            ]
+        }
+    ],
+    "inspectionAreas": [
+        {
+            "inspectionAreaId": "conditions",
+            "inspectionAreaName": "People with long term conditions",
+            "status": "Active (Rated)"
+        },
+        {
+            "inspectionAreaId": "mothers",
+            "inspectionAreaName": "Families, children and young people",
+            "status": "Active (Rated)"
+        },
+        {
+            "inspectionAreaId": "old",
+            "inspectionAreaName": "Older people",
+            "status": "Active (Rated)"
+        },
+        {
+            "inspectionAreaId": "population",
+            "inspectionAreaName": "Working age people (including those recently retired and students)",
+            "status": "Active (Rated)"
+        },
+        {
+            "inspectionAreaId": "problems",
+            "inspectionAreaName": "People experiencing poor mental health (including people with dementia)",
+            "status": "Active (Rated)"
+        },
+        {
+            "inspectionAreaId": "vulnerable",
+            "inspectionAreaName": "People whose circumstances may make them vulnerable",
+            "status": "Active (Rated)"
+        }
+    ],
+    "inspectionCategories": [
+        {
+            "code": "P2",
+            "name": "GP Practices",
+            "primary": "true"
+        }
+    ],
+    "inspectionDirectorate": "Primary medical services",
+    "lastInspection": {
+        "date": "2019-10-23"
+    },
+    "lastReport": {
+        "publicationDate": "2019-12-09"
+    },
+    "localAuthority": "Oldham",
+    "locationId": "1-542588138",
+    "locationTypes": [
+        {
+            "type": "GP Practice"
+        }
+    ],
+    "mainPhoneNumber": "01616245457",
+    "name": "Littletown Family Medical Practice",
+    "numberOfBeds": 0,
+    "odsCcgCode": "00Y",
+    "odsCcgName": "NHS Greater Manchester Icb - 00Y",
+    "odsCode": "P85605",
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.5291371,
+    "onspdLongitude": -2.1342976,
+    "organisationType": "Location",
+    "postalAddressCounty": "Greater Manchester",
+    "postalAddressLine1": "53 Manchester Road",
+    "postalAddressTownCity": "Oldham",
+    "postalCode": "OL8 4LR",
+    "providerId": "1-199785519",
+    "region": "North West",
+    "registrationDate": "2013-04-01",
+    "registrationStatus": "Deregistered",
+    "regulatedActivities": [],
+    "relationships": [
+        {
+            "reason": "Legal Entity Change",
+            "relatedLocationId": "1-7967940976",
+            "relatedLocationName": "Littletown Family Medical Practice",
+            "type": "HSCA Successor"
+        }
+    ],
+    "reports": [
+        {
+            "firstVisitDate": "2019-10-23",
+            "linkId": "af7e82a5-f60d-4945-963e-47861e406cc6",
+            "reportDate": "2019-12-09",
+            "reportType": "Location",
+            "reportUri": "/reports/af7e82a5-f60d-4945-963e-47861e406cc6?20210114232712"
+        },
+        {
+            "firstVisitDate": "2019-07-03",
+            "linkId": "e7add68e-a483-48c4-ab71-2c848c8a71dd",
+            "reportDate": "2019-07-29",
+            "reportType": "Location",
+            "reportUri": "/reports/e7add68e-a483-48c4-ab71-2c848c8a71dd?20210116010139"
+        },
+        {
+            "firstVisitDate": "2019-02-12",
+            "linkId": "2b9186c3-d75e-48a1-9a6d-4574f2bf4bc4",
+            "reportDate": "2019-04-23",
+            "reportType": "Location",
+            "reportUri": "/reports/2b9186c3-d75e-48a1-9a6d-4574f2bf4bc4?20210116092238"
+        },
+        {
+            "firstVisitDate": "2015-03-17",
+            "linkId": "e5b97b12-7ba9-46e4-a503-35684ac58215",
+            "reportDate": "2015-04-23",
+            "reportType": "Location",
+            "reportUri": "/reports/e5b97b12-7ba9-46e4-a503-35684ac58215?20210130030235"
+        }
+    ],
+    "specialisms": [
+        {
+            "name": "Services for everyone"
+        }
+    ],
+    "type": "Primary Medical Services",
+    "uprn": "422000105057",
+    "website": "www.littletownfamilymedical.nhs.uk"
+}

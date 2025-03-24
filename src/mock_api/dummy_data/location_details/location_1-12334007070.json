@@ -1,0 +1,128 @@
+{
+    "brandId": "BD320",
+    "brandName": "BRAND IntraHealth Limited",
+    "careHome": "N",
+    "constituency": "Oldham West and Royton",
+    "currentRatings": {
+        "overall": {
+            "keyQuestionRatings": [
+                {
+                    "name": "Safe",
+                    "rating": "Good",
+                    "reportDate": "2023-06-20",
+                    "reportLinkId": "1a7decff-c199-4ddb-a18d-c440f7f59995"
+                },
+                {
+                    "name": "Well-led",
+                    "rating": "Good",
+                    "reportDate": "2023-06-20",
+                    "reportLinkId": "1a7decff-c199-4ddb-a18d-c440f7f59995"
+                },
+                {
+                    "name": "Caring",
+                    "rating": "Good",
+                    "reportDate": "2023-06-20",
+                    "reportLinkId": "1a7decff-c199-4ddb-a18d-c440f7f59995"
+                },
+                {
+                    "name": "Responsive",
+                    "rating": "Good",
+                    "reportDate": "2023-06-20",
+                    "reportLinkId": "1a7decff-c199-4ddb-a18d-c440f7f59995"
+                },
+                {
+                    "name": "Effective",
+                    "rating": "Good",
+                    "reportDate": "2023-06-20",
+                    "reportLinkId": "1a7decff-c199-4ddb-a18d-c440f7f59995"
+                }
+            ],
+            "rating": "Good",
+            "reportDate": "2023-06-20",
+            "reportLinkId": "1a7decff-c199-4ddb-a18d-c440f7f59995"
+        },
+        "reportDate": "2023-06-20"
+    },
+    "dormancy": "N",
+    "gacServiceTypes": [
+        {
+            "description": "Doctors treatment service",
+            "name": "Doctors/Gps"
+        }
+    ],
+    "inspectionAreas": [],
+    "inspectionCategories": [
+        {
+            "code": "P7",
+            "name": "Independent consulting doctors",
+            "primary": "true"
+        }
+    ],
+    "inspectionDirectorate": "Primary medical services",
+    "lastInspection": {
+        "date": "2023-05-16"
+    },
+    "lastReport": {
+        "publicationDate": "2023-06-20"
+    },
+    "localAuthority": "Oldham",
+    "locationId": "1-12334007070",
+    "locationTypes": [],
+    "mainPhoneNumber": "03333583397",
+    "name": "IntraHealth Greater Manchester Office",
+    "numberOfBeds": 0,
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.5610698,
+    "onspdLongitude": -2.1108328,
+    "organisationType": "Location",
+    "postalAddressLine1": "Unit 10 Salmon Fields Business Village",
+    "postalAddressLine2": "Royton",
+    "postalAddressTownCity": "Oldham",
+    "postalCode": "OL2 6HT",
+    "providerId": "1-199687613",
+    "region": "North West",
+    "registrationDate": "2022-01-17",
+    "registrationStatus": "Registered",
+    "regulatedActivities": [
+        {
+            "code": "RA5",
+            "contacts": [
+                {
+                    "personFamilyName": "De Courcy Davies",
+                    "personGivenName": "Laura Christy",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Mrs"
+                }
+            ],
+            "name": "Treatment of disease, disorder or injury"
+        }
+    ],
+    "relationships": [],
+    "reports": [
+        {
+            "firstVisitDate": "2023-05-16",
+            "linkId": "1a7decff-c199-4ddb-a18d-c440f7f59995",
+            "reportDate": "2023-06-20",
+            "reportType": "Location",
+            "reportUri": "/reports/1a7decff-c199-4ddb-a18d-c440f7f59995?20230620070049"
+        }
+    ],
+    "specialisms": [
+        {
+            "name": "Caring for adults over 65 yrs"
+        },
+        {
+            "name": "Caring for adults under 65 yrs"
+        },
+        {
+            "name": "Caring for children"
+        }
+    ],
+    "type": "Independent Healthcare Org",
+    "uprn": "422000111634"
+}

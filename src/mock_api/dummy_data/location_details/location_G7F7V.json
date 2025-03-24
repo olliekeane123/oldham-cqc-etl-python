@@ -1,0 +1,67 @@
+{
+    "brandId": "Q83",
+    "brandName": "NHS England North (Greater Manchester)",
+    "careHome": "N",
+    "constituency": "Oldham West and Royton",
+    "dormancy": "N",
+    "gacServiceTypes": [
+        {
+            "description": "Diagnostic and/or screening service",
+            "name": "Diagnosis/screening"
+        }
+    ],
+    "inspectionAreas": [],
+    "inspectionCategories": [
+        {
+            "code": "H2",
+            "name": "Acute hospital - NHS specialist",
+            "primary": "true"
+        }
+    ],
+    "inspectionDirectorate": "Hospitals",
+    "localAuthority": "Oldham",
+    "locationId": "G7F7V",
+    "locationTypes": [],
+    "mainPhoneNumber": "07395798640",
+    "name": "Oldham Community Diagnostic Centre",
+    "numberOfBeds": 0,
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.5613414,
+    "onspdLongitude": -2.1086747,
+    "organisationType": "Location",
+    "postalAddressLine1": "Plateau 1, Salmon Fields",
+    "postalAddressLine2": "Royton",
+    "postalAddressTownCity": "Oldham",
+    "postalCode": "OL2 6JG",
+    "providerId": "RM3",
+    "region": "North West",
+    "registrationDate": "2022-12-16",
+    "registrationStatus": "Registered",
+    "regulatedActivities": [
+        {
+            "code": "RA5",
+            "contacts": [],
+            "name": "Treatment of disease, disorder or injury"
+        },
+        {
+            "code": "RA8",
+            "contacts": [],
+            "name": "Diagnostic and screening procedures"
+        }
+    ],
+    "relationships": [],
+    "specialisms": [
+        {
+            "name": "Caring for adults over 65 yrs"
+        },
+        {
+            "name": "Caring for adults under 65 yrs"
+        }
+    ],
+    "type": "NHS Healthcare Organisation",
+    "uprn": "100012736439",
+    "website": "northerncarealliance.nhs.uk"
+}

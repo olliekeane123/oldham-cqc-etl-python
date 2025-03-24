@@ -1,0 +1,163 @@
+{
+    "careHome": "Y",
+    "constituency": "Oldham East and Saddleworth",
+    "currentRatings": {
+        "overall": {
+            "keyQuestionRatings": [
+                {
+                    "name": "Safe",
+                    "rating": "Good",
+                    "reportDate": "2018-06-14",
+                    "reportLinkId": "a88eb05a-45f8-4401-942c-220ad8cd2327"
+                },
+                {
+                    "name": "Well-led",
+                    "rating": "Good",
+                    "reportDate": "2018-06-14",
+                    "reportLinkId": "a88eb05a-45f8-4401-942c-220ad8cd2327"
+                },
+                {
+                    "name": "Caring",
+                    "rating": "Good",
+                    "reportDate": "2018-06-14",
+                    "reportLinkId": "a88eb05a-45f8-4401-942c-220ad8cd2327"
+                },
+                {
+                    "name": "Responsive",
+                    "rating": "Good",
+                    "reportDate": "2018-06-14",
+                    "reportLinkId": "a88eb05a-45f8-4401-942c-220ad8cd2327"
+                },
+                {
+                    "name": "Effective",
+                    "rating": "Good",
+                    "reportDate": "2018-06-14",
+                    "reportLinkId": "a88eb05a-45f8-4401-942c-220ad8cd2327"
+                }
+            ],
+            "rating": "Good",
+            "reportDate": "2018-06-14",
+            "reportLinkId": "a88eb05a-45f8-4401-942c-220ad8cd2327"
+        },
+        "reportDate": "2018-06-14"
+    },
+    "deregistrationDate": "2023-07-14",
+    "dormancy": "N",
+    "gacServiceTypes": [
+        {
+            "description": "Care home service without nursing",
+            "name": "Residential homes"
+        }
+    ],
+    "historicRatings": [
+        {
+            "overall": {
+                "keyQuestionRatings": [
+                    {
+                        "name": "Safe",
+                        "rating": "Inspected but not rated"
+                    }
+                ],
+                "rating": "Inspected but not rated"
+            },
+            "reportDate": "2021-04-07",
+            "reportLinkId": "7c2c3e24-ed9f-41b0-9325-16e5e255b1c3"
+        }
+    ],
+    "inspectionAreas": [],
+    "inspectionCategories": [
+        {
+            "code": "S1",
+            "name": "Residential social care",
+            "primary": "true"
+        }
+    ],
+    "inspectionDirectorate": "Adult social care",
+    "lastInspection": {
+        "date": "2021-03-19"
+    },
+    "lastReport": {
+        "publicationDate": "2021-04-07"
+    },
+    "localAuthority": "Oldham",
+    "locationId": "1-2711314834",
+    "locationTypes": [],
+    "mainPhoneNumber": "01616264079",
+    "name": "Fern Bank Therapeutic Community Ltd",
+    "numberOfBeds": 29,
+    "odsCode": "VLD27",
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.534652,
+    "onspdLongitude": -2.100427,
+    "organisationType": "Location",
+    "postalAddressCounty": "Lancashire",
+    "postalAddressLine1": "91-95 Queens Road",
+    "postalAddressTownCity": "Oldham",
+    "postalCode": "OL8 2BA",
+    "providerId": "1-2565039519",
+    "region": "North West",
+    "registrationDate": "2017-01-20",
+    "registrationStatus": "Deregistered",
+    "regulatedActivities": [],
+    "relationships": [
+        {
+            "reason": "New Provider",
+            "relatedLocationId": "1-131335936",
+            "relatedLocationName": "Fern Bank Residential Care Home",
+            "type": "HSCA Predecessor"
+        },
+        {
+            "reason": "Legal Entity Change",
+            "relatedLocationId": "1-16483173019",
+            "relatedLocationName": "Fernbank",
+            "type": "HSCA Successor"
+        }
+    ],
+    "reports": [
+        {
+            "firstVisitDate": "2021-03-19",
+            "linkId": "7c2c3e24-ed9f-41b0-9325-16e5e255b1c3",
+            "reportDate": "2021-04-07",
+            "reportType": "Location",
+            "reportUri": "/reports/7c2c3e24-ed9f-41b0-9325-16e5e255b1c3?20210407120000"
+        },
+        {
+            "firstVisitDate": "2018-04-26",
+            "linkId": "a88eb05a-45f8-4401-942c-220ad8cd2327",
+            "reportDate": "2018-06-14",
+            "reportType": "Location",
+            "reportUri": "/reports/a88eb05a-45f8-4401-942c-220ad8cd2327?20211030120000"
+        }
+    ],
+    "specialisms": [
+        {
+            "name": "Caring for adults over 65 yrs"
+        },
+        {
+            "name": "Caring for adults under 65 yrs"
+        },
+        {
+            "name": "Dementia"
+        },
+        {
+            "name": "Learning disabilities"
+        },
+        {
+            "name": "Mental health conditions"
+        },
+        {
+            "name": "Physical disabilities"
+        },
+        {
+            "name": "Sensory impairment"
+        },
+        {
+            "name": "Substance misuse problems"
+        }
+    ],
+    "type": "Social Care Org",
+    "uprn": "422000125793"
+}

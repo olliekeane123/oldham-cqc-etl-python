@@ -1,0 +1,115 @@
+{
+    "careHome": "N",
+    "constituency": "Ashton-under-Lyne",
+    "dormancy": "N",
+    "dormancyEndDate": "2022-11-25",
+    "gacServiceTypes": [
+        {
+            "description": "Domiciliary care service",
+            "name": "Homecare agencies"
+        },
+        {
+            "description": "Community based services for people with a learning disability",
+            "name": "Community services - Learning disabilities"
+        },
+        {
+            "description": "Community based services for people with mental health needs",
+            "name": "Community services - Mental Health"
+        },
+        {
+            "description": "Supported living service",
+            "name": "Supported living"
+        },
+        {
+            "description": "Community based services for people who misuse substances",
+            "name": "Community services - Substance abuse"
+        }
+    ],
+    "inspectionAreas": [],
+    "inspectionCategories": [
+        {
+            "code": "H7",
+            "name": "Community substance misuse"
+        },
+        {
+            "code": "H8",
+            "name": "Mental health - community & hospital - independent"
+        },
+        {
+            "code": "S2",
+            "name": "Community based adult social care services",
+            "primary": "true"
+        }
+    ],
+    "inspectionDirectorate": "Adult social care",
+    "localAuthority": "Oldham",
+    "locationId": "1-12950144960",
+    "locationTypes": [],
+    "mainPhoneNumber": "01616676030",
+    "name": "Comprehensive Care Ltd",
+    "numberOfBeds": 0,
+    "odsCode": "VNM4X",
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.5120651,
+    "onspdLongitude": -2.1572985,
+    "organisationType": "Location",
+    "postalAddressLine1": "Ivy Business Centre",
+    "postalAddressLine2": "Office 3-13, Crown Street, Failsworth",
+    "postalAddressTownCity": "Manchester",
+    "postalCode": "M35 9BG",
+    "providerId": "1-10812912972",
+    "region": "North West",
+    "registrationDate": "2022-05-11",
+    "registrationStatus": "Registered",
+    "regulatedActivities": [
+        {
+            "code": "RA1",
+            "contacts": [
+                {
+                    "personFamilyName": "Raphael",
+                    "personGivenName": "Chinelo Celestina",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Mrs"
+                }
+            ],
+            "name": "Personal care"
+        }
+    ],
+    "relationships": [],
+    "specialisms": [
+        {
+            "name": "Caring for adults over 65 yrs"
+        },
+        {
+            "name": "Caring for adults under 65 yrs"
+        },
+        {
+            "name": "Dementia"
+        },
+        {
+            "name": "Eating disorders"
+        },
+        {
+            "name": "Learning disabilities"
+        },
+        {
+            "name": "Mental health conditions"
+        },
+        {
+            "name": "Physical disabilities"
+        },
+        {
+            "name": "Sensory impairment"
+        },
+        {
+            "name": "Substance misuse problems"
+        }
+    ],
+    "type": "Social Care Org",
+    "uprn": "422000118571"
+}

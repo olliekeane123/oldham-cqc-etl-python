@@ -1,0 +1,74 @@
+{
+    "careHome": "N",
+    "constituency": "Ashton-under-Lyne",
+    "dormancy": "N",
+    "dormancyEndDate": "2023-11-03",
+    "gacServiceTypes": [
+        {
+            "description": "Domiciliary care service",
+            "name": "Homecare agencies"
+        }
+    ],
+    "inspectionAreas": [],
+    "inspectionCategories": [
+        {
+            "code": "S2",
+            "name": "Community based adult social care services",
+            "primary": "true"
+        }
+    ],
+    "inspectionDirectorate": "Adult social care",
+    "localAuthority": "Oldham",
+    "locationId": "1-15227374805",
+    "locationTypes": [],
+    "mainPhoneNumber": "07783054300",
+    "name": "Work4U Solutions Limited",
+    "numberOfBeds": 0,
+    "odsCode": "VNPK7",
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.5120651,
+    "onspdLongitude": -2.1572985,
+    "organisationType": "Location",
+    "postalAddressLine1": "Ivy Mill",
+    "postalAddressLine2": "Crown Street, Failsworth",
+    "postalAddressTownCity": "Manchester",
+    "postalCode": "M35 9BG",
+    "providerId": "1-13561500125",
+    "region": "North West",
+    "registeredManagerAbsentDate": "2023-09-19",
+    "registrationDate": "2023-03-16",
+    "registrationStatus": "Registered",
+    "regulatedActivities": [
+        {
+            "code": "RA1",
+            "contacts": [],
+            "name": "Personal care"
+        }
+    ],
+    "relationships": [],
+    "specialisms": [
+        {
+            "name": "Caring for adults over 65 yrs"
+        },
+        {
+            "name": "Caring for adults under 65 yrs"
+        },
+        {
+            "name": "Dementia"
+        },
+        {
+            "name": "Mental health conditions"
+        },
+        {
+            "name": "Physical disabilities"
+        },
+        {
+            "name": "Sensory impairment"
+        }
+    ],
+    "type": "Social Care Org",
+    "uprn": "422000118571"
+}

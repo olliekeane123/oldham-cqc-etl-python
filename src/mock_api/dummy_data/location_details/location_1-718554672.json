@@ -1,0 +1,244 @@
+{
+    "careHome": "N",
+    "constituency": "Oldham West and Royton",
+    "currentRatings": {
+        "overall": {
+            "keyQuestionRatings": [
+                {
+                    "name": "Safe",
+                    "rating": "Good",
+                    "reportDate": "2016-11-16",
+                    "reportLinkId": "d15880b8-c319-4fce-bbe6-09bc55fb0811"
+                },
+                {
+                    "name": "Well-led",
+                    "rating": "Outstanding",
+                    "reportDate": "2016-11-16",
+                    "reportLinkId": "d15880b8-c319-4fce-bbe6-09bc55fb0811"
+                },
+                {
+                    "name": "Caring",
+                    "rating": "Outstanding",
+                    "reportDate": "2016-11-16",
+                    "reportLinkId": "d15880b8-c319-4fce-bbe6-09bc55fb0811"
+                },
+                {
+                    "name": "Responsive",
+                    "rating": "Outstanding",
+                    "reportDate": "2016-11-16",
+                    "reportLinkId": "d15880b8-c319-4fce-bbe6-09bc55fb0811"
+                },
+                {
+                    "name": "Effective",
+                    "rating": "Outstanding",
+                    "reportDate": "2016-11-16",
+                    "reportLinkId": "d15880b8-c319-4fce-bbe6-09bc55fb0811"
+                }
+            ],
+            "rating": "Outstanding",
+            "reportDate": "2016-11-16",
+            "reportLinkId": "d15880b8-c319-4fce-bbe6-09bc55fb0811"
+        },
+        "reportDate": "2016-11-16",
+        "serviceRatings": [
+            {
+                "name": "conditions",
+                "rating": "Outstanding",
+                "reportDate": "2016-11-16",
+                "reportLinkId": "d15880b8-c319-4fce-bbe6-09bc55fb0811"
+            },
+            {
+                "name": "mothers",
+                "rating": "Outstanding",
+                "reportDate": "2016-11-16",
+                "reportLinkId": "d15880b8-c319-4fce-bbe6-09bc55fb0811"
+            },
+            {
+                "name": "old",
+                "rating": "Outstanding",
+                "reportDate": "2016-11-16",
+                "reportLinkId": "d15880b8-c319-4fce-bbe6-09bc55fb0811"
+            },
+            {
+                "name": "population",
+                "rating": "Outstanding",
+                "reportDate": "2016-11-16",
+                "reportLinkId": "d15880b8-c319-4fce-bbe6-09bc55fb0811"
+            },
+            {
+                "name": "problems",
+                "rating": "Outstanding",
+                "reportDate": "2016-11-16",
+                "reportLinkId": "d15880b8-c319-4fce-bbe6-09bc55fb0811"
+            },
+            {
+                "name": "vulnerable",
+                "rating": "Outstanding",
+                "reportDate": "2016-11-16",
+                "reportLinkId": "d15880b8-c319-4fce-bbe6-09bc55fb0811"
+            }
+        ]
+    },
+    "dormancy": "N",
+    "gacServiceTypes": [
+        {
+            "description": "Doctors consultation service",
+            "name": "Doctors/Gps"
+        }
+    ],
+    "inspectionAreas": [
+        {
+            "inspectionAreaId": "conditions",
+            "inspectionAreaName": "People with long term conditions",
+            "status": "Active (Rated)"
+        },
+        {
+            "inspectionAreaId": "mothers",
+            "inspectionAreaName": "Families, children and young people",
+            "status": "Active (Rated)"
+        },
+        {
+            "inspectionAreaId": "old",
+            "inspectionAreaName": "Older people",
+            "status": "Active (Rated)"
+        },
+        {
+            "inspectionAreaId": "population",
+            "inspectionAreaName": "Working age people (including those recently retired and students)",
+            "status": "Active (Rated)"
+        },
+        {
+            "inspectionAreaId": "problems",
+            "inspectionAreaName": "People experiencing poor mental health (including people with dementia)",
+            "status": "Active (Rated)"
+        },
+        {
+            "inspectionAreaId": "vulnerable",
+            "inspectionAreaName": "People whose circumstances may make them vulnerable",
+            "status": "Active (Rated)"
+        }
+    ],
+    "inspectionCategories": [
+        {
+            "code": "P2",
+            "name": "GP Practices",
+            "primary": "true"
+        }
+    ],
+    "inspectionDirectorate": "Primary medical services",
+    "lastInspection": {
+        "date": "2016-09-23"
+    },
+    "localAuthority": "Oldham",
+    "locationId": "1-718554672",
+    "locationTypes": [
+        {
+            "type": "GP Practice"
+        }
+    ],
+    "mainPhoneNumber": "0161271308",
+    "name": "Hill Top Surgery",
+    "numberOfBeds": 0,
+    "odsCcgCode": "00Y",
+    "odsCcgName": "NHS Greater Manchester Icb - 00Y",
+    "odsCode": "Y02753",
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.5215454,
+    "onspdLongitude": -2.1017687,
+    "organisationType": "Location",
+    "postalAddressCounty": "Lancashire",
+    "postalAddressLine1": "Fitton Hill Neighbourhood Centre",
+    "postalAddressLine2": "Fircroft Road",
+    "postalAddressTownCity": "Oldham",
+    "postalCode": "OL8 2QD",
+    "providerId": "1-199810820",
+    "region": "North West",
+    "registrationDate": "2013-06-11",
+    "registrationStatus": "Registered",
+    "regulatedActivities": [
+        {
+            "code": "RA15",
+            "contacts": [
+                {
+                    "personFamilyName": "Neilson",
+                    "personGivenName": "Laura",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Dr"
+                }
+            ],
+            "name": "Family planning"
+        },
+        {
+            "code": "RA5",
+            "contacts": [
+                {
+                    "personFamilyName": "Neilson",
+                    "personGivenName": "Laura",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Dr"
+                }
+            ],
+            "name": "Treatment of disease, disorder or injury"
+        },
+        {
+            "code": "RA7",
+            "contacts": [
+                {
+                    "personFamilyName": "Neilson",
+                    "personGivenName": "Laura",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Dr"
+                }
+            ],
+            "name": "Surgical procedures"
+        },
+        {
+            "code": "RA8",
+            "contacts": [
+                {
+                    "personFamilyName": "Neilson",
+                    "personGivenName": "Laura",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Dr"
+                }
+            ],
+            "name": "Diagnostic and screening procedures"
+        }
+    ],
+    "relationships": [
+        {
+            "reason": "Location Move",
+            "relatedLocationId": "1-540250915",
+            "relatedLocationName": "Hope Citadel Healthcare CIC",
+            "type": "HSCA Predecessor"
+        }
+    ],
+    "reports": [
+        {
+            "firstVisitDate": "2016-09-23",
+            "linkId": "d15880b8-c319-4fce-bbe6-09bc55fb0811",
+            "reportDate": "2016-11-16",
+            "reportType": "Location",
+            "reportUri": "/reports/d15880b8-c319-4fce-bbe6-09bc55fb0811?20210121221020"
+        }
+    ],
+    "specialisms": [
+        {
+            "name": "Services for everyone"
+        }
+    ],
+    "type": "Primary Medical Services",
+    "uprn": "422000124486",
+    "website": "www.hilltopsurgery.org.uk/"
+}

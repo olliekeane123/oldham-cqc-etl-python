@@ -1,0 +1,67 @@
+{
+    "brandId": "BD148",
+    "brandName": "BRAND Housing & Care 21",
+    "careHome": "N",
+    "constituency": "Oldham West and Royton",
+    "deregistrationDate": "2015-07-16",
+    "dormancy": "N",
+    "gacServiceTypes": [
+        {
+            "description": "Domiciliary care service",
+            "name": "Homecare agencies"
+        }
+    ],
+    "inspectionAreas": [],
+    "inspectionCategories": [
+        {
+            "code": "S2",
+            "name": "Community based adult social care services",
+            "primary": "true"
+        }
+    ],
+    "inspectionDirectorate": "Adult social care",
+    "localAuthority": "Oldham",
+    "locationId": "1-1387127565",
+    "locationTypes": [],
+    "mainPhoneNumber": "03031231265",
+    "name": "Housing & Care 21 - Greater Manchester",
+    "numberOfBeds": 0,
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.525439,
+    "onspdLongitude": -2.135717,
+    "organisationType": "Location",
+    "postalAddressCounty": "Lancashire",
+    "postalAddressLine1": "Units 3 & 4 Chambers Business Centre",
+    "postalAddressLine2": "Chapel Road",
+    "postalAddressTownCity": "Oldham",
+    "postalCode": "OL8 4QQ",
+    "providerId": "1-102643148",
+    "region": "North West",
+    "registrationDate": "2014-05-01",
+    "registrationStatus": "Deregistered",
+    "regulatedActivities": [],
+    "relationships": [
+        {
+            "reason": "Location Move",
+            "relatedLocationId": "1-572353769",
+            "relatedLocationName": "Housing & Care 21 - Oldham",
+            "type": "HSCA Predecessor"
+        }
+    ],
+    "specialisms": [
+        {
+            "name": "Caring for adults over 65 yrs"
+        },
+        {
+            "name": "Caring for adults under 65 yrs"
+        },
+        {
+            "name": "Dementia"
+        }
+    ],
+    "type": "Social Care Org",
+    "website": "www.housing21.co.uk"
+}

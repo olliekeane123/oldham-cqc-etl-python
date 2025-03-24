@@ -1,0 +1,131 @@
+{
+    "careHome": "N",
+    "constituency": "Ashton-under-Lyne",
+    "currentRatings": {
+        "overall": {
+            "keyQuestionRatings": [
+                {
+                    "name": "Safe",
+                    "rating": "No published rating"
+                },
+                {
+                    "name": "Well-led",
+                    "rating": "No published rating"
+                },
+                {
+                    "name": "Caring",
+                    "rating": "No published rating"
+                },
+                {
+                    "name": "Responsive",
+                    "rating": "No published rating"
+                },
+                {
+                    "name": "Effective",
+                    "rating": "No published rating"
+                }
+            ],
+            "rating": "Inspected but not rated",
+            "reportDate": "2017-11-15",
+            "reportLinkId": "8211cb70-dfd5-41b1-88d9-c8588cf052d6"
+        },
+        "reportDate": "2017-11-15"
+    },
+    "deregistrationDate": "2022-08-15",
+    "dormancy": "N",
+    "gacServiceTypes": [
+        {
+            "description": "Dental service",
+            "name": "Dentist"
+        }
+    ],
+    "inspectionAreas": [],
+    "inspectionCategories": [
+        {
+            "code": "P1",
+            "name": "Dentists",
+            "primary": "true"
+        }
+    ],
+    "inspectionDirectorate": "Primary medical services",
+    "lastInspection": {
+        "date": "2017-10-03"
+    },
+    "lastReport": {
+        "publicationDate": "2017-11-15"
+    },
+    "localAuthority": "Oldham",
+    "locationId": "1-197075203",
+    "locationTypes": [],
+    "mainPhoneNumber": "01616824751",
+    "name": "H Showman & Associates Dental Practice",
+    "numberOfBeds": 0,
+    "odsCode": "V00156",
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.5099687,
+    "onspdLongitude": -2.1603079,
+    "organisationType": "Location",
+    "postalAddressCounty": "Greater Manchester",
+    "postalAddressLine1": "353 Oldham Road",
+    "postalAddressLine2": "Failsworth",
+    "postalAddressTownCity": "Manchester",
+    "postalCode": "M35 0AN",
+    "providerId": "1-152981205",
+    "region": "North West",
+    "registrationDate": "2011-04-01",
+    "registrationStatus": "Deregistered",
+    "regulatedActivities": [],
+    "relationships": [],
+    "reports": [
+        {
+            "firstVisitDate": "2017-10-03",
+            "linkId": "8211cb70-dfd5-41b1-88d9-c8588cf052d6",
+            "reportDate": "2017-11-15",
+            "reportType": "Location",
+            "reportUri": "/reports/8211cb70-dfd5-41b1-88d9-c8588cf052d6?20210117232406"
+        },
+        {
+            "firstVisitDate": "2012-11-20",
+            "linkId": "12851836-752d-4a43-8444-db88eb1282d8",
+            "reportDate": "2012-12-07",
+            "reportUri": "/reports/12851836-752d-4a43-8444-db88eb1282d8?20200129163919"
+        }
+    ],
+    "specialisms": [
+        {
+            "name": "Caring for adults over 65 yrs"
+        },
+        {
+            "name": "Caring for adults under 65 yrs"
+        },
+        {
+            "name": "Caring for children"
+        },
+        {
+            "name": "Dementia"
+        },
+        {
+            "name": "Eating disorders"
+        },
+        {
+            "name": "Learning disabilities"
+        },
+        {
+            "name": "Mental health conditions"
+        },
+        {
+            "name": "Physical disabilities"
+        },
+        {
+            "name": "Sensory impairment"
+        },
+        {
+            "name": "Substance misuse problems"
+        }
+    ],
+    "type": "Primary Dental Care",
+    "uprn": "422000032748"
+}

@@ -1,0 +1,150 @@
+{
+    "alsoKnownAs": "my dentist",
+    "brandId": "BD230",
+    "brandName": "BRAND IDH Dental",
+    "careHome": "N",
+    "constituency": "Oldham East and Saddleworth",
+    "currentRatings": {
+        "overall": {
+            "keyQuestionRatings": [
+                {
+                    "name": "Safe",
+                    "rating": "No published rating"
+                },
+                {
+                    "name": "Well-led",
+                    "rating": "No published rating"
+                },
+                {
+                    "name": "Caring",
+                    "rating": "No published rating"
+                },
+                {
+                    "name": "Responsive",
+                    "rating": "No published rating"
+                },
+                {
+                    "name": "Effective",
+                    "rating": "No published rating"
+                }
+            ],
+            "rating": "Inspected but not rated",
+            "reportDate": "2022-03-02",
+            "reportLinkId": "901c4388-8d9a-4b13-a4a3-8b4632a5e567"
+        },
+        "reportDate": "2022-03-02"
+    },
+    "dormancy": "N",
+    "gacServiceTypes": [
+        {
+            "description": "Dental service",
+            "name": "Dentist"
+        }
+    ],
+    "inspectionAreas": [],
+    "inspectionCategories": [
+        {
+            "code": "P1",
+            "name": "Dentists",
+            "primary": "true"
+        }
+    ],
+    "inspectionDirectorate": "Primary medical services",
+    "lastInspection": {
+        "date": "2022-02-02"
+    },
+    "lastReport": {
+        "publicationDate": "2022-03-02"
+    },
+    "localAuthority": "Oldham",
+    "locationId": "1-2084621570",
+    "locationTypes": [],
+    "name": "Mydentist - Ripponden Road - Oldham",
+    "numberOfBeds": 0,
+    "odsCode": "V00164",
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.5513904,
+    "onspdLongitude": -2.085871,
+    "organisationType": "Location",
+    "postalAddressCounty": "Lancashire",
+    "postalAddressLine1": "177-187 Littlemoor Lane",
+    "postalAddressLine2": "Watersheddings",
+    "postalAddressTownCity": "Oldham",
+    "postalCode": "OL4 2SF",
+    "providerId": "1-2063012662",
+    "region": "North West",
+    "registrationDate": "2015-07-31",
+    "registrationStatus": "Registered",
+    "regulatedActivities": [
+        {
+            "code": "RA5",
+            "contacts": [
+                {
+                    "personFamilyName": "Smith",
+                    "personGivenName": "Anne Margaret",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Ms"
+                }
+            ],
+            "name": "Treatment of disease, disorder or injury"
+        },
+        {
+            "code": "RA7",
+            "contacts": [
+                {
+                    "personFamilyName": "Smith",
+                    "personGivenName": "Anne Margaret",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Ms"
+                }
+            ],
+            "name": "Surgical procedures"
+        },
+        {
+            "code": "RA8",
+            "contacts": [
+                {
+                    "personFamilyName": "Smith",
+                    "personGivenName": "Anne Margaret",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Ms"
+                }
+            ],
+            "name": "Diagnostic and screening procedures"
+        }
+    ],
+    "relationships": [
+        {
+            "reason": "Legal Entity Change",
+            "relatedLocationId": "1-619125906",
+            "relatedLocationName": "Ripponden Road Dental Practice",
+            "type": "HSCA Predecessor"
+        }
+    ],
+    "reports": [
+        {
+            "firstVisitDate": "2022-02-02",
+            "linkId": "901c4388-8d9a-4b13-a4a3-8b4632a5e567",
+            "reportDate": "2022-03-02",
+            "reportType": "Location",
+            "reportUri": "/reports/901c4388-8d9a-4b13-a4a3-8b4632a5e567?20220302080043"
+        }
+    ],
+    "specialisms": [
+        {
+            "name": "Services for everyone"
+        }
+    ],
+    "type": "Primary Dental Care",
+    "uprn": "422000091258",
+    "website": "www.mydentist.co.uk"
+}

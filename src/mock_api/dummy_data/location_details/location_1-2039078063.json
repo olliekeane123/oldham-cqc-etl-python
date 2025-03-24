@@ -1,0 +1,235 @@
+{
+    "careHome": "N",
+    "constituency": "Oldham West and Royton",
+    "currentRatings": {
+        "overall": {
+            "keyQuestionRatings": [
+                {
+                    "name": "Safe",
+                    "rating": "Good",
+                    "reportDate": "2019-06-19",
+                    "reportLinkId": "d133c4c0-490c-4594-80ca-10f5aca2ed23"
+                },
+                {
+                    "name": "Well-led",
+                    "rating": "Good",
+                    "reportDate": "2019-06-19",
+                    "reportLinkId": "d133c4c0-490c-4594-80ca-10f5aca2ed23"
+                },
+                {
+                    "name": "Caring",
+                    "rating": "Good",
+                    "reportDate": "2019-06-19",
+                    "reportLinkId": "d133c4c0-490c-4594-80ca-10f5aca2ed23"
+                },
+                {
+                    "name": "Responsive",
+                    "rating": "Good",
+                    "reportDate": "2019-06-19",
+                    "reportLinkId": "d133c4c0-490c-4594-80ca-10f5aca2ed23"
+                },
+                {
+                    "name": "Effective",
+                    "rating": "Good",
+                    "reportDate": "2019-06-19",
+                    "reportLinkId": "d133c4c0-490c-4594-80ca-10f5aca2ed23"
+                }
+            ],
+            "rating": "Good",
+            "reportDate": "2019-06-19",
+            "reportLinkId": "d133c4c0-490c-4594-80ca-10f5aca2ed23"
+        },
+        "reportDate": "2019-06-19"
+    },
+    "dormancy": "N",
+    "gacServiceTypes": [
+        {
+            "description": "Dental service",
+            "name": "Dentist"
+        },
+        {
+            "description": "Doctors treatment service",
+            "name": "Doctors/Gps"
+        }
+    ],
+    "historicRatings": [
+        {
+            "overall": {
+                "rating": "Inspected but not rated"
+            },
+            "reportDate": "2018-03-06",
+            "reportLinkId": "a775d509-14ed-402a-a9c6-06533a0e8e2b"
+        },
+        {
+            "overall": {
+                "keyQuestionRatings": [
+                    {
+                        "name": "Safe",
+                        "rating": "Inspected but not rated"
+                    },
+                    {
+                        "name": "Well-led",
+                        "rating": "Inspected but not rated"
+                    },
+                    {
+                        "name": "Caring",
+                        "rating": "Inspected but not rated"
+                    },
+                    {
+                        "name": "Responsive",
+                        "rating": "Inspected but not rated"
+                    },
+                    {
+                        "name": "Effective",
+                        "rating": "Inspected but not rated"
+                    }
+                ],
+                "rating": "Inspected but not rated"
+            },
+            "reportDate": "2018-01-16",
+            "reportLinkId": "690f2cc5-24d9-4439-ba68-44185fe58f1e"
+        }
+    ],
+    "inspectionAreas": [],
+    "inspectionCategories": [
+        {
+            "code": "P1",
+            "name": "Dentists",
+            "primary": "true"
+        },
+        {
+            "code": "P7",
+            "name": "Independent consulting doctors"
+        }
+    ],
+    "inspectionDirectorate": "Primary medical services",
+    "lastInspection": {
+        "date": "2019-05-02"
+    },
+    "lastReport": {
+        "publicationDate": "2019-06-19"
+    },
+    "localAuthority": "Oldham",
+    "locationId": "1-2039078063",
+    "locationTypes": [
+        {
+            "type": "GP Practice"
+        }
+    ],
+    "name": "Ascroft Medical",
+    "numberOfBeds": 0,
+    "odsCode": "V80364",
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.540698,
+    "onspdLongitude": -2.113086,
+    "organisationType": "Location",
+    "postalAddressCounty": "Greater Manchester",
+    "postalAddressLine1": "3 Ascroft Court",
+    "postalAddressLine2": "Peter Street",
+    "postalAddressTownCity": "Oldham",
+    "postalCode": "OL1 1HP",
+    "providerId": "1-1986575103",
+    "region": "North West",
+    "registrationDate": "2015-05-19",
+    "registrationStatus": "Registered",
+    "regulatedActivities": [
+        {
+            "code": "RA11",
+            "contacts": [
+                {
+                    "personFamilyName": "Zemlik",
+                    "personGivenName": "Krzysztof Wojciech",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Mr"
+                }
+            ],
+            "name": "Maternity and midwifery services"
+        },
+        {
+            "code": "RA5",
+            "contacts": [
+                {
+                    "personFamilyName": "Zemlik",
+                    "personGivenName": "Krzysztof Wojciech",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Mr"
+                }
+            ],
+            "name": "Treatment of disease, disorder or injury"
+        },
+        {
+            "code": "RA7",
+            "contacts": [
+                {
+                    "personFamilyName": "Zemlik",
+                    "personGivenName": "Krzysztof Wojciech",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Mr"
+                }
+            ],
+            "name": "Surgical procedures"
+        },
+        {
+            "code": "RA8",
+            "contacts": [
+                {
+                    "personFamilyName": "Zemlik",
+                    "personGivenName": "Krzysztof Wojciech",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Mr"
+                }
+            ],
+            "name": "Diagnostic and screening procedures"
+        }
+    ],
+    "relationships": [],
+    "reports": [
+        {
+            "firstVisitDate": "2019-05-02",
+            "linkId": "d133c4c0-490c-4594-80ca-10f5aca2ed23",
+            "reportDate": "2019-06-19",
+            "reportType": "Location",
+            "reportUri": "/reports/d133c4c0-490c-4594-80ca-10f5aca2ed23?20210116060942"
+        },
+        {
+            "firstVisitDate": "2018-05-25",
+            "linkId": "75e945b1-8dee-4c81-b775-25e385fd5833",
+            "reportDate": "2018-09-27",
+            "reportType": "Location",
+            "reportUri": "/reports/75e945b1-8dee-4c81-b775-25e385fd5833?20210116215811"
+        },
+        {
+            "firstVisitDate": "2018-02-09",
+            "linkId": "a775d509-14ed-402a-a9c6-06533a0e8e2b",
+            "reportDate": "2018-03-06",
+            "reportType": "Location",
+            "reportUri": "/reports/a775d509-14ed-402a-a9c6-06533a0e8e2b?20180815143505"
+        },
+        {
+            "firstVisitDate": "2017-11-15",
+            "linkId": "690f2cc5-24d9-4439-ba68-44185fe58f1e",
+            "reportDate": "2018-01-16",
+            "reportType": "Location",
+            "reportUri": "/reports/690f2cc5-24d9-4439-ba68-44185fe58f1e?20210117194415"
+        }
+    ],
+    "specialisms": [
+        {
+            "name": "Services for everyone"
+        }
+    ],
+    "type": "Primary Dental Care",
+    "uprn": "422000103929",
+    "website": "www.ascroftmedical.co.uk"
+}

@@ -1,0 +1,140 @@
+{
+    "careHome": "N",
+    "constituency": "Oldham East and Saddleworth",
+    "currentRatings": {
+        "overall": {
+            "keyQuestionRatings": [
+                {
+                    "name": "Safe",
+                    "rating": "Good",
+                    "reportDate": "2022-07-28",
+                    "reportLinkId": "83823089-a978-484b-a40f-95ca6553fdba"
+                },
+                {
+                    "name": "Well-led",
+                    "rating": "Good",
+                    "reportDate": "2022-07-28",
+                    "reportLinkId": "83823089-a978-484b-a40f-95ca6553fdba"
+                },
+                {
+                    "name": "Caring",
+                    "rating": "Good",
+                    "reportDate": "2022-07-28",
+                    "reportLinkId": "83823089-a978-484b-a40f-95ca6553fdba"
+                },
+                {
+                    "name": "Responsive",
+                    "rating": "Good",
+                    "reportDate": "2022-07-28",
+                    "reportLinkId": "83823089-a978-484b-a40f-95ca6553fdba"
+                },
+                {
+                    "name": "Effective",
+                    "rating": "Good",
+                    "reportDate": "2022-07-28",
+                    "reportLinkId": "83823089-a978-484b-a40f-95ca6553fdba"
+                }
+            ],
+            "rating": "Good",
+            "reportDate": "2022-07-28",
+            "reportLinkId": "83823089-a978-484b-a40f-95ca6553fdba"
+        },
+        "reportDate": "2022-07-28"
+    },
+    "dormancy": "N",
+    "gacServiceTypes": [
+        {
+            "description": "Doctors consultation service",
+            "name": "Doctors/Gps"
+        }
+    ],
+    "inspectionAreas": [],
+    "inspectionCategories": [
+        {
+            "code": "P2",
+            "name": "GP Practices",
+            "primary": "true"
+        }
+    ],
+    "inspectionDirectorate": "Primary medical services",
+    "lastInspection": {
+        "date": "2022-06-17"
+    },
+    "lastReport": {
+        "publicationDate": "2022-07-28"
+    },
+    "localAuthority": "Oldham",
+    "locationId": "1-12070256587",
+    "locationTypes": [
+        {
+            "type": "GP Practice"
+        }
+    ],
+    "mainPhoneNumber": "01612713120",
+    "name": "Jarvis Medical Practice",
+    "numberOfBeds": 0,
+    "odsCcgCode": "00Y",
+    "odsCcgName": "NHS Greater Manchester Icb - 00Y",
+    "odsCode": "P85622",
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.537786,
+    "onspdLongitude": -2.095095,
+    "organisationType": "Location",
+    "postalAddressCounty": "Lancs",
+    "postalAddressLine1": "Glodwick Primary Care Centre",
+    "postalAddressLine2": "137 Glodwick Road",
+    "postalAddressTownCity": "Oldham",
+    "postalCode": "OL4 1YN",
+    "providerId": "1-199810820",
+    "region": "North West",
+    "registeredManagerAbsentDate": "2025-02-18",
+    "registrationDate": "2021-12-08",
+    "registrationStatus": "Registered",
+    "regulatedActivities": [
+        {
+            "code": "RA11",
+            "contacts": [],
+            "name": "Maternity and midwifery services"
+        },
+        {
+            "code": "RA15",
+            "contacts": [],
+            "name": "Family planning"
+        },
+        {
+            "code": "RA5",
+            "contacts": [],
+            "name": "Treatment of disease, disorder or injury"
+        },
+        {
+            "code": "RA7",
+            "contacts": [],
+            "name": "Surgical procedures"
+        },
+        {
+            "code": "RA8",
+            "contacts": [],
+            "name": "Diagnostic and screening procedures"
+        }
+    ],
+    "relationships": [],
+    "reports": [
+        {
+            "firstVisitDate": "2022-06-17",
+            "linkId": "83823089-a978-484b-a40f-95ca6553fdba",
+            "reportDate": "2022-07-28",
+            "reportType": "Location",
+            "reportUri": "/reports/83823089-a978-484b-a40f-95ca6553fdba?20220728070105"
+        }
+    ],
+    "specialisms": [
+        {
+            "name": "Services for everyone"
+        }
+    ],
+    "type": "Primary Medical Services",
+    "website": "www.jarvismedicalpractice.org.uk"
+}

@@ -1,0 +1,218 @@
+{
+    "careHome": "Y",
+    "constituency": "Oldham East and Saddleworth",
+    "currentRatings": {
+        "overall": {
+            "keyQuestionRatings": [
+                {
+                    "name": "Safe",
+                    "rating": "Good",
+                    "reportDate": "2018-08-16",
+                    "reportLinkId": "174c84aa-a57f-4218-a629-c1a797ef877d"
+                },
+                {
+                    "name": "Well-led",
+                    "rating": "Good",
+                    "reportDate": "2018-08-16",
+                    "reportLinkId": "174c84aa-a57f-4218-a629-c1a797ef877d"
+                },
+                {
+                    "name": "Caring",
+                    "rating": "Good",
+                    "reportDate": "2018-08-16",
+                    "reportLinkId": "174c84aa-a57f-4218-a629-c1a797ef877d"
+                },
+                {
+                    "name": "Responsive",
+                    "rating": "Good",
+                    "reportDate": "2018-08-16",
+                    "reportLinkId": "174c84aa-a57f-4218-a629-c1a797ef877d"
+                },
+                {
+                    "name": "Effective",
+                    "rating": "Good",
+                    "reportDate": "2018-08-16",
+                    "reportLinkId": "174c84aa-a57f-4218-a629-c1a797ef877d"
+                }
+            ],
+            "rating": "Good",
+            "reportDate": "2018-08-16",
+            "reportLinkId": "174c84aa-a57f-4218-a629-c1a797ef877d"
+        },
+        "reportDate": "2018-08-16"
+    },
+    "dormancy": "N",
+    "gacServiceTypes": [
+        {
+            "description": "Care home service without nursing",
+            "name": "Residential homes"
+        },
+        {
+            "description": "Domiciliary care service",
+            "name": "Homecare agencies"
+        }
+    ],
+    "historicRatings": [
+        {
+            "overall": {
+                "keyQuestionRatings": [
+                    {
+                        "name": "Safe",
+                        "rating": "Inspected but not rated"
+                    }
+                ],
+                "rating": "Inspected but not rated"
+            },
+            "reportDate": "2021-03-17",
+            "reportLinkId": "34360a7b-2c6c-4b34-a6b1-da3e319dec8b"
+        },
+        {
+            "overall": {
+                "keyQuestionRatings": [
+                    {
+                        "name": "Safe",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Well-led",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Caring",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Responsive",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Effective",
+                        "rating": "Requires improvement"
+                    }
+                ],
+                "rating": "Good"
+            },
+            "reportDate": "2016-10-08",
+            "reportLinkId": "2daa7735-744f-4fa7-945f-b1c798828adb"
+        }
+    ],
+    "inspectionAreas": [],
+    "inspectionCategories": [
+        {
+            "code": "S1",
+            "name": "Residential social care",
+            "primary": "true"
+        },
+        {
+            "code": "S2",
+            "name": "Community based adult social care services"
+        }
+    ],
+    "inspectionDirectorate": "Adult social care",
+    "lastInspection": {
+        "date": "2021-03-03"
+    },
+    "lastReport": {
+        "publicationDate": "2021-03-17"
+    },
+    "localAuthority": "Oldham",
+    "locationId": "1-120713619",
+    "locationTypes": [],
+    "mainPhoneNumber": "01457874300",
+    "name": "Stoneswood Residential Home",
+    "numberOfBeds": 45,
+    "odsCode": "VLD2W",
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.561782,
+    "onspdLongitude": -2.0269083,
+    "organisationType": "Location",
+    "postalAddressCounty": "Lancashire",
+    "postalAddressLine1": "Oldham Road",
+    "postalAddressLine2": "Delph",
+    "postalAddressTownCity": "Oldham",
+    "postalCode": "OL3 5EB",
+    "providerId": "1-101662271",
+    "region": "North West",
+    "registeredManagerAbsentDate": "2024-08-06",
+    "registrationDate": "2011-01-11",
+    "registrationStatus": "Registered",
+    "regulatedActivities": [
+        {
+            "code": "RA1",
+            "contacts": [],
+            "name": "Personal care"
+        },
+        {
+            "code": "RA2",
+            "contacts": [],
+            "name": "Accommodation for persons who require nursing or personal care"
+        }
+    ],
+    "relationships": [],
+    "reports": [
+        {
+            "firstVisitDate": "2021-03-03",
+            "linkId": "34360a7b-2c6c-4b34-a6b1-da3e319dec8b",
+            "reportDate": "2021-03-17",
+            "reportType": "Location",
+            "reportUri": "/reports/34360a7b-2c6c-4b34-a6b1-da3e319dec8b?20210317130000"
+        },
+        {
+            "firstVisitDate": "2018-05-30",
+            "linkId": "174c84aa-a57f-4218-a629-c1a797ef877d",
+            "reportDate": "2018-08-16",
+            "reportType": "Location",
+            "reportUri": "/reports/174c84aa-a57f-4218-a629-c1a797ef877d?20211030120000"
+        },
+        {
+            "firstVisitDate": "2016-06-29",
+            "linkId": "2daa7735-744f-4fa7-945f-b1c798828adb",
+            "reportDate": "2016-10-08",
+            "reportType": "Location",
+            "reportUri": "/reports/2daa7735-744f-4fa7-945f-b1c798828adb?20200129163919"
+        },
+        {
+            "firstVisitDate": "2014-07-04",
+            "linkId": "4b31a92d-6e10-47f0-b259-a0845117696d",
+            "reportDate": "2014-08-12",
+            "reportUri": "/reports/4b31a92d-6e10-47f0-b259-a0845117696d?20200129163919"
+        },
+        {
+            "firstVisitDate": "2013-10-04",
+            "linkId": "7625a2e2-1823-4bbd-9eb9-14d2d79b6855",
+            "reportDate": "2013-11-06",
+            "reportUri": "/reports/7625a2e2-1823-4bbd-9eb9-14d2d79b6855?20200129163919"
+        },
+        {
+            "firstVisitDate": "2013-01-17",
+            "linkId": "e57f59dc-d230-49c9-bd0f-6a7880324e84",
+            "reportDate": "2013-02-27",
+            "reportUri": "/reports/e57f59dc-d230-49c9-bd0f-6a7880324e84?20200129163919"
+        },
+        {
+            "firstVisitDate": "2012-01-31",
+            "linkId": "9b568fa6-930d-4623-967e-8a6e2684b6e3",
+            "reportDate": "2012-04-16",
+            "reportUri": "/reports/9b568fa6-930d-4623-967e-8a6e2684b6e3?20200430120000"
+        }
+    ],
+    "specialisms": [
+        {
+            "name": "Caring for adults over 65 yrs"
+        },
+        {
+            "name": "Dementia"
+        },
+        {
+            "name": "Physical disabilities"
+        },
+        {
+            "name": "Sensory impairment"
+        }
+    ],
+    "type": "Social Care Org",
+    "uprn": "422000120407"
+}

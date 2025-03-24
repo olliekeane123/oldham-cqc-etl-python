@@ -1,0 +1,253 @@
+{
+    "careHome": "Y",
+    "constituency": "Ashton-under-Lyne",
+    "currentRatings": {
+        "overall": {
+            "keyQuestionRatings": [
+                {
+                    "name": "Safe",
+                    "rating": "Good",
+                    "reportDate": "2021-07-15",
+                    "reportLinkId": "d5a4ee71-8972-499f-b5bc-99de3f481699"
+                },
+                {
+                    "name": "Well-led",
+                    "rating": "Requires improvement",
+                    "reportDate": "2021-07-15",
+                    "reportLinkId": "d5a4ee71-8972-499f-b5bc-99de3f481699"
+                },
+                {
+                    "name": "Caring",
+                    "rating": "Good",
+                    "reportDate": "2019-10-17",
+                    "reportLinkId": "34e2ba8f-273c-473a-a19d-5ab62787fb81"
+                },
+                {
+                    "name": "Responsive",
+                    "rating": "Good",
+                    "reportDate": "2021-07-15",
+                    "reportLinkId": "d5a4ee71-8972-499f-b5bc-99de3f481699"
+                },
+                {
+                    "name": "Effective",
+                    "rating": "Good",
+                    "reportDate": "2019-10-17",
+                    "reportLinkId": "34e2ba8f-273c-473a-a19d-5ab62787fb81"
+                }
+            ],
+            "rating": "Good",
+            "reportDate": "2021-07-15",
+            "reportLinkId": "d5a4ee71-8972-499f-b5bc-99de3f481699"
+        },
+        "reportDate": "2021-07-15"
+    },
+    "deregistrationDate": "2024-09-18",
+    "dormancy": "N",
+    "gacServiceTypes": [
+        {
+            "description": "Care home service with nursing",
+            "name": "Nursing homes"
+        }
+    ],
+    "historicRatings": [
+        {
+            "overall": {
+                "keyQuestionRatings": [
+                    {
+                        "name": "Safe",
+                        "rating": "Requires improvement"
+                    },
+                    {
+                        "name": "Well-led",
+                        "rating": "Requires improvement"
+                    },
+                    {
+                        "name": "Responsive",
+                        "rating": "Requires improvement"
+                    }
+                ],
+                "rating": "Requires improvement"
+            },
+            "reportDate": "2019-10-17",
+            "reportLinkId": "34e2ba8f-273c-473a-a19d-5ab62787fb81"
+        },
+        {
+            "overall": {
+                "keyQuestionRatings": [
+                    {
+                        "name": "Safe",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Well-led",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Caring",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Responsive",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Effective",
+                        "rating": "Good"
+                    }
+                ],
+                "rating": "Good"
+            },
+            "reportDate": "2017-02-17",
+            "reportLinkId": "c156c53c-aed1-4db1-8546-4cd46f656148"
+        },
+        {
+            "overall": {
+                "keyQuestionRatings": [
+                    {
+                        "name": "Safe",
+                        "rating": "Requires improvement"
+                    },
+                    {
+                        "name": "Well-led",
+                        "rating": "Requires improvement"
+                    },
+                    {
+                        "name": "Caring",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Responsive",
+                        "rating": "Requires improvement"
+                    },
+                    {
+                        "name": "Effective",
+                        "rating": "Requires improvement"
+                    }
+                ],
+                "rating": "Requires improvement"
+            },
+            "reportDate": "2015-12-31",
+            "reportLinkId": "bbd41ffd-0a32-4556-9a0d-1252d769496a"
+        }
+    ],
+    "inspectionAreas": [],
+    "inspectionCategories": [
+        {
+            "code": "S1",
+            "name": "Residential social care",
+            "primary": "true"
+        }
+    ],
+    "inspectionDirectorate": "Adult social care",
+    "lastInspection": {
+        "date": "2021-05-18"
+    },
+    "lastReport": {
+        "publicationDate": "2021-07-15"
+    },
+    "localAuthority": "Oldham",
+    "locationId": "1-151959980",
+    "locationTypes": [],
+    "mainPhoneNumber": "01616818000",
+    "name": "Acorn Lodge Nursing Home",
+    "numberOfBeds": 85,
+    "odsCode": "VLXL9",
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.5072647,
+    "onspdLongitude": -2.1643974,
+    "organisationType": "Location",
+    "postalAddressCounty": "Greater Manchester",
+    "postalAddressLine1": "1 Guido Street",
+    "postalAddressLine2": "Failsworth",
+    "postalAddressTownCity": "Manchester",
+    "postalCode": "M35 0AL",
+    "providerId": "1-138297014",
+    "region": "North West",
+    "registrationDate": "2011-01-27",
+    "registrationStatus": "Deregistered",
+    "regulatedActivities": [],
+    "relationships": [],
+    "reports": [
+        {
+            "firstVisitDate": "2021-05-13",
+            "linkId": "d5a4ee71-8972-499f-b5bc-99de3f481699",
+            "reportDate": "2021-07-15",
+            "reportType": "Location",
+            "reportUri": "/reports/d5a4ee71-8972-499f-b5bc-99de3f481699?20210715120000"
+        },
+        {
+            "firstVisitDate": "2019-08-20",
+            "linkId": "34e2ba8f-273c-473a-a19d-5ab62787fb81",
+            "reportDate": "2019-10-17",
+            "reportType": "Location",
+            "reportUri": "/reports/34e2ba8f-273c-473a-a19d-5ab62787fb81?20191029130000"
+        },
+        {
+            "firstVisitDate": "2016-12-15",
+            "linkId": "c156c53c-aed1-4db1-8546-4cd46f656148",
+            "reportDate": "2017-02-17",
+            "reportType": "Location",
+            "reportUri": "/reports/c156c53c-aed1-4db1-8546-4cd46f656148?20211030120000"
+        },
+        {
+            "firstVisitDate": "2015-08-24",
+            "linkId": "bbd41ffd-0a32-4556-9a0d-1252d769496a",
+            "reportDate": "2015-12-31",
+            "reportType": "Location",
+            "reportUri": "/reports/bbd41ffd-0a32-4556-9a0d-1252d769496a?20210124190059"
+        },
+        {
+            "firstVisitDate": "2014-09-16",
+            "linkId": "2d90b1c4-7707-48de-919b-93dc2ecd5bba",
+            "reportDate": "2014-10-25",
+            "reportUri": "/reports/2d90b1c4-7707-48de-919b-93dc2ecd5bba?20200129163919"
+        },
+        {
+            "firstVisitDate": "2014-02-27",
+            "linkId": "b972f017-537b-47b2-99bf-796fde82feb1",
+            "reportDate": "2014-04-11",
+            "reportUri": "/reports/b972f017-537b-47b2-99bf-796fde82feb1?20200129163919"
+        },
+        {
+            "firstVisitDate": "2013-06-11",
+            "linkId": "b5601208-8b45-4804-8f29-b89895926983",
+            "reportDate": "2013-07-10",
+            "reportUri": "/reports/b5601208-8b45-4804-8f29-b89895926983?20200129163919"
+        },
+        {
+            "firstVisitDate": "2012-11-26",
+            "linkId": "a83adac0-db43-4182-91ce-6f6286979b74",
+            "reportDate": "2012-12-14",
+            "reportUri": "/reports/a83adac0-db43-4182-91ce-6f6286979b74?20200129163919"
+        },
+        {
+            "firstVisitDate": "2012-07-06",
+            "linkId": "bbc6128b-2e53-49c1-9da0-4ae36c0376ce",
+            "reportDate": "2012-07-25",
+            "reportUri": "/reports/bbc6128b-2e53-49c1-9da0-4ae36c0376ce?20200430120000"
+        },
+        {
+            "firstVisitDate": "2011-12-16",
+            "linkId": "96035a5d-7c63-45f9-b300-99e660e62fd9",
+            "reportDate": "2012-02-06",
+            "reportUri": "/reports/96035a5d-7c63-45f9-b300-99e660e62fd9?20200430120000"
+        }
+    ],
+    "specialisms": [
+        {
+            "name": "Caring for adults over 65 yrs"
+        },
+        {
+            "name": "Dementia"
+        },
+        {
+            "name": "Mental health conditions"
+        }
+    ],
+    "type": "Social Care Org",
+    "uprn": "422000032732",
+    "website": "www.acornlodgecarehome.co.uk"
+}

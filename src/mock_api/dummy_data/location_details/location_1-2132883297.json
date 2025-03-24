@@ -1,0 +1,67 @@
+{
+    "brandId": "BD560",
+    "brandName": "BRAND Rodericks Dental Partners",
+    "careHome": "N",
+    "constituency": "Oldham West and Royton",
+    "deregistrationDate": "2015-09-01",
+    "dormancy": "N",
+    "gacServiceTypes": [
+        {
+            "description": "Dental service",
+            "name": "Dentist"
+        }
+    ],
+    "inspectionAreas": [],
+    "inspectionCategories": [
+        {
+            "code": "P1",
+            "name": "Dentists",
+            "primary": "true"
+        }
+    ],
+    "inspectionDirectorate": "Primary medical services",
+    "localAuthority": "Oldham",
+    "locationId": "1-2132883297",
+    "locationTypes": [],
+    "mainPhoneNumber": "01616277060",
+    "name": "Ravat and Ray Dental Care (Fitton Hill) Ltd",
+    "numberOfBeds": 0,
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.522961,
+    "onspdLongitude": -2.098651,
+    "organisationType": "Location",
+    "postalAddressCounty": "Greater Manchester",
+    "postalAddressLine1": "Fitton Hill Wellbeing Centre",
+    "postalAddressLine2": "57 Deanshut Road",
+    "postalAddressTownCity": "Oldham",
+    "postalCode": "OL8 2PN",
+    "providerId": "1-2091769991",
+    "region": "North West",
+    "registrationDate": "2015-08-12",
+    "registrationStatus": "Deregistered",
+    "regulatedActivities": [],
+    "relationships": [
+        {
+            "reason": "Location Move",
+            "relatedLocationId": "1-2184411501",
+            "relatedLocationName": "Ravat & Ray Dental Care, Oldham",
+            "type": "HSCA Successor"
+        },
+        {
+            "reason": "Legal Entity Change",
+            "relatedLocationId": "1-185554222",
+            "relatedLocationName": "Ravat & Ray Dental Care - Fitton Hill",
+            "type": "HSCA Predecessor"
+        }
+    ],
+    "specialisms": [
+        {
+            "name": "Services for everyone"
+        }
+    ],
+    "type": "Primary Dental Care",
+    "website": "www.ravatandray.com"
+}

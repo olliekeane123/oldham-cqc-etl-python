@@ -1,0 +1,79 @@
+{
+    "careHome": "N",
+    "constituency": "Oldham West and Royton",
+    "dormancy": "N",
+    "dormancyEndDate": "2024-04-09",
+    "gacServiceTypes": [
+        {
+            "description": "Domiciliary care service",
+            "name": "Homecare agencies"
+        }
+    ],
+    "inspectionAreas": [],
+    "inspectionCategories": [
+        {
+            "code": "S2",
+            "name": "Community based adult social care services",
+            "primary": "true"
+        }
+    ],
+    "inspectionDirectorate": "Adult social care",
+    "localAuthority": "Oldham",
+    "locationId": "1-17947754185",
+    "locationTypes": [],
+    "mainPhoneNumber": "01618431707",
+    "name": "Jotham Lois Healthcare Ltd",
+    "numberOfBeds": 0,
+    "odsCode": "VNRLT",
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.5483315,
+    "onspdLongitude": -2.1365898,
+    "organisationType": "Location",
+    "postalAddressLine1": "Unit 5D, Falcon Enterprise Centre",
+    "postalAddressLine2": "10 Victoria Street, Chadderton",
+    "postalAddressTownCity": "Oldham",
+    "postalCode": "OL9 0HB",
+    "providerId": "1-15774699305",
+    "region": "North West",
+    "registrationDate": "2023-10-27",
+    "registrationStatus": "Registered",
+    "regulatedActivities": [
+        {
+            "code": "RA1",
+            "contacts": [
+                {
+                    "personFamilyName": "Ayela-Uwangue",
+                    "personGivenName": "Simon Osa",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Mr"
+                }
+            ],
+            "name": "Personal care"
+        }
+    ],
+    "relationships": [],
+    "specialisms": [
+        {
+            "name": "Caring for adults over 65 yrs"
+        },
+        {
+            "name": "Caring for adults under 65 yrs"
+        },
+        {
+            "name": "Dementia"
+        },
+        {
+            "name": "Mental health conditions"
+        },
+        {
+            "name": "Physical disabilities"
+        }
+    ],
+    "type": "Social Care Org",
+    "uprn": "422000120923"
+}

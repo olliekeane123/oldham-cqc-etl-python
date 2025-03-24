@@ -1,0 +1,52 @@
+{
+    "careHome": "Y",
+    "constituency": "Oldham East and Saddleworth",
+    "deregistrationDate": "2011-06-29",
+    "dormancy": "N",
+    "gacServiceTypes": [
+        {
+            "description": "Care home service without nursing",
+            "name": "Residential homes"
+        },
+        {
+            "description": "Rehabilitation services",
+            "name": "Rehabilitation (illness/injury)"
+        }
+    ],
+    "inspectionAreas": [],
+    "inspectionDirectorate": "Unspecified",
+    "localAuthority": "Oldham",
+    "locationId": "1-146777373",
+    "locationTypes": [],
+    "mainPhoneNumber": "01617703769",
+    "name": "Boston House",
+    "numberOfBeds": 29,
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdLatitude": 53.530554,
+    "onspdLongitude": -2.111522,
+    "organisationType": "Location",
+    "postalAddressCounty": "Lancashire",
+    "postalAddressLine1": "Broadway Street",
+    "postalAddressTownCity": "Oldham",
+    "postalCode": "OL8 1XR",
+    "providerId": "1-101668216",
+    "region": "North West",
+    "registrationDate": "2011-01-27",
+    "registrationStatus": "Deregistered",
+    "regulatedActivities": [],
+    "relationships": [],
+    "specialisms": [
+        {
+            "name": "Caring for adults over 65 yrs"
+        },
+        {
+            "name": "Dementia"
+        },
+        {
+            "name": "Physical disabilities"
+        }
+    ],
+    "type": "Social Care Org",
+    "website": "www.oldham.gov.uk"
+}

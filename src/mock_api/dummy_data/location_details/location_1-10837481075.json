@@ -1,0 +1,116 @@
+{
+    "careHome": "N",
+    "constituency": "Oldham West and Royton",
+    "currentRatings": {
+        "overall": {
+            "keyQuestionRatings": [
+                {
+                    "name": "Safe",
+                    "rating": "Requires improvement",
+                    "reportDate": "2022-06-13",
+                    "reportLinkId": "4fb1a27e-441f-4aa3-b75b-460dac3290cf"
+                },
+                {
+                    "name": "Well-led",
+                    "rating": "Requires improvement",
+                    "reportDate": "2022-06-13",
+                    "reportLinkId": "4fb1a27e-441f-4aa3-b75b-460dac3290cf"
+                },
+                {
+                    "name": "Caring",
+                    "rating": "Good",
+                    "reportDate": "2022-06-13",
+                    "reportLinkId": "4fb1a27e-441f-4aa3-b75b-460dac3290cf"
+                },
+                {
+                    "name": "Responsive",
+                    "rating": "Requires improvement",
+                    "reportDate": "2022-06-13",
+                    "reportLinkId": "4fb1a27e-441f-4aa3-b75b-460dac3290cf"
+                },
+                {
+                    "name": "Effective",
+                    "rating": "Good",
+                    "reportDate": "2022-06-13",
+                    "reportLinkId": "4fb1a27e-441f-4aa3-b75b-460dac3290cf"
+                }
+            ],
+            "rating": "Requires improvement",
+            "reportDate": "2022-06-13",
+            "reportLinkId": "4fb1a27e-441f-4aa3-b75b-460dac3290cf"
+        },
+        "reportDate": "2022-06-13"
+    },
+    "deregistrationDate": "2023-07-12",
+    "dormancy": "N",
+    "gacServiceTypes": [
+        {
+            "description": "Doctors consultation service",
+            "name": "Doctors/Gps"
+        }
+    ],
+    "inspectionAreas": [],
+    "inspectionCategories": [
+        {
+            "code": "P2",
+            "name": "GP Practices",
+            "primary": "true"
+        }
+    ],
+    "inspectionDirectorate": "Primary medical services",
+    "lastInspection": {
+        "date": "2022-05-05"
+    },
+    "lastReport": {
+        "publicationDate": "2022-06-13"
+    },
+    "localAuthority": "Oldham",
+    "locationId": "1-10837481075",
+    "locationTypes": [],
+    "mainPhoneNumber": "01616525676",
+    "name": "Block Lane Surgery",
+    "numberOfBeds": 0,
+    "odsCcgCode": "00Y",
+    "odsCcgName": "NHS Greater Manchester Icb - 00Y",
+    "odsCode": "P85028",
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.535037,
+    "onspdLongitude": -2.1390388,
+    "organisationType": "Location",
+    "postalAddressLine1": "158 Block Lane",
+    "postalAddressLine2": "Chadderton",
+    "postalAddressTownCity": "Oldham",
+    "postalCode": "OL9 7SG",
+    "providerId": "1-10314621273",
+    "region": "North West",
+    "registrationDate": "2022-03-15",
+    "registrationStatus": "Deregistered",
+    "regulatedActivities": [],
+    "relationships": [
+        {
+            "reason": "Legal Entity Change",
+            "relatedLocationId": "1-7568624097",
+            "relatedLocationName": "Block Lane Surgery",
+            "type": "HSCA Predecessor"
+        }
+    ],
+    "reports": [
+        {
+            "firstVisitDate": "2022-05-05",
+            "linkId": "4fb1a27e-441f-4aa3-b75b-460dac3290cf",
+            "reportDate": "2022-06-13",
+            "reportType": "Location",
+            "reportUri": "/reports/4fb1a27e-441f-4aa3-b75b-460dac3290cf?20220613070204"
+        }
+    ],
+    "specialisms": [
+        {
+            "name": "Services for everyone"
+        }
+    ],
+    "type": "Primary Medical Services",
+    "uprn": "422000094741"
+}

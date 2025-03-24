@@ -1,0 +1,442 @@
+{
+    "careHome": "N",
+    "constituency": "Oldham West and Royton",
+    "currentRatings": {
+        "overall": {
+            "keyQuestionRatings": [
+                {
+                    "name": "Safe",
+                    "rating": "Good",
+                    "reportDate": "2020-12-30",
+                    "reportLinkId": "01af9b65-bdb2-475a-bcc4-2e51ec0220f2"
+                },
+                {
+                    "name": "Well-led",
+                    "rating": "Good",
+                    "reportDate": "2020-12-30",
+                    "reportLinkId": "01af9b65-bdb2-475a-bcc4-2e51ec0220f2"
+                },
+                {
+                    "name": "Caring",
+                    "rating": "Good",
+                    "reportDate": "2020-12-30",
+                    "reportLinkId": "01af9b65-bdb2-475a-bcc4-2e51ec0220f2"
+                },
+                {
+                    "name": "Responsive",
+                    "rating": "Good",
+                    "reportDate": "2020-12-30",
+                    "reportLinkId": "01af9b65-bdb2-475a-bcc4-2e51ec0220f2"
+                },
+                {
+                    "name": "Effective",
+                    "rating": "Good",
+                    "reportDate": "2020-12-30",
+                    "reportLinkId": "01af9b65-bdb2-475a-bcc4-2e51ec0220f2"
+                }
+            ],
+            "rating": "Good",
+            "reportDate": "2020-12-30",
+            "reportLinkId": "01af9b65-bdb2-475a-bcc4-2e51ec0220f2"
+        },
+        "reportDate": "2020-12-30",
+        "serviceRatings": [
+            {
+                "name": "conditions",
+                "rating": "Good",
+                "reportDate": "2020-12-30",
+                "reportLinkId": "01af9b65-bdb2-475a-bcc4-2e51ec0220f2"
+            },
+            {
+                "name": "mothers",
+                "rating": "Good",
+                "reportDate": "2020-12-30",
+                "reportLinkId": "01af9b65-bdb2-475a-bcc4-2e51ec0220f2"
+            },
+            {
+                "name": "old",
+                "rating": "Good",
+                "reportDate": "2020-12-30",
+                "reportLinkId": "01af9b65-bdb2-475a-bcc4-2e51ec0220f2"
+            },
+            {
+                "name": "population",
+                "rating": "Good",
+                "reportDate": "2020-12-30",
+                "reportLinkId": "01af9b65-bdb2-475a-bcc4-2e51ec0220f2"
+            },
+            {
+                "name": "problems",
+                "rating": "Good",
+                "reportDate": "2020-12-30",
+                "reportLinkId": "01af9b65-bdb2-475a-bcc4-2e51ec0220f2"
+            },
+            {
+                "name": "vulnerable",
+                "rating": "Good",
+                "reportDate": "2020-12-30",
+                "reportLinkId": "01af9b65-bdb2-475a-bcc4-2e51ec0220f2"
+            }
+        ]
+    },
+    "dormancy": "N",
+    "gacServiceTypes": [
+        {
+            "description": "Doctors consultation service",
+            "name": "Doctors/Gps"
+        }
+    ],
+    "historicRatings": [
+        {
+            "overall": {
+                "keyQuestionRatings": [
+                    {
+                        "name": "Safe",
+                        "rating": "Inadequate"
+                    },
+                    {
+                        "name": "Well-led",
+                        "rating": "Inadequate"
+                    },
+                    {
+                        "name": "Caring",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Responsive",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Effective",
+                        "rating": "Inadequate"
+                    }
+                ],
+                "rating": "Inadequate"
+            },
+            "reportDate": "2020-04-27",
+            "reportLinkId": "37825083-099c-4653-bea6-0f624834e662",
+            "serviceRatings": [
+                {
+                    "name": "conditions",
+                    "rating": "Inadequate"
+                },
+                {
+                    "name": "mothers",
+                    "rating": "Inadequate"
+                },
+                {
+                    "name": "old",
+                    "rating": "Inadequate"
+                },
+                {
+                    "name": "population",
+                    "rating": "Inadequate"
+                },
+                {
+                    "name": "problems",
+                    "rating": "Inadequate"
+                },
+                {
+                    "name": "vulnerable",
+                    "rating": "Inadequate"
+                }
+            ]
+        },
+        {
+            "overall": {
+                "keyQuestionRatings": [
+                    {
+                        "name": "Safe",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Well-led",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Caring",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Responsive",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Effective",
+                        "rating": "Good"
+                    }
+                ],
+                "rating": "Good"
+            },
+            "reportDate": "2017-04-12",
+            "reportLinkId": "f2e4e241-74f1-41a1-8a2f-fdadaa4316cc",
+            "serviceRatings": [
+                {
+                    "name": "conditions",
+                    "rating": "Good"
+                },
+                {
+                    "name": "mothers",
+                    "rating": "Good"
+                },
+                {
+                    "name": "old",
+                    "rating": "Good"
+                },
+                {
+                    "name": "population",
+                    "rating": "Good"
+                },
+                {
+                    "name": "problems",
+                    "rating": "Good"
+                },
+                {
+                    "name": "vulnerable",
+                    "rating": "Good"
+                }
+            ]
+        },
+        {
+            "overall": {
+                "keyQuestionRatings": [
+                    {
+                        "name": "Safe",
+                        "rating": "Requires improvement"
+                    },
+                    {
+                        "name": "Well-led",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Caring",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Responsive",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Effective",
+                        "rating": "Good"
+                    }
+                ],
+                "rating": "Good"
+            },
+            "reportDate": "2015-04-30",
+            "reportLinkId": "1594a1f5-4e52-4dfa-8edf-9eca0966c422",
+            "serviceRatings": [
+                {
+                    "name": "conditions",
+                    "rating": "Good"
+                },
+                {
+                    "name": "mothers",
+                    "rating": "Good"
+                },
+                {
+                    "name": "old",
+                    "rating": "Good"
+                },
+                {
+                    "name": "population",
+                    "rating": "Good"
+                },
+                {
+                    "name": "problems",
+                    "rating": "Good"
+                },
+                {
+                    "name": "vulnerable",
+                    "rating": "Good"
+                }
+            ]
+        }
+    ],
+    "inspectionAreas": [
+        {
+            "inspectionAreaId": "conditions",
+            "inspectionAreaName": "People with long term conditions",
+            "status": "Active (Rated)"
+        },
+        {
+            "inspectionAreaId": "mothers",
+            "inspectionAreaName": "Families, children and young people",
+            "status": "Active (Rated)"
+        },
+        {
+            "inspectionAreaId": "old",
+            "inspectionAreaName": "Older people",
+            "status": "Active (Rated)"
+        },
+        {
+            "inspectionAreaId": "population",
+            "inspectionAreaName": "Working age people (including those recently retired and students)",
+            "status": "Active (Rated)"
+        },
+        {
+            "inspectionAreaId": "problems",
+            "inspectionAreaName": "People experiencing poor mental health (including people with dementia)",
+            "status": "Active (Rated)"
+        },
+        {
+            "inspectionAreaId": "vulnerable",
+            "inspectionAreaName": "People whose circumstances may make them vulnerable",
+            "status": "Active (Rated)"
+        }
+    ],
+    "inspectionCategories": [
+        {
+            "code": "P2",
+            "name": "GP Practices",
+            "primary": "true"
+        }
+    ],
+    "inspectionDirectorate": "Primary medical services",
+    "lastInspection": {
+        "date": "2020-11-10"
+    },
+    "lastReport": {
+        "publicationDate": "2020-12-30"
+    },
+    "localAuthority": "Oldham",
+    "locationId": "1-559832693",
+    "locationTypes": [
+        {
+            "type": "GP Practice"
+        }
+    ],
+    "mainPhoneNumber": "01613572290",
+    "name": "Chadderton Medical Practice",
+    "numberOfBeds": 0,
+    "odsCcgCode": "00Y",
+    "odsCcgName": "NHS Greater Manchester Icb - 00Y",
+    "odsCode": "P85004",
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.5455746,
+    "onspdLongitude": -2.1421799,
+    "organisationType": "Location",
+    "postalAddressCounty": "Lancashire",
+    "postalAddressLine1": "Chadderton Town Health Centre",
+    "postalAddressLine2": "Middleton Road, Chadderton",
+    "postalAddressTownCity": "Oldham",
+    "postalCode": "OL9 0LH",
+    "providerId": "1-199785256",
+    "region": "North West",
+    "registrationDate": "2013-04-01",
+    "registrationStatus": "Registered",
+    "regulatedActivities": [
+        {
+            "code": "RA11",
+            "contacts": [
+                {
+                    "personFamilyName": "Akhter",
+                    "personGivenName": "Saleem",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Dr"
+                }
+            ],
+            "name": "Maternity and midwifery services"
+        },
+        {
+            "code": "RA15",
+            "contacts": [
+                {
+                    "personFamilyName": "Akhter",
+                    "personGivenName": "Saleem",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Dr"
+                }
+            ],
+            "name": "Family planning"
+        },
+        {
+            "code": "RA5",
+            "contacts": [
+                {
+                    "personFamilyName": "Akhter",
+                    "personGivenName": "Saleem",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Dr"
+                }
+            ],
+            "name": "Treatment of disease, disorder or injury"
+        },
+        {
+            "code": "RA7",
+            "contacts": [
+                {
+                    "personFamilyName": "Akhter",
+                    "personGivenName": "Saleem",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Dr"
+                }
+            ],
+            "name": "Surgical procedures"
+        },
+        {
+            "code": "RA8",
+            "contacts": [
+                {
+                    "personFamilyName": "Akhter",
+                    "personGivenName": "Saleem",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Dr"
+                }
+            ],
+            "name": "Diagnostic and screening procedures"
+        }
+    ],
+    "relationships": [],
+    "reports": [
+        {
+            "firstVisitDate": "2020-11-10",
+            "linkId": "01af9b65-bdb2-475a-bcc4-2e51ec0220f2",
+            "reportDate": "2020-12-30",
+            "reportType": "Location",
+            "reportUri": "/reports/01af9b65-bdb2-475a-bcc4-2e51ec0220f2?20210301172237"
+        },
+        {
+            "firstVisitDate": "2020-02-21",
+            "linkId": "37825083-099c-4653-bea6-0f624834e662",
+            "reportDate": "2020-04-27",
+            "reportType": "Location",
+            "reportUri": "/reports/37825083-099c-4653-bea6-0f624834e662?20210113111538"
+        },
+        {
+            "firstVisitDate": "2017-03-08",
+            "linkId": "f2e4e241-74f1-41a1-8a2f-fdadaa4316cc",
+            "reportDate": "2017-04-12",
+            "reportType": "Location",
+            "reportUri": "/reports/f2e4e241-74f1-41a1-8a2f-fdadaa4316cc?20210119215711"
+        },
+        {
+            "firstVisitDate": "2015-03-12",
+            "linkId": "1594a1f5-4e52-4dfa-8edf-9eca0966c422",
+            "reportDate": "2015-04-30",
+            "reportType": "Location",
+            "reportUri": "/reports/1594a1f5-4e52-4dfa-8edf-9eca0966c422?20210130033225"
+        }
+    ],
+    "specialisms": [
+        {
+            "name": "Services for everyone"
+        }
+    ],
+    "type": "Primary Medical Services",
+    "uprn": "422000013762",
+    "website": "www.chaddertonmedicalpractice.nhs.uk"
+}

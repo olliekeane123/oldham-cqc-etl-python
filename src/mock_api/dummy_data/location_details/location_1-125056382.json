@@ -1,0 +1,267 @@
+{
+    "careHome": "Y",
+    "constituency": "Oldham East and Saddleworth",
+    "currentRatings": {
+        "overall": {
+            "keyQuestionRatings": [
+                {
+                    "name": "Safe",
+                    "rating": "Requires improvement",
+                    "reportDate": "2022-02-23",
+                    "reportLinkId": "f30fd1b2-7e1e-4822-8204-febedf551c46"
+                },
+                {
+                    "name": "Well-led",
+                    "rating": "Requires improvement",
+                    "reportDate": "2022-02-23",
+                    "reportLinkId": "f30fd1b2-7e1e-4822-8204-febedf551c46"
+                },
+                {
+                    "name": "Caring",
+                    "rating": "Good",
+                    "reportDate": "2019-04-11",
+                    "reportLinkId": "d3be4923-d2f5-4ae5-ae39-228293f22251"
+                },
+                {
+                    "name": "Responsive",
+                    "rating": "Good",
+                    "reportDate": "2019-04-11",
+                    "reportLinkId": "d3be4923-d2f5-4ae5-ae39-228293f22251"
+                },
+                {
+                    "name": "Effective",
+                    "rating": "Good",
+                    "reportDate": "2019-04-11",
+                    "reportLinkId": "d3be4923-d2f5-4ae5-ae39-228293f22251"
+                }
+            ],
+            "rating": "Requires improvement",
+            "reportDate": "2022-02-23",
+            "reportLinkId": "f30fd1b2-7e1e-4822-8204-febedf551c46"
+        },
+        "reportDate": "2022-02-23"
+    },
+    "dormancy": "N",
+    "gacServiceTypes": [
+        {
+            "description": "Care home service without nursing",
+            "name": "Residential homes"
+        }
+    ],
+    "historicRatings": [
+        {
+            "overall": {
+                "keyQuestionRatings": [
+                    {
+                        "name": "Safe",
+                        "rating": "Requires improvement"
+                    },
+                    {
+                        "name": "Well-led",
+                        "rating": "Requires improvement"
+                    }
+                ],
+                "rating": "Requires improvement"
+            },
+            "reportDate": "2021-01-27",
+            "reportLinkId": "8ba294a5-ba38-46b0-a0a9-5140afb525a1"
+        },
+        {
+            "overall": {
+                "keyQuestionRatings": [
+                    {
+                        "name": "Safe",
+                        "rating": "Requires improvement"
+                    },
+                    {
+                        "name": "Well-led",
+                        "rating": "Good"
+                    }
+                ],
+                "rating": "Good"
+            },
+            "reportDate": "2019-04-11",
+            "reportLinkId": "d3be4923-d2f5-4ae5-ae39-228293f22251"
+        },
+        {
+            "overall": {
+                "keyQuestionRatings": [
+                    {
+                        "name": "Safe",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Well-led",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Caring",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Responsive",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Effective",
+                        "rating": "Good"
+                    }
+                ],
+                "rating": "Good"
+            },
+            "reportDate": "2018-03-27",
+            "reportLinkId": "6d183351-6d7c-4d2f-bb77-8269fa39cadf"
+        },
+        {
+            "overall": {
+                "keyQuestionRatings": [
+                    {
+                        "name": "Safe",
+                        "rating": "Requires improvement"
+                    },
+                    {
+                        "name": "Well-led",
+                        "rating": "Requires improvement"
+                    },
+                    {
+                        "name": "Caring",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Responsive",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Effective",
+                        "rating": "Good"
+                    }
+                ],
+                "rating": "Requires improvement"
+            },
+            "reportDate": "2016-12-06",
+            "reportLinkId": "25bb83a7-a2c3-4811-b5ca-95d9144d5dbd"
+        }
+    ],
+    "inspectionAreas": [],
+    "inspectionCategories": [
+        {
+            "code": "S1",
+            "name": "Residential social care",
+            "primary": "true"
+        }
+    ],
+    "inspectionDirectorate": "Adult social care",
+    "lastInspection": {
+        "date": "2022-01-21"
+    },
+    "lastReport": {
+        "publicationDate": "2022-02-23"
+    },
+    "localAuthority": "Oldham",
+    "locationId": "1-125056382",
+    "locationTypes": [],
+    "mainPhoneNumber": "01616245983",
+    "name": "Stoneleigh House",
+    "numberOfBeds": 31,
+    "odsCode": "VLD2V",
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.5390045,
+    "onspdLongitude": -2.0587784,
+    "organisationType": "Location",
+    "postalAddressCounty": "Lancashire",
+    "postalAddressLine1": "Cooper Street",
+    "postalAddressTownCity": "Oldham",
+    "postalCode": "OL4 4QS",
+    "providerId": "1-101667914",
+    "region": "North West",
+    "registrationDate": "2011-01-12",
+    "registrationStatus": "Registered",
+    "regulatedActivities": [
+        {
+            "code": "RA2",
+            "contacts": [
+                {
+                    "personFamilyName": "Hodges",
+                    "personGivenName": "Julie Anne",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Mrs"
+                }
+            ],
+            "name": "Accommodation for persons who require nursing or personal care"
+        }
+    ],
+    "relationships": [],
+    "reports": [
+        {
+            "firstVisitDate": "2022-01-20",
+            "linkId": "f30fd1b2-7e1e-4822-8204-febedf551c46",
+            "reportDate": "2022-02-23",
+            "reportType": "Location",
+            "reportUri": "/reports/f30fd1b2-7e1e-4822-8204-febedf551c46?20220224130000"
+        },
+        {
+            "firstVisitDate": "2020-11-26",
+            "linkId": "8ba294a5-ba38-46b0-a0a9-5140afb525a1",
+            "reportDate": "2021-01-27",
+            "reportType": "Location",
+            "reportUri": "/reports/8ba294a5-ba38-46b0-a0a9-5140afb525a1?20211030120000"
+        },
+        {
+            "firstVisitDate": "2019-03-19",
+            "linkId": "d3be4923-d2f5-4ae5-ae39-228293f22251",
+            "reportDate": "2019-04-11",
+            "reportType": "Location",
+            "reportUri": "/reports/d3be4923-d2f5-4ae5-ae39-228293f22251?20190531120000"
+        },
+        {
+            "firstVisitDate": "2018-01-23",
+            "linkId": "6d183351-6d7c-4d2f-bb77-8269fa39cadf",
+            "reportDate": "2018-03-27",
+            "reportType": "Location",
+            "reportUri": "/reports/6d183351-6d7c-4d2f-bb77-8269fa39cadf?20180407120000"
+        },
+        {
+            "firstVisitDate": "2016-10-26",
+            "linkId": "25bb83a7-a2c3-4811-b5ca-95d9144d5dbd",
+            "reportDate": "2016-12-06",
+            "reportType": "Location",
+            "reportUri": "/reports/25bb83a7-a2c3-4811-b5ca-95d9144d5dbd?20211030120000"
+        },
+        {
+            "firstVisitDate": "2013-08-22",
+            "linkId": "f200da9c-a915-4f55-b555-c8f1ee1ff1fc",
+            "reportDate": "2013-09-26",
+            "reportUri": "/reports/f200da9c-a915-4f55-b555-c8f1ee1ff1fc?20200129163919"
+        },
+        {
+            "firstVisitDate": "2012-08-29",
+            "linkId": "19f698b9-2080-47e7-ad41-e964a527d32a",
+            "reportDate": "2012-09-17",
+            "reportUri": "/reports/19f698b9-2080-47e7-ad41-e964a527d32a?20200430120000"
+        }
+    ],
+    "specialisms": [
+        {
+            "name": "Caring for adults over 65 yrs"
+        },
+        {
+            "name": "Dementia"
+        },
+        {
+            "name": "Mental health conditions"
+        },
+        {
+            "name": "Physical disabilities"
+        },
+        {
+            "name": "Sensory impairment"
+        }
+    ],
+    "type": "Social Care Org",
+    "uprn": "422000098292"
+}

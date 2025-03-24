@@ -1,0 +1,194 @@
+{
+    "brandId": "BD118",
+    "brandName": "BRAND Caremark",
+    "careHome": "N",
+    "constituency": "Oldham East and Saddleworth",
+    "currentRatings": {
+        "overall": {
+            "keyQuestionRatings": [
+                {
+                    "name": "Safe",
+                    "rating": "Good",
+                    "reportDate": "2018-05-30",
+                    "reportLinkId": "04a8512a-dea9-4d5d-84c0-4644136e1b44"
+                },
+                {
+                    "name": "Well-led",
+                    "rating": "Good",
+                    "reportDate": "2018-05-30",
+                    "reportLinkId": "04a8512a-dea9-4d5d-84c0-4644136e1b44"
+                },
+                {
+                    "name": "Caring",
+                    "rating": "Good",
+                    "reportDate": "2018-05-30",
+                    "reportLinkId": "04a8512a-dea9-4d5d-84c0-4644136e1b44"
+                },
+                {
+                    "name": "Responsive",
+                    "rating": "Good",
+                    "reportDate": "2018-05-30",
+                    "reportLinkId": "04a8512a-dea9-4d5d-84c0-4644136e1b44"
+                },
+                {
+                    "name": "Effective",
+                    "rating": "Good",
+                    "reportDate": "2018-05-30",
+                    "reportLinkId": "04a8512a-dea9-4d5d-84c0-4644136e1b44"
+                }
+            ],
+            "rating": "Good",
+            "reportDate": "2018-05-30",
+            "reportLinkId": "04a8512a-dea9-4d5d-84c0-4644136e1b44"
+        },
+        "reportDate": "2018-05-30"
+    },
+    "dormancy": "N",
+    "gacServiceTypes": [
+        {
+            "description": "Domiciliary care service",
+            "name": "Homecare agencies"
+        }
+    ],
+    "historicRatings": [
+        {
+            "overall": {
+                "keyQuestionRatings": [
+                    {
+                        "name": "Safe",
+                        "rating": "Requires improvement"
+                    },
+                    {
+                        "name": "Well-led",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Caring",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Responsive",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Effective",
+                        "rating": "Good"
+                    }
+                ],
+                "rating": "Good"
+            },
+            "reportDate": "2015-11-04",
+            "reportLinkId": "b25c006f-d10b-426b-b3b6-6aaa55cd0a4b"
+        }
+    ],
+    "inspectionAreas": [],
+    "inspectionCategories": [
+        {
+            "code": "S2",
+            "name": "Community based adult social care services",
+            "primary": "true"
+        }
+    ],
+    "inspectionDirectorate": "Adult social care",
+    "lastInspection": {
+        "date": "2018-04-25"
+    },
+    "lastReport": {
+        "publicationDate": "2018-05-30"
+    },
+    "localAuthority": "Oldham",
+    "locationId": "1-455330921",
+    "locationTypes": [],
+    "mainPhoneNumber": "01616270891",
+    "name": "Caremark (Oldham)",
+    "numberOfBeds": 0,
+    "odsCode": "VN7KP",
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.537768,
+    "onspdLongitude": -2.068645,
+    "organisationType": "Location",
+    "postalAddressCounty": "Lancashire",
+    "postalAddressLine1": "Unit 7a County End Business Centre",
+    "postalAddressLine2": "Jackson Street, Springhead",
+    "postalAddressTownCity": "Oldham",
+    "postalCode": "OL4 4TZ",
+    "providerId": "1-284297990",
+    "region": "North West",
+    "registeredManagerAbsentDate": "2024-10-22",
+    "registrationDate": "2012-08-08",
+    "registrationStatus": "Registered",
+    "regulatedActivities": [
+        {
+            "code": "RA1",
+            "contacts": [],
+            "name": "Personal care"
+        }
+    ],
+    "relationships": [
+        {
+            "reason": "Location Move",
+            "relatedLocationId": "1-305225982",
+            "relatedLocationName": "Caremark (Oldham)",
+            "type": "HSCA Predecessor"
+        }
+    ],
+    "reports": [
+        {
+            "firstVisitDate": "2018-04-25",
+            "linkId": "04a8512a-dea9-4d5d-84c0-4644136e1b44",
+            "reportDate": "2018-05-30",
+            "reportType": "Location",
+            "reportUri": "/reports/04a8512a-dea9-4d5d-84c0-4644136e1b44?20200129163919"
+        },
+        {
+            "firstVisitDate": "2015-08-10",
+            "linkId": "b25c006f-d10b-426b-b3b6-6aaa55cd0a4b",
+            "reportDate": "2015-11-04",
+            "reportType": "Location",
+            "reportUri": "/reports/b25c006f-d10b-426b-b3b6-6aaa55cd0a4b?20210125232029"
+        },
+        {
+            "firstVisitDate": "2013-07-23",
+            "linkId": "62244d36-02f6-4e93-a3aa-0cce11a1340b",
+            "reportDate": "2013-08-01",
+            "reportUri": "/reports/62244d36-02f6-4e93-a3aa-0cce11a1340b?20200129163919"
+        },
+        {
+            "firstVisitDate": "2012-10-03",
+            "linkId": "1d914f13-c1ae-4e54-9f29-e60de5eddbb3",
+            "reportDate": "2012-11-02",
+            "reportUri": "/reports/1d914f13-c1ae-4e54-9f29-e60de5eddbb3?20200129163919"
+        }
+    ],
+    "specialisms": [
+        {
+            "name": "Caring for adults over 65 yrs"
+        },
+        {
+            "name": "Caring for adults under 65 yrs"
+        },
+        {
+            "name": "Caring for children"
+        },
+        {
+            "name": "Dementia"
+        },
+        {
+            "name": "Eating disorders"
+        },
+        {
+            "name": "Learning disabilities"
+        },
+        {
+            "name": "Mental health conditions"
+        },
+        {
+            "name": "Sensory impairment"
+        }
+    ],
+    "type": "Social Care Org",
+    "website": "www.caremark.co.uk/oldham"
+}

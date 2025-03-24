@@ -1,0 +1,188 @@
+{
+    "careHome": "N",
+    "constituency": "Ashton-under-Lyne",
+    "currentRatings": {
+        "overall": {
+            "keyQuestionRatings": [
+                {
+                    "name": "Safe",
+                    "rating": "Good",
+                    "reportDate": "2019-08-01",
+                    "reportLinkId": "e84e7e92-45e8-4d7d-907d-113f443f6882"
+                },
+                {
+                    "name": "Well-led",
+                    "rating": "Good",
+                    "reportDate": "2019-08-01",
+                    "reportLinkId": "e84e7e92-45e8-4d7d-907d-113f443f6882"
+                },
+                {
+                    "name": "Caring",
+                    "rating": "Good",
+                    "reportDate": "2019-08-01",
+                    "reportLinkId": "e84e7e92-45e8-4d7d-907d-113f443f6882"
+                },
+                {
+                    "name": "Responsive",
+                    "rating": "Good",
+                    "reportDate": "2019-08-01",
+                    "reportLinkId": "e84e7e92-45e8-4d7d-907d-113f443f6882"
+                },
+                {
+                    "name": "Effective",
+                    "rating": "Good",
+                    "reportDate": "2019-08-01",
+                    "reportLinkId": "e84e7e92-45e8-4d7d-907d-113f443f6882"
+                }
+            ],
+            "rating": "Good",
+            "reportDate": "2019-08-01",
+            "reportLinkId": "e84e7e92-45e8-4d7d-907d-113f443f6882"
+        },
+        "reportDate": "2019-08-01"
+    },
+    "dormancy": "N",
+    "gacServiceTypes": [
+        {
+            "description": "Domiciliary care service",
+            "name": "Homecare agencies"
+        }
+    ],
+    "historicRatings": [
+        {
+            "overall": {
+                "keyQuestionRatings": [
+                    {
+                        "name": "Safe",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Well-led",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Caring",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Responsive",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Effective",
+                        "rating": "Good"
+                    }
+                ],
+                "rating": "Good"
+            },
+            "reportDate": "2016-12-22",
+            "reportLinkId": "26800683-d6f6-48ec-a857-134d21f01920"
+        }
+    ],
+    "inspectionAreas": [],
+    "inspectionCategories": [
+        {
+            "code": "S2",
+            "name": "Community based adult social care services",
+            "primary": "true"
+        }
+    ],
+    "inspectionDirectorate": "Adult social care",
+    "lastInspection": {
+        "date": "2019-06-12"
+    },
+    "lastReport": {
+        "publicationDate": "2019-08-01"
+    },
+    "localAuthority": "Oldham",
+    "locationId": "1-1850346011",
+    "locationTypes": [],
+    "mainPhoneNumber": "01613007770",
+    "name": "Amber Case Management Limited",
+    "numberOfBeds": 0,
+    "odsCode": "VN7HJ",
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.516588,
+    "onspdLongitude": -2.143005,
+    "organisationType": "Location",
+    "postalAddressCounty": "Lancashire",
+    "postalAddressLine1": "Hollinwood Business Centre",
+    "postalAddressLine2": "Albert Street",
+    "postalAddressTownCity": "Oldham",
+    "postalCode": "OL8 3QL",
+    "providerId": "1-277508933",
+    "region": "North West",
+    "registrationDate": "2015-01-23",
+    "registrationStatus": "Registered",
+    "regulatedActivities": [
+        {
+            "code": "RA1",
+            "contacts": [
+                {
+                    "personFamilyName": "Hylton",
+                    "personGivenName": "Stacey",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Mrs"
+                }
+            ],
+            "name": "Personal care"
+        }
+    ],
+    "relationships": [
+        {
+            "reason": "Location Move",
+            "relatedLocationId": "1-288324546",
+            "relatedLocationName": "Amber Case Management Ltd",
+            "type": "HSCA Predecessor"
+        }
+    ],
+    "reports": [
+        {
+            "firstVisitDate": "2019-06-11",
+            "linkId": "e84e7e92-45e8-4d7d-907d-113f443f6882",
+            "reportDate": "2019-08-01",
+            "reportType": "Location",
+            "reportUri": "/reports/e84e7e92-45e8-4d7d-907d-113f443f6882?20190801120000"
+        },
+        {
+            "firstVisitDate": "2016-10-13",
+            "linkId": "26800683-d6f6-48ec-a857-134d21f01920",
+            "reportDate": "2016-12-22",
+            "reportType": "Location",
+            "reportUri": "/reports/26800683-d6f6-48ec-a857-134d21f01920?20211030120000"
+        }
+    ],
+    "specialisms": [
+        {
+            "name": "Caring for adults over 65 yrs"
+        },
+        {
+            "name": "Caring for adults under 65 yrs"
+        },
+        {
+            "name": "Caring for children"
+        },
+        {
+            "name": "Dementia"
+        },
+        {
+            "name": "Learning disabilities"
+        },
+        {
+            "name": "Mental health conditions"
+        },
+        {
+            "name": "Physical disabilities"
+        },
+        {
+            "name": "Sensory impairment"
+        }
+    ],
+    "type": "Social Care Org",
+    "website": "www.amber-case-management-ltd.co.uk"
+}

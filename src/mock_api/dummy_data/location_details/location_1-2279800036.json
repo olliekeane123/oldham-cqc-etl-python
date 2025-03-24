@@ -1,0 +1,54 @@
+{
+    "careHome": "N",
+    "constituency": "Oldham East and Saddleworth",
+    "deregistrationDate": "2020-05-11",
+    "dormancy": "Y",
+    "dormancyStartDate": "2019-05-24",
+    "gacServiceTypes": [
+        {
+            "description": "Ambulance service",
+            "name": "Ambulances"
+        }
+    ],
+    "inspectionAreas": [],
+    "inspectionCategories": [
+        {
+            "code": "H5",
+            "name": "Ambulance service",
+            "primary": "true"
+        }
+    ],
+    "inspectionDirectorate": "Hospitals",
+    "localAuthority": "Oldham",
+    "locationId": "1-2279800036",
+    "locationTypes": [],
+    "mainPhoneNumber": "03302232999",
+    "name": "Emergency Training Uk Limited",
+    "numberOfBeds": 0,
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.5492334,
+    "onspdLongitude": -2.0992559,
+    "organisationType": "Location",
+    "postalAddressCounty": "Lancashire",
+    "postalAddressLine1": "Unit 10",
+    "postalAddressLine2": "Cromford Business Park, Cromford Street",
+    "postalAddressTownCity": "Oldham",
+    "postalCode": "OL1 4EA",
+    "providerId": "1-2189745172",
+    "region": "North West",
+    "registrationDate": "2015-12-18",
+    "registrationStatus": "Deregistered",
+    "regulatedActivities": [],
+    "relationships": [],
+    "specialisms": [
+        {
+            "name": "Services for everyone"
+        }
+    ],
+    "type": "Independent Ambulance",
+    "uprn": "422000102426",
+    "website": "www.emergencytraining.co.uk"
+}

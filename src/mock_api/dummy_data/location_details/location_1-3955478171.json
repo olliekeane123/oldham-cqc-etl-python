@@ -1,0 +1,132 @@
+{
+    "brandId": "BD133",
+    "brandName": "BRAND Turning Point",
+    "careHome": "N",
+    "constituency": "Oldham West and Royton",
+    "currentRatings": {
+        "overall": {
+            "keyQuestionRatings": [
+                {
+                    "name": "Safe",
+                    "rating": "Good",
+                    "reportDate": "2019-06-14",
+                    "reportLinkId": "d8e8af84-15bf-4b39-9c7f-3fd11e331e19"
+                },
+                {
+                    "name": "Well-led",
+                    "rating": "Good",
+                    "reportDate": "2019-06-14",
+                    "reportLinkId": "d8e8af84-15bf-4b39-9c7f-3fd11e331e19"
+                },
+                {
+                    "name": "Caring",
+                    "rating": "Good",
+                    "reportDate": "2019-06-14",
+                    "reportLinkId": "d8e8af84-15bf-4b39-9c7f-3fd11e331e19"
+                },
+                {
+                    "name": "Responsive",
+                    "rating": "Good",
+                    "reportDate": "2019-06-14",
+                    "reportLinkId": "d8e8af84-15bf-4b39-9c7f-3fd11e331e19"
+                },
+                {
+                    "name": "Effective",
+                    "rating": "Good",
+                    "reportDate": "2019-06-14",
+                    "reportLinkId": "d8e8af84-15bf-4b39-9c7f-3fd11e331e19"
+                }
+            ],
+            "rating": "Good",
+            "reportDate": "2019-06-14",
+            "reportLinkId": "d8e8af84-15bf-4b39-9c7f-3fd11e331e19"
+        },
+        "reportDate": "2019-06-14"
+    },
+    "dormancy": "N",
+    "gacServiceTypes": [
+        {
+            "description": "Residential substance misuse treatment and/or rehabilitation service",
+            "name": "Rehabilitation (substance abuse)"
+        }
+    ],
+    "inspectionAreas": [],
+    "inspectionCategories": [
+        {
+            "code": "H10",
+            "name": "Residential substance misuse",
+            "primary": "true"
+        }
+    ],
+    "inspectionDirectorate": "Hospitals",
+    "lastInspection": {
+        "date": "2019-04-16"
+    },
+    "lastReport": {
+        "publicationDate": "2019-06-14"
+    },
+    "localAuthority": "Oldham",
+    "locationId": "1-3955478171",
+    "locationTypes": [],
+    "mainPhoneNumber": "01616241908",
+    "name": "Turning Point - Leigh Bank Rehabilitation",
+    "numberOfBeds": 16,
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.536546,
+    "onspdLongitude": -2.132345,
+    "organisationType": "Location",
+    "postalAddressCounty": "Lancashire",
+    "postalAddressLine1": "14-16 Edward Street",
+    "postalAddressTownCity": "Oldham",
+    "postalCode": "OL9 7QW",
+    "providerId": "1-102642564",
+    "region": "North West",
+    "registrationDate": "2017-07-04",
+    "registrationStatus": "Registered",
+    "regulatedActivities": [
+        {
+            "code": "RA3",
+            "contacts": [
+                {
+                    "personFamilyName": "Pooley",
+                    "personGivenName": "Emma",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Ms"
+                }
+            ],
+            "name": "Accommodation for persons who require treatment for substance misuse"
+        }
+    ],
+    "relationships": [
+        {
+            "reason": "Location Move",
+            "relatedLocationId": "1-124012322",
+            "relatedLocationName": "Turning Point - Leigh Bank",
+            "type": "HSCA Predecessor"
+        }
+    ],
+    "reports": [
+        {
+            "firstVisitDate": "2019-04-16",
+            "linkId": "d8e8af84-15bf-4b39-9c7f-3fd11e331e19",
+            "reportDate": "2019-06-14",
+            "reportType": "Location",
+            "reportUri": "/reports/d8e8af84-15bf-4b39-9c7f-3fd11e331e19?20210116060942"
+        }
+    ],
+    "specialisms": [
+        {
+            "name": "Caring for adults under 65 yrs"
+        },
+        {
+            "name": "Substance misuse problems"
+        }
+    ],
+    "type": "Independent Healthcare Org",
+    "website": "www.turning-point.co.uk"
+}

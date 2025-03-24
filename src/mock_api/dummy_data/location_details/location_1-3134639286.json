@@ -1,0 +1,129 @@
+{
+    "brandId": "BD130",
+    "brandName": "BRAND HC-One Limited",
+    "careHome": "Y",
+    "constituency": "Oldham East and Saddleworth",
+    "currentRatings": {
+        "overall": {
+            "keyQuestionRatings": [
+                {
+                    "name": "Safe",
+                    "rating": "Good",
+                    "reportDate": "2018-01-18",
+                    "reportLinkId": "7c749c82-93ce-41af-be44-4549eccbd248"
+                },
+                {
+                    "name": "Well-led",
+                    "rating": "Good",
+                    "reportDate": "2018-01-18",
+                    "reportLinkId": "7c749c82-93ce-41af-be44-4549eccbd248"
+                },
+                {
+                    "name": "Caring",
+                    "rating": "Good",
+                    "reportDate": "2018-01-18",
+                    "reportLinkId": "7c749c82-93ce-41af-be44-4549eccbd248"
+                },
+                {
+                    "name": "Responsive",
+                    "rating": "Good",
+                    "reportDate": "2018-01-18",
+                    "reportLinkId": "7c749c82-93ce-41af-be44-4549eccbd248"
+                },
+                {
+                    "name": "Effective",
+                    "rating": "Good",
+                    "reportDate": "2018-01-18",
+                    "reportLinkId": "7c749c82-93ce-41af-be44-4549eccbd248"
+                }
+            ],
+            "rating": "Good",
+            "reportDate": "2018-01-18",
+            "reportLinkId": "7c749c82-93ce-41af-be44-4549eccbd248"
+        },
+        "reportDate": "2018-01-18"
+    },
+    "deregistrationDate": "2019-02-05",
+    "dormancy": "N",
+    "gacServiceTypes": [
+        {
+            "description": "Care home service with nursing",
+            "name": "Nursing homes"
+        }
+    ],
+    "inspectionAreas": [],
+    "inspectionCategories": [
+        {
+            "code": "S1",
+            "name": "Residential social care",
+            "primary": "true"
+        }
+    ],
+    "inspectionDirectorate": "Adult social care",
+    "lastInspection": {
+        "date": "2017-10-26"
+    },
+    "lastReport": {
+        "publicationDate": "2018-01-18"
+    },
+    "localAuthority": "Oldham",
+    "locationId": "1-3134639286",
+    "locationTypes": [],
+    "mainPhoneNumber": "01706882290",
+    "name": "Shaw Side Care Home",
+    "numberOfBeds": 150,
+    "odsCode": "VLN9J",
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.5709144,
+    "onspdLongitude": -2.0977515,
+    "organisationType": "Location",
+    "postalAddressCounty": "Lancashire",
+    "postalAddressLine1": "77 Oldham Road",
+    "postalAddressLine2": "Shaw",
+    "postalAddressTownCity": "Oldham",
+    "postalCode": "OL2 8SP",
+    "providerId": "1-2953247678",
+    "region": "North West",
+    "registrationDate": "2017-01-31",
+    "registrationStatus": "Deregistered",
+    "regulatedActivities": [],
+    "relationships": [
+        {
+            "reason": "New Provider",
+            "relatedLocationId": "1-127515012",
+            "relatedLocationName": "Shaw Side Care Home",
+            "type": "HSCA Predecessor"
+        },
+        {
+            "reason": "New Provider",
+            "relatedLocationId": "1-6355044561",
+            "relatedLocationName": "Shawside Care Home",
+            "type": "HSCA Successor"
+        }
+    ],
+    "reports": [
+        {
+            "firstVisitDate": "2017-10-24",
+            "linkId": "7c749c82-93ce-41af-be44-4549eccbd248",
+            "reportDate": "2018-01-18",
+            "reportType": "Location",
+            "reportUri": "/reports/7c749c82-93ce-41af-be44-4549eccbd248?20200129163919"
+        }
+    ],
+    "specialisms": [
+        {
+            "name": "Caring for adults over 65 yrs"
+        },
+        {
+            "name": "Dementia"
+        },
+        {
+            "name": "Physical disabilities"
+        }
+    ],
+    "type": "Social Care Org",
+    "uprn": "422000086448"
+}

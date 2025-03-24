@@ -1,0 +1,59 @@
+{
+    "brandId": "Q83",
+    "brandName": "NHS England North (Greater Manchester)",
+    "careHome": "N",
+    "constituency": "Oldham West and Royton",
+    "dormancy": "N",
+    "gacServiceTypes": [
+        {
+            "description": "Acute services with overnight beds",
+            "name": "Hospital"
+        }
+    ],
+    "inspectionAreas": [],
+    "inspectionCategories": [
+        {
+            "code": "H1",
+            "name": "Acute hospital - NHS non-specialist",
+            "primary": "true"
+        }
+    ],
+    "inspectionDirectorate": "Hospitals",
+    "localAuthority": "Oldham",
+    "locationId": "H5L2X",
+    "locationTypes": [],
+    "mainPhoneNumber": "01612761234",
+    "name": "Royal Oldham Hospital (Vascular Surgery)",
+    "numberOfBeds": 0,
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.5532482,
+    "onspdLongitude": -2.121831,
+    "organisationType": "Location",
+    "postalAddressCounty": "Greater Manchester",
+    "postalAddressLine1": "Rochdale Road",
+    "postalAddressTownCity": "Oldham",
+    "postalCode": "OL1 2JH",
+    "providerId": "R0A",
+    "region": "North West",
+    "registrationDate": "2021-04-01",
+    "registrationStatus": "Registered",
+    "regulatedActivities": [
+        {
+            "code": "RA7",
+            "contacts": [],
+            "name": "Surgical procedures"
+        }
+    ],
+    "relationships": [],
+    "specialisms": [
+        {
+            "name": "Services for everyone"
+        }
+    ],
+    "type": "NHS Healthcare Organisation",
+    "uprn": "422000097134",
+    "website": "mft.nhs.uk"
+}

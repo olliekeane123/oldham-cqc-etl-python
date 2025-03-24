@@ -1,0 +1,133 @@
+{
+    "careHome": "N",
+    "constituency": "Oldham West and Royton",
+    "currentRatings": {
+        "overall": {
+            "keyQuestionRatings": [
+                {
+                    "name": "Safe",
+                    "rating": "Requires improvement",
+                    "reportDate": "2023-02-08",
+                    "reportLinkId": "712a96ef-3878-46aa-b92b-1b2854336917"
+                },
+                {
+                    "name": "Well-led",
+                    "rating": "Requires improvement",
+                    "reportDate": "2023-02-08",
+                    "reportLinkId": "712a96ef-3878-46aa-b92b-1b2854336917"
+                },
+                {
+                    "name": "Caring",
+                    "rating": "Good",
+                    "reportDate": "2023-02-08",
+                    "reportLinkId": "712a96ef-3878-46aa-b92b-1b2854336917"
+                },
+                {
+                    "name": "Responsive",
+                    "rating": "Good",
+                    "reportDate": "2023-02-08",
+                    "reportLinkId": "712a96ef-3878-46aa-b92b-1b2854336917"
+                },
+                {
+                    "name": "Effective",
+                    "rating": "Requires improvement",
+                    "reportDate": "2023-02-08",
+                    "reportLinkId": "712a96ef-3878-46aa-b92b-1b2854336917"
+                }
+            ],
+            "rating": "Requires improvement",
+            "reportDate": "2023-02-08",
+            "reportLinkId": "712a96ef-3878-46aa-b92b-1b2854336917"
+        },
+        "reportDate": "2023-02-08"
+    },
+    "dormancy": "N",
+    "gacServiceTypes": [
+        {
+            "description": "Domiciliary care service",
+            "name": "Homecare agencies"
+        }
+    ],
+    "inspectionAreas": [],
+    "inspectionCategories": [
+        {
+            "code": "S2",
+            "name": "Community based adult social care services",
+            "primary": "true"
+        }
+    ],
+    "inspectionDirectorate": "Adult social care",
+    "lastInspection": {
+        "date": "2022-12-15"
+    },
+    "lastReport": {
+        "publicationDate": "2023-02-08"
+    },
+    "localAuthority": "Oldham",
+    "locationId": "1-11831040453",
+    "locationTypes": [],
+    "mainPhoneNumber": "01613882355",
+    "name": "Sams Helping Hands Ltd",
+    "numberOfBeds": 0,
+    "odsCode": "VNLNW",
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.5248813,
+    "onspdLongitude": -2.1364849,
+    "organisationType": "Location",
+    "postalAddressLine1": "Chambers Business Centre",
+    "postalAddressLine2": "Chapel Road",
+    "postalAddressTownCity": "Oldham",
+    "postalCode": "OL8 4QQ",
+    "providerId": "1-10752711116",
+    "region": "North West",
+    "registrationDate": "2022-03-17",
+    "registrationStatus": "Registered",
+    "regulatedActivities": [
+        {
+            "code": "RA1",
+            "contacts": [
+                {
+                    "personFamilyName": "Farooq",
+                    "personGivenName": "Alisha Shahid",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Miss"
+                }
+            ],
+            "name": "Personal care"
+        }
+    ],
+    "relationships": [],
+    "reports": [
+        {
+            "firstVisitDate": "2022-12-05",
+            "linkId": "712a96ef-3878-46aa-b92b-1b2854336917",
+            "reportDate": "2023-02-08",
+            "reportType": "Location",
+            "reportUri": "/reports/712a96ef-3878-46aa-b92b-1b2854336917?20230317130000"
+        }
+    ],
+    "specialisms": [
+        {
+            "name": "Caring for adults over 65 yrs"
+        },
+        {
+            "name": "Caring for children"
+        },
+        {
+            "name": "Dementia"
+        },
+        {
+            "name": "Learning disabilities"
+        },
+        {
+            "name": "Physical disabilities"
+        }
+    ],
+    "type": "Social Care Org",
+    "uprn": "422000045423"
+}

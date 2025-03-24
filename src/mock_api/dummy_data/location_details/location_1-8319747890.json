@@ -1,0 +1,215 @@
+{
+    "brandId": "BD141",
+    "brandName": "BRAND CareTech Community Services",
+    "careHome": "N",
+    "constituency": "Ashton-under-Lyne",
+    "currentRatings": {
+        "overall": {
+            "keyQuestionRatings": [
+                {
+                    "name": "Safe",
+                    "rating": "Good",
+                    "reportDate": "2022-09-29",
+                    "reportLinkId": "e5fb4279-af91-4218-a801-6b90f9da255c"
+                },
+                {
+                    "name": "Well-led",
+                    "rating": "Outstanding",
+                    "reportDate": "2022-09-29",
+                    "reportLinkId": "e5fb4279-af91-4218-a801-6b90f9da255c"
+                },
+                {
+                    "name": "Caring",
+                    "rating": "Outstanding",
+                    "reportDate": "2022-09-29",
+                    "reportLinkId": "e5fb4279-af91-4218-a801-6b90f9da255c"
+                },
+                {
+                    "name": "Responsive",
+                    "rating": "Outstanding",
+                    "reportDate": "2022-09-29",
+                    "reportLinkId": "e5fb4279-af91-4218-a801-6b90f9da255c"
+                },
+                {
+                    "name": "Effective",
+                    "rating": "Good",
+                    "reportDate": "2022-09-29",
+                    "reportLinkId": "e5fb4279-af91-4218-a801-6b90f9da255c"
+                }
+            ],
+            "rating": "Outstanding",
+            "reportDate": "2022-09-29",
+            "reportLinkId": "e5fb4279-af91-4218-a801-6b90f9da255c"
+        },
+        "reportDate": "2022-09-29"
+    },
+    "dormancy": "N",
+    "gacServiceTypes": [
+        {
+            "description": "Domiciliary care service",
+            "name": "Homecare agencies"
+        },
+        {
+            "description": "Supported living service",
+            "name": "Supported living"
+        }
+    ],
+    "historicRatings": [
+        {
+            "organisationId": "1-841756281",
+            "overall": {
+                "keyQuestionRatings": [
+                    {
+                        "name": "Safe",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Well-led",
+                        "rating": "Outstanding"
+                    },
+                    {
+                        "name": "Caring",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Responsive",
+                        "rating": "Outstanding"
+                    },
+                    {
+                        "name": "Effective",
+                        "rating": "Good"
+                    }
+                ],
+                "rating": "Outstanding"
+            },
+            "reportDate": "2019-04-26",
+            "reportLinkId": "694c268d-7db1-4707-8c96-f09d0def763c"
+        },
+        {
+            "organisationId": "1-841756281",
+            "overall": {
+                "keyQuestionRatings": [
+                    {
+                        "name": "Safe",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Well-led",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Caring",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Responsive",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Effective",
+                        "rating": "Good"
+                    }
+                ],
+                "rating": "Good"
+            },
+            "reportDate": "2016-09-20",
+            "reportLinkId": "be994807-745e-487f-9110-137cd5922aa5"
+        }
+    ],
+    "inspectionAreas": [],
+    "inspectionCategories": [
+        {
+            "code": "S2",
+            "name": "Community based adult social care services",
+            "primary": "true"
+        }
+    ],
+    "inspectionDirectorate": "Adult social care",
+    "lastInspection": {
+        "date": "2022-06-09"
+    },
+    "lastReport": {
+        "publicationDate": "2022-09-29"
+    },
+    "localAuthority": "Oldham",
+    "locationId": "1-8319747890",
+    "locationTypes": [],
+    "mainPhoneNumber": "07827300609",
+    "name": "Complete Care and Enablement Services",
+    "numberOfBeds": 0,
+    "odsCode": "VNF8C",
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.5166043,
+    "onspdLongitude": -2.1430035,
+    "organisationType": "Location",
+    "postalAddressLine1": "Unit 4 Hollinwood Business Centre",
+    "postalAddressLine2": "Albert Street",
+    "postalAddressTownCity": "Oldham",
+    "postalCode": "OL8 3QL",
+    "providerId": "1-324411830",
+    "region": "North West",
+    "registrationDate": "2020-02-27",
+    "registrationStatus": "Registered",
+    "regulatedActivities": [
+        {
+            "code": "RA1",
+            "contacts": [
+                {
+                    "personFamilyName": "Withington",
+                    "personGivenName": "Joanna Christine",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Mrs"
+                }
+            ],
+            "name": "Personal care"
+        }
+    ],
+    "relationships": [
+        {
+            "reason": "Location Move",
+            "relatedLocationId": "1-841756281",
+            "relatedLocationName": "Complete Care and Enablement Services",
+            "type": "HSCA Predecessor"
+        }
+    ],
+    "reports": [
+        {
+            "firstVisitDate": "2022-05-24",
+            "linkId": "e5fb4279-af91-4218-a801-6b90f9da255c",
+            "reportDate": "2022-09-29",
+            "reportType": "Location",
+            "reportUri": "/reports/e5fb4279-af91-4218-a801-6b90f9da255c?20220929120002"
+        }
+    ],
+    "specialisms": [
+        {
+            "name": "Caring for adults over 65 yrs"
+        },
+        {
+            "name": "Caring for adults under 65 yrs"
+        },
+        {
+            "name": "Dementia"
+        },
+        {
+            "name": "Learning disabilities"
+        },
+        {
+            "name": "Mental health conditions"
+        },
+        {
+            "name": "Physical disabilities"
+        },
+        {
+            "name": "Sensory impairment"
+        }
+    ],
+    "type": "Social Care Org",
+    "uprn": "422000126280",
+    "website": "www.caretech-uk.com"
+}

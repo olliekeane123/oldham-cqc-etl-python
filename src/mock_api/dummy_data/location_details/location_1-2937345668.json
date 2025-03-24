@@ -1,0 +1,121 @@
+{
+    "careHome": "N",
+    "constituency": "Oldham West and Royton",
+    "currentRatings": {
+        "overall": {
+            "keyQuestionRatings": [
+                {
+                    "name": "Safe",
+                    "rating": "No published rating"
+                },
+                {
+                    "name": "Well-led",
+                    "rating": "No published rating"
+                },
+                {
+                    "name": "Caring",
+                    "rating": "No published rating"
+                },
+                {
+                    "name": "Responsive",
+                    "rating": "No published rating"
+                },
+                {
+                    "name": "Effective",
+                    "rating": "No published rating"
+                }
+            ],
+            "rating": "Inspected but not rated",
+            "reportDate": "2020-02-10",
+            "reportLinkId": "40a67a8e-e631-47d1-926d-0c5c190b1993"
+        },
+        "reportDate": "2020-02-10"
+    },
+    "dormancy": "N",
+    "gacServiceTypes": [
+        {
+            "description": "Dental service",
+            "name": "Dentist"
+        }
+    ],
+    "inspectionAreas": [],
+    "inspectionCategories": [
+        {
+            "code": "P1",
+            "name": "Dentists",
+            "primary": "true"
+        }
+    ],
+    "inspectionDirectorate": "Primary medical services",
+    "lastInspection": {
+        "date": "2019-12-17"
+    },
+    "lastReport": {
+        "publicationDate": "2020-02-10"
+    },
+    "localAuthority": "Oldham",
+    "locationId": "1-2937345668",
+    "locationTypes": [],
+    "mainPhoneNumber": "01706849392",
+    "name": "Heyside Dental Practice Partnership",
+    "numberOfBeds": 0,
+    "odsCode": "V00153",
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.5637629,
+    "onspdLongitude": -2.1025488,
+    "organisationType": "Location",
+    "postalAddressCounty": "Lancashire",
+    "postalAddressLine1": "84 Heyside",
+    "postalAddressLine2": "Royton",
+    "postalAddressTownCity": "Oldham",
+    "postalCode": "OL2 6LS",
+    "providerId": "1-2781087968",
+    "region": "North West",
+    "registeredManagerAbsentDate": "2025-02-03",
+    "registrationDate": "2017-01-09",
+    "registrationStatus": "Registered",
+    "regulatedActivities": [
+        {
+            "code": "RA5",
+            "contacts": [],
+            "name": "Treatment of disease, disorder or injury"
+        },
+        {
+            "code": "RA7",
+            "contacts": [],
+            "name": "Surgical procedures"
+        },
+        {
+            "code": "RA8",
+            "contacts": [],
+            "name": "Diagnostic and screening procedures"
+        }
+    ],
+    "relationships": [
+        {
+            "reason": "New Provider",
+            "relatedLocationId": "1-195609383",
+            "relatedLocationName": "Heyside Dental Practice",
+            "type": "HSCA Predecessor"
+        }
+    ],
+    "reports": [
+        {
+            "firstVisitDate": "2019-12-17",
+            "linkId": "40a67a8e-e631-47d1-926d-0c5c190b1993",
+            "reportDate": "2020-02-10",
+            "reportType": "Location",
+            "reportUri": "/reports/40a67a8e-e631-47d1-926d-0c5c190b1993?20210114105252"
+        }
+    ],
+    "specialisms": [
+        {
+            "name": "Services for everyone"
+        }
+    ],
+    "type": "Primary Dental Care",
+    "uprn": "422000054677"
+}

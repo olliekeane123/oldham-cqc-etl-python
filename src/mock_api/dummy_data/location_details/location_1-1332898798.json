@@ -1,0 +1,198 @@
+{
+    "brandId": "BD350",
+    "brandName": "BRAND Care Worldwide",
+    "careHome": "Y",
+    "constituency": "Oldham West and Royton",
+    "currentRatings": {
+        "overall": {
+            "keyQuestionRatings": [
+                {
+                    "name": "Safe",
+                    "rating": "Good",
+                    "reportDate": "2019-07-16",
+                    "reportLinkId": "1d679a85-023a-4b8e-a669-2628f26017e5"
+                },
+                {
+                    "name": "Well-led",
+                    "rating": "Good",
+                    "reportDate": "2019-07-16",
+                    "reportLinkId": "1d679a85-023a-4b8e-a669-2628f26017e5"
+                },
+                {
+                    "name": "Caring",
+                    "rating": "Good",
+                    "reportDate": "2019-07-16",
+                    "reportLinkId": "1d679a85-023a-4b8e-a669-2628f26017e5"
+                },
+                {
+                    "name": "Responsive",
+                    "rating": "Good",
+                    "reportDate": "2019-07-16",
+                    "reportLinkId": "1d679a85-023a-4b8e-a669-2628f26017e5"
+                },
+                {
+                    "name": "Effective",
+                    "rating": "Good",
+                    "reportDate": "2019-07-16",
+                    "reportLinkId": "1d679a85-023a-4b8e-a669-2628f26017e5"
+                }
+            ],
+            "rating": "Good",
+            "reportDate": "2019-07-16",
+            "reportLinkId": "1d679a85-023a-4b8e-a669-2628f26017e5"
+        },
+        "reportDate": "2019-07-16"
+    },
+    "dormancy": "N",
+    "gacServiceTypes": [
+        {
+            "description": "Care home service with nursing",
+            "name": "Nursing homes"
+        }
+    ],
+    "historicRatings": [
+        {
+            "overall": {
+                "keyQuestionRatings": [
+                    {
+                        "name": "Safe",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Well-led",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Caring",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Responsive",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Effective",
+                        "rating": "Good"
+                    }
+                ],
+                "rating": "Good"
+            },
+            "reportDate": "2016-12-21",
+            "reportLinkId": "49d7d1dd-dd14-425f-9c23-d7d560a76602"
+        }
+    ],
+    "inspectionAreas": [],
+    "inspectionCategories": [
+        {
+            "code": "S1",
+            "name": "Residential social care",
+            "primary": "true"
+        }
+    ],
+    "inspectionDirectorate": "Adult social care",
+    "lastInspection": {
+        "date": "2019-06-21"
+    },
+    "lastReport": {
+        "publicationDate": "2019-07-16"
+    },
+    "localAuthority": "Oldham",
+    "locationId": "1-1332898798",
+    "locationTypes": [],
+    "mainPhoneNumber": "01616268522",
+    "name": "Coppice Nursing Home",
+    "numberOfBeds": 44,
+    "odsCode": "VM4V7",
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.5329671,
+    "onspdLongitude": -2.1251219,
+    "organisationType": "Location",
+    "postalAddressCounty": "Lancashire",
+    "postalAddressLine1": "84 Windsor Road",
+    "postalAddressTownCity": "Oldham",
+    "postalCode": "OL8 1RQ",
+    "providerId": "1-1313147317",
+    "region": "North West",
+    "registrationDate": "2014-04-10",
+    "registrationStatus": "Registered",
+    "regulatedActivities": [
+        {
+            "code": "RA2",
+            "contacts": [
+                {
+                    "personFamilyName": "Grace",
+                    "personGivenName": "Colette",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Ms"
+                }
+            ],
+            "name": "Accommodation for persons who require nursing or personal care"
+        },
+        {
+            "code": "RA5",
+            "contacts": [
+                {
+                    "personFamilyName": "Grace",
+                    "personGivenName": "Colette",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Ms"
+                }
+            ],
+            "name": "Treatment of disease, disorder or injury"
+        }
+    ],
+    "relationships": [
+        {
+            "reason": "New Provider",
+            "relatedLocationId": "1-115962630",
+            "relatedLocationName": "Coppice Nursing Home",
+            "type": "HSCA Predecessor"
+        }
+    ],
+    "reports": [
+        {
+            "firstVisitDate": "2019-06-20",
+            "linkId": "1d679a85-023a-4b8e-a669-2628f26017e5",
+            "reportDate": "2019-07-16",
+            "reportType": "Location",
+            "reportUri": "/reports/1d679a85-023a-4b8e-a669-2628f26017e5?20190716120000"
+        },
+        {
+            "firstVisitDate": "2016-09-06",
+            "linkId": "49d7d1dd-dd14-425f-9c23-d7d560a76602",
+            "reportDate": "2016-12-21",
+            "reportType": "Location",
+            "reportUri": "/reports/49d7d1dd-dd14-425f-9c23-d7d560a76602?20200129163919"
+        }
+    ],
+    "specialisms": [
+        {
+            "name": "Caring for adults over 65 yrs"
+        },
+        {
+            "name": "Dementia"
+        },
+        {
+            "name": "Eating disorders"
+        },
+        {
+            "name": "Mental health conditions"
+        },
+        {
+            "name": "Physical disabilities"
+        },
+        {
+            "name": "Sensory impairment"
+        }
+    ],
+    "type": "Social Care Org",
+    "uprn": "422000092677",
+    "website": "www.bondcare.co.uk/care-homes/coppice-nursing-home/"
+}

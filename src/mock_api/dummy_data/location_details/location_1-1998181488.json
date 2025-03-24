@@ -1,0 +1,253 @@
+{
+    "careHome": "N",
+    "constituency": "Oldham West and Royton",
+    "currentRatings": {
+        "overall": {
+            "keyQuestionRatings": [
+                {
+                    "name": "Safe",
+                    "rating": "Good",
+                    "reportDate": "2018-05-24",
+                    "reportLinkId": "fbf818d1-29cf-4236-8e6b-5f752918e76f"
+                },
+                {
+                    "name": "Well-led",
+                    "rating": "Outstanding",
+                    "reportDate": "2018-05-24",
+                    "reportLinkId": "fbf818d1-29cf-4236-8e6b-5f752918e76f"
+                },
+                {
+                    "name": "Caring",
+                    "rating": "Outstanding",
+                    "reportDate": "2018-05-24",
+                    "reportLinkId": "fbf818d1-29cf-4236-8e6b-5f752918e76f"
+                },
+                {
+                    "name": "Responsive",
+                    "rating": "Outstanding",
+                    "reportDate": "2018-05-24",
+                    "reportLinkId": "fbf818d1-29cf-4236-8e6b-5f752918e76f"
+                },
+                {
+                    "name": "Effective",
+                    "rating": "Good",
+                    "reportDate": "2018-05-24",
+                    "reportLinkId": "fbf818d1-29cf-4236-8e6b-5f752918e76f"
+                }
+            ],
+            "rating": "Outstanding",
+            "reportDate": "2018-05-24",
+            "reportLinkId": "fbf818d1-29cf-4236-8e6b-5f752918e76f"
+        },
+        "reportDate": "2018-05-24",
+        "serviceRatings": [
+            {
+                "name": "conditions",
+                "rating": "Outstanding",
+                "reportDate": "2018-05-24",
+                "reportLinkId": "fbf818d1-29cf-4236-8e6b-5f752918e76f"
+            },
+            {
+                "name": "mothers",
+                "rating": "Outstanding",
+                "reportDate": "2018-05-24",
+                "reportLinkId": "fbf818d1-29cf-4236-8e6b-5f752918e76f"
+            },
+            {
+                "name": "old",
+                "rating": "Outstanding",
+                "reportDate": "2018-05-24",
+                "reportLinkId": "fbf818d1-29cf-4236-8e6b-5f752918e76f"
+            },
+            {
+                "name": "population",
+                "rating": "Outstanding",
+                "reportDate": "2018-05-24",
+                "reportLinkId": "fbf818d1-29cf-4236-8e6b-5f752918e76f"
+            },
+            {
+                "name": "problems",
+                "rating": "Outstanding",
+                "reportDate": "2018-05-24",
+                "reportLinkId": "fbf818d1-29cf-4236-8e6b-5f752918e76f"
+            },
+            {
+                "name": "vulnerable",
+                "rating": "Outstanding",
+                "reportDate": "2018-05-24",
+                "reportLinkId": "fbf818d1-29cf-4236-8e6b-5f752918e76f"
+            }
+        ]
+    },
+    "dormancy": "N",
+    "gacServiceTypes": [
+        {
+            "description": "Doctors treatment service",
+            "name": "Doctors/Gps"
+        }
+    ],
+    "inspectionAreas": [
+        {
+            "inspectionAreaId": "conditions",
+            "inspectionAreaName": "People with long term conditions",
+            "status": "Active (Rated)"
+        },
+        {
+            "inspectionAreaId": "mothers",
+            "inspectionAreaName": "Families, children and young people",
+            "status": "Active (Rated)"
+        },
+        {
+            "inspectionAreaId": "old",
+            "inspectionAreaName": "Older people",
+            "status": "Active (Rated)"
+        },
+        {
+            "inspectionAreaId": "population",
+            "inspectionAreaName": "Working age people (including those recently retired and students)",
+            "status": "Active (Rated)"
+        },
+        {
+            "inspectionAreaId": "problems",
+            "inspectionAreaName": "People experiencing poor mental health (including people with dementia)",
+            "status": "Active (Rated)"
+        },
+        {
+            "inspectionAreaId": "vulnerable",
+            "inspectionAreaName": "People whose circumstances may make them vulnerable",
+            "status": "Active (Rated)"
+        }
+    ],
+    "inspectionCategories": [
+        {
+            "code": "P2",
+            "name": "GP Practices",
+            "primary": "true"
+        }
+    ],
+    "inspectionDirectorate": "Primary medical services",
+    "lastInspection": {
+        "date": "2018-03-20"
+    },
+    "lastReport": {
+        "publicationDate": "2018-05-24"
+    },
+    "localAuthority": "Oldham",
+    "locationId": "1-1998181488",
+    "locationTypes": [
+        {
+            "type": "GP Practice"
+        }
+    ],
+    "mainPhoneNumber": "01613572070",
+    "name": "Hollinwood Medical Practice",
+    "numberOfBeds": 0,
+    "odsCcgCode": "00Y",
+    "odsCcgName": "NHS Greater Manchester Icb - 00Y",
+    "odsCode": "Y02933",
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.5220975,
+    "onspdLongitude": -2.1276539,
+    "organisationType": "Location",
+    "postalAddressCounty": "Lancashire",
+    "postalAddressLine1": "1 Clive Street",
+    "postalAddressTownCity": "Oldham",
+    "postalCode": "OL8 3TR",
+    "providerId": "1-199810820",
+    "region": "North West",
+    "registrationDate": "2015-05-27",
+    "registrationStatus": "Registered",
+    "regulatedActivities": [
+        {
+            "code": "RA11",
+            "contacts": [
+                {
+                    "personFamilyName": "Neilson",
+                    "personGivenName": "Laura",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Dr"
+                }
+            ],
+            "name": "Maternity and midwifery services"
+        },
+        {
+            "code": "RA15",
+            "contacts": [
+                {
+                    "personFamilyName": "Neilson",
+                    "personGivenName": "Laura",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Dr"
+                }
+            ],
+            "name": "Family planning"
+        },
+        {
+            "code": "RA5",
+            "contacts": [
+                {
+                    "personFamilyName": "Neilson",
+                    "personGivenName": "Laura",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Dr"
+                }
+            ],
+            "name": "Treatment of disease, disorder or injury"
+        },
+        {
+            "code": "RA7",
+            "contacts": [
+                {
+                    "personFamilyName": "Neilson",
+                    "personGivenName": "Laura",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Dr"
+                }
+            ],
+            "name": "Surgical procedures"
+        },
+        {
+            "code": "RA8",
+            "contacts": [
+                {
+                    "personFamilyName": "Neilson",
+                    "personGivenName": "Laura",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Dr"
+                }
+            ],
+            "name": "Diagnostic and screening procedures"
+        }
+    ],
+    "relationships": [],
+    "reports": [
+        {
+            "firstVisitDate": "2018-03-20",
+            "linkId": "fbf818d1-29cf-4236-8e6b-5f752918e76f",
+            "reportDate": "2018-05-24",
+            "reportType": "Location",
+            "reportUri": "/reports/fbf818d1-29cf-4236-8e6b-5f752918e76f?20210117194415"
+        }
+    ],
+    "specialisms": [
+        {
+            "name": "Services for everyone"
+        }
+    ],
+    "type": "Primary Medical Services",
+    "uprn": "422000113223",
+    "website": "www.hollinwoodpractice.org.uk/"
+}

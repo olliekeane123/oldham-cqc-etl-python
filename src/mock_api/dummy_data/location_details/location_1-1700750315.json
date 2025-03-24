@@ -1,0 +1,120 @@
+{
+    "careHome": "Y",
+    "constituency": "Oldham West and Royton",
+    "currentRatings": {
+        "overall": {
+            "keyQuestionRatings": [
+                {
+                    "name": "Safe",
+                    "rating": "Good",
+                    "reportDate": "2016-05-14",
+                    "reportLinkId": "61bd930b-082a-4ae3-a33c-14da5987898d"
+                },
+                {
+                    "name": "Well-led",
+                    "rating": "Good",
+                    "reportDate": "2016-05-14",
+                    "reportLinkId": "61bd930b-082a-4ae3-a33c-14da5987898d"
+                },
+                {
+                    "name": "Caring",
+                    "rating": "Good",
+                    "reportDate": "2016-05-14",
+                    "reportLinkId": "61bd930b-082a-4ae3-a33c-14da5987898d"
+                },
+                {
+                    "name": "Responsive",
+                    "rating": "Requires improvement",
+                    "reportDate": "2016-05-14",
+                    "reportLinkId": "61bd930b-082a-4ae3-a33c-14da5987898d"
+                },
+                {
+                    "name": "Effective",
+                    "rating": "Good",
+                    "reportDate": "2016-05-14",
+                    "reportLinkId": "61bd930b-082a-4ae3-a33c-14da5987898d"
+                }
+            ],
+            "rating": "Good",
+            "reportDate": "2016-05-14",
+            "reportLinkId": "61bd930b-082a-4ae3-a33c-14da5987898d"
+        },
+        "reportDate": "2016-05-14"
+    },
+    "deregistrationDate": "2017-07-21",
+    "dormancy": "N",
+    "dormancyEndDate": "2021-09-22",
+    "gacServiceTypes": [
+        {
+            "description": "Care home service without nursing",
+            "name": "Residential homes"
+        }
+    ],
+    "inspectionAreas": [],
+    "inspectionCategories": [
+        {
+            "code": "S1",
+            "name": "Residential social care",
+            "primary": "true"
+        }
+    ],
+    "inspectionDirectorate": "Adult social care",
+    "lastInspection": {
+        "date": "2016-03-07"
+    },
+    "lastReport": {
+        "publicationDate": "2016-05-14"
+    },
+    "localAuthority": "Oldham",
+    "locationId": "1-1700750315",
+    "locationTypes": [],
+    "mainPhoneNumber": "01616248638",
+    "name": "Limecroft Resource Centre",
+    "numberOfBeds": 20,
+    "odsCode": "VM7GX",
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.51484,
+    "onspdLongitude": -2.122279,
+    "organisationType": "Location",
+    "postalAddressCounty": "Lancashire",
+    "postalAddressLine1": "Whitebank Road",
+    "postalAddressTownCity": "Oldham",
+    "postalCode": "OL8 3JL",
+    "providerId": "1-757851752",
+    "region": "North West",
+    "registrationDate": "2014-10-28",
+    "registrationStatus": "Deregistered",
+    "regulatedActivities": [],
+    "relationships": [
+        {
+            "reason": "New Provider",
+            "relatedLocationId": "1-448867949",
+            "relatedLocationName": "Limecroft Resource Centre",
+            "type": "HSCA Predecessor"
+        }
+    ],
+    "reports": [
+        {
+            "firstVisitDate": "2016-03-01",
+            "linkId": "61bd930b-082a-4ae3-a33c-14da5987898d",
+            "reportDate": "2016-05-14",
+            "reportType": "Location",
+            "reportUri": "/reports/61bd930b-082a-4ae3-a33c-14da5987898d?20160516120400"
+        }
+    ],
+    "specialisms": [
+        {
+            "name": "Caring for adults over 65 yrs"
+        },
+        {
+            "name": "Dementia"
+        },
+        {
+            "name": "Physical disabilities"
+        }
+    ],
+    "type": "Social Care Org"
+}

@@ -1,0 +1,254 @@
+{
+    "careHome": "N",
+    "constituency": "Oldham West and Royton",
+    "currentRatings": {
+        "overall": {
+            "keyQuestionRatings": [
+                {
+                    "name": "Safe",
+                    "rating": "Good",
+                    "reportDate": "2016-07-11",
+                    "reportLinkId": "a45d4b2f-ab65-459b-85c4-611dac3e817a"
+                },
+                {
+                    "name": "Well-led",
+                    "rating": "Good",
+                    "reportDate": "2016-07-11",
+                    "reportLinkId": "a45d4b2f-ab65-459b-85c4-611dac3e817a"
+                },
+                {
+                    "name": "Caring",
+                    "rating": "Good",
+                    "reportDate": "2016-07-11",
+                    "reportLinkId": "a45d4b2f-ab65-459b-85c4-611dac3e817a"
+                },
+                {
+                    "name": "Responsive",
+                    "rating": "Good",
+                    "reportDate": "2016-07-11",
+                    "reportLinkId": "a45d4b2f-ab65-459b-85c4-611dac3e817a"
+                },
+                {
+                    "name": "Effective",
+                    "rating": "Good",
+                    "reportDate": "2016-07-11",
+                    "reportLinkId": "a45d4b2f-ab65-459b-85c4-611dac3e817a"
+                }
+            ],
+            "rating": "Good",
+            "reportDate": "2016-07-11",
+            "reportLinkId": "a45d4b2f-ab65-459b-85c4-611dac3e817a"
+        },
+        "reportDate": "2016-07-11",
+        "serviceRatings": [
+            {
+                "name": "conditions",
+                "rating": "Good",
+                "reportDate": "2016-07-11",
+                "reportLinkId": "a45d4b2f-ab65-459b-85c4-611dac3e817a"
+            },
+            {
+                "name": "mothers",
+                "rating": "Good",
+                "reportDate": "2016-07-11",
+                "reportLinkId": "a45d4b2f-ab65-459b-85c4-611dac3e817a"
+            },
+            {
+                "name": "old",
+                "rating": "Good",
+                "reportDate": "2016-07-11",
+                "reportLinkId": "a45d4b2f-ab65-459b-85c4-611dac3e817a"
+            },
+            {
+                "name": "population",
+                "rating": "Good",
+                "reportDate": "2016-07-11",
+                "reportLinkId": "a45d4b2f-ab65-459b-85c4-611dac3e817a"
+            },
+            {
+                "name": "problems",
+                "rating": "Good",
+                "reportDate": "2016-07-11",
+                "reportLinkId": "a45d4b2f-ab65-459b-85c4-611dac3e817a"
+            },
+            {
+                "name": "vulnerable",
+                "rating": "Good",
+                "reportDate": "2016-07-11",
+                "reportLinkId": "a45d4b2f-ab65-459b-85c4-611dac3e817a"
+            }
+        ]
+    },
+    "dormancy": "N",
+    "gacServiceTypes": [
+        {
+            "description": "Doctors consultation service",
+            "name": "Doctors/Gps"
+        }
+    ],
+    "inspectionAreas": [
+        {
+            "inspectionAreaId": "conditions",
+            "inspectionAreaName": "People with long term conditions",
+            "status": "Active (Rated)"
+        },
+        {
+            "inspectionAreaId": "mothers",
+            "inspectionAreaName": "Families, children and young people",
+            "status": "Active (Rated)"
+        },
+        {
+            "inspectionAreaId": "old",
+            "inspectionAreaName": "Older people",
+            "status": "Active (Rated)"
+        },
+        {
+            "inspectionAreaId": "population",
+            "inspectionAreaName": "Working age people (including those recently retired and students)",
+            "status": "Active (Rated)"
+        },
+        {
+            "inspectionAreaId": "problems",
+            "inspectionAreaName": "People experiencing poor mental health (including people with dementia)",
+            "status": "Active (Rated)"
+        },
+        {
+            "inspectionAreaId": "vulnerable",
+            "inspectionAreaName": "People whose circumstances may make them vulnerable",
+            "status": "Active (Rated)"
+        }
+    ],
+    "inspectionCategories": [
+        {
+            "code": "P2",
+            "name": "GP Practices",
+            "primary": "true"
+        }
+    ],
+    "inspectionDirectorate": "Primary medical services",
+    "lastInspection": {
+        "date": "2016-05-24"
+    },
+    "lastReport": {
+        "publicationDate": "2016-07-11"
+    },
+    "localAuthority": "Oldham",
+    "locationId": "1-545296200",
+    "locationTypes": [
+        {
+            "type": "GP Practice"
+        }
+    ],
+    "mainPhoneNumber": "01613572300",
+    "name": "Woodlands Medical Practice",
+    "numberOfBeds": 0,
+    "odsCcgCode": "00Y",
+    "odsCcgName": "NHS Greater Manchester Icb - 00Y",
+    "odsCode": "P85010",
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.5455746,
+    "onspdLongitude": -2.1421799,
+    "organisationType": "Location",
+    "postalAddressCounty": "Lancashire",
+    "postalAddressLine1": "Chadderton Town Health Centre",
+    "postalAddressLine2": "Chadderton",
+    "postalAddressTownCity": "Oldham",
+    "postalCode": "OL9 0LH",
+    "providerId": "1-199785315",
+    "region": "North West",
+    "registrationDate": "2013-04-01",
+    "registrationStatus": "Registered",
+    "regulatedActivities": [
+        {
+            "code": "RA11",
+            "contacts": [
+                {
+                    "personFamilyName": "Ahmed",
+                    "personGivenName": "Samir",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Dr"
+                }
+            ],
+            "name": "Maternity and midwifery services"
+        },
+        {
+            "code": "RA15",
+            "contacts": [
+                {
+                    "personFamilyName": "Ahmed",
+                    "personGivenName": "Samir",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Dr"
+                }
+            ],
+            "name": "Family planning"
+        },
+        {
+            "code": "RA5",
+            "contacts": [
+                {
+                    "personFamilyName": "Ahmed",
+                    "personGivenName": "Samir",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Dr"
+                }
+            ],
+            "name": "Treatment of disease, disorder or injury"
+        },
+        {
+            "code": "RA7",
+            "contacts": [
+                {
+                    "personFamilyName": "Ahmed",
+                    "personGivenName": "Samir",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Dr"
+                }
+            ],
+            "name": "Surgical procedures"
+        },
+        {
+            "code": "RA8",
+            "contacts": [
+                {
+                    "personFamilyName": "Ahmed",
+                    "personGivenName": "Samir",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Dr"
+                }
+            ],
+            "name": "Diagnostic and screening procedures"
+        }
+    ],
+    "relationships": [],
+    "reports": [
+        {
+            "firstVisitDate": "2016-05-24",
+            "linkId": "a45d4b2f-ab65-459b-85c4-611dac3e817a",
+            "reportDate": "2016-07-11",
+            "reportType": "Location",
+            "reportUri": "/reports/a45d4b2f-ab65-459b-85c4-611dac3e817a?20210123064033"
+        }
+    ],
+    "specialisms": [
+        {
+            "name": "Services for everyone"
+        }
+    ],
+    "type": "Primary Medical Services",
+    "uprn": "422000013762",
+    "website": "www.woodlandsmedicalpractice.com"
+}

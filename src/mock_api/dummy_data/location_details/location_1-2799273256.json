@@ -1,0 +1,226 @@
+{
+    "careHome": "N",
+    "constituency": "Oldham West and Royton",
+    "currentRatings": {
+        "overall": {
+            "keyQuestionRatings": [
+                {
+                    "name": "Safe",
+                    "rating": "Good",
+                    "reportDate": "2018-04-18",
+                    "reportLinkId": "90296bfa-62c6-4381-a5e5-fd152256384a"
+                },
+                {
+                    "name": "Well-led",
+                    "rating": "Good",
+                    "reportDate": "2018-04-18",
+                    "reportLinkId": "90296bfa-62c6-4381-a5e5-fd152256384a"
+                },
+                {
+                    "name": "Caring",
+                    "rating": "Good",
+                    "reportDate": "2018-04-18",
+                    "reportLinkId": "90296bfa-62c6-4381-a5e5-fd152256384a"
+                },
+                {
+                    "name": "Responsive",
+                    "rating": "Good",
+                    "reportDate": "2017-11-28",
+                    "reportLinkId": "318cc276-1d35-46aa-8175-0ceeebeed15f"
+                },
+                {
+                    "name": "Effective",
+                    "rating": "Good",
+                    "reportDate": "2017-11-28",
+                    "reportLinkId": "318cc276-1d35-46aa-8175-0ceeebeed15f"
+                }
+            ],
+            "rating": "Good",
+            "reportDate": "2018-04-18",
+            "reportLinkId": "90296bfa-62c6-4381-a5e5-fd152256384a"
+        },
+        "reportDate": "2018-04-18",
+        "serviceRatings": [
+            {
+                "name": "conditions",
+                "rating": "Good",
+                "reportDate": "2017-11-28",
+                "reportLinkId": "318cc276-1d35-46aa-8175-0ceeebeed15f"
+            },
+            {
+                "name": "mothers",
+                "rating": "Good",
+                "reportDate": "2017-11-28",
+                "reportLinkId": "318cc276-1d35-46aa-8175-0ceeebeed15f"
+            },
+            {
+                "name": "old",
+                "rating": "Good",
+                "reportDate": "2017-11-28",
+                "reportLinkId": "318cc276-1d35-46aa-8175-0ceeebeed15f"
+            },
+            {
+                "name": "population",
+                "rating": "Good",
+                "reportDate": "2017-11-28",
+                "reportLinkId": "318cc276-1d35-46aa-8175-0ceeebeed15f"
+            },
+            {
+                "name": "problems",
+                "rating": "Good",
+                "reportDate": "2017-11-28",
+                "reportLinkId": "318cc276-1d35-46aa-8175-0ceeebeed15f"
+            },
+            {
+                "name": "vulnerable",
+                "rating": "Good",
+                "reportDate": "2017-11-28",
+                "reportLinkId": "318cc276-1d35-46aa-8175-0ceeebeed15f"
+            }
+        ]
+    },
+    "deregistrationDate": "2019-05-10",
+    "dormancy": "N",
+    "dormancyEndDate": "2021-09-22",
+    "gacServiceTypes": [
+        {
+            "description": "Doctors treatment service",
+            "name": "Doctors/Gps"
+        }
+    ],
+    "historicRatings": [
+        {
+            "overall": {
+                "keyQuestionRatings": [
+                    {
+                        "name": "Safe",
+                        "rating": "Requires improvement"
+                    },
+                    {
+                        "name": "Well-led",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Caring",
+                        "rating": "Good"
+                    }
+                ],
+                "rating": "Good"
+            },
+            "reportDate": "2017-11-28",
+            "reportLinkId": "318cc276-1d35-46aa-8175-0ceeebeed15f"
+        }
+    ],
+    "inspectionAreas": [
+        {
+            "inspectionAreaId": "conditions",
+            "inspectionAreaName": "People with long term conditions",
+            "status": "Active (Rated)"
+        },
+        {
+            "inspectionAreaId": "mothers",
+            "inspectionAreaName": "Families, children and young people",
+            "status": "Active (Rated)"
+        },
+        {
+            "inspectionAreaId": "old",
+            "inspectionAreaName": "Older people",
+            "status": "Active (Rated)"
+        },
+        {
+            "inspectionAreaId": "population",
+            "inspectionAreaName": "Working age people (including those recently retired and students)",
+            "status": "Active (Rated)"
+        },
+        {
+            "inspectionAreaId": "problems",
+            "inspectionAreaName": "People experiencing poor mental health (including people with dementia)",
+            "status": "Active (Rated)"
+        },
+        {
+            "inspectionAreaId": "vulnerable",
+            "inspectionAreaName": "People whose circumstances may make them vulnerable",
+            "status": "Active (Rated)"
+        }
+    ],
+    "inspectionCategories": [
+        {
+            "code": "P2",
+            "name": "GP Practices",
+            "primary": "true"
+        }
+    ],
+    "inspectionDirectorate": "Primary medical services",
+    "lastInspection": {
+        "date": "2018-03-27"
+    },
+    "lastReport": {
+        "publicationDate": "2018-04-18"
+    },
+    "localAuthority": "Oldham",
+    "locationId": "1-2799273256",
+    "locationTypes": [
+        {
+            "type": "GP Practice"
+        }
+    ],
+    "mainPhoneNumber": "01616205677",
+    "name": "Werneth Medical Practice",
+    "numberOfBeds": 0,
+    "odsCcgCode": "00Y",
+    "odsCcgName": "NHS Greater Manchester Icb - 00Y",
+    "odsCode": "P85612",
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.5343853,
+    "onspdLongitude": -2.1269517,
+    "organisationType": "Location",
+    "postalAddressCounty": "Lancashire",
+    "postalAddressLine1": "76A Windsor Road",
+    "postalAddressTownCity": "Oldham",
+    "postalCode": "OL8 4AL",
+    "providerId": "1-2734765353",
+    "region": "North West",
+    "registrationDate": "2016-09-19",
+    "registrationStatus": "Deregistered",
+    "regulatedActivities": [],
+    "relationships": [
+        {
+            "reason": "New Provider",
+            "relatedLocationId": "1-6842887460",
+            "relatedLocationName": "Werneth Medical Practice",
+            "type": "HSCA Successor"
+        },
+        {
+            "reason": "Legal Entity Change",
+            "relatedLocationId": "1-559219354",
+            "relatedLocationName": "Werneth Medical Practice",
+            "type": "HSCA Predecessor"
+        }
+    ],
+    "reports": [
+        {
+            "firstVisitDate": "2018-03-27",
+            "linkId": "90296bfa-62c6-4381-a5e5-fd152256384a",
+            "reportDate": "2018-04-18",
+            "reportType": "Location",
+            "reportUri": "/reports/90296bfa-62c6-4381-a5e5-fd152256384a?20210117194415"
+        },
+        {
+            "firstVisitDate": "2017-10-11",
+            "linkId": "318cc276-1d35-46aa-8175-0ceeebeed15f",
+            "reportDate": "2017-11-28",
+            "reportType": "Location",
+            "reportUri": "/reports/318cc276-1d35-46aa-8175-0ceeebeed15f?20210117222837"
+        }
+    ],
+    "specialisms": [
+        {
+            "name": "Services for everyone"
+        }
+    ],
+    "type": "Primary Medical Services",
+    "uprn": "422000094599"
+}

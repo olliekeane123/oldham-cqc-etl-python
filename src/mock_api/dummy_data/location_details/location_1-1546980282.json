@@ -1,0 +1,180 @@
+{
+    "careHome": "N",
+    "constituency": "Oldham West and Royton",
+    "currentRatings": {
+        "overall": {
+            "keyQuestionRatings": [
+                {
+                    "name": "Safe",
+                    "rating": "Good",
+                    "reportDate": "2019-06-22",
+                    "reportLinkId": "a43fa70b-50b2-4a8a-b0d6-58bfeb2df4f5"
+                },
+                {
+                    "name": "Well-led",
+                    "rating": "Good",
+                    "reportDate": "2019-06-22",
+                    "reportLinkId": "a43fa70b-50b2-4a8a-b0d6-58bfeb2df4f5"
+                },
+                {
+                    "name": "Caring",
+                    "rating": "Good",
+                    "reportDate": "2019-06-22",
+                    "reportLinkId": "a43fa70b-50b2-4a8a-b0d6-58bfeb2df4f5"
+                },
+                {
+                    "name": "Responsive",
+                    "rating": "Good",
+                    "reportDate": "2019-06-22",
+                    "reportLinkId": "a43fa70b-50b2-4a8a-b0d6-58bfeb2df4f5"
+                },
+                {
+                    "name": "Effective",
+                    "rating": "Good",
+                    "reportDate": "2019-06-22",
+                    "reportLinkId": "a43fa70b-50b2-4a8a-b0d6-58bfeb2df4f5"
+                }
+            ],
+            "rating": "Good",
+            "reportDate": "2019-06-22",
+            "reportLinkId": "a43fa70b-50b2-4a8a-b0d6-58bfeb2df4f5"
+        },
+        "reportDate": "2019-06-22"
+    },
+    "dormancy": "N",
+    "gacServiceTypes": [
+        {
+            "description": "Domiciliary care service",
+            "name": "Homecare agencies"
+        }
+    ],
+    "historicRatings": [
+        {
+            "overall": {
+                "keyQuestionRatings": [
+                    {
+                        "name": "Safe",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Well-led",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Caring",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Responsive",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Effective",
+                        "rating": "Good"
+                    }
+                ],
+                "rating": "Good"
+            },
+            "reportDate": "2016-11-19",
+            "reportLinkId": "a3ffbdce-e9fd-4767-8d7b-7333cc6866d1"
+        }
+    ],
+    "inspectionAreas": [],
+    "inspectionCategories": [
+        {
+            "code": "S2",
+            "name": "Community based adult social care services",
+            "primary": "true"
+        }
+    ],
+    "inspectionDirectorate": "Adult social care",
+    "lastInspection": {
+        "date": "2019-05-09"
+    },
+    "lastReport": {
+        "publicationDate": "2019-06-22"
+    },
+    "localAuthority": "Oldham",
+    "locationId": "1-1546980282",
+    "locationTypes": [],
+    "mainPhoneNumber": "01617701846",
+    "name": "Oldham Care & Support at Home",
+    "numberOfBeds": 0,
+    "odsCode": "VNA4J",
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.5411189,
+    "onspdLongitude": -2.1148527,
+    "organisationType": "Location",
+    "postalAddressLine1": "Spindles Management Suite",
+    "postalAddressLine2": "Unit 50, George Street",
+    "postalAddressTownCity": "Oldham",
+    "postalCode": "OL1 1HD",
+    "providerId": "1-757851752",
+    "region": "North West",
+    "registrationDate": "2014-08-04",
+    "registrationStatus": "Registered",
+    "regulatedActivities": [
+        {
+            "code": "RA1",
+            "contacts": [
+                {
+                    "personFamilyName": "Hulse",
+                    "personGivenName": "Ian Robert",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Mr"
+                }
+            ],
+            "name": "Personal care"
+        }
+    ],
+    "relationships": [],
+    "reports": [
+        {
+            "firstVisitDate": "2019-05-09",
+            "linkId": "a43fa70b-50b2-4a8a-b0d6-58bfeb2df4f5",
+            "reportDate": "2019-06-22",
+            "reportType": "Location",
+            "reportUri": "/reports/a43fa70b-50b2-4a8a-b0d6-58bfeb2df4f5?20190622120000"
+        },
+        {
+            "firstVisitDate": "2016-09-22",
+            "linkId": "a3ffbdce-e9fd-4767-8d7b-7333cc6866d1",
+            "reportDate": "2016-11-19",
+            "reportType": "Location",
+            "reportUri": "/reports/a3ffbdce-e9fd-4767-8d7b-7333cc6866d1?20211030120000"
+        }
+    ],
+    "specialisms": [
+        {
+            "name": "Caring for adults over 65 yrs"
+        },
+        {
+            "name": "Caring for adults under 65 yrs"
+        },
+        {
+            "name": "Dementia"
+        },
+        {
+            "name": "Learning disabilities"
+        },
+        {
+            "name": "Mental health conditions"
+        },
+        {
+            "name": "Physical disabilities"
+        },
+        {
+            "name": "Sensory impairment"
+        },
+        {
+            "name": "Substance misuse problems"
+        }
+    ],
+    "type": "Social Care Org",
+    "uprn": "422000122661"
+}

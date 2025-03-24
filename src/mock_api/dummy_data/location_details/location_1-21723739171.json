@@ -1,0 +1,70 @@
+{
+    "alsoKnownAs": "Alliance Medical Limited",
+    "brandId": "BD242",
+    "brandName": "BRAND Alliance Medical Limited",
+    "careHome": "N",
+    "constituency": "Oldham West and Royton",
+    "dormancy": "N",
+    "gacServiceTypes": [
+        {
+            "description": "Diagnostic and/or screening service",
+            "name": "Diagnosis/screening"
+        }
+    ],
+    "inspectionAreas": [],
+    "inspectionCategories": [
+        {
+            "code": "H4",
+            "name": "Acute hospital - Independent specialist",
+            "primary": "true"
+        }
+    ],
+    "inspectionDirectorate": "Hospitals",
+    "localAuthority": "Oldham",
+    "locationId": "1-21723739171",
+    "locationTypes": [],
+    "name": "Oldham Community Diagnostic Centre Imaging",
+    "numberOfBeds": 0,
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.5613575,
+    "onspdLongitude": -2.1086723,
+    "organisationType": "Location",
+    "postalAddressLine1": "Plateau 1, Salmon Fields",
+    "postalAddressLine2": "Royton",
+    "postalAddressTownCity": "Oldham",
+    "postalCode": "OL2 6JG",
+    "providerId": "1-125892620",
+    "region": "North West",
+    "registrationDate": "2025-01-28",
+    "registrationStatus": "Registered",
+    "regulatedActivities": [
+        {
+            "code": "RA8",
+            "contacts": [
+                {
+                    "personFamilyName": "Evans",
+                    "personGivenName": "Lauren Rebecca",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Miss"
+                }
+            ],
+            "name": "Diagnostic and screening procedures"
+        }
+    ],
+    "relationships": [],
+    "specialisms": [
+        {
+            "name": "Caring for adults over 65 yrs"
+        },
+        {
+            "name": "Caring for adults under 65 yrs"
+        }
+    ],
+    "type": "Independent Healthcare Org",
+    "uprn": "100012736439"
+}

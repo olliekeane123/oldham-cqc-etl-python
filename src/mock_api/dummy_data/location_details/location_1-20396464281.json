@@ -1,0 +1,79 @@
+{
+    "careHome": "N",
+    "constituency": "Oldham East and Saddleworth",
+    "dormancy": "Y",
+    "dormancyStartDate": "2024-11-26",
+    "gacServiceTypes": [
+        {
+            "description": "Domiciliary care service",
+            "name": "Homecare agencies"
+        }
+    ],
+    "inspectionAreas": [],
+    "inspectionCategories": [
+        {
+            "code": "S2",
+            "name": "Community based adult social care services",
+            "primary": "true"
+        }
+    ],
+    "inspectionDirectorate": "Adult social care",
+    "localAuthority": "Oldham",
+    "locationId": "1-20396464281",
+    "locationTypes": [],
+    "mainPhoneNumber": "01616698462",
+    "name": "Bluebird Care Oldham",
+    "numberOfBeds": 0,
+    "odsCode": "VNX1G",
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.5652078,
+    "onspdLongitude": -2.0192104,
+    "organisationType": "Location",
+    "postalAddressLine1": "Suite 315 Saddleworth Business Centre",
+    "postalAddressLine2": "Huddersfield Road, Delph",
+    "postalAddressTownCity": "Oldham",
+    "postalCode": "OL3 5DF",
+    "providerId": "1-19660844669",
+    "region": "North West",
+    "registrationDate": "2024-11-26",
+    "registrationStatus": "Registered",
+    "regulatedActivities": [
+        {
+            "code": "RA1",
+            "contacts": [
+                {
+                    "personFamilyName": "Michalska",
+                    "personGivenName": "Katerina",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Mrs"
+                }
+            ],
+            "name": "Personal care"
+        }
+    ],
+    "relationships": [],
+    "specialisms": [
+        {
+            "name": "Caring for adults over 65 yrs"
+        },
+        {
+            "name": "Caring for adults under 65 yrs"
+        },
+        {
+            "name": "Dementia"
+        },
+        {
+            "name": "Physical disabilities"
+        },
+        {
+            "name": "Sensory impairment"
+        }
+    ],
+    "type": "Social Care Org",
+    "uprn": "10092057333"
+}

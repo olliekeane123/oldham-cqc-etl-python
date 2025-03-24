@@ -1,0 +1,353 @@
+{
+    "careHome": "N",
+    "constituency": "Ashton-under-Lyne",
+    "currentRatings": {
+        "overall": {
+            "keyQuestionRatings": [
+                {
+                    "name": "Safe",
+                    "rating": "Inadequate",
+                    "reportDate": "2022-01-14",
+                    "reportLinkId": "815359b0-87cb-4489-ad33-610914bc0427"
+                },
+                {
+                    "name": "Well-led",
+                    "rating": "Inadequate",
+                    "reportDate": "2022-01-14",
+                    "reportLinkId": "815359b0-87cb-4489-ad33-610914bc0427"
+                },
+                {
+                    "name": "Caring",
+                    "rating": "Requires improvement",
+                    "reportDate": "2022-01-14",
+                    "reportLinkId": "815359b0-87cb-4489-ad33-610914bc0427"
+                },
+                {
+                    "name": "Responsive",
+                    "rating": "Inadequate",
+                    "reportDate": "2022-01-14",
+                    "reportLinkId": "815359b0-87cb-4489-ad33-610914bc0427"
+                },
+                {
+                    "name": "Effective",
+                    "rating": "Inadequate",
+                    "reportDate": "2022-01-14",
+                    "reportLinkId": "815359b0-87cb-4489-ad33-610914bc0427"
+                }
+            ],
+            "rating": "Inadequate",
+            "reportDate": "2022-01-14",
+            "reportLinkId": "815359b0-87cb-4489-ad33-610914bc0427"
+        },
+        "reportDate": "2022-01-14"
+    },
+    "deregistrationDate": "2022-02-24",
+    "dormancy": "N",
+    "gacServiceTypes": [
+        {
+            "description": "Doctors consultation service",
+            "name": "Doctors/Gps"
+        }
+    ],
+    "historicRatings": [
+        {
+            "overall": {
+                "keyQuestionRatings": [
+                    {
+                        "name": "Safe",
+                        "rating": "Inspected but not rated"
+                    },
+                    {
+                        "name": "Well-led",
+                        "rating": "Inspected but not rated"
+                    },
+                    {
+                        "name": "Responsive",
+                        "rating": "Inspected but not rated"
+                    },
+                    {
+                        "name": "Effective",
+                        "rating": "Inspected but not rated"
+                    }
+                ],
+                "rating": "Inspected but not rated"
+            },
+            "reportDate": "2021-09-24",
+            "reportLinkId": "911f7078-d6ad-4fb7-9a26-fafe08afc5de"
+        },
+        {
+            "overall": {
+                "keyQuestionRatings": [
+                    {
+                        "name": "Safe",
+                        "rating": "Requires improvement"
+                    },
+                    {
+                        "name": "Well-led",
+                        "rating": "Inadequate"
+                    },
+                    {
+                        "name": "Caring",
+                        "rating": "Requires improvement"
+                    },
+                    {
+                        "name": "Responsive",
+                        "rating": "Requires improvement"
+                    },
+                    {
+                        "name": "Effective",
+                        "rating": "Requires improvement"
+                    }
+                ],
+                "rating": "Requires improvement"
+            },
+            "reportDate": "2021-06-03",
+            "reportLinkId": "1ff1630f-d0cc-45ad-908c-455b58502785",
+            "serviceRatings": [
+                {
+                    "name": "conditions",
+                    "rating": "Requires improvement"
+                },
+                {
+                    "name": "mothers",
+                    "rating": "Requires improvement"
+                },
+                {
+                    "name": "old",
+                    "rating": "Requires improvement"
+                },
+                {
+                    "name": "population",
+                    "rating": "Requires improvement"
+                },
+                {
+                    "name": "problems",
+                    "rating": "Requires improvement"
+                },
+                {
+                    "name": "vulnerable",
+                    "rating": "Requires improvement"
+                }
+            ]
+        },
+        {
+            "overall": {
+                "keyQuestionRatings": [
+                    {
+                        "name": "Safe",
+                        "rating": "Good"
+                    }
+                ],
+                "rating": "Good"
+            },
+            "reportDate": "2018-04-23",
+            "reportLinkId": "4065c0f1-d8e4-4a8c-8c66-3adaecfafc7b"
+        },
+        {
+            "overall": {
+                "keyQuestionRatings": [
+                    {
+                        "name": "Safe",
+                        "rating": "Requires improvement"
+                    },
+                    {
+                        "name": "Well-led",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Caring",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Responsive",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Effective",
+                        "rating": "Good"
+                    }
+                ],
+                "rating": "Good"
+            },
+            "reportDate": "2016-10-20",
+            "reportLinkId": "d202a4d7-4bb7-485e-9db1-90e8fa53db4b",
+            "serviceRatings": [
+                {
+                    "name": "conditions",
+                    "rating": "Good"
+                },
+                {
+                    "name": "mothers",
+                    "rating": "Good"
+                },
+                {
+                    "name": "old",
+                    "rating": "Good"
+                },
+                {
+                    "name": "population",
+                    "rating": "Good"
+                },
+                {
+                    "name": "problems",
+                    "rating": "Good"
+                },
+                {
+                    "name": "vulnerable",
+                    "rating": "Good"
+                }
+            ]
+        },
+        {
+            "overall": {
+                "keyQuestionRatings": [
+                    {
+                        "name": "Safe",
+                        "rating": "Inadequate"
+                    },
+                    {
+                        "name": "Well-led",
+                        "rating": "Inadequate"
+                    },
+                    {
+                        "name": "Caring",
+                        "rating": "Requires improvement"
+                    },
+                    {
+                        "name": "Responsive",
+                        "rating": "Inadequate"
+                    },
+                    {
+                        "name": "Effective",
+                        "rating": "Requires improvement"
+                    }
+                ],
+                "rating": "Inadequate"
+            },
+            "reportDate": "2016-02-11",
+            "reportLinkId": "1b4ba940-6be9-4ffb-8715-958b297a18c3",
+            "serviceRatings": [
+                {
+                    "name": "conditions",
+                    "rating": "Inadequate"
+                },
+                {
+                    "name": "mothers",
+                    "rating": "Inadequate"
+                },
+                {
+                    "name": "old",
+                    "rating": "Inadequate"
+                },
+                {
+                    "name": "population",
+                    "rating": "Inadequate"
+                },
+                {
+                    "name": "problems",
+                    "rating": "Inadequate"
+                },
+                {
+                    "name": "vulnerable",
+                    "rating": "Inadequate"
+                }
+            ]
+        }
+    ],
+    "inspectionAreas": [],
+    "inspectionCategories": [
+        {
+            "code": "P2",
+            "name": "GP Practices",
+            "primary": "true"
+        }
+    ],
+    "inspectionDirectorate": "Primary medical services",
+    "lastInspection": {
+        "date": "2021-12-07"
+    },
+    "lastReport": {
+        "publicationDate": "2022-01-14"
+    },
+    "localAuthority": "Oldham",
+    "locationId": "1-537882756",
+    "locationTypes": [
+        {
+            "type": "GP Practice"
+        }
+    ],
+    "mainPhoneNumber": "01613571620",
+    "name": "Failsworth Group Practice",
+    "numberOfBeds": 0,
+    "odsCcgCode": "00Y",
+    "odsCcgName": "NHS Greater Manchester Icb - 00Y",
+    "odsCode": "P85008",
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.509855,
+    "onspdLongitude": -2.156747,
+    "organisationType": "Location",
+    "postalAddressCounty": "Greater Manchester",
+    "postalAddressLine1": "Failsworth District Centre",
+    "postalAddressLine2": "Ashton Road West, Failsworth",
+    "postalAddressTownCity": "Manchester",
+    "postalCode": "M35 0AD",
+    "providerId": "1-199785295",
+    "region": "North West",
+    "registrationDate": "2013-04-01",
+    "registrationStatus": "Deregistered",
+    "regulatedActivities": [],
+    "relationships": [],
+    "reports": [
+        {
+            "firstVisitDate": "2021-12-07",
+            "linkId": "815359b0-87cb-4489-ad33-610914bc0427",
+            "reportDate": "2022-01-14",
+            "reportType": "Location",
+            "reportUri": "/reports/815359b0-87cb-4489-ad33-610914bc0427?20220216165340"
+        },
+        {
+            "firstVisitDate": "2021-09-01",
+            "linkId": "911f7078-d6ad-4fb7-9a26-fafe08afc5de",
+            "reportDate": "2021-09-24",
+            "reportType": "Location",
+            "reportUri": "/reports/911f7078-d6ad-4fb7-9a26-fafe08afc5de?20211103090836"
+        },
+        {
+            "firstVisitDate": "2021-05-07",
+            "linkId": "1ff1630f-d0cc-45ad-908c-455b58502785",
+            "reportDate": "2021-06-03",
+            "reportType": "Location",
+            "reportUri": "/reports/1ff1630f-d0cc-45ad-908c-455b58502785?20210608070739"
+        },
+        {
+            "firstVisitDate": "2018-03-20",
+            "linkId": "4065c0f1-d8e4-4a8c-8c66-3adaecfafc7b",
+            "reportDate": "2018-04-23",
+            "reportType": "Location",
+            "reportUri": "/reports/4065c0f1-d8e4-4a8c-8c66-3adaecfafc7b?20210117194415"
+        },
+        {
+            "firstVisitDate": "2016-08-09",
+            "linkId": "d202a4d7-4bb7-485e-9db1-90e8fa53db4b",
+            "reportDate": "2016-10-20",
+            "reportType": "Location",
+            "reportUri": "/reports/d202a4d7-4bb7-485e-9db1-90e8fa53db4b?20210122015019"
+        },
+        {
+            "firstVisitDate": "2015-12-08",
+            "linkId": "1b4ba940-6be9-4ffb-8715-958b297a18c3",
+            "reportDate": "2016-02-11",
+            "reportType": "Location",
+            "reportUri": "/reports/1b4ba940-6be9-4ffb-8715-958b297a18c3?20210124081613"
+        }
+    ],
+    "specialisms": [
+        {
+            "name": "Services for everyone"
+        }
+    ],
+    "type": "Primary Medical Services"
+}

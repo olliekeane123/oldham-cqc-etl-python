@@ -1,0 +1,149 @@
+{
+    "careHome": "Y",
+    "constituency": "Oldham East and Saddleworth",
+    "currentRatings": {
+        "overall": {
+            "keyQuestionRatings": [
+                {
+                    "name": "Safe",
+                    "rating": "Good",
+                    "reportDate": "2016-12-07",
+                    "reportLinkId": "5eea8e2a-028d-4cb4-a15f-433934412dd6"
+                },
+                {
+                    "name": "Well-led",
+                    "rating": "Good",
+                    "reportDate": "2016-12-07",
+                    "reportLinkId": "5eea8e2a-028d-4cb4-a15f-433934412dd6"
+                },
+                {
+                    "name": "Caring",
+                    "rating": "Good",
+                    "reportDate": "2016-12-07",
+                    "reportLinkId": "5eea8e2a-028d-4cb4-a15f-433934412dd6"
+                },
+                {
+                    "name": "Responsive",
+                    "rating": "Good",
+                    "reportDate": "2016-12-07",
+                    "reportLinkId": "5eea8e2a-028d-4cb4-a15f-433934412dd6"
+                },
+                {
+                    "name": "Effective",
+                    "rating": "Good",
+                    "reportDate": "2016-12-07",
+                    "reportLinkId": "5eea8e2a-028d-4cb4-a15f-433934412dd6"
+                }
+            ],
+            "rating": "Good",
+            "reportDate": "2016-12-07",
+            "reportLinkId": "5eea8e2a-028d-4cb4-a15f-433934412dd6"
+        },
+        "reportDate": "2016-12-07"
+    },
+    "deregistrationDate": "2018-01-15",
+    "dormancy": "N",
+    "gacServiceTypes": [
+        {
+            "description": "Care home service with nursing",
+            "name": "Nursing homes"
+        }
+    ],
+    "inspectionAreas": [],
+    "inspectionCategories": [
+        {
+            "code": "S1",
+            "name": "Residential social care",
+            "primary": "true"
+        }
+    ],
+    "inspectionDirectorate": "Adult social care",
+    "lastInspection": {
+        "date": "2016-09-06"
+    },
+    "lastReport": {
+        "publicationDate": "2016-12-07"
+    },
+    "localAuthority": "Oldham",
+    "locationId": "1-468164971",
+    "locationTypes": [],
+    "mainPhoneNumber": "01616244594",
+    "name": "Oakdene Nursing Home",
+    "numberOfBeds": 32,
+    "odsCode": "VM2QW",
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.5440514,
+    "onspdLongitude": -2.0673117,
+    "organisationType": "Location",
+    "postalAddressCounty": "Lancashire",
+    "postalAddressLine1": "32-34 Stamford Road",
+    "postalAddressLine2": "Lees",
+    "postalAddressTownCity": "Oldham",
+    "postalCode": "OL4 3LH",
+    "providerId": "1-101659948",
+    "region": "North West",
+    "registrationDate": "2012-08-31",
+    "registrationStatus": "Deregistered",
+    "regulatedActivities": [],
+    "relationships": [
+        {
+            "reason": "New Provider",
+            "relatedLocationId": "1-117589436",
+            "relatedLocationName": "Oakdene Nursing Home Limited",
+            "type": "HSCA Predecessor"
+        },
+        {
+            "reason": "Legal Entity Change",
+            "relatedLocationId": "1-4650101208",
+            "relatedLocationName": "Oakdene Care Home",
+            "type": "HSCA Successor"
+        }
+    ],
+    "reports": [
+        {
+            "firstVisitDate": "2016-09-06",
+            "linkId": "5eea8e2a-028d-4cb4-a15f-433934412dd6",
+            "reportDate": "2016-12-07",
+            "reportType": "Location",
+            "reportUri": "/reports/5eea8e2a-028d-4cb4-a15f-433934412dd6?20211030120000"
+        },
+        {
+            "firstVisitDate": "2014-05-23",
+            "linkId": "9fad5b91-fbdc-42bf-8314-4cfb1b1fc781",
+            "reportDate": "2014-07-02",
+            "reportUri": "/reports/9fad5b91-fbdc-42bf-8314-4cfb1b1fc781?20200129163919"
+        },
+        {
+            "firstVisitDate": "2013-05-09",
+            "linkId": "3e0f3d72-9a39-447b-9459-e09b8056079d",
+            "reportDate": "2013-06-07",
+            "reportUri": "/reports/3e0f3d72-9a39-447b-9459-e09b8056079d?20151016191357"
+        }
+    ],
+    "specialisms": [
+        {
+            "name": "Caring for adults over 65 yrs"
+        },
+        {
+            "name": "Caring for adults under 65 yrs"
+        },
+        {
+            "name": "Dementia"
+        },
+        {
+            "name": "Mental health conditions"
+        },
+        {
+            "name": "Physical disabilities"
+        },
+        {
+            "name": "Sensory impairment"
+        }
+    ],
+    "type": "Social Care Org",
+    "uprn": "422000038080",
+    "website": "www.rnpartners.co.uk"
+}

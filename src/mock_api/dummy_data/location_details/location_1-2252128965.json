@@ -1,0 +1,130 @@
+{
+    "brandId": "BD307",
+    "brandName": "BRAND City and County Healthcare Group",
+    "careHome": "N",
+    "constituency": "Oldham East and Saddleworth",
+    "currentRatings": {
+        "overall": {
+            "keyQuestionRatings": [
+                {
+                    "name": "Safe",
+                    "rating": "Good",
+                    "reportDate": "2017-05-24",
+                    "reportLinkId": "caf6dc26-d6ae-464d-998f-ce69d89a68dc"
+                },
+                {
+                    "name": "Well-led",
+                    "rating": "Requires improvement",
+                    "reportDate": "2017-05-24",
+                    "reportLinkId": "caf6dc26-d6ae-464d-998f-ce69d89a68dc"
+                },
+                {
+                    "name": "Caring",
+                    "rating": "Good",
+                    "reportDate": "2017-05-24",
+                    "reportLinkId": "caf6dc26-d6ae-464d-998f-ce69d89a68dc"
+                },
+                {
+                    "name": "Responsive",
+                    "rating": "Good",
+                    "reportDate": "2017-05-24",
+                    "reportLinkId": "caf6dc26-d6ae-464d-998f-ce69d89a68dc"
+                },
+                {
+                    "name": "Effective",
+                    "rating": "Good",
+                    "reportDate": "2017-05-24",
+                    "reportLinkId": "caf6dc26-d6ae-464d-998f-ce69d89a68dc"
+                }
+            ],
+            "rating": "Good",
+            "reportDate": "2017-05-24",
+            "reportLinkId": "caf6dc26-d6ae-464d-998f-ce69d89a68dc"
+        },
+        "reportDate": "2017-05-24"
+    },
+    "deregistrationDate": "2019-04-12",
+    "dormancy": "N",
+    "gacServiceTypes": [
+        {
+            "description": "Domiciliary care service",
+            "name": "Homecare agencies"
+        },
+        {
+            "description": "Extra Care housing services",
+            "name": "Supported housing"
+        }
+    ],
+    "inspectionAreas": [],
+    "inspectionCategories": [
+        {
+            "code": "S2",
+            "name": "Community based adult social care services",
+            "primary": "true"
+        }
+    ],
+    "inspectionDirectorate": "Adult social care",
+    "lastInspection": {
+        "date": "2017-04-11"
+    },
+    "lastReport": {
+        "publicationDate": "2017-05-24"
+    },
+    "localAuthority": "Oldham",
+    "locationId": "1-2252128965",
+    "locationTypes": [],
+    "name": "Comfort Call - Hopwood Court",
+    "numberOfBeds": 0,
+    "odsCode": "VN120",
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.581527,
+    "onspdLongitude": -2.110871,
+    "organisationType": "Location",
+    "postalAddressCounty": "Lancashire",
+    "postalAddressLine1": "Farnham Road",
+    "postalAddressLine2": "High Crompton",
+    "postalAddressTownCity": "Oldham",
+    "postalCode": "OL2 7LR",
+    "providerId": "1-101654877",
+    "region": "North West",
+    "registrationDate": "2015-12-02",
+    "registrationStatus": "Deregistered",
+    "regulatedActivities": [],
+    "relationships": [],
+    "reports": [
+        {
+            "firstVisitDate": "2017-04-11",
+            "linkId": "caf6dc26-d6ae-464d-998f-ce69d89a68dc",
+            "reportDate": "2017-05-24",
+            "reportType": "Location",
+            "reportUri": "/reports/caf6dc26-d6ae-464d-998f-ce69d89a68dc?20170524120000"
+        }
+    ],
+    "specialisms": [
+        {
+            "name": "Caring for adults over 65 yrs"
+        },
+        {
+            "name": "Caring for adults under 65 yrs"
+        },
+        {
+            "name": "Dementia"
+        },
+        {
+            "name": "Learning disabilities"
+        },
+        {
+            "name": "Mental health conditions"
+        },
+        {
+            "name": "Physical disabilities"
+        },
+        {
+            "name": "Sensory impairment"
+        }
+    ],
+    "type": "Social Care Org"
+}

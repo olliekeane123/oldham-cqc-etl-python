@@ -1,0 +1,340 @@
+{
+    "careHome": "Y",
+    "constituency": "Oldham West and Royton",
+    "currentRatings": {
+        "overall": {
+            "keyQuestionRatings": [
+                {
+                    "name": "Safe",
+                    "rating": "Good",
+                    "reportDate": "2021-12-17",
+                    "reportLinkId": "8535cce2-a065-4b4c-9887-8c4511f7952d"
+                },
+                {
+                    "name": "Well-led",
+                    "rating": "Good",
+                    "reportDate": "2021-12-17",
+                    "reportLinkId": "8535cce2-a065-4b4c-9887-8c4511f7952d"
+                },
+                {
+                    "name": "Caring",
+                    "rating": "Good",
+                    "reportDate": "2019-11-15",
+                    "reportLinkId": "ad832fa7-acda-443a-b839-3a9cd85751e3"
+                },
+                {
+                    "name": "Responsive",
+                    "rating": "Good",
+                    "reportDate": "2019-11-15",
+                    "reportLinkId": "ad832fa7-acda-443a-b839-3a9cd85751e3"
+                },
+                {
+                    "name": "Effective",
+                    "rating": "Good",
+                    "reportDate": "2021-08-07",
+                    "reportLinkId": "aebe7a87-61f5-4d51-b048-326812623eeb"
+                }
+            ],
+            "rating": "Good",
+            "reportDate": "2021-12-17",
+            "reportLinkId": "8535cce2-a065-4b4c-9887-8c4511f7952d"
+        },
+        "reportDate": "2021-12-17"
+    },
+    "dormancy": "N",
+    "gacServiceTypes": [
+        {
+            "description": "Care home service without nursing",
+            "name": "Residential homes"
+        }
+    ],
+    "historicRatings": [
+        {
+            "overall": {
+                "keyQuestionRatings": [
+                    {
+                        "name": "Safe",
+                        "rating": "Requires improvement"
+                    },
+                    {
+                        "name": "Well-led",
+                        "rating": "Requires improvement"
+                    }
+                ],
+                "rating": "Requires improvement"
+            },
+            "reportDate": "2021-08-07",
+            "reportLinkId": "aebe7a87-61f5-4d51-b048-326812623eeb"
+        },
+        {
+            "overall": {
+                "keyQuestionRatings": [
+                    {
+                        "name": "Safe",
+                        "rating": "Requires improvement"
+                    },
+                    {
+                        "name": "Well-led",
+                        "rating": "Requires improvement"
+                    },
+                    {
+                        "name": "Effective",
+                        "rating": "Requires improvement"
+                    }
+                ],
+                "rating": "Requires improvement"
+            },
+            "reportDate": "2021-02-20",
+            "reportLinkId": "0b6a1c78-8aee-4452-8728-9d4af5bd69bb"
+        },
+        {
+            "overall": {
+                "keyQuestionRatings": [
+                    {
+                        "name": "Safe",
+                        "rating": "Requires improvement"
+                    },
+                    {
+                        "name": "Well-led",
+                        "rating": "Requires improvement"
+                    },
+                    {
+                        "name": "Effective",
+                        "rating": "Requires improvement"
+                    }
+                ],
+                "rating": "Requires improvement"
+            },
+            "reportDate": "2019-11-15",
+            "reportLinkId": "ad832fa7-acda-443a-b839-3a9cd85751e3"
+        },
+        {
+            "overall": {
+                "keyQuestionRatings": [
+                    {
+                        "name": "Safe",
+                        "rating": "Requires improvement"
+                    },
+                    {
+                        "name": "Well-led",
+                        "rating": "Requires improvement"
+                    },
+                    {
+                        "name": "Caring",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Responsive",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Effective",
+                        "rating": "Good"
+                    }
+                ],
+                "rating": "Requires improvement"
+            },
+            "reportDate": "2018-10-06",
+            "reportLinkId": "b58d4ddc-cd62-4421-a1b7-640b01cdc524"
+        },
+        {
+            "overall": {
+                "keyQuestionRatings": [
+                    {
+                        "name": "Safe",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Well-led",
+                        "rating": "Requires improvement"
+                    },
+                    {
+                        "name": "Caring",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Responsive",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Effective",
+                        "rating": "Requires improvement"
+                    }
+                ],
+                "rating": "Requires improvement"
+            },
+            "reportDate": "2017-09-16",
+            "reportLinkId": "4a6c94b0-9d22-4c86-abd5-a54ba6279d40"
+        },
+        {
+            "overall": {
+                "keyQuestionRatings": [
+                    {
+                        "name": "Safe",
+                        "rating": "Requires improvement"
+                    },
+                    {
+                        "name": "Well-led",
+                        "rating": "Inadequate"
+                    },
+                    {
+                        "name": "Caring",
+                        "rating": "Requires improvement"
+                    },
+                    {
+                        "name": "Responsive",
+                        "rating": "Requires improvement"
+                    },
+                    {
+                        "name": "Effective",
+                        "rating": "Requires improvement"
+                    }
+                ],
+                "rating": "Requires improvement"
+            },
+            "reportDate": "2017-01-17",
+            "reportLinkId": "88833d97-3e89-47cf-8a65-f69c1d28a9e8"
+        }
+    ],
+    "inspectionAreas": [],
+    "inspectionCategories": [
+        {
+            "code": "S1",
+            "name": "Residential social care",
+            "primary": "true"
+        }
+    ],
+    "inspectionDirectorate": "Adult social care",
+    "lastInspection": {
+        "date": "2021-12-02"
+    },
+    "lastReport": {
+        "publicationDate": "2021-12-17"
+    },
+    "localAuthority": "Oldham",
+    "locationId": "1-118563363",
+    "locationTypes": [],
+    "mainPhoneNumber": "01616334848",
+    "name": "Royley House Care Home",
+    "numberOfBeds": 41,
+    "odsCode": "VLD2R",
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.56233,
+    "onspdLongitude": -2.134841,
+    "organisationType": "Location",
+    "postalAddressCounty": "Lancashire",
+    "postalAddressLine1": "Lea View",
+    "postalAddressLine2": "Royton",
+    "postalAddressTownCity": "Oldham",
+    "postalCode": "OL2 5ED",
+    "providerId": "1-101641674",
+    "region": "North West",
+    "registrationDate": "2011-01-24",
+    "registrationStatus": "Registered",
+    "regulatedActivities": [
+        {
+            "code": "RA2",
+            "contacts": [
+                {
+                    "personFamilyName": "Mahmood",
+                    "personGivenName": "Irum",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Mrs"
+                }
+            ],
+            "name": "Accommodation for persons who require nursing or personal care"
+        }
+    ],
+    "relationships": [],
+    "reports": [
+        {
+            "firstVisitDate": "2021-11-10",
+            "linkId": "8535cce2-a065-4b4c-9887-8c4511f7952d",
+            "reportDate": "2021-12-17",
+            "reportType": "Location",
+            "reportUri": "/reports/8535cce2-a065-4b4c-9887-8c4511f7952d?20211217130000"
+        },
+        {
+            "firstVisitDate": "2021-06-30",
+            "linkId": "aebe7a87-61f5-4d51-b048-326812623eeb",
+            "reportDate": "2021-08-07",
+            "reportType": "Location",
+            "reportUri": "/reports/aebe7a87-61f5-4d51-b048-326812623eeb?20240221130000"
+        },
+        {
+            "firstVisitDate": "2020-12-08",
+            "linkId": "0b6a1c78-8aee-4452-8728-9d4af5bd69bb",
+            "reportDate": "2021-02-20",
+            "reportType": "Location",
+            "reportUri": "/reports/0b6a1c78-8aee-4452-8728-9d4af5bd69bb?20240302130000"
+        },
+        {
+            "firstVisitDate": "2019-09-17",
+            "linkId": "ad832fa7-acda-443a-b839-3a9cd85751e3",
+            "reportDate": "2019-11-15",
+            "reportType": "Location",
+            "reportUri": "/reports/ad832fa7-acda-443a-b839-3a9cd85751e3?20191119130000"
+        },
+        {
+            "firstVisitDate": "2018-09-06",
+            "linkId": "b58d4ddc-cd62-4421-a1b7-640b01cdc524",
+            "reportDate": "2018-10-06",
+            "reportType": "Location",
+            "reportUri": "/reports/b58d4ddc-cd62-4421-a1b7-640b01cdc524?20211030120000"
+        },
+        {
+            "firstVisitDate": "2017-08-01",
+            "linkId": "4a6c94b0-9d22-4c86-abd5-a54ba6279d40",
+            "reportDate": "2017-09-16",
+            "reportType": "Location",
+            "reportUri": "/reports/4a6c94b0-9d22-4c86-abd5-a54ba6279d40?20211030120000"
+        },
+        {
+            "firstVisitDate": "2016-10-11",
+            "linkId": "88833d97-3e89-47cf-8a65-f69c1d28a9e8",
+            "reportDate": "2017-01-17",
+            "reportType": "Location",
+            "reportUri": "/reports/88833d97-3e89-47cf-8a65-f69c1d28a9e8?20200129163919"
+        },
+        {
+            "firstVisitDate": "2014-09-22",
+            "linkId": "a1a443dd-7b7b-4732-8b26-5ec2405e0cf9",
+            "reportDate": "2014-11-04",
+            "reportUri": "/reports/a1a443dd-7b7b-4732-8b26-5ec2405e0cf9?20151016191357"
+        },
+        {
+            "firstVisitDate": "2013-10-29",
+            "linkId": "c5433e22-08f1-4cd7-b29e-d5f792a58c89",
+            "reportDate": "2013-11-28",
+            "reportUri": "/reports/c5433e22-08f1-4cd7-b29e-d5f792a58c89?20200129163919"
+        },
+        {
+            "firstVisitDate": "2012-10-16",
+            "linkId": "2eb5f692-7b78-48d2-8f7b-8ed5c06674ed",
+            "reportDate": "2012-12-10",
+            "reportUri": "/reports/2eb5f692-7b78-48d2-8f7b-8ed5c06674ed?20200430120000"
+        },
+        {
+            "firstVisitDate": "2011-07-06",
+            "linkId": "00cebdcf-056f-4b74-b68e-c26eb6bdaf2b",
+            "reportDate": "2011-08-17",
+            "reportUri": "/reports/00cebdcf-056f-4b74-b68e-c26eb6bdaf2b?20200430120000"
+        }
+    ],
+    "specialisms": [
+        {
+            "name": "Caring for adults over 65 yrs"
+        },
+        {
+            "name": "Dementia"
+        }
+    ],
+    "type": "Social Care Org",
+    "uprn": "422000103609",
+    "website": "www.rochcare.comenq"
+}

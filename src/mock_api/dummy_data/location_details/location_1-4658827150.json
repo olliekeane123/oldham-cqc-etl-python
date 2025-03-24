@@ -1,0 +1,199 @@
+{
+    "careHome": "N",
+    "constituency": "Oldham West and Royton",
+    "currentRatings": {
+        "overall": {
+            "keyQuestionRatings": [
+                {
+                    "name": "Safe",
+                    "rating": "Good",
+                    "reportDate": "2021-07-09",
+                    "reportLinkId": "b09f8a01-fbb2-457b-a394-1570834b9fcd"
+                },
+                {
+                    "name": "Well-led",
+                    "rating": "Good",
+                    "reportDate": "2021-07-09",
+                    "reportLinkId": "b09f8a01-fbb2-457b-a394-1570834b9fcd"
+                },
+                {
+                    "name": "Caring",
+                    "rating": "Good",
+                    "reportDate": "2021-07-09",
+                    "reportLinkId": "b09f8a01-fbb2-457b-a394-1570834b9fcd"
+                },
+                {
+                    "name": "Responsive",
+                    "rating": "Good",
+                    "reportDate": "2021-07-09",
+                    "reportLinkId": "b09f8a01-fbb2-457b-a394-1570834b9fcd"
+                },
+                {
+                    "name": "Effective",
+                    "rating": "Good",
+                    "reportDate": "2021-07-09",
+                    "reportLinkId": "b09f8a01-fbb2-457b-a394-1570834b9fcd"
+                }
+            ],
+            "rating": "Good",
+            "reportDate": "2021-07-09",
+            "reportLinkId": "b09f8a01-fbb2-457b-a394-1570834b9fcd"
+        },
+        "reportDate": "2021-07-09"
+    },
+    "deregistrationDate": "2023-07-17",
+    "dormancy": "N",
+    "gacServiceTypes": [
+        {
+            "description": "Diagnostic and/or screening service",
+            "name": "Diagnosis/screening"
+        }
+    ],
+    "historicRatings": [
+        {
+            "overall": {
+                "keyQuestionRatings": [
+                    {
+                        "name": "Safe",
+                        "rating": "Requires improvement"
+                    },
+                    {
+                        "name": "Well-led",
+                        "rating": "Requires improvement"
+                    },
+                    {
+                        "name": "Caring",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Responsive",
+                        "rating": "Requires improvement"
+                    },
+                    {
+                        "name": "Effective",
+                        "rating": "Good"
+                    }
+                ],
+                "rating": "Inspected but not rated"
+            },
+            "reportDate": "2019-11-05",
+            "reportLinkId": "4e935483-d3c1-4067-9661-f6a7837b3d1a"
+        },
+        {
+            "overall": {
+                "keyQuestionRatings": [
+                    {
+                        "name": "Safe",
+                        "rating": "Inspected but not rated"
+                    },
+                    {
+                        "name": "Well-led",
+                        "rating": "Inspected but not rated"
+                    },
+                    {
+                        "name": "Caring",
+                        "rating": "Inspected but not rated"
+                    },
+                    {
+                        "name": "Responsive",
+                        "rating": "Inspected but not rated"
+                    },
+                    {
+                        "name": "Effective",
+                        "rating": "Inspected but not rated"
+                    }
+                ],
+                "rating": "Inspected but not rated"
+            },
+            "reportDate": "2018-11-30",
+            "reportLinkId": "41179738-8b09-430a-8bf7-5fbd4ea53dd6"
+        }
+    ],
+    "inspectionAreas": [],
+    "inspectionCategories": [
+        {
+            "code": "H4",
+            "name": "Acute hospital - Independent specialist",
+            "primary": "true"
+        }
+    ],
+    "inspectionDirectorate": "Hospitals",
+    "lastInspection": {
+        "date": "2021-06-10"
+    },
+    "lastReport": {
+        "publicationDate": "2021-07-09"
+    },
+    "localAuthority": "Oldham",
+    "locationId": "1-4658827150",
+    "locationTypes": [],
+    "mainPhoneNumber": "07716090301",
+    "name": "CuRx Operational Base",
+    "numberOfBeds": 0,
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.5302236,
+    "onspdLongitude": -2.1572618,
+    "organisationType": "Location",
+    "postalAddressCounty": "Lancashire",
+    "postalAddressLine1": "The Mezzanine, Junction 21 Business Park",
+    "postalAddressLine2": "Gorse Street, Chadderton",
+    "postalAddressTownCity": "Oldham",
+    "postalCode": "OL9 9QH",
+    "providerId": "1-2570927684",
+    "region": "North West",
+    "registrationDate": "2017-12-22",
+    "registrationStatus": "Deregistered",
+    "regulatedActivities": [],
+    "relationships": [
+        {
+            "reason": "Location Move",
+            "relatedLocationId": "1-2697598592",
+            "relatedLocationName": "CuRx Health Limited",
+            "type": "HSCA Predecessor"
+        },
+        {
+            "reason": "Location Move",
+            "relatedLocationId": "1-16522938889",
+            "relatedLocationName": "CuRx Health Limited",
+            "type": "HSCA Successor"
+        }
+    ],
+    "reports": [
+        {
+            "firstVisitDate": "2021-06-10",
+            "linkId": "b09f8a01-fbb2-457b-a394-1570834b9fcd",
+            "reportDate": "2021-07-09",
+            "reportType": "Location",
+            "reportUri": "/reports/b09f8a01-fbb2-457b-a394-1570834b9fcd?20211011164306"
+        },
+        {
+            "firstVisitDate": "2019-08-29",
+            "linkId": "4e935483-d3c1-4067-9661-f6a7837b3d1a",
+            "reportDate": "2019-11-05",
+            "reportType": "Location",
+            "reportUri": "/reports/4e935483-d3c1-4067-9661-f6a7837b3d1a?20210518100636"
+        },
+        {
+            "firstVisitDate": "2019-08-29",
+            "linkId": "41179738-8b09-430a-8bf7-5fbd4ea53dd6",
+            "reportDate": "2018-11-30",
+            "reportType": "Location",
+            "reportUri": "/reports/41179738-8b09-430a-8bf7-5fbd4ea53dd6?20210518100738"
+        }
+    ],
+    "specialisms": [
+        {
+            "name": "Services for everyone"
+        }
+    ],
+    "type": "Independent Healthcare Org",
+    "unpublishedReports": [
+        {
+            "firstVisitDate": "2018-09-25"
+        }
+    ],
+    "uprn": "422000127829"
+}

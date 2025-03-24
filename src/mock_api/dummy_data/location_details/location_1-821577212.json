@@ -1,0 +1,180 @@
+{
+    "careHome": "N",
+    "constituency": "Oldham West and Royton",
+    "currentRatings": {
+        "overall": {
+            "keyQuestionRatings": [
+                {
+                    "name": "Safe",
+                    "rating": "Good",
+                    "reportDate": "2019-09-03",
+                    "reportLinkId": "c1ff09fb-9d07-4ba6-b7f0-7fabde6072d1"
+                },
+                {
+                    "name": "Well-led",
+                    "rating": "Outstanding",
+                    "reportDate": "2019-09-03",
+                    "reportLinkId": "c1ff09fb-9d07-4ba6-b7f0-7fabde6072d1"
+                },
+                {
+                    "name": "Caring",
+                    "rating": "Good",
+                    "reportDate": "2019-09-03",
+                    "reportLinkId": "c1ff09fb-9d07-4ba6-b7f0-7fabde6072d1"
+                },
+                {
+                    "name": "Responsive",
+                    "rating": "Good",
+                    "reportDate": "2019-09-03",
+                    "reportLinkId": "c1ff09fb-9d07-4ba6-b7f0-7fabde6072d1"
+                },
+                {
+                    "name": "Effective",
+                    "rating": "Good",
+                    "reportDate": "2019-09-03",
+                    "reportLinkId": "c1ff09fb-9d07-4ba6-b7f0-7fabde6072d1"
+                }
+            ],
+            "rating": "Good",
+            "reportDate": "2019-09-03",
+            "reportLinkId": "c1ff09fb-9d07-4ba6-b7f0-7fabde6072d1"
+        },
+        "reportDate": "2019-09-03"
+    },
+    "dormancy": "N",
+    "gacServiceTypes": [
+        {
+            "description": "Domiciliary care service",
+            "name": "Homecare agencies"
+        }
+    ],
+    "historicRatings": [
+        {
+            "overall": {
+                "keyQuestionRatings": [
+                    {
+                        "name": "Safe",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Well-led",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Caring",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Responsive",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Effective",
+                        "rating": "Good"
+                    }
+                ],
+                "rating": "Good"
+            },
+            "reportDate": "2016-12-20",
+            "reportLinkId": "9f1744d9-3dc3-400c-945d-9fe8ecca4e6a"
+        }
+    ],
+    "inspectionAreas": [],
+    "inspectionCategories": [
+        {
+            "code": "S2",
+            "name": "Community based adult social care services",
+            "primary": "true"
+        }
+    ],
+    "inspectionDirectorate": "Adult social care",
+    "lastInspection": {
+        "date": "2019-06-25"
+    },
+    "lastReport": {
+        "publicationDate": "2019-09-03"
+    },
+    "localAuthority": "Oldham",
+    "locationId": "1-821577212",
+    "locationTypes": [],
+    "mainPhoneNumber": "01617708246",
+    "name": "The Reablement Team",
+    "numberOfBeds": 0,
+    "odsCode": "VNA4F",
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.5411189,
+    "onspdLongitude": -2.1148527,
+    "organisationType": "Location",
+    "postalAddressLine1": "Spindles Management Suite",
+    "postalAddressLine2": "Unit 50, George Street",
+    "postalAddressTownCity": "Oldham",
+    "postalCode": "OL1 1HD",
+    "providerId": "1-757123384",
+    "region": "North West",
+    "registrationDate": "2013-10-01",
+    "registrationStatus": "Registered",
+    "regulatedActivities": [
+        {
+            "code": "RA1",
+            "contacts": [
+                {
+                    "personFamilyName": "Mather",
+                    "personGivenName": "Stephen Lee",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Mr"
+                }
+            ],
+            "name": "Personal care"
+        }
+    ],
+    "relationships": [],
+    "reports": [
+        {
+            "firstVisitDate": "2019-06-19",
+            "linkId": "c1ff09fb-9d07-4ba6-b7f0-7fabde6072d1",
+            "reportDate": "2019-09-03",
+            "reportType": "Location",
+            "reportUri": "/reports/c1ff09fb-9d07-4ba6-b7f0-7fabde6072d1?20190903154607"
+        },
+        {
+            "firstVisitDate": "2016-09-29",
+            "linkId": "9f1744d9-3dc3-400c-945d-9fe8ecca4e6a",
+            "reportDate": "2016-12-20",
+            "reportType": "Location",
+            "reportUri": "/reports/9f1744d9-3dc3-400c-945d-9fe8ecca4e6a?20200129163919"
+        },
+        {
+            "firstVisitDate": "2014-05-09",
+            "linkId": "9816def3-05cd-453d-af66-9e525fe943a6",
+            "reportDate": "2014-06-21",
+            "reportUri": "/reports/9816def3-05cd-453d-af66-9e525fe943a6?20200129163919"
+        }
+    ],
+    "specialisms": [
+        {
+            "name": "Caring for adults over 65 yrs"
+        },
+        {
+            "name": "Caring for adults under 65 yrs"
+        },
+        {
+            "name": "Learning disabilities"
+        },
+        {
+            "name": "Mental health conditions"
+        },
+        {
+            "name": "Physical disabilities"
+        },
+        {
+            "name": "Sensory impairment"
+        }
+    ],
+    "type": "Social Care Org",
+    "uprn": "422000122661"
+}

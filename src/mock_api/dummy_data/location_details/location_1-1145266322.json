@@ -1,0 +1,241 @@
+{
+    "brandId": "BD350",
+    "brandName": "BRAND Care Worldwide",
+    "careHome": "Y",
+    "constituency": "Oldham East and Saddleworth",
+    "currentRatings": {
+        "overall": {
+            "keyQuestionRatings": [
+                {
+                    "name": "Safe",
+                    "rating": "Good",
+                    "reportDate": "2024-02-07",
+                    "reportLinkId": "9c2dc342-bca5-4add-8c40-0c0b17c1024c"
+                },
+                {
+                    "name": "Well-led",
+                    "rating": "Good",
+                    "reportDate": "2024-02-07",
+                    "reportLinkId": "9c2dc342-bca5-4add-8c40-0c0b17c1024c"
+                },
+                {
+                    "name": "Caring",
+                    "rating": "Good",
+                    "reportDate": "2018-07-11",
+                    "reportLinkId": "4a70d6d8-148c-4eaf-aad6-fd4bb9daad2c"
+                },
+                {
+                    "name": "Responsive",
+                    "rating": "Good",
+                    "reportDate": "2018-07-11",
+                    "reportLinkId": "4a70d6d8-148c-4eaf-aad6-fd4bb9daad2c"
+                },
+                {
+                    "name": "Effective",
+                    "rating": "Good",
+                    "reportDate": "2018-07-11",
+                    "reportLinkId": "4a70d6d8-148c-4eaf-aad6-fd4bb9daad2c"
+                }
+            ],
+            "rating": "Good",
+            "reportDate": "2024-02-07",
+            "reportLinkId": "9c2dc342-bca5-4add-8c40-0c0b17c1024c"
+        },
+        "reportDate": "2024-02-07"
+    },
+    "dormancy": "N",
+    "gacServiceTypes": [
+        {
+            "description": "Care home service without nursing",
+            "name": "Residential homes"
+        }
+    ],
+    "historicRatings": [
+        {
+            "overall": {
+                "keyQuestionRatings": [
+                    {
+                        "name": "Safe",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Well-led",
+                        "rating": "Good"
+                    }
+                ],
+                "rating": "Good"
+            },
+            "reportDate": "2018-07-11",
+            "reportLinkId": "4a70d6d8-148c-4eaf-aad6-fd4bb9daad2c"
+        },
+        {
+            "overall": {
+                "keyQuestionRatings": [
+                    {
+                        "name": "Safe",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Well-led",
+                        "rating": "Requires improvement"
+                    },
+                    {
+                        "name": "Caring",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Responsive",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Effective",
+                        "rating": "Requires improvement"
+                    }
+                ],
+                "rating": "Requires improvement"
+            },
+            "reportDate": "2017-06-09",
+            "reportLinkId": "70383457-1917-4406-b66f-4f9f492260ad"
+        },
+        {
+            "overall": {
+                "keyQuestionRatings": [
+                    {
+                        "name": "Safe",
+                        "rating": "Inadequate"
+                    },
+                    {
+                        "name": "Well-led",
+                        "rating": "Inadequate"
+                    },
+                    {
+                        "name": "Caring",
+                        "rating": "Requires improvement"
+                    },
+                    {
+                        "name": "Responsive",
+                        "rating": "Requires improvement"
+                    },
+                    {
+                        "name": "Effective",
+                        "rating": "Requires improvement"
+                    }
+                ],
+                "rating": "Inadequate"
+            },
+            "reportDate": "2016-12-22",
+            "reportLinkId": "3effd67d-7fd8-43af-9969-2aa21541a640"
+        }
+    ],
+    "inspectionAreas": [],
+    "inspectionCategories": [
+        {
+            "code": "S1",
+            "name": "Residential social care",
+            "primary": "true"
+        }
+    ],
+    "inspectionDirectorate": "Adult social care",
+    "lastInspection": {
+        "date": "2024-01-18"
+    },
+    "lastReport": {
+        "publicationDate": "2024-02-07"
+    },
+    "localAuthority": "Oldham",
+    "locationId": "1-1145266322",
+    "locationTypes": [],
+    "mainPhoneNumber": "01616244115",
+    "name": "Abbey Hey Care Home",
+    "numberOfBeds": 39,
+    "odsCode": "VM2VJ",
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.5329186,
+    "onspdLongitude": -2.0982503,
+    "organisationType": "Location",
+    "postalAddressCounty": "Lancashire",
+    "postalAddressLine1": "Delamere Street",
+    "postalAddressTownCity": "Oldham",
+    "postalCode": "OL8 2BY",
+    "providerId": "1-1108883324",
+    "region": "North West",
+    "registrationDate": "2014-01-29",
+    "registrationStatus": "Registered",
+    "regulatedActivities": [
+        {
+            "code": "RA2",
+            "contacts": [
+                {
+                    "personFamilyName": "Pearce",
+                    "personGivenName": "Kim Lesley",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Mrs"
+                }
+            ],
+            "name": "Accommodation for persons who require nursing or personal care"
+        }
+    ],
+    "relationships": [
+        {
+            "reason": "New Provider",
+            "relatedLocationId": "1-123493701",
+            "relatedLocationName": "Abbey Hey Care Home Limited",
+            "type": "HSCA Predecessor"
+        }
+    ],
+    "reports": [
+        {
+            "firstVisitDate": "2024-01-15",
+            "linkId": "9c2dc342-bca5-4add-8c40-0c0b17c1024c",
+            "reportDate": "2024-02-07",
+            "reportType": "Location",
+            "reportUri": "/reports/9c2dc342-bca5-4add-8c40-0c0b17c1024c?20240207130000"
+        },
+        {
+            "firstVisitDate": "2018-06-05",
+            "linkId": "4a70d6d8-148c-4eaf-aad6-fd4bb9daad2c",
+            "reportDate": "2018-07-11",
+            "reportType": "Location",
+            "reportUri": "/reports/4a70d6d8-148c-4eaf-aad6-fd4bb9daad2c?20211030120000"
+        },
+        {
+            "firstVisitDate": "2017-04-18",
+            "linkId": "70383457-1917-4406-b66f-4f9f492260ad",
+            "reportDate": "2017-06-09",
+            "reportType": "Location",
+            "reportUri": "/reports/70383457-1917-4406-b66f-4f9f492260ad?20211030120000"
+        },
+        {
+            "firstVisitDate": "2016-10-25",
+            "linkId": "3effd67d-7fd8-43af-9969-2aa21541a640",
+            "reportDate": "2016-12-22",
+            "reportType": "Location",
+            "reportUri": "/reports/3effd67d-7fd8-43af-9969-2aa21541a640?20211030120000"
+        }
+    ],
+    "specialisms": [
+        {
+            "name": "Caring for adults over 65 yrs"
+        },
+        {
+            "name": "Caring for adults under 65 yrs"
+        },
+        {
+            "name": "Dementia"
+        },
+        {
+            "name": "Physical disabilities"
+        },
+        {
+            "name": "Sensory impairment"
+        }
+    ],
+    "type": "Social Care Org",
+    "uprn": "100012743117",
+    "website": "www.bondcare.co.uk/care-homes/abbey-hey-care-home/"
+}

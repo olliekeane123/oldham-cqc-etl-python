@@ -1,0 +1,167 @@
+{
+    "brandId": "BD239",
+    "brandName": "BRAND Accord Housing Association Limited",
+    "careHome": "N",
+    "constituency": "Ashton-under-Lyne",
+    "currentRatings": {
+        "overall": {
+            "keyQuestionRatings": [
+                {
+                    "name": "Safe",
+                    "rating": "Requires improvement",
+                    "reportDate": "2021-09-07",
+                    "reportLinkId": "50ef8518-39f0-4f74-b7b5-9facfef861ce"
+                },
+                {
+                    "name": "Well-led",
+                    "rating": "Requires improvement",
+                    "reportDate": "2021-09-07",
+                    "reportLinkId": "50ef8518-39f0-4f74-b7b5-9facfef861ce"
+                },
+                {
+                    "name": "Caring",
+                    "rating": "Good",
+                    "reportDate": "2018-09-13",
+                    "reportLinkId": "3fcd2429-fa5a-4bcd-9f69-201975e1bfdd"
+                },
+                {
+                    "name": "Responsive",
+                    "rating": "Good",
+                    "reportDate": "2018-09-13",
+                    "reportLinkId": "3fcd2429-fa5a-4bcd-9f69-201975e1bfdd"
+                },
+                {
+                    "name": "Effective",
+                    "rating": "Good",
+                    "reportDate": "2018-09-13",
+                    "reportLinkId": "3fcd2429-fa5a-4bcd-9f69-201975e1bfdd"
+                }
+            ],
+            "rating": "Requires improvement",
+            "reportDate": "2021-09-07",
+            "reportLinkId": "50ef8518-39f0-4f74-b7b5-9facfef861ce"
+        },
+        "reportDate": "2021-09-07"
+    },
+    "deregistrationDate": "2023-01-26",
+    "dormancy": "N",
+    "gacServiceTypes": [
+        {
+            "description": "Domiciliary care service",
+            "name": "Homecare agencies"
+        }
+    ],
+    "historicRatings": [
+        {
+            "overall": {
+                "keyQuestionRatings": [
+                    {
+                        "name": "Safe",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Well-led",
+                        "rating": "Good"
+                    }
+                ],
+                "rating": "Good"
+            },
+            "reportDate": "2018-09-13",
+            "reportLinkId": "3fcd2429-fa5a-4bcd-9f69-201975e1bfdd"
+        }
+    ],
+    "inspectionAreas": [],
+    "inspectionCategories": [
+        {
+            "code": "S2",
+            "name": "Community based adult social care services",
+            "primary": "true"
+        }
+    ],
+    "inspectionDirectorate": "Adult social care",
+    "lastInspection": {
+        "date": "2021-07-06"
+    },
+    "lastReport": {
+        "publicationDate": "2021-09-07"
+    },
+    "localAuthority": "Oldham",
+    "locationId": "1-4126051126",
+    "locationTypes": [],
+    "mainPhoneNumber": "01616249510",
+    "name": "GreenSquareAccord Oldham",
+    "numberOfBeds": 0,
+    "odsCode": "VN10N",
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.5165882,
+    "onspdLongitude": -2.1430049,
+    "organisationType": "Location",
+    "postalAddressLine1": "Office 1.01-1.04, Hollinwood Business Centre",
+    "postalAddressLine2": "Albert Street",
+    "postalAddressTownCity": "Oldham",
+    "postalCode": "OL8 3QL",
+    "providerId": "1-101653596",
+    "region": "North West",
+    "registrationDate": "2017-08-01",
+    "registrationStatus": "Deregistered",
+    "regulatedActivities": [],
+    "relationships": [
+        {
+            "reason": "Location Move",
+            "relatedLocationId": "1-3561815892",
+            "relatedLocationName": "Direct Health (Oldham)",
+            "type": "HSCA Predecessor"
+        },
+        {
+            "reason": "Legal Entity Change",
+            "relatedLocationId": "1-14443163311",
+            "relatedLocationName": "Care Quality Services Oldham",
+            "type": "HSCA Successor"
+        }
+    ],
+    "reports": [
+        {
+            "firstVisitDate": "2021-06-29",
+            "linkId": "50ef8518-39f0-4f74-b7b5-9facfef861ce",
+            "reportDate": "2021-09-07",
+            "reportType": "Location",
+            "reportUri": "/reports/50ef8518-39f0-4f74-b7b5-9facfef861ce?20210907120000"
+        },
+        {
+            "firstVisitDate": "2018-08-16",
+            "linkId": "3fcd2429-fa5a-4bcd-9f69-201975e1bfdd",
+            "reportDate": "2018-09-13",
+            "reportType": "Location",
+            "reportUri": "/reports/3fcd2429-fa5a-4bcd-9f69-201975e1bfdd?20200129163919"
+        }
+    ],
+    "specialisms": [
+        {
+            "name": "Caring for adults over 65 yrs"
+        },
+        {
+            "name": "Caring for adults under 65 yrs"
+        },
+        {
+            "name": "Dementia"
+        },
+        {
+            "name": "Learning disabilities"
+        },
+        {
+            "name": "Mental health conditions"
+        },
+        {
+            "name": "Physical disabilities"
+        },
+        {
+            "name": "Sensory impairment"
+        }
+    ],
+    "type": "Social Care Org",
+    "uprn": "422000126280",
+    "website": "www.directhealthgroup.co.uk"
+}

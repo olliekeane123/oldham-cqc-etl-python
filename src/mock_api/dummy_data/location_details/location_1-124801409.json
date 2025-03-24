@@ -1,0 +1,240 @@
+{
+    "careHome": "Y",
+    "constituency": "Oldham West and Royton",
+    "currentRatings": {
+        "overall": {
+            "keyQuestionRatings": [
+                {
+                    "name": "Safe",
+                    "rating": "Good",
+                    "reportDate": "2019-07-03",
+                    "reportLinkId": "1f5e8268-71dc-4af7-8842-83798e0679a6"
+                },
+                {
+                    "name": "Well-led",
+                    "rating": "Good",
+                    "reportDate": "2019-07-03",
+                    "reportLinkId": "1f5e8268-71dc-4af7-8842-83798e0679a6"
+                },
+                {
+                    "name": "Caring",
+                    "rating": "Good",
+                    "reportDate": "2019-07-03",
+                    "reportLinkId": "1f5e8268-71dc-4af7-8842-83798e0679a6"
+                },
+                {
+                    "name": "Responsive",
+                    "rating": "Good",
+                    "reportDate": "2019-07-03",
+                    "reportLinkId": "1f5e8268-71dc-4af7-8842-83798e0679a6"
+                },
+                {
+                    "name": "Effective",
+                    "rating": "Good",
+                    "reportDate": "2019-07-03",
+                    "reportLinkId": "1f5e8268-71dc-4af7-8842-83798e0679a6"
+                }
+            ],
+            "rating": "Good",
+            "reportDate": "2019-07-03",
+            "reportLinkId": "1f5e8268-71dc-4af7-8842-83798e0679a6"
+        },
+        "reportDate": "2019-07-03"
+    },
+    "dormancy": "N",
+    "gacServiceTypes": [
+        {
+            "description": "Care home service without nursing",
+            "name": "Residential homes"
+        }
+    ],
+    "historicRatings": [
+        {
+            "overall": {
+                "keyQuestionRatings": [
+                    {
+                        "name": "Safe",
+                        "rating": "Inspected but not rated"
+                    }
+                ],
+                "rating": "Inspected but not rated"
+            },
+            "reportDate": "2021-06-16",
+            "reportLinkId": "c4fe29c9-35a8-4b35-a752-830be3b6faf7"
+        },
+        {
+            "overall": {
+                "keyQuestionRatings": [
+                    {
+                        "name": "Safe",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Well-led",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Caring",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Responsive",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Effective",
+                        "rating": "Good"
+                    }
+                ],
+                "rating": "Good"
+            },
+            "reportDate": "2016-12-15",
+            "reportLinkId": "ac3e41d9-ae96-4707-af50-299c68e3a64b"
+        },
+        {
+            "overall": {
+                "keyQuestionRatings": [
+                    {
+                        "name": "Safe",
+                        "rating": "Requires improvement"
+                    },
+                    {
+                        "name": "Well-led",
+                        "rating": "Requires improvement"
+                    },
+                    {
+                        "name": "Caring",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Responsive",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Effective",
+                        "rating": "Good"
+                    }
+                ],
+                "rating": "Requires improvement"
+            },
+            "reportDate": "2015-08-07",
+            "reportLinkId": "1afb9600-7992-49fa-8fd5-45d4504edbf7"
+        }
+    ],
+    "inspectionAreas": [],
+    "inspectionCategories": [
+        {
+            "code": "S1",
+            "name": "Residential social care",
+            "primary": "true"
+        }
+    ],
+    "inspectionDirectorate": "Adult social care",
+    "lastInspection": {
+        "date": "2021-05-20"
+    },
+    "lastReport": {
+        "publicationDate": "2021-06-16"
+    },
+    "localAuthority": "Oldham",
+    "locationId": "1-124801409",
+    "locationTypes": [],
+    "mainPhoneNumber": "01616812183",
+    "name": "Ashgrove House Care Limited",
+    "numberOfBeds": 33,
+    "odsCode": "VLD1W",
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.5221475,
+    "onspdLongitude": -2.1606255,
+    "organisationType": "Location",
+    "postalAddressCounty": "Lancashire",
+    "postalAddressLine1": "72 Butterworth Lane",
+    "postalAddressLine2": "Chadderton",
+    "postalAddressTownCity": "Oldham",
+    "postalCode": "OL9 8DX",
+    "providerId": "1-101674623",
+    "region": "North West",
+    "registrationDate": "2010-11-22",
+    "registrationStatus": "Registered",
+    "regulatedActivities": [
+        {
+            "code": "RA2",
+            "contacts": [
+                {
+                    "personFamilyName": "Tilson",
+                    "personGivenName": "Danielle Denise",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Mrs"
+                }
+            ],
+            "name": "Accommodation for persons who require nursing or personal care"
+        }
+    ],
+    "relationships": [],
+    "reports": [
+        {
+            "firstVisitDate": "2021-05-20",
+            "linkId": "c4fe29c9-35a8-4b35-a752-830be3b6faf7",
+            "reportDate": "2021-06-16",
+            "reportType": "Location",
+            "reportUri": "/reports/c4fe29c9-35a8-4b35-a752-830be3b6faf7?20210616120000"
+        },
+        {
+            "firstVisitDate": "2019-06-11",
+            "linkId": "1f5e8268-71dc-4af7-8842-83798e0679a6",
+            "reportDate": "2019-07-03",
+            "reportType": "Location",
+            "reportUri": "/reports/1f5e8268-71dc-4af7-8842-83798e0679a6?20190703132348"
+        },
+        {
+            "firstVisitDate": "2016-11-08",
+            "linkId": "ac3e41d9-ae96-4707-af50-299c68e3a64b",
+            "reportDate": "2016-12-15",
+            "reportType": "Location",
+            "reportUri": "/reports/ac3e41d9-ae96-4707-af50-299c68e3a64b?20211030120000"
+        },
+        {
+            "firstVisitDate": "2014-11-05",
+            "linkId": "1afb9600-7992-49fa-8fd5-45d4504edbf7",
+            "reportDate": "2015-08-07",
+            "reportType": "Location",
+            "reportUri": "/reports/1afb9600-7992-49fa-8fd5-45d4504edbf7?20210127215026"
+        },
+        {
+            "firstVisitDate": "2013-12-16",
+            "linkId": "1d28643a-f60c-4a15-b62a-71d1db299a43",
+            "reportDate": "2014-01-23",
+            "reportUri": "/reports/1d28643a-f60c-4a15-b62a-71d1db299a43?20210925120000"
+        },
+        {
+            "firstVisitDate": "2012-12-04",
+            "linkId": "d0762a8f-0a5c-46fb-9195-5699f1f7ab8d",
+            "reportDate": "2012-12-21",
+            "reportUri": "/reports/d0762a8f-0a5c-46fb-9195-5699f1f7ab8d?20210925120000"
+        },
+        {
+            "firstVisitDate": "2011-12-01",
+            "linkId": "8fe2dd7d-0a2d-4cce-a5fa-1180209ff8a1",
+            "reportDate": "2011-12-28",
+            "reportUri": "/reports/8fe2dd7d-0a2d-4cce-a5fa-1180209ff8a1?20200430120000"
+        }
+    ],
+    "specialisms": [
+        {
+            "name": "Caring for adults over 65 yrs"
+        },
+        {
+            "name": "Dementia"
+        },
+        {
+            "name": "Physical disabilities"
+        }
+    ],
+    "type": "Social Care Org",
+    "uprn": "422000017808"
+}

@@ -1,0 +1,97 @@
+{
+    "careHome": "N",
+    "constituency": "Oldham West and Royton",
+    "currentRatings": {
+        "overall": {
+            "keyQuestionRatings": [
+                {
+                    "name": "Safe",
+                    "rating": "No published rating"
+                },
+                {
+                    "name": "Well-led",
+                    "rating": "No published rating"
+                },
+                {
+                    "name": "Caring",
+                    "rating": "No published rating"
+                },
+                {
+                    "name": "Responsive",
+                    "rating": "No published rating"
+                },
+                {
+                    "name": "Effective",
+                    "rating": "No published rating"
+                }
+            ],
+            "rating": "No published rating"
+        }
+    },
+    "deregistrationDate": "2013-12-04",
+    "dormancy": "N",
+    "gacServiceTypes": [
+        {
+            "description": "Community healthcare service",
+            "name": "Community services - Healthcare"
+        }
+    ],
+    "inspectionAreas": [],
+    "inspectionDirectorate": "Unspecified",
+    "lastInspection": {
+        "date": "2013-01-29"
+    },
+    "localAuthority": "Oldham",
+    "locationId": "1-136343979",
+    "locationTypes": [],
+    "mainPhoneNumber": "01616270200",
+    "name": "Brook Pennine - Oldham",
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.540937,
+    "onspdLongitude": -2.109965,
+    "organisationType": "Location",
+    "postalAddressCounty": "Greater Manchester",
+    "postalAddressLine1": "99-101 Union Street",
+    "postalAddressTownCity": "Oldham",
+    "postalCode": "OL1 1QH",
+    "providerId": "1-125892681",
+    "region": "North West",
+    "registrationDate": "2011-01-18",
+    "registrationStatus": "Deregistered",
+    "regulatedActivities": [],
+    "relationships": [
+        {
+            "reason": "New Provider",
+            "relatedLocationId": "1-1062858442",
+            "relatedLocationName": "Brook Oldham",
+            "type": "HSCA Successor"
+        }
+    ],
+    "reports": [
+        {
+            "firstVisitDate": "2013-01-29",
+            "linkId": "da451c12-345a-4c53-9b36-51c57f1afc2f",
+            "reportDate": "2013-03-01",
+            "reportUri": "/reports/da451c12-345a-4c53-9b36-51c57f1afc2f?20200129163919"
+        },
+        {
+            "firstVisitDate": "2012-03-08",
+            "linkId": "c100f33f-6abe-42e3-ae1e-5c78c1b192c8",
+            "reportDate": "2012-03-29",
+            "reportUri": "/reports/c100f33f-6abe-42e3-ae1e-5c78c1b192c8?20200430120000"
+        }
+    ],
+    "specialisms": [
+        {
+            "name": "Caring for adults under 65 yrs"
+        },
+        {
+            "name": "Caring for children"
+        }
+    ],
+    "type": "Independent Healthcare Org",
+    "website": "www.brook.org.uk"
+}

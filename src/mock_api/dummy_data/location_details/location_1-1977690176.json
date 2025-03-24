@@ -1,0 +1,134 @@
+{
+    "careHome": "N",
+    "constituency": "Oldham West and Royton",
+    "currentRatings": {
+        "overall": {
+            "keyQuestionRatings": [
+                {
+                    "name": "Safe",
+                    "rating": "Requires improvement",
+                    "reportDate": "2016-05-10",
+                    "reportLinkId": "6d7fef0f-45f2-4899-9cc2-26a34ed878af"
+                },
+                {
+                    "name": "Well-led",
+                    "rating": "Requires improvement",
+                    "reportDate": "2016-05-10",
+                    "reportLinkId": "6d7fef0f-45f2-4899-9cc2-26a34ed878af"
+                },
+                {
+                    "name": "Caring",
+                    "rating": "Requires improvement",
+                    "reportDate": "2016-05-10",
+                    "reportLinkId": "6d7fef0f-45f2-4899-9cc2-26a34ed878af"
+                },
+                {
+                    "name": "Responsive",
+                    "rating": "Requires improvement",
+                    "reportDate": "2016-05-10",
+                    "reportLinkId": "6d7fef0f-45f2-4899-9cc2-26a34ed878af"
+                },
+                {
+                    "name": "Effective",
+                    "rating": "Requires improvement",
+                    "reportDate": "2016-05-10",
+                    "reportLinkId": "6d7fef0f-45f2-4899-9cc2-26a34ed878af"
+                }
+            ],
+            "rating": "Requires improvement",
+            "reportDate": "2016-05-10",
+            "reportLinkId": "6d7fef0f-45f2-4899-9cc2-26a34ed878af"
+        },
+        "reportDate": "2016-05-10"
+    },
+    "deregistrationDate": "2016-11-03",
+    "dormancy": "N",
+    "gacServiceTypes": [
+        {
+            "description": "Domiciliary care service",
+            "name": "Homecare agencies"
+        }
+    ],
+    "inspectionAreas": [],
+    "inspectionCategories": [
+        {
+            "code": "S2",
+            "name": "Community based adult social care services",
+            "primary": "true"
+        }
+    ],
+    "inspectionDirectorate": "Adult social care",
+    "lastInspection": {
+        "date": "2016-02-01"
+    },
+    "lastReport": {
+        "publicationDate": "2016-05-10"
+    },
+    "localAuthority": "Oldham",
+    "locationId": "1-1977690176",
+    "locationTypes": [],
+    "mainPhoneNumber": "01616390139",
+    "name": "Homecare For You Oldham",
+    "numberOfBeds": 0,
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.525439,
+    "onspdLongitude": -2.135717,
+    "organisationType": "Location",
+    "postalAddressCounty": "Lancashire",
+    "postalAddressLine1": "Unit 204 Chambers Business Centre",
+    "postalAddressLine2": "Chapel Road",
+    "postalAddressTownCity": "Oldham",
+    "postalCode": "OL8 4QQ",
+    "providerId": "1-101673242",
+    "region": "North West",
+    "registrationDate": "2015-03-06",
+    "registrationStatus": "Deregistered",
+    "regulatedActivities": [],
+    "relationships": [],
+    "reports": [
+        {
+            "firstVisitDate": "2016-01-28",
+            "linkId": "6d7fef0f-45f2-4899-9cc2-26a34ed878af",
+            "reportDate": "2016-05-10",
+            "reportType": "Location",
+            "reportUri": "/reports/6d7fef0f-45f2-4899-9cc2-26a34ed878af?20211030120000"
+        }
+    ],
+    "specialisms": [
+        {
+            "name": "Caring for adults over 65 yrs"
+        },
+        {
+            "name": "Caring for adults under 65 yrs"
+        },
+        {
+            "name": "Caring for children"
+        },
+        {
+            "name": "Dementia"
+        },
+        {
+            "name": "Eating disorders"
+        },
+        {
+            "name": "Learning disabilities"
+        },
+        {
+            "name": "Mental health conditions"
+        },
+        {
+            "name": "Physical disabilities"
+        },
+        {
+            "name": "Sensory impairment"
+        },
+        {
+            "name": "Substance misuse problems"
+        }
+    ],
+    "type": "Social Care Org",
+    "website": "www.homecare-foryou.com"
+}

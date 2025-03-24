@@ -1,0 +1,150 @@
+{
+    "careHome": "N",
+    "constituency": "Oldham West and Royton",
+    "currentRatings": {
+        "overall": {
+            "keyQuestionRatings": [
+                {
+                    "name": "Safe",
+                    "rating": "Requires improvement",
+                    "reportDate": "2019-04-18",
+                    "reportLinkId": "badc301f-edcd-45ee-b611-523eec564086"
+                },
+                {
+                    "name": "Well-led",
+                    "rating": "Requires improvement",
+                    "reportDate": "2019-04-18",
+                    "reportLinkId": "badc301f-edcd-45ee-b611-523eec564086"
+                },
+                {
+                    "name": "Caring",
+                    "rating": "Good",
+                    "reportDate": "2019-04-18",
+                    "reportLinkId": "badc301f-edcd-45ee-b611-523eec564086"
+                },
+                {
+                    "name": "Responsive",
+                    "rating": "Requires improvement",
+                    "reportDate": "2019-04-18",
+                    "reportLinkId": "badc301f-edcd-45ee-b611-523eec564086"
+                },
+                {
+                    "name": "Effective",
+                    "rating": "Good",
+                    "reportDate": "2019-04-18",
+                    "reportLinkId": "badc301f-edcd-45ee-b611-523eec564086"
+                }
+            ],
+            "rating": "Requires improvement",
+            "reportDate": "2019-04-18",
+            "reportLinkId": "badc301f-edcd-45ee-b611-523eec564086"
+        },
+        "reportDate": "2019-04-18"
+    },
+    "deregistrationDate": "2020-10-06",
+    "dormancy": "N",
+    "gacServiceTypes": [
+        {
+            "description": "Domiciliary care service",
+            "name": "Homecare agencies"
+        }
+    ],
+    "historicRatings": [
+        {
+            "overall": {
+                "keyQuestionRatings": [
+                    {
+                        "name": "Safe",
+                        "rating": "Inspected but not rated"
+                    },
+                    {
+                        "name": "Well-led",
+                        "rating": "Inspected but not rated"
+                    },
+                    {
+                        "name": "Responsive",
+                        "rating": "Inspected but not rated"
+                    }
+                ],
+                "rating": "Inspected but not rated"
+            },
+            "reportDate": "2020-10-02",
+            "reportLinkId": "7f1897c1-9113-4de7-8ccc-805964d1dc1d"
+        }
+    ],
+    "inspectionAreas": [],
+    "inspectionCategories": [
+        {
+            "code": "S2",
+            "name": "Community based adult social care services",
+            "primary": "true"
+        }
+    ],
+    "inspectionDirectorate": "Adult social care",
+    "lastInspection": {
+        "date": "2020-08-24"
+    },
+    "lastReport": {
+        "publicationDate": "2020-10-02"
+    },
+    "localAuthority": "Oldham",
+    "locationId": "1-4815596978",
+    "locationTypes": [],
+    "mainPhoneNumber": "07467544908",
+    "name": "Unicorn1care Ltd",
+    "numberOfBeds": 0,
+    "odsCode": "VN9GM",
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.542044,
+    "onspdLongitude": -2.134972,
+    "organisationType": "Location",
+    "postalAddressCounty": "Lancashire",
+    "postalAddressLine1": "Lansdowne Road",
+    "postalAddressLine2": "Chadderton",
+    "postalAddressTownCity": "Oldham",
+    "postalCode": "OL9 9EF",
+    "providerId": "1-4745005649",
+    "region": "North West",
+    "registrationDate": "2018-04-06",
+    "registrationStatus": "Deregistered",
+    "regulatedActivities": [],
+    "relationships": [
+        {
+            "reason": "Location Move",
+            "relatedLocationId": "1-9588358014",
+            "relatedLocationName": "Unicorn1care Ltd",
+            "type": "HSCA Successor"
+        }
+    ],
+    "reports": [
+        {
+            "firstVisitDate": "2020-08-24",
+            "linkId": "7f1897c1-9113-4de7-8ccc-805964d1dc1d",
+            "reportDate": "2020-10-02",
+            "reportType": "Location",
+            "reportUri": "/reports/7f1897c1-9113-4de7-8ccc-805964d1dc1d?20201014120001"
+        },
+        {
+            "firstVisitDate": "2019-03-21",
+            "linkId": "badc301f-edcd-45ee-b611-523eec564086",
+            "reportDate": "2019-04-18",
+            "reportType": "Location",
+            "reportUri": "/reports/badc301f-edcd-45ee-b611-523eec564086?20190511120000"
+        }
+    ],
+    "specialisms": [
+        {
+            "name": "Caring for adults over 65 yrs"
+        },
+        {
+            "name": "Caring for adults under 65 yrs"
+        },
+        {
+            "name": "Dementia"
+        }
+    ],
+    "type": "Social Care Org"
+}

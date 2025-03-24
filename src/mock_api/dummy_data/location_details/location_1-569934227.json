@@ -1,0 +1,1318 @@
+{
+    "assessment": [
+        {
+            "assessmentPlanPublishedDateTime": "2024-05-10 07:42:57",
+            "ratings": {
+                "asgRatings": [
+                    {
+                        "assessmentDate": "2024-02-26",
+                        "assessmentPlanId": "AP2291",
+                        "assessmentPlanStatus": "Active",
+                        "commentary": "Oldham Family Practice is an NHS GP Practice which provides primary care services to patients in Oldham, Greater Manchester. We carried out an announced assessment of one quality statement, equity in access, under the key question Responsive at Oldham Family Practice on 20 March 2024. We carried out the assessment as part of our work to understand how practices are trying to meet people\u2019s demands for access and to better understand the experiences of people who use services and providers. We recognise the work that GP practices have been engaged in to continue to provide safe, quality care to the people they serve. We know staff are carrying this out whilst the demand for general practice remains exceptionally high, with more appointments than ever being provided. However, in this challenging context, access to general practice remains a concern for people. Our strategy makes a commitment to deliver regulation driven by people\u2019s needs and experiences of care. The assessment of the quality statement equity of access includes looking at what practices are doing innovatively to improve patient access to primary care and sharing this information to drive improvement. Overall, the practice is rated as good and the key question responsive continues to be rated as providing a good service. We found that the practice had organised services to meet patients\u2019 needs, particularly those who were most likely to have difficulty accessing care. The practice sought out and used feedback and other data and information to monitor and improve access.",
+                        "commentaryDate": "2024-04-02",
+                        "keyQuestionRatings": [
+                            {
+                                "commentary": "",
+                                "commentaryDate": "",
+                                "name": "Caring",
+                                "narrative": "This service is caring",
+                                "percentageScore": "75",
+                                "rating": "Good",
+                                "status": "Not Assessed",
+                                "topicareas": [
+                                    {
+                                        "evidenceCategory": [
+                                            {
+                                                "commentary": "",
+                                                "commentaryDate": "",
+                                                "evidenceCategoryId": "1"
+                                            },
+                                            {
+                                                "commentary": "",
+                                                "commentaryDate": "",
+                                                "evidenceCategoryId": "2"
+                                            },
+                                            {
+                                                "commentary": "",
+                                                "commentaryDate": "",
+                                                "evidenceCategoryId": "5"
+                                            }
+                                        ],
+                                        "name": "Independence, choice and control",
+                                        "qualityStatementId": "17",
+                                        "qualityStatementscore": "3 - Evidence shows a good standard of care",
+                                        "status": "Not Assessed"
+                                    },
+                                    {
+                                        "evidenceCategory": [
+                                            {
+                                                "commentary": "",
+                                                "commentaryDate": "",
+                                                "evidenceCategoryId": "1"
+                                            },
+                                            {
+                                                "commentary": "",
+                                                "commentaryDate": "",
+                                                "evidenceCategoryId": "2"
+                                            },
+                                            {
+                                                "commentary": "",
+                                                "commentaryDate": "",
+                                                "evidenceCategoryId": "4"
+                                            }
+                                        ],
+                                        "name": "Kindness, compassion and dignity",
+                                        "qualityStatementId": "15",
+                                        "qualityStatementscore": "3 - Evidence shows a good standard of care",
+                                        "status": "Not Assessed"
+                                    },
+                                    {
+                                        "evidenceCategory": [
+                                            {
+                                                "commentary": "",
+                                                "commentaryDate": "",
+                                                "evidenceCategoryId": "1"
+                                            },
+                                            {
+                                                "commentary": "",
+                                                "commentaryDate": "",
+                                                "evidenceCategoryId": "2"
+                                            }
+                                        ],
+                                        "name": "Responding to people\u2019s immediate needs",
+                                        "qualityStatementId": "18",
+                                        "qualityStatementscore": "3 - Evidence shows a good standard of care",
+                                        "status": "Not Assessed"
+                                    },
+                                    {
+                                        "evidenceCategory": [
+                                            {
+                                                "commentary": "",
+                                                "commentaryDate": "",
+                                                "evidenceCategoryId": "1"
+                                            },
+                                            {
+                                                "commentary": "",
+                                                "commentaryDate": "",
+                                                "evidenceCategoryId": "2"
+                                            },
+                                            {
+                                                "commentary": "",
+                                                "commentaryDate": "",
+                                                "evidenceCategoryId": "5"
+                                            }
+                                        ],
+                                        "name": "Treating people as individuals",
+                                        "qualityStatementId": "16",
+                                        "qualityStatementscore": "3 - Evidence shows a good standard of care",
+                                        "status": "Not Assessed"
+                                    },
+                                    {
+                                        "evidenceCategory": [
+                                            {
+                                                "commentary": "",
+                                                "commentaryDate": "",
+                                                "evidenceCategoryId": "2"
+                                            },
+                                            {
+                                                "commentary": "",
+                                                "commentaryDate": "",
+                                                "evidenceCategoryId": "5"
+                                            }
+                                        ],
+                                        "name": "Workforce wellbeing and enablement",
+                                        "qualityStatementId": "19",
+                                        "qualityStatementscore": "3 - Evidence shows a good standard of care",
+                                        "status": "Not Assessed"
+                                    }
+                                ]
+                            },
+                            {
+                                "commentary": "",
+                                "commentaryDate": "",
+                                "name": "Effective",
+                                "narrative": "This service is effective",
+                                "percentageScore": "75",
+                                "rating": "Good",
+                                "status": "Not Assessed",
+                                "topicareas": [
+                                    {
+                                        "evidenceCategory": [
+                                            {
+                                                "commentary": "",
+                                                "commentaryDate": "",
+                                                "evidenceCategoryId": "1"
+                                            },
+                                            {
+                                                "commentary": "",
+                                                "commentaryDate": "",
+                                                "evidenceCategoryId": "2"
+                                            },
+                                            {
+                                                "commentary": "",
+                                                "commentaryDate": "",
+                                                "evidenceCategoryId": "5"
+                                            }
+                                        ],
+                                        "name": "Assessing needs",
+                                        "qualityStatementId": "9",
+                                        "qualityStatementscore": "3 - Evidence shows a good standard of care",
+                                        "status": "Not Assessed"
+                                    },
+                                    {
+                                        "evidenceCategory": [
+                                            {
+                                                "commentary": "",
+                                                "commentaryDate": "",
+                                                "evidenceCategoryId": "1"
+                                            },
+                                            {
+                                                "commentary": "",
+                                                "commentaryDate": "",
+                                                "evidenceCategoryId": "2"
+                                            },
+                                            {
+                                                "commentary": "",
+                                                "commentaryDate": "",
+                                                "evidenceCategoryId": "5"
+                                            }
+                                        ],
+                                        "name": "Consent to care and treatment",
+                                        "qualityStatementId": "14",
+                                        "qualityStatementscore": "3 - Evidence shows a good standard of care",
+                                        "status": "Not Assessed"
+                                    },
+                                    {
+                                        "evidenceCategory": [
+                                            {
+                                                "commentary": "",
+                                                "commentaryDate": "",
+                                                "evidenceCategoryId": "1"
+                                            },
+                                            {
+                                                "commentary": "",
+                                                "commentaryDate": "",
+                                                "evidenceCategoryId": "2"
+                                            },
+                                            {
+                                                "commentary": "",
+                                                "commentaryDate": "",
+                                                "evidenceCategoryId": "5"
+                                            }
+                                        ],
+                                        "name": "Delivering evidence-based care and treatment",
+                                        "qualityStatementId": "10",
+                                        "qualityStatementscore": "3 - Evidence shows a good standard of care",
+                                        "status": "Not Assessed"
+                                    },
+                                    {
+                                        "evidenceCategory": [
+                                            {
+                                                "commentary": "",
+                                                "commentaryDate": "",
+                                                "evidenceCategoryId": "1"
+                                            },
+                                            {
+                                                "commentary": "",
+                                                "commentaryDate": "",
+                                                "evidenceCategoryId": "2"
+                                            },
+                                            {
+                                                "commentary": "",
+                                                "commentaryDate": "",
+                                                "evidenceCategoryId": "3"
+                                            },
+                                            {
+                                                "commentary": "",
+                                                "commentaryDate": "",
+                                                "evidenceCategoryId": "5"
+                                            }
+                                        ],
+                                        "name": "How staff, teams and services work together",
+                                        "qualityStatementId": "11",
+                                        "qualityStatementscore": "3 - Evidence shows a good standard of care",
+                                        "status": "Not Assessed"
+                                    },
+                                    {
+                                        "evidenceCategory": [
+                                            {
+                                                "commentary": "",
+                                                "commentaryDate": "",
+                                                "evidenceCategoryId": "1"
+                                            },
+                                            {
+                                                "commentary": "",
+                                                "commentaryDate": "",
+                                                "evidenceCategoryId": "2"
+                                            },
+                                            {
+                                                "commentary": "",
+                                                "commentaryDate": "",
+                                                "evidenceCategoryId": "5"
+                                            },
+                                            {
+                                                "commentary": "",
+                                                "commentaryDate": "",
+                                                "evidenceCategoryId": "6"
+                                            }
+                                        ],
+                                        "name": "Monitoring and improving outcomes",
+                                        "qualityStatementId": "13",
+                                        "qualityStatementscore": "3 - Evidence shows a good standard of care",
+                                        "status": "Not Assessed"
+                                    },
+                                    {
+                                        "evidenceCategory": [
+                                            {
+                                                "commentary": "",
+                                                "commentaryDate": "",
+                                                "evidenceCategoryId": "1"
+                                            },
+                                            {
+                                                "commentary": "",
+                                                "commentaryDate": "",
+                                                "evidenceCategoryId": "2"
+                                            },
+                                            {
+                                                "commentary": "",
+                                                "commentaryDate": "",
+                                                "evidenceCategoryId": "5"
+                                            }
+                                        ],
+                                        "name": "Supporting people to live healthier lives",
+                                        "qualityStatementId": "12",
+                                        "qualityStatementscore": "3 - Evidence shows a good standard of care",
+                                        "status": "Not Assessed"
+                                    }
+                                ]
+                            },
+                            {
+                                "commentary": "We carried out an announced assessment of one quality statement, equity of access, under the key question Responsive and found: The provider had organised services to meet patients\u2019 needs and used their feedback and other evidence to seek and improve access for their patient population. Services were designed to make them accessible and timely for people including those most likely to have difficulty accessing the service. The provider prioritised, allocated resources and developed opportunities as needed to tackle inequalities and achieve equity of access. The practice routinely monitored demand and capacity regarding access arrangements and had established systems to enable the ongoing analysis of appointments and core data and to seek feedback from people to learn more about their experiences.",
+                                "commentaryDate": "2024-04-02",
+                                "name": "Responsive",
+                                "narrative": "This service is responsive",
+                                "percentageScore": "75",
+                                "rating": "Good",
+                                "status": "Assessed",
+                                "topicareas": [
+                                    {
+                                        "evidenceCategory": [
+                                            {
+                                                "commentary": "",
+                                                "commentaryDate": "",
+                                                "evidenceCategoryId": "2"
+                                            },
+                                            {
+                                                "commentary": "",
+                                                "commentaryDate": "",
+                                                "evidenceCategoryId": "3"
+                                            },
+                                            {
+                                                "commentary": "",
+                                                "commentaryDate": "",
+                                                "evidenceCategoryId": "5"
+                                            }
+                                        ],
+                                        "name": "Care provision, Integration and continuity",
+                                        "qualityStatementId": "21",
+                                        "qualityStatementscore": "3 - Evidence shows a good standard of care",
+                                        "status": "Not Assessed"
+                                    },
+                                    {
+                                        "evidenceCategory": [
+                                            {
+                                                "commentary": "In the 2023 National GP Patient Survey, the practice\u2019s data demonstrated that patient satisfaction was positive about GP appointment times, getting through to the practice by telephone and the overall experience of making an appointment. The data for these indicators highlighted that the performance achieved by the practice was higher than both the local and national averages. The data slightly below average satisfaction rates for patients being satisfied with the appointment they were offered.\nPrior to our assessment, we invited the practice to contact a sample of patients on our behalf so that people could give feedback on their experience regarding access. We received feedback from 7 patients and all feedback was positive.\n\nTh practice encouraged patients/patient representatives to provide feedback on their experience via the NHS friends and family test (FFT). The practice had a patient participation group (PPG). As membership was declining, they were working with other practices in the area to raise awareness so the PPG could be more involved in providing feedback for the practice and communicating with the practice population.\n\nPatients had access to an interpretation service. Double appointments were given to patients with language or communication barriers. The practice was accessible to patients with mobility needs. \n",
+                                                "commentaryDate": "2024-04-03",
+                                                "evidenceCategoryId": "1"
+                                            },
+                                            {
+                                                "commentary": "The leaders demonstrated they were aware of the challenges to patient access and had acted to improve patient access. The leaders explained they provided opportunities and support for different groups of patient population to overcome health inequalities. The practice was a \u2018safe surgery\u2019 so patients could register without documents such as identification and proof of address. The practice was also a Homeless Friendly practice. Homeless Friendly provides a greater awareness of the difficulties and inequalities faced by homeless people and encourages organisations to help create a cultural shift in how those without a permanent home are viewed. \n\nThe leaders demonstrated they were aware of the challenges to patient access and had acted to improve patient access. We saw evidence that all data was routinely analysed. We also saw leaders engaged with other organisations to look at identifying any unmet needs of patients to ensure they were providing the required services. \n",
+                                                "commentaryDate": "2024-04-03",
+                                                "evidenceCategoryId": "2"
+                                            },
+                                            {
+                                                "commentary": "Patients could book appointments by telephone, online, and in person by visiting the practice. Information regarding access was displayed on the practice\u2019s website. Appointments were available face to face, by telephone, online or as a home visit. Same day and pre-bookable in advance appointments were also available. Appointments were available on weekday evenings and on Saturdays through an extended access arrangement in the area. Nurse appointments were available from 7.30am one day a week.\n\nThe practice used a triage system to prioritise patients. had arrangements in place for prioritising patients.  A GP considered all requests and allocated an appropriate appointment. Patients were directed to other services if these were more appropriate. All staff had been trained in the triage system, and there was the capacity to add in urgent appointments during the day if needed. \n\nThe practice had recently launched a new website, improving the information available to patients. A new telephone system was also being installed. This would provide a better service for patients and also allow the practice to easily have access to call data to ensure patients\u2019 needs were met and resources were appropriately placed. \n",
+                                                "commentaryDate": "2024-04-03",
+                                                "evidenceCategoryId": "5"
+                                            }
+                                        ],
+                                        "name": "Equity in access",
+                                        "qualityStatementId": "24",
+                                        "qualityStatementscore": "3 - Evidence shows a good standard of care",
+                                        "status": "Assessed"
+                                    },
+                                    {
+                                        "evidenceCategory": [
+                                            {
+                                                "commentary": "",
+                                                "commentaryDate": "",
+                                                "evidenceCategoryId": "1"
+                                            },
+                                            {
+                                                "commentary": "",
+                                                "commentaryDate": "",
+                                                "evidenceCategoryId": "2"
+                                            },
+                                            {
+                                                "commentary": "",
+                                                "commentaryDate": "",
+                                                "evidenceCategoryId": "5"
+                                            }
+                                        ],
+                                        "name": "Equity in experiences and outcomes",
+                                        "qualityStatementId": "25",
+                                        "qualityStatementscore": "3 - Evidence shows a good standard of care",
+                                        "status": "Not Assessed"
+                                    },
+                                    {
+                                        "evidenceCategory": [
+                                            {
+                                                "commentary": "",
+                                                "commentaryDate": "",
+                                                "evidenceCategoryId": "1"
+                                            },
+                                            {
+                                                "commentary": "",
+                                                "commentaryDate": "",
+                                                "evidenceCategoryId": "2"
+                                            },
+                                            {
+                                                "commentary": "",
+                                                "commentaryDate": "",
+                                                "evidenceCategoryId": "5"
+                                            }
+                                        ],
+                                        "name": "Listening to and involving people",
+                                        "qualityStatementId": "23",
+                                        "qualityStatementscore": "3 - Evidence shows a good standard of care",
+                                        "status": "Not Assessed"
+                                    },
+                                    {
+                                        "evidenceCategory": [
+                                            {
+                                                "commentary": "",
+                                                "commentaryDate": "",
+                                                "evidenceCategoryId": "1"
+                                            },
+                                            {
+                                                "commentary": "",
+                                                "commentaryDate": "",
+                                                "evidenceCategoryId": "2"
+                                            }
+                                        ],
+                                        "name": "Person-centred Care",
+                                        "qualityStatementId": "20",
+                                        "qualityStatementscore": "3 - Evidence shows a good standard of care",
+                                        "status": "Not Assessed"
+                                    },
+                                    {
+                                        "evidenceCategory": [
+                                            {
+                                                "commentary": "",
+                                                "commentaryDate": "",
+                                                "evidenceCategoryId": "1"
+                                            },
+                                            {
+                                                "commentary": "",
+                                                "commentaryDate": "",
+                                                "evidenceCategoryId": "2"
+                                            },
+                                            {
+                                                "commentary": "",
+                                                "commentaryDate": "",
+                                                "evidenceCategoryId": "5"
+                                            }
+                                        ],
+                                        "name": "Planning for the future",
+                                        "qualityStatementId": "26",
+                                        "qualityStatementscore": "3 - Evidence shows a good standard of care",
+                                        "status": "Not Assessed"
+                                    },
+                                    {
+                                        "evidenceCategory": [
+                                            {
+                                                "commentary": "",
+                                                "commentaryDate": "",
+                                                "evidenceCategoryId": "1"
+                                            },
+                                            {
+                                                "commentary": "",
+                                                "commentaryDate": "",
+                                                "evidenceCategoryId": "2"
+                                            },
+                                            {
+                                                "commentary": "",
+                                                "commentaryDate": "",
+                                                "evidenceCategoryId": "5"
+                                            }
+                                        ],
+                                        "name": "Providing Information",
+                                        "qualityStatementId": "22",
+                                        "qualityStatementscore": "3 - Evidence shows a good standard of care",
+                                        "status": "Not Assessed"
+                                    }
+                                ]
+                            },
+                            {
+                                "commentary": "",
+                                "commentaryDate": "",
+                                "name": "Safe",
+                                "narrative": "This service is safe",
+                                "percentageScore": "75",
+                                "rating": "Good",
+                                "status": "Not Assessed",
+                                "topicareas": [
+                                    {
+                                        "evidenceCategory": [
+                                            {
+                                                "commentary": "",
+                                                "commentaryDate": "",
+                                                "evidenceCategoryId": "1"
+                                            },
+                                            {
+                                                "commentary": "",
+                                                "commentaryDate": "",
+                                                "evidenceCategoryId": "2"
+                                            },
+                                            {
+                                                "commentary": "",
+                                                "commentaryDate": "",
+                                                "evidenceCategoryId": "4"
+                                            },
+                                            {
+                                                "commentary": "",
+                                                "commentaryDate": "",
+                                                "evidenceCategoryId": "5"
+                                            }
+                                        ],
+                                        "name": "Infection prevention and control",
+                                        "qualityStatementId": "7",
+                                        "qualityStatementscore": "3 - Evidence shows a good standard of care",
+                                        "status": "Not Assessed"
+                                    },
+                                    {
+                                        "evidenceCategory": [
+                                            {
+                                                "commentary": "",
+                                                "commentaryDate": "",
+                                                "evidenceCategoryId": "1"
+                                            },
+                                            {
+                                                "commentary": "",
+                                                "commentaryDate": "",
+                                                "evidenceCategoryId": "2"
+                                            },
+                                            {
+                                                "commentary": "",
+                                                "commentaryDate": "",
+                                                "evidenceCategoryId": "5"
+                                            }
+                                        ],
+                                        "name": "Involving people to manage risks",
+                                        "qualityStatementId": "4",
+                                        "qualityStatementscore": "3 - Evidence shows a good standard of care",
+                                        "status": "Not Assessed"
+                                    },
+                                    {
+                                        "evidenceCategory": [
+                                            {
+                                                "commentary": "",
+                                                "commentaryDate": "",
+                                                "evidenceCategoryId": "1"
+                                            },
+                                            {
+                                                "commentary": "",
+                                                "commentaryDate": "",
+                                                "evidenceCategoryId": "2"
+                                            },
+                                            {
+                                                "commentary": "",
+                                                "commentaryDate": "",
+                                                "evidenceCategoryId": "5"
+                                            }
+                                        ],
+                                        "name": "Learning culture",
+                                        "qualityStatementId": "1",
+                                        "qualityStatementscore": "3 - Evidence shows a good standard of care",
+                                        "status": "Not Assessed"
+                                    },
+                                    {
+                                        "evidenceCategory": [
+                                            {
+                                                "commentary": "",
+                                                "commentaryDate": "",
+                                                "evidenceCategoryId": "1"
+                                            },
+                                            {
+                                                "commentary": "",
+                                                "commentaryDate": "",
+                                                "evidenceCategoryId": "2"
+                                            },
+                                            {
+                                                "commentary": "",
+                                                "commentaryDate": "",
+                                                "evidenceCategoryId": "4"
+                                            },
+                                            {
+                                                "commentary": "",
+                                                "commentaryDate": "",
+                                                "evidenceCategoryId": "5"
+                                            },
+                                            {
+                                                "commentary": "",
+                                                "commentaryDate": "",
+                                                "evidenceCategoryId": "6"
+                                            }
+                                        ],
+                                        "name": "Medicines optimisation",
+                                        "qualityStatementId": "8",
+                                        "qualityStatementscore": "3 - Evidence shows a good standard of care",
+                                        "status": "Not Assessed"
+                                    },
+                                    {
+                                        "evidenceCategory": [
+                                            {
+                                                "commentary": "",
+                                                "commentaryDate": "",
+                                                "evidenceCategoryId": "1"
+                                            },
+                                            {
+                                                "commentary": "",
+                                                "commentaryDate": "",
+                                                "evidenceCategoryId": "2"
+                                            },
+                                            {
+                                                "commentary": "",
+                                                "commentaryDate": "",
+                                                "evidenceCategoryId": "5"
+                                            }
+                                        ],
+                                        "name": "Safe and effective staffing",
+                                        "qualityStatementId": "6",
+                                        "qualityStatementscore": "3 - Evidence shows a good standard of care",
+                                        "status": "Not Assessed"
+                                    },
+                                    {
+                                        "evidenceCategory": [
+                                            {
+                                                "commentary": "",
+                                                "commentaryDate": "",
+                                                "evidenceCategoryId": "2"
+                                            },
+                                            {
+                                                "commentary": "",
+                                                "commentaryDate": "",
+                                                "evidenceCategoryId": "4"
+                                            },
+                                            {
+                                                "commentary": "",
+                                                "commentaryDate": "",
+                                                "evidenceCategoryId": "5"
+                                            }
+                                        ],
+                                        "name": "Safe environments",
+                                        "qualityStatementId": "5",
+                                        "qualityStatementscore": "3 - Evidence shows a good standard of care",
+                                        "status": "Not Assessed"
+                                    },
+                                    {
+                                        "evidenceCategory": [
+                                            {
+                                                "commentary": "",
+                                                "commentaryDate": "",
+                                                "evidenceCategoryId": "1"
+                                            },
+                                            {
+                                                "commentary": "",
+                                                "commentaryDate": "",
+                                                "evidenceCategoryId": "2"
+                                            },
+                                            {
+                                                "commentary": "",
+                                                "commentaryDate": "",
+                                                "evidenceCategoryId": "3"
+                                            },
+                                            {
+                                                "commentary": "",
+                                                "commentaryDate": "",
+                                                "evidenceCategoryId": "5"
+                                            }
+                                        ],
+                                        "name": "Safe systems, pathways and transitions",
+                                        "qualityStatementId": "2",
+                                        "qualityStatementscore": "3 - Evidence shows a good standard of care",
+                                        "status": "Not Assessed"
+                                    },
+                                    {
+                                        "evidenceCategory": [
+                                            {
+                                                "commentary": "",
+                                                "commentaryDate": "",
+                                                "evidenceCategoryId": "1"
+                                            },
+                                            {
+                                                "commentary": "",
+                                                "commentaryDate": "",
+                                                "evidenceCategoryId": "2"
+                                            },
+                                            {
+                                                "commentary": "",
+                                                "commentaryDate": "",
+                                                "evidenceCategoryId": "3"
+                                            },
+                                            {
+                                                "commentary": "",
+                                                "commentaryDate": "",
+                                                "evidenceCategoryId": "5"
+                                            }
+                                        ],
+                                        "name": "Safeguarding",
+                                        "qualityStatementId": "3",
+                                        "qualityStatementscore": "3 - Evidence shows a good standard of care",
+                                        "status": "Not Assessed"
+                                    }
+                                ]
+                            },
+                            {
+                                "commentary": "",
+                                "commentaryDate": "",
+                                "name": "Well-led",
+                                "narrative": "This service is well-led",
+                                "percentageScore": "75",
+                                "rating": "Good",
+                                "status": "Not Assessed",
+                                "topicareas": [
+                                    {
+                                        "evidenceCategory": [
+                                            {
+                                                "commentary": "",
+                                                "commentaryDate": "",
+                                                "evidenceCategoryId": "2"
+                                            },
+                                            {
+                                                "commentary": "",
+                                                "commentaryDate": "",
+                                                "evidenceCategoryId": "5"
+                                            }
+                                        ],
+                                        "name": "Capable, compassionate and inclusive leaders",
+                                        "qualityStatementId": "28",
+                                        "qualityStatementscore": "3 - Evidence shows a good standard of care",
+                                        "status": "Not Assessed"
+                                    },
+                                    {
+                                        "evidenceCategory": [
+                                            {
+                                                "commentary": "",
+                                                "commentaryDate": "",
+                                                "evidenceCategoryId": "2"
+                                            },
+                                            {
+                                                "commentary": "",
+                                                "commentaryDate": "",
+                                                "evidenceCategoryId": "5"
+                                            }
+                                        ],
+                                        "name": "Freedom to speak up",
+                                        "qualityStatementId": "29",
+                                        "qualityStatementscore": "3 - Evidence shows a good standard of care",
+                                        "status": "Not Assessed"
+                                    },
+                                    {
+                                        "evidenceCategory": [
+                                            {
+                                                "commentary": "",
+                                                "commentaryDate": "",
+                                                "evidenceCategoryId": "2"
+                                            },
+                                            {
+                                                "commentary": "",
+                                                "commentaryDate": "",
+                                                "evidenceCategoryId": "5"
+                                            }
+                                        ],
+                                        "name": "Governance, management and sustainability",
+                                        "qualityStatementId": "31",
+                                        "qualityStatementscore": "3 - Evidence shows a good standard of care",
+                                        "status": "Not Assessed"
+                                    },
+                                    {
+                                        "evidenceCategory": [
+                                            {
+                                                "commentary": "",
+                                                "commentaryDate": "",
+                                                "evidenceCategoryId": "2"
+                                            },
+                                            {
+                                                "commentary": "",
+                                                "commentaryDate": "",
+                                                "evidenceCategoryId": "5"
+                                            }
+                                        ],
+                                        "name": "Learning, improvement and innovation",
+                                        "qualityStatementId": "33",
+                                        "qualityStatementscore": "3 - Evidence shows a good standard of care",
+                                        "status": "Not Assessed"
+                                    },
+                                    {
+                                        "evidenceCategory": [
+                                            {
+                                                "commentary": "",
+                                                "commentaryDate": "",
+                                                "evidenceCategoryId": "1"
+                                            },
+                                            {
+                                                "commentary": "",
+                                                "commentaryDate": "",
+                                                "evidenceCategoryId": "2"
+                                            },
+                                            {
+                                                "commentary": "",
+                                                "commentaryDate": "",
+                                                "evidenceCategoryId": "3"
+                                            },
+                                            {
+                                                "commentary": "",
+                                                "commentaryDate": "",
+                                                "evidenceCategoryId": "5"
+                                            }
+                                        ],
+                                        "name": "Partnerships and communities",
+                                        "qualityStatementId": "32",
+                                        "qualityStatementscore": "3 - Evidence shows a good standard of care",
+                                        "status": "Not Assessed"
+                                    },
+                                    {
+                                        "evidenceCategory": [
+                                            {
+                                                "commentary": "",
+                                                "commentaryDate": "",
+                                                "evidenceCategoryId": "2"
+                                            },
+                                            {
+                                                "commentary": "",
+                                                "commentaryDate": "",
+                                                "evidenceCategoryId": "5"
+                                            }
+                                        ],
+                                        "name": "Shared direction and culture",
+                                        "qualityStatementId": "27",
+                                        "qualityStatementscore": "3 - Evidence shows a good standard of care",
+                                        "status": "Not Assessed"
+                                    },
+                                    {
+                                        "evidenceCategory": [
+                                            {
+                                                "commentary": "",
+                                                "commentaryDate": "",
+                                                "evidenceCategoryId": "2"
+                                            },
+                                            {
+                                                "commentary": "",
+                                                "commentaryDate": "",
+                                                "evidenceCategoryId": "5"
+                                            }
+                                        ],
+                                        "name": "Workforce equality, diversity and inclusion",
+                                        "qualityStatementId": "30",
+                                        "qualityStatementscore": "3 - Evidence shows a good standard of care",
+                                        "status": "Not Assessed"
+                                    }
+                                ]
+                            }
+                        ],
+                        "name": "General Practice",
+                        "narrative": "The service is performing well and meeting our expectations.",
+                        "overallPeopleExperience": "In the 2023 National GP patient Survey, the practice\u2019s data demonstrated that patient satisfaction was good overall.  59% responded that they were satisfied with their GP practice appointment times, 51% were happy at how easy it was to get through to someone on the telephone, 59% were satisfied with the overall experience of making an appointment and 68% were satisfied with the appointment they were offered.  The data for these indicators also highlighted that the performance achieved by the practice was usually higher than both the national and local averages.",
+                        "overallPeopleExperienceDate": "2024-04-02",
+                        "rating": "Good",
+                        "status": "Current",
+                        "title": "Ongoing Assessment for Oldham Family Practice"
+                    }
+                ]
+            }
+        }
+    ],
+    "assessmentServiceGroup": [
+        {
+            "assessmentServiceId": "276",
+            "assessmentServiceName": "General Practice",
+            "status": "Active"
+        }
+    ],
+    "careHome": "N",
+    "constituency": "Oldham West and Royton",
+    "currentRatings": {
+        "reportDate": "2019-05-21",
+        "serviceRatings": [
+            {
+                "name": "conditions",
+                "rating": "Good",
+                "reportDate": "2019-05-21",
+                "reportLinkId": "26ff8b65-62eb-4103-9f3c-ce8a6f6f9575"
+            },
+            {
+                "name": "mothers",
+                "rating": "Requires improvement",
+                "reportDate": "2019-05-21",
+                "reportLinkId": "26ff8b65-62eb-4103-9f3c-ce8a6f6f9575"
+            },
+            {
+                "name": "old",
+                "rating": "Good",
+                "reportDate": "2019-05-21",
+                "reportLinkId": "26ff8b65-62eb-4103-9f3c-ce8a6f6f9575"
+            },
+            {
+                "name": "population",
+                "rating": "Good",
+                "reportDate": "2019-05-21",
+                "reportLinkId": "26ff8b65-62eb-4103-9f3c-ce8a6f6f9575"
+            },
+            {
+                "name": "problems",
+                "rating": "Good",
+                "reportDate": "2019-05-21",
+                "reportLinkId": "26ff8b65-62eb-4103-9f3c-ce8a6f6f9575"
+            },
+            {
+                "name": "vulnerable",
+                "rating": "Good",
+                "reportDate": "2019-05-21",
+                "reportLinkId": "26ff8b65-62eb-4103-9f3c-ce8a6f6f9575"
+            }
+        ]
+    },
+    "dormancy": "N",
+    "gacServiceTypes": [
+        {
+            "description": "Doctors consultation service",
+            "name": "Doctors/Gps"
+        },
+        {
+            "description": "Remote clinical advice service",
+            "name": "Phone/online advice"
+        }
+    ],
+    "historicRatings": [
+        {
+            "overall": {
+                "rating": "Inspected but not rated"
+            },
+            "reportDate": "2019-02-19",
+            "reportLinkId": "5b3ea807-f821-4d00-b3b7-c097f4554cfb",
+            "serviceRatings": [
+                {
+                    "name": "conditions",
+                    "rating": "Good"
+                },
+                {
+                    "name": "mothers",
+                    "rating": "Requires improvement"
+                },
+                {
+                    "name": "old",
+                    "rating": "Good"
+                },
+                {
+                    "name": "population",
+                    "rating": "Good"
+                },
+                {
+                    "name": "problems",
+                    "rating": "Good"
+                },
+                {
+                    "name": "vulnerable",
+                    "rating": "Good"
+                }
+            ]
+        },
+        {
+            "overall": {
+                "keyQuestionRatings": [
+                    {
+                        "name": "Safe",
+                        "rating": "Requires improvement"
+                    },
+                    {
+                        "name": "Well-led",
+                        "rating": "Inadequate"
+                    },
+                    {
+                        "name": "Caring",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Responsive",
+                        "rating": "Requires improvement"
+                    },
+                    {
+                        "name": "Effective",
+                        "rating": "Requires improvement"
+                    }
+                ],
+                "rating": "Requires improvement"
+            },
+            "reportDate": "2018-11-02",
+            "reportLinkId": "029c8d4e-9b45-4383-9a5d-6e97eaa1606b",
+            "serviceRatings": [
+                {
+                    "name": "conditions",
+                    "rating": "Requires improvement"
+                },
+                {
+                    "name": "mothers",
+                    "rating": "Requires improvement"
+                },
+                {
+                    "name": "old",
+                    "rating": "Requires improvement"
+                },
+                {
+                    "name": "population",
+                    "rating": "Requires improvement"
+                },
+                {
+                    "name": "problems",
+                    "rating": "Requires improvement"
+                },
+                {
+                    "name": "vulnerable",
+                    "rating": "Requires improvement"
+                }
+            ]
+        },
+        {
+            "overall": {
+                "rating": "Inspected but not rated"
+            },
+            "reportDate": "2018-05-18",
+            "reportLinkId": "4157ea15-50d2-4f61-ae53-15243bf19ba5"
+        },
+        {
+            "overall": {
+                "keyQuestionRatings": [
+                    {
+                        "name": "Safe",
+                        "rating": "Inadequate"
+                    },
+                    {
+                        "name": "Well-led",
+                        "rating": "Inadequate"
+                    },
+                    {
+                        "name": "Caring",
+                        "rating": "Requires improvement"
+                    },
+                    {
+                        "name": "Responsive",
+                        "rating": "Requires improvement"
+                    },
+                    {
+                        "name": "Effective",
+                        "rating": "Inadequate"
+                    }
+                ],
+                "rating": "Inadequate"
+            },
+            "reportDate": "2018-02-02",
+            "reportLinkId": "24979655-12e8-43bc-8503-29d329c25624",
+            "serviceRatings": [
+                {
+                    "name": "conditions",
+                    "rating": "Inadequate"
+                },
+                {
+                    "name": "mothers",
+                    "rating": "Inadequate"
+                },
+                {
+                    "name": "old",
+                    "rating": "Inadequate"
+                },
+                {
+                    "name": "population",
+                    "rating": "Inadequate"
+                },
+                {
+                    "name": "problems",
+                    "rating": "Inadequate"
+                },
+                {
+                    "name": "vulnerable",
+                    "rating": "Inadequate"
+                }
+            ]
+        },
+        {
+            "overall": {
+                "keyQuestionRatings": [
+                    {
+                        "name": "Safe",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Well-led",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Caring",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Responsive",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Effective",
+                        "rating": "Good"
+                    }
+                ],
+                "rating": "Good"
+            },
+            "reportDate": "2015-04-30",
+            "reportLinkId": "bce85eb6-ac98-4679-ac03-a9aa4f461db6",
+            "serviceRatings": [
+                {
+                    "name": "conditions",
+                    "rating": "Good"
+                },
+                {
+                    "name": "mothers",
+                    "rating": "Good"
+                },
+                {
+                    "name": "old",
+                    "rating": "Good"
+                },
+                {
+                    "name": "population",
+                    "rating": "Good"
+                },
+                {
+                    "name": "problems",
+                    "rating": "Good"
+                },
+                {
+                    "name": "vulnerable",
+                    "rating": "Good"
+                }
+            ]
+        },
+        {
+            "overall": {
+                "keyQuestionRatings": [
+                    {
+                        "name": "Safe",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Well-led",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Caring",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Responsive",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Effective",
+                        "rating": "Good"
+                    }
+                ],
+                "rating": "Good"
+            },
+            "reportDate": "2019-05-21",
+            "reportLinkId": "26ff8b65-62eb-4103-9f3c-ce8a6f6f9575"
+        }
+    ],
+    "inspectionAreas": [
+        {
+            "inspectionAreaId": "conditions",
+            "inspectionAreaName": "People with long term conditions",
+            "status": "Active (Rated)"
+        },
+        {
+            "inspectionAreaId": "mothers",
+            "inspectionAreaName": "Families, children and young people",
+            "status": "Active (Rated)"
+        },
+        {
+            "inspectionAreaId": "old",
+            "inspectionAreaName": "Older people",
+            "status": "Active (Rated)"
+        },
+        {
+            "inspectionAreaId": "population",
+            "inspectionAreaName": "Working age people (including those recently retired and students)",
+            "status": "Active (Rated)"
+        },
+        {
+            "inspectionAreaId": "problems",
+            "inspectionAreaName": "People experiencing poor mental health (including people with dementia)",
+            "status": "Active (Rated)"
+        },
+        {
+            "inspectionAreaId": "vulnerable",
+            "inspectionAreaName": "People whose circumstances may make them vulnerable",
+            "status": "Active (Rated)"
+        }
+    ],
+    "inspectionCategories": [
+        {
+            "code": "P2",
+            "name": "GP Practices",
+            "primary": "true"
+        }
+    ],
+    "inspectionDirectorate": "Primary medical services",
+    "lastInspection": {
+        "date": "2019-04-09"
+    },
+    "lastReport": {
+        "publicationDate": "2019-05-21"
+    },
+    "localAuthority": "Oldham",
+    "locationId": "1-569934227",
+    "locationTypes": [
+        {
+            "type": "GP Practice"
+        }
+    ],
+    "mainPhoneNumber": "01612713130",
+    "name": "Oldham Family Practice",
+    "numberOfBeds": 0,
+    "odsCcgCode": "00Y",
+    "odsCcgName": "NHS Greater Manchester Icb - 00Y",
+    "odsCode": "P85007",
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.543824,
+    "onspdLongitude": -2.116945,
+    "organisationType": "Location",
+    "postalAddressCounty": "Lancashire",
+    "postalAddressLine1": "Integrated Care Centre",
+    "postalAddressLine2": "New Radcliffe Street",
+    "postalAddressTownCity": "Oldham",
+    "postalCode": "OL1 1NL",
+    "providerId": "1-199785286",
+    "region": "North West",
+    "registrationDate": "2013-04-01",
+    "registrationStatus": "Registered",
+    "regulatedActivities": [
+        {
+            "code": "RA11",
+            "contacts": [
+                {
+                    "personFamilyName": "Wooton",
+                    "personGivenName": "Julie",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Mrs"
+                }
+            ],
+            "name": "Maternity and midwifery services"
+        },
+        {
+            "code": "RA5",
+            "contacts": [
+                {
+                    "personFamilyName": "Wooton",
+                    "personGivenName": "Julie",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Mrs"
+                }
+            ],
+            "name": "Treatment of disease, disorder or injury"
+        },
+        {
+            "code": "RA7",
+            "contacts": [
+                {
+                    "personFamilyName": "Wooton",
+                    "personGivenName": "Julie",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Mrs"
+                }
+            ],
+            "name": "Surgical procedures"
+        },
+        {
+            "code": "RA8",
+            "contacts": [
+                {
+                    "personFamilyName": "Wooton",
+                    "personGivenName": "Julie",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Mrs"
+                }
+            ],
+            "name": "Diagnostic and screening procedures"
+        }
+    ],
+    "relationships": [],
+    "reports": [
+        {
+            "firstVisitDate": "2019-04-09",
+            "linkId": "26ff8b65-62eb-4103-9f3c-ce8a6f6f9575",
+            "reportDate": "2019-05-21",
+            "reportType": "Location",
+            "reportUri": "/reports/26ff8b65-62eb-4103-9f3c-ce8a6f6f9575?20210116060942"
+        },
+        {
+            "firstVisitDate": "2019-01-24",
+            "linkId": "5b3ea807-f821-4d00-b3b7-c097f4554cfb",
+            "reportDate": "2019-02-19",
+            "reportType": "Location",
+            "reportUri": "/reports/5b3ea807-f821-4d00-b3b7-c097f4554cfb?20210116072643"
+        },
+        {
+            "firstVisitDate": "2018-08-10",
+            "linkId": "029c8d4e-9b45-4383-9a5d-6e97eaa1606b",
+            "reportDate": "2018-11-02",
+            "reportType": "Location",
+            "reportUri": "/reports/029c8d4e-9b45-4383-9a5d-6e97eaa1606b?20210116072614"
+        },
+        {
+            "firstVisitDate": "2018-04-06",
+            "linkId": "4157ea15-50d2-4f61-ae53-15243bf19ba5",
+            "reportDate": "2018-05-18",
+            "reportType": "Location",
+            "reportUri": "/reports/4157ea15-50d2-4f61-ae53-15243bf19ba5?20210117194415"
+        },
+        {
+            "firstVisitDate": "2017-12-06",
+            "linkId": "24979655-12e8-43bc-8503-29d329c25624",
+            "reportDate": "2018-02-02",
+            "reportType": "Location",
+            "reportUri": "/reports/24979655-12e8-43bc-8503-29d329c25624?20210117194415"
+        },
+        {
+            "firstVisitDate": "2015-03-02",
+            "linkId": "bce85eb6-ac98-4679-ac03-a9aa4f461db6",
+            "reportDate": "2015-04-30",
+            "reportType": "Location",
+            "reportUri": "/reports/bce85eb6-ac98-4679-ac03-a9aa4f461db6?20210130033225"
+        }
+    ],
+    "specialisms": [
+        {
+            "name": "Services for everyone"
+        }
+    ],
+    "type": "Primary Medical Services",
+    "website": "www.oldhamfamilypractice.nhs.uk"
+}

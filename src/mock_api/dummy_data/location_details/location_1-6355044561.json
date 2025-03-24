@@ -1,0 +1,152 @@
+{
+    "brandId": "BD600",
+    "brandName": "BRAND Bloomcare",
+    "careHome": "Y",
+    "constituency": "Oldham East and Saddleworth",
+    "currentRatings": {
+        "overall": {
+            "keyQuestionRatings": [
+                {
+                    "name": "Safe",
+                    "rating": "Requires improvement",
+                    "reportDate": "2021-08-05",
+                    "reportLinkId": "502b7ef7-843d-41f6-aff6-7c34b36a9d53"
+                },
+                {
+                    "name": "Well-led",
+                    "rating": "Requires improvement",
+                    "reportDate": "2021-08-05",
+                    "reportLinkId": "502b7ef7-843d-41f6-aff6-7c34b36a9d53"
+                },
+                {
+                    "name": "Caring",
+                    "rating": "Good",
+                    "reportDate": "2020-03-07",
+                    "reportLinkId": "d283e44f-e912-4d1d-b46f-befa5a4531cd"
+                },
+                {
+                    "name": "Responsive",
+                    "rating": "Requires improvement",
+                    "reportDate": "2021-08-05",
+                    "reportLinkId": "502b7ef7-843d-41f6-aff6-7c34b36a9d53"
+                },
+                {
+                    "name": "Effective",
+                    "rating": "Good",
+                    "reportDate": "2020-03-07",
+                    "reportLinkId": "d283e44f-e912-4d1d-b46f-befa5a4531cd"
+                }
+            ],
+            "rating": "Requires improvement",
+            "reportDate": "2021-08-05",
+            "reportLinkId": "502b7ef7-843d-41f6-aff6-7c34b36a9d53"
+        },
+        "reportDate": "2021-08-05"
+    },
+    "deregistrationDate": "2025-02-27",
+    "dormancy": "N",
+    "gacServiceTypes": [
+        {
+            "description": "Care home service with nursing",
+            "name": "Nursing homes"
+        }
+    ],
+    "historicRatings": [
+        {
+            "overall": {
+                "keyQuestionRatings": [
+                    {
+                        "name": "Safe",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Well-led",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Responsive",
+                        "rating": "Requires improvement"
+                    }
+                ],
+                "rating": "Good"
+            },
+            "reportDate": "2020-03-07",
+            "reportLinkId": "d283e44f-e912-4d1d-b46f-befa5a4531cd"
+        }
+    ],
+    "inspectionAreas": [],
+    "inspectionCategories": [
+        {
+            "code": "S1",
+            "name": "Residential social care",
+            "primary": "true"
+        }
+    ],
+    "inspectionDirectorate": "Adult social care",
+    "lastInspection": {
+        "date": "2021-06-18"
+    },
+    "lastReport": {
+        "publicationDate": "2021-08-05"
+    },
+    "localAuthority": "Oldham",
+    "locationId": "1-6355044561",
+    "locationTypes": [],
+    "mainPhoneNumber": "01706882290",
+    "name": "Shawside Care Home",
+    "numberOfBeds": 150,
+    "odsCode": "VNCNM",
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.570914,
+    "onspdLongitude": -2.097752,
+    "organisationType": "Location",
+    "postalAddressCounty": "Greater Manchester",
+    "postalAddressLine1": "77 Oldham Road",
+    "postalAddressLine2": "Shaw",
+    "postalAddressTownCity": "Oldham",
+    "postalCode": "OL2 8SP",
+    "providerId": "1-4521210418",
+    "region": "North West",
+    "registrationDate": "2019-01-30",
+    "registrationStatus": "Deregistered",
+    "regulatedActivities": [],
+    "relationships": [
+        {
+            "reason": "New Provider",
+            "relatedLocationId": "1-3134639286",
+            "relatedLocationName": "Shaw Side Care Home",
+            "type": "HSCA Predecessor"
+        }
+    ],
+    "reports": [
+        {
+            "firstVisitDate": "2021-06-10",
+            "linkId": "502b7ef7-843d-41f6-aff6-7c34b36a9d53",
+            "reportDate": "2021-08-05",
+            "reportType": "Location",
+            "reportUri": "/reports/502b7ef7-843d-41f6-aff6-7c34b36a9d53?20210805120000"
+        },
+        {
+            "firstVisitDate": "2020-01-29",
+            "linkId": "d283e44f-e912-4d1d-b46f-befa5a4531cd",
+            "reportDate": "2020-03-07",
+            "reportType": "Location",
+            "reportUri": "/reports/d283e44f-e912-4d1d-b46f-befa5a4531cd?20200307130000"
+        }
+    ],
+    "specialisms": [
+        {
+            "name": "Caring for adults over 65 yrs"
+        },
+        {
+            "name": "Dementia"
+        },
+        {
+            "name": "Physical disabilities"
+        }
+    ],
+    "type": "Social Care Org"
+}

@@ -1,0 +1,101 @@
+{
+    "careHome": "Y",
+    "constituency": "Oldham West and Royton",
+    "currentRatings": {
+        "overall": {
+            "keyQuestionRatings": [
+                {
+                    "name": "Safe",
+                    "rating": "No published rating"
+                },
+                {
+                    "name": "Well-led",
+                    "rating": "No published rating"
+                },
+                {
+                    "name": "Caring",
+                    "rating": "No published rating"
+                },
+                {
+                    "name": "Responsive",
+                    "rating": "No published rating"
+                },
+                {
+                    "name": "Effective",
+                    "rating": "No published rating"
+                }
+            ],
+            "rating": "No published rating"
+        }
+    },
+    "deregistrationDate": "2013-04-16",
+    "dormancy": "N",
+    "gacServiceTypes": [
+        {
+            "description": "Care home service without nursing",
+            "name": "Residential homes"
+        }
+    ],
+    "inspectionAreas": [],
+    "inspectionDirectorate": "Unspecified",
+    "lastInspection": {
+        "date": "2012-10-25"
+    },
+    "localAuthority": "Oldham",
+    "locationId": "1-293950541",
+    "locationTypes": [],
+    "mainPhoneNumber": "01616816204",
+    "name": "Yew Trees Residential Care Home",
+    "numberOfBeds": 16,
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.5277267,
+    "onspdLongitude": -2.1558496,
+    "organisationType": "Location",
+    "postalAddressLine1": "Sycamore Avenue",
+    "postalAddressLine2": "Chadderton",
+    "postalAddressTownCity": "Oldham",
+    "postalCode": "OL9 8BQ",
+    "providerId": "1-209605789",
+    "region": "North West",
+    "registrationDate": "2011-08-11",
+    "registrationStatus": "Deregistered",
+    "regulatedActivities": [],
+    "relationships": [],
+    "reports": [
+        {
+            "firstVisitDate": "2012-10-25",
+            "linkId": "4cbfc46e-70e8-4a12-8276-1bb37843d554",
+            "reportDate": "2012-11-24",
+            "reportUri": "/reports/4cbfc46e-70e8-4a12-8276-1bb37843d554?20200129163919"
+        },
+        {
+            "firstVisitDate": "2012-06-01",
+            "linkId": "cf0602a8-80ad-4194-a475-9d07170dfa2c",
+            "reportDate": "2012-07-02",
+            "reportUri": "/reports/cf0602a8-80ad-4194-a475-9d07170dfa2c?20200430120000"
+        }
+    ],
+    "specialisms": [
+        {
+            "name": "Caring for adults over 65 yrs"
+        },
+        {
+            "name": "Dementia"
+        },
+        {
+            "name": "Learning disabilities"
+        },
+        {
+            "name": "Physical disabilities"
+        },
+        {
+            "name": "Sensory impairment"
+        }
+    ],
+    "type": "Social Care Org",
+    "uprn": "100012744167",
+    "website": "www.yewtreescarehome.co.uk"
+}

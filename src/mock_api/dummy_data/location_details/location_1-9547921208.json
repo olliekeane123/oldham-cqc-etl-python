@@ -1,0 +1,152 @@
+{
+    "careHome": "N",
+    "constituency": "Oldham East and Saddleworth",
+    "currentRatings": {
+        "overall": {
+            "keyQuestionRatings": [
+                {
+                    "name": "Safe",
+                    "rating": "Good",
+                    "reportDate": "2021-11-22",
+                    "reportLinkId": "d442f426-a84b-4510-bf15-1fdace6d428b"
+                },
+                {
+                    "name": "Well-led",
+                    "rating": "Good",
+                    "reportDate": "2021-11-22",
+                    "reportLinkId": "d442f426-a84b-4510-bf15-1fdace6d428b"
+                },
+                {
+                    "name": "Caring",
+                    "rating": "Good",
+                    "reportDate": "2021-11-22",
+                    "reportLinkId": "d442f426-a84b-4510-bf15-1fdace6d428b"
+                },
+                {
+                    "name": "Responsive",
+                    "rating": "Good",
+                    "reportDate": "2021-11-22",
+                    "reportLinkId": "d442f426-a84b-4510-bf15-1fdace6d428b"
+                },
+                {
+                    "name": "Effective",
+                    "rating": "Good",
+                    "reportDate": "2021-11-22",
+                    "reportLinkId": "d442f426-a84b-4510-bf15-1fdace6d428b"
+                }
+            ],
+            "rating": "Good",
+            "reportDate": "2021-11-22",
+            "reportLinkId": "d442f426-a84b-4510-bf15-1fdace6d428b"
+        },
+        "reportDate": "2021-11-22"
+    },
+    "dormancy": "N",
+    "gacServiceTypes": [
+        {
+            "description": "Doctors consultation service",
+            "name": "Doctors/Gps"
+        }
+    ],
+    "inspectionAreas": [],
+    "inspectionCategories": [
+        {
+            "code": "P7",
+            "name": "Independent consulting doctors",
+            "primary": "true"
+        }
+    ],
+    "inspectionDirectorate": "Primary medical services",
+    "lastInspection": {
+        "date": "2021-11-02"
+    },
+    "lastReport": {
+        "publicationDate": "2021-11-22"
+    },
+    "localAuthority": "Oldham",
+    "locationId": "1-9547921208",
+    "locationTypes": [],
+    "mainPhoneNumber": "01457237171",
+    "name": "VB Health Ltd",
+    "numberOfBeds": 0,
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.5375517,
+    "onspdLongitude": -2.0231827,
+    "organisationType": "Location",
+    "postalAddressLine1": "1 Mossley Road",
+    "postalAddressLine2": "Grasscroft",
+    "postalAddressTownCity": "Oldham",
+    "postalCode": "OL4 4HH",
+    "providerId": "1-9292355282",
+    "region": "North West",
+    "registrationDate": "2020-10-30",
+    "registrationStatus": "Registered",
+    "regulatedActivities": [
+        {
+            "code": "RA5",
+            "contacts": [
+                {
+                    "personFamilyName": "Broughton",
+                    "personGivenName": "Victoria Barbara",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Mrs"
+                }
+            ],
+            "name": "Treatment of disease, disorder or injury"
+        },
+        {
+            "code": "RA7",
+            "contacts": [
+                {
+                    "personFamilyName": "Broughton",
+                    "personGivenName": "Victoria Barbara",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Mrs"
+                }
+            ],
+            "name": "Surgical procedures"
+        },
+        {
+            "code": "RA8",
+            "contacts": [
+                {
+                    "personFamilyName": "Broughton",
+                    "personGivenName": "Victoria Barbara",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Mrs"
+                }
+            ],
+            "name": "Diagnostic and screening procedures"
+        }
+    ],
+    "relationships": [],
+    "reports": [
+        {
+            "firstVisitDate": "2021-11-02",
+            "linkId": "d442f426-a84b-4510-bf15-1fdace6d428b",
+            "reportDate": "2021-11-22",
+            "reportType": "Location",
+            "reportUri": "/reports/d442f426-a84b-4510-bf15-1fdace6d428b?20211122080156"
+        }
+    ],
+    "specialisms": [
+        {
+            "name": "Caring for adults over 65 yrs"
+        },
+        {
+            "name": "Caring for adults under 65 yrs"
+        }
+    ],
+    "type": "Independent Healthcare Org",
+    "uprn": "422000130673",
+    "website": "www.vbaesthetics.co.uk"
+}

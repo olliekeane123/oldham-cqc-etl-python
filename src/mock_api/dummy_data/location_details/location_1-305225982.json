@@ -1,0 +1,79 @@
+{
+    "brandId": "BD118",
+    "brandName": "BRAND Caremark",
+    "careHome": "N",
+    "constituency": "Oldham West and Royton",
+    "deregistrationDate": "2012-08-08",
+    "dormancy": "N",
+    "gacServiceTypes": [
+        {
+            "description": "Domiciliary care service",
+            "name": "Homecare agencies"
+        }
+    ],
+    "inspectionAreas": [],
+    "inspectionDirectorate": "Unspecified",
+    "localAuthority": "Oldham",
+    "locationId": "1-305225982",
+    "locationTypes": [],
+    "mainPhoneNumber": "01616270891",
+    "name": "Caremark (Oldham)",
+    "numberOfBeds": 0,
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdLatitude": 53.511132,
+    "onspdLongitude": -2.108832,
+    "organisationType": "Location",
+    "postalAddressCounty": "Lancashire",
+    "postalAddressLine1": "Remploy Building",
+    "postalAddressLine2": "Lundia Centre, Ashton Road",
+    "postalAddressTownCity": "Oldham",
+    "postalCode": "OL8 3JB",
+    "providerId": "1-284297990",
+    "region": "North West",
+    "registrationDate": "2011-09-06",
+    "registrationStatus": "Deregistered",
+    "regulatedActivities": [],
+    "relationships": [
+        {
+            "reason": "Location Move",
+            "relatedLocationId": "1-455330921",
+            "relatedLocationName": "Caremark (Oldham)",
+            "type": "HSCA Successor"
+        }
+    ],
+    "specialisms": [
+        {
+            "name": "Caring for adults over 65 yrs"
+        },
+        {
+            "name": "Caring for adults under 65 yrs"
+        },
+        {
+            "name": "Caring for children"
+        },
+        {
+            "name": "Dementia"
+        },
+        {
+            "name": "Eating disorders"
+        },
+        {
+            "name": "Learning disabilities"
+        },
+        {
+            "name": "Mental health conditions"
+        },
+        {
+            "name": "Physical disabilities"
+        },
+        {
+            "name": "Sensory impairment"
+        },
+        {
+            "name": "Substance misuse problems"
+        }
+    ],
+    "type": "Social Care Org",
+    "website": "www.caremark.co.uk"
+}

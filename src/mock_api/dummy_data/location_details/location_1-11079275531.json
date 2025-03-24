@@ -1,0 +1,136 @@
+{
+    "careHome": "N",
+    "constituency": "Oldham West and Royton",
+    "currentRatings": {
+        "overall": {
+            "keyQuestionRatings": [
+                {
+                    "name": "Safe",
+                    "rating": "Good",
+                    "reportDate": "2022-09-01",
+                    "reportLinkId": "2bc071de-4b01-4113-b6cf-586fc1e23847"
+                },
+                {
+                    "name": "Well-led",
+                    "rating": "Good",
+                    "reportDate": "2022-09-01",
+                    "reportLinkId": "2bc071de-4b01-4113-b6cf-586fc1e23847"
+                },
+                {
+                    "name": "Caring",
+                    "rating": "Good",
+                    "reportDate": "2022-09-01",
+                    "reportLinkId": "2bc071de-4b01-4113-b6cf-586fc1e23847"
+                },
+                {
+                    "name": "Responsive",
+                    "rating": "Good",
+                    "reportDate": "2022-09-01",
+                    "reportLinkId": "2bc071de-4b01-4113-b6cf-586fc1e23847"
+                },
+                {
+                    "name": "Effective",
+                    "rating": "Good",
+                    "reportDate": "2022-09-01",
+                    "reportLinkId": "2bc071de-4b01-4113-b6cf-586fc1e23847"
+                }
+            ],
+            "rating": "Good",
+            "reportDate": "2022-09-01",
+            "reportLinkId": "2bc071de-4b01-4113-b6cf-586fc1e23847"
+        },
+        "reportDate": "2022-09-01"
+    },
+    "dormancy": "N",
+    "gacServiceTypes": [
+        {
+            "description": "Domiciliary care service",
+            "name": "Homecare agencies"
+        }
+    ],
+    "inspectionAreas": [],
+    "inspectionCategories": [
+        {
+            "code": "S2",
+            "name": "Community based adult social care services",
+            "primary": "true"
+        }
+    ],
+    "inspectionDirectorate": "Adult social care",
+    "lastInspection": {
+        "date": "2022-08-02"
+    },
+    "lastReport": {
+        "publicationDate": "2022-09-01"
+    },
+    "localAuthority": "Oldham",
+    "locationId": "1-11079275531",
+    "locationTypes": [],
+    "mainPhoneNumber": "07309636006",
+    "name": "SCS Homecare Ltd",
+    "numberOfBeds": 0,
+    "odsCode": "VNJNE",
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.5388371,
+    "onspdLongitude": -2.1310973,
+    "organisationType": "Location",
+    "postalAddressLine1": "Unit 17, Booth House",
+    "postalAddressLine2": "Hartford Industrial Estate, Suthers Street",
+    "postalAddressTownCity": "Oldham",
+    "postalCode": "OL9 7TQ",
+    "providerId": "1-9592320591",
+    "region": "North West",
+    "registrationDate": "2021-06-16",
+    "registrationStatus": "Registered",
+    "regulatedActivities": [
+        {
+            "code": "RA1",
+            "contacts": [
+                {
+                    "personFamilyName": "Mathews",
+                    "personGivenName": "Sharon",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Miss"
+                }
+            ],
+            "name": "Personal care"
+        }
+    ],
+    "relationships": [],
+    "reports": [
+        {
+            "firstVisitDate": "2022-08-02",
+            "linkId": "2bc071de-4b01-4113-b6cf-586fc1e23847",
+            "reportDate": "2022-09-01",
+            "reportType": "Location",
+            "reportUri": "/reports/2bc071de-4b01-4113-b6cf-586fc1e23847?20220901120000"
+        }
+    ],
+    "specialisms": [
+        {
+            "name": "Caring for adults over 65 yrs"
+        },
+        {
+            "name": "Caring for adults under 65 yrs"
+        },
+        {
+            "name": "Dementia"
+        },
+        {
+            "name": "Learning disabilities"
+        },
+        {
+            "name": "Mental health conditions"
+        },
+        {
+            "name": "Physical disabilities"
+        }
+    ],
+    "type": "Social Care Org",
+    "uprn": "422000120930"
+}

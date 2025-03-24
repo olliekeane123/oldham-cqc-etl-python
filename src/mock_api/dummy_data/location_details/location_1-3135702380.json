@@ -1,0 +1,117 @@
+{
+    "alsoKnownAs": "Mayday Homecare",
+    "careHome": "N",
+    "constituency": "Oldham West and Royton",
+    "currentRatings": {
+        "overall": {
+            "keyQuestionRatings": [
+                {
+                    "name": "Safe",
+                    "rating": "Good",
+                    "reportDate": "2018-02-10",
+                    "reportLinkId": "19d81ff4-b1a7-4087-bfe5-ec54a59372c3"
+                },
+                {
+                    "name": "Well-led",
+                    "rating": "Good",
+                    "reportDate": "2018-02-10",
+                    "reportLinkId": "19d81ff4-b1a7-4087-bfe5-ec54a59372c3"
+                },
+                {
+                    "name": "Caring",
+                    "rating": "Good",
+                    "reportDate": "2018-02-10",
+                    "reportLinkId": "19d81ff4-b1a7-4087-bfe5-ec54a59372c3"
+                },
+                {
+                    "name": "Responsive",
+                    "rating": "Good",
+                    "reportDate": "2018-02-10",
+                    "reportLinkId": "19d81ff4-b1a7-4087-bfe5-ec54a59372c3"
+                },
+                {
+                    "name": "Effective",
+                    "rating": "Good",
+                    "reportDate": "2018-02-10",
+                    "reportLinkId": "19d81ff4-b1a7-4087-bfe5-ec54a59372c3"
+                }
+            ],
+            "rating": "Good",
+            "reportDate": "2018-02-10",
+            "reportLinkId": "19d81ff4-b1a7-4087-bfe5-ec54a59372c3"
+        },
+        "reportDate": "2018-02-10"
+    },
+    "deregistrationDate": "2020-04-06",
+    "dormancy": "N",
+    "gacServiceTypes": [
+        {
+            "description": "Domiciliary care service",
+            "name": "Homecare agencies"
+        }
+    ],
+    "inspectionAreas": [],
+    "inspectionCategories": [
+        {
+            "code": "S2",
+            "name": "Community based adult social care services",
+            "primary": "true"
+        }
+    ],
+    "inspectionDirectorate": "Adult social care",
+    "lastInspection": {
+        "date": "2017-12-20"
+    },
+    "lastReport": {
+        "publicationDate": "2018-02-10"
+    },
+    "localAuthority": "Oldham",
+    "locationId": "1-3135702380",
+    "locationTypes": [],
+    "mainPhoneNumber": "01616331616",
+    "name": "Keymen Associates Ltd",
+    "numberOfBeds": 0,
+    "odsCode": "VN05P",
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.5483156,
+    "onspdLongitude": -2.1365921,
+    "organisationType": "Location",
+    "postalAddressLine1": "Unit C10, Falcon Enterprise Centre",
+    "postalAddressLine2": "Victoria Street, Chadderton",
+    "postalAddressTownCity": "Oldham",
+    "postalCode": "OL9 0HB",
+    "providerId": "1-101639946",
+    "region": "North West",
+    "registrationDate": "2016-12-21",
+    "registrationStatus": "Deregistered",
+    "regulatedActivities": [],
+    "relationships": [],
+    "reports": [
+        {
+            "firstVisitDate": "2017-12-20",
+            "linkId": "19d81ff4-b1a7-4087-bfe5-ec54a59372c3",
+            "reportDate": "2018-02-10",
+            "reportType": "Location",
+            "reportUri": "/reports/19d81ff4-b1a7-4087-bfe5-ec54a59372c3?20200129163919"
+        }
+    ],
+    "specialisms": [
+        {
+            "name": "Caring for adults over 65 yrs"
+        },
+        {
+            "name": "Caring for adults under 65 yrs"
+        },
+        {
+            "name": "Dementia"
+        },
+        {
+            "name": "Physical disabilities"
+        }
+    ],
+    "type": "Social Care Org",
+    "uprn": "422000120915"
+}

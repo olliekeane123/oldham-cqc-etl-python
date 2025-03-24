@@ -1,0 +1,253 @@
+{
+    "careHome": "N",
+    "constituency": "Oldham West and Royton",
+    "currentRatings": {
+        "overall": {
+            "keyQuestionRatings": [
+                {
+                    "name": "Safe",
+                    "rating": "Good",
+                    "reportDate": "2022-08-04",
+                    "reportLinkId": "c7026bb9-1ff2-463c-a6ad-7ab1ffc2e15d"
+                },
+                {
+                    "name": "Well-led",
+                    "rating": "Good",
+                    "reportDate": "2022-08-04",
+                    "reportLinkId": "c7026bb9-1ff2-463c-a6ad-7ab1ffc2e15d"
+                },
+                {
+                    "name": "Caring",
+                    "rating": "Good",
+                    "reportDate": "2022-08-04",
+                    "reportLinkId": "c7026bb9-1ff2-463c-a6ad-7ab1ffc2e15d"
+                },
+                {
+                    "name": "Responsive",
+                    "rating": "Good",
+                    "reportDate": "2022-08-04",
+                    "reportLinkId": "c7026bb9-1ff2-463c-a6ad-7ab1ffc2e15d"
+                },
+                {
+                    "name": "Effective",
+                    "rating": "Good",
+                    "reportDate": "2022-08-04",
+                    "reportLinkId": "c7026bb9-1ff2-463c-a6ad-7ab1ffc2e15d"
+                }
+            ],
+            "rating": "Good",
+            "reportDate": "2022-08-04",
+            "reportLinkId": "c7026bb9-1ff2-463c-a6ad-7ab1ffc2e15d"
+        },
+        "reportDate": "2022-08-04"
+    },
+    "dormancy": "N",
+    "gacServiceTypes": [
+        {
+            "description": "Doctors treatment service",
+            "name": "Doctors/Gps"
+        }
+    ],
+    "historicRatings": [
+        {
+            "organisationId": "1-516655417",
+            "overall": {
+                "keyQuestionRatings": [
+                    {
+                        "name": "Safe",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Well-led",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Caring",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Responsive",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Effective",
+                        "rating": "Good"
+                    }
+                ],
+                "rating": "Good"
+            },
+            "reportDate": "2016-01-14",
+            "reportLinkId": "1869fdf9-b4b5-40eb-82d2-6a3c1d463c74",
+            "serviceRatings": [
+                {
+                    "name": "conditions",
+                    "rating": "Good"
+                },
+                {
+                    "name": "mothers",
+                    "rating": "Good"
+                },
+                {
+                    "name": "old",
+                    "rating": "Good"
+                },
+                {
+                    "name": "population",
+                    "rating": "Good"
+                },
+                {
+                    "name": "problems",
+                    "rating": "Good"
+                },
+                {
+                    "name": "vulnerable",
+                    "rating": "Good"
+                }
+            ]
+        }
+    ],
+    "inspectionAreas": [],
+    "inspectionCategories": [
+        {
+            "code": "P2",
+            "name": "GP Practices",
+            "primary": "true"
+        },
+        {
+            "code": "P3",
+            "name": "Out of hours"
+        }
+    ],
+    "inspectionDirectorate": "Primary medical services",
+    "lastInspection": {
+        "date": "2022-06-30"
+    },
+    "lastReport": {
+        "publicationDate": "2022-08-04"
+    },
+    "localAuthority": "Oldham",
+    "locationId": "1-8502740825",
+    "locationTypes": [
+        {
+            "type": "GP Practice"
+        }
+    ],
+    "mainPhoneNumber": "01617857520",
+    "name": "Lindley Medical Practice",
+    "numberOfBeds": 0,
+    "odsCcgCode": "00Y",
+    "odsCcgName": "NHS Greater Manchester Icb - 00Y",
+    "odsCode": "Y02875",
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.5438404,
+    "onspdLongitude": -2.1169425,
+    "organisationType": "Location",
+    "postalAddressLine1": "Ground Floor, Integrated Care Centre",
+    "postalAddressLine2": "New Radcliffe Street",
+    "postalAddressTownCity": "Oldham",
+    "postalCode": "OL1 1NL",
+    "providerId": "1-199796428",
+    "region": "North West",
+    "registrationDate": "2020-03-12",
+    "registrationStatus": "Registered",
+    "regulatedActivities": [
+        {
+            "code": "RA11",
+            "contacts": [
+                {
+                    "personFamilyName": "Tuite",
+                    "personGivenName": "Warren Paul",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Mr"
+                }
+            ],
+            "name": "Maternity and midwifery services"
+        },
+        {
+            "code": "RA15",
+            "contacts": [
+                {
+                    "personFamilyName": "Tuite",
+                    "personGivenName": "Warren Paul",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Mr"
+                }
+            ],
+            "name": "Family planning"
+        },
+        {
+            "code": "RA5",
+            "contacts": [
+                {
+                    "personFamilyName": "Tuite",
+                    "personGivenName": "Warren Paul",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Mr"
+                }
+            ],
+            "name": "Treatment of disease, disorder or injury"
+        },
+        {
+            "code": "RA7",
+            "contacts": [
+                {
+                    "personFamilyName": "Tuite",
+                    "personGivenName": "Warren Paul",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Mr"
+                }
+            ],
+            "name": "Surgical procedures"
+        },
+        {
+            "code": "RA8",
+            "contacts": [
+                {
+                    "personFamilyName": "Tuite",
+                    "personGivenName": "Warren Paul",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Mr"
+                }
+            ],
+            "name": "Diagnostic and screening procedures"
+        }
+    ],
+    "relationships": [
+        {
+            "reason": "New Provider",
+            "relatedLocationId": "1-516655417",
+            "relatedLocationName": "Lindley Medical Practice",
+            "type": "HSCA Predecessor"
+        }
+    ],
+    "reports": [
+        {
+            "firstVisitDate": "2022-06-30",
+            "linkId": "c7026bb9-1ff2-463c-a6ad-7ab1ffc2e15d",
+            "reportDate": "2022-08-04",
+            "reportType": "Location",
+            "reportUri": "/reports/c7026bb9-1ff2-463c-a6ad-7ab1ffc2e15d?20220804070209"
+        }
+    ],
+    "specialisms": [
+        {
+            "name": "Services for everyone"
+        }
+    ],
+    "type": "Primary Medical Services",
+    "uprn": "422000120197",
+    "website": "www.gtdhealthcare.co.uk/lindleymedicalpractice"
+}

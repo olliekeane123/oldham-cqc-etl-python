@@ -1,0 +1,69 @@
+{
+    "brandId": "BD309",
+    "brandName": "BRAND Brook",
+    "careHome": "N",
+    "constituency": "Oldham West and Royton",
+    "deregistrationDate": "2015-05-14",
+    "dormancy": "N",
+    "gacServiceTypes": [
+        {
+            "description": "Community healthcare service",
+            "name": "Community services - Healthcare"
+        }
+    ],
+    "inspectionAreas": [],
+    "inspectionCategories": [
+        {
+            "code": "H6",
+            "name": "Community health - NHS & Independent",
+            "primary": "true"
+        }
+    ],
+    "inspectionDirectorate": "Hospitals",
+    "localAuthority": "Oldham",
+    "locationId": "1-1062858442",
+    "locationTypes": [],
+    "mainPhoneNumber": "01616270200",
+    "name": "Brook Oldham",
+    "numberOfBeds": 0,
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.540937,
+    "onspdLongitude": -2.109965,
+    "organisationType": "Location",
+    "postalAddressCounty": "Greater Manchester",
+    "postalAddressLine1": "99-101 Union Street",
+    "postalAddressTownCity": "Oldham",
+    "postalCode": "OL1 1QH",
+    "providerId": "1-1056342029",
+    "region": "North West",
+    "registrationDate": "2013-11-21",
+    "registrationStatus": "Deregistered",
+    "regulatedActivities": [],
+    "relationships": [
+        {
+            "reason": "New Provider",
+            "relatedLocationId": "1-136343979",
+            "relatedLocationName": "Brook Pennine - Oldham",
+            "type": "HSCA Predecessor"
+        },
+        {
+            "reason": "Location Move",
+            "relatedLocationId": "1-2019948581",
+            "relatedLocationName": "Brook Oldham",
+            "type": "HSCA Successor"
+        }
+    ],
+    "specialisms": [
+        {
+            "name": "Caring for adults under 65 yrs"
+        },
+        {
+            "name": "Caring for children"
+        }
+    ],
+    "type": "Independent Healthcare Org",
+    "website": "www.brook.org.uk"
+}

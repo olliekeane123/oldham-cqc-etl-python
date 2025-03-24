@@ -1,0 +1,165 @@
+{
+    "careHome": "Y",
+    "constituency": "Oldham West and Royton",
+    "currentRatings": {
+        "overall": {
+            "keyQuestionRatings": [
+                {
+                    "name": "Safe",
+                    "rating": "Good",
+                    "reportDate": "2019-03-16",
+                    "reportLinkId": "e3ee60a5-afe9-444a-b64b-c4cad500f597"
+                },
+                {
+                    "name": "Well-led",
+                    "rating": "Good",
+                    "reportDate": "2019-03-16",
+                    "reportLinkId": "e3ee60a5-afe9-444a-b64b-c4cad500f597"
+                },
+                {
+                    "name": "Caring",
+                    "rating": "Good",
+                    "reportDate": "2019-03-16",
+                    "reportLinkId": "e3ee60a5-afe9-444a-b64b-c4cad500f597"
+                },
+                {
+                    "name": "Responsive",
+                    "rating": "Good",
+                    "reportDate": "2019-03-16",
+                    "reportLinkId": "e3ee60a5-afe9-444a-b64b-c4cad500f597"
+                },
+                {
+                    "name": "Effective",
+                    "rating": "Good",
+                    "reportDate": "2019-03-16",
+                    "reportLinkId": "e3ee60a5-afe9-444a-b64b-c4cad500f597"
+                }
+            ],
+            "rating": "Good",
+            "reportDate": "2019-03-16",
+            "reportLinkId": "e3ee60a5-afe9-444a-b64b-c4cad500f597"
+        },
+        "reportDate": "2019-03-16"
+    },
+    "dormancy": "N",
+    "gacServiceTypes": [
+        {
+            "description": "Care home service without nursing",
+            "name": "Residential homes"
+        }
+    ],
+    "historicRatings": [
+        {
+            "overall": {
+                "keyQuestionRatings": [
+                    {
+                        "name": "Safe",
+                        "rating": "Inspected but not rated"
+                    }
+                ],
+                "rating": "Inspected but not rated"
+            },
+            "reportDate": "2022-03-09",
+            "reportLinkId": "4db94399-bccd-46c3-bfb3-ac7bc6c6e704"
+        }
+    ],
+    "inspectionAreas": [],
+    "inspectionCategories": [
+        {
+            "code": "S1",
+            "name": "Residential social care",
+            "primary": "true"
+        }
+    ],
+    "inspectionDirectorate": "Adult social care",
+    "lastInspection": {
+        "date": "2022-02-25"
+    },
+    "lastReport": {
+        "publicationDate": "2022-03-09"
+    },
+    "localAuthority": "Oldham",
+    "locationId": "1-4246404700",
+    "locationTypes": [],
+    "mainPhoneNumber": "01616653185",
+    "name": "Chamber Mount",
+    "numberOfBeds": 23,
+    "odsCode": "VM954",
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.5290941,
+    "onspdLongitude": -2.1241601,
+    "organisationType": "Location",
+    "postalAddressCounty": "Lancashire",
+    "postalAddressLine1": "197 Chamber Road",
+    "postalAddressTownCity": "Oldham",
+    "postalCode": "OL8 4DJ",
+    "providerId": "1-4074670953",
+    "region": "North West",
+    "registrationDate": "2017-10-26",
+    "registrationStatus": "Registered",
+    "regulatedActivities": [
+        {
+            "code": "RA2",
+            "contacts": [
+                {
+                    "personFamilyName": "Fredric Joseph",
+                    "personGivenName": "Rohit",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Mr"
+                }
+            ],
+            "name": "Accommodation for persons who require nursing or personal care"
+        }
+    ],
+    "relationships": [
+        {
+            "reason": "New Provider",
+            "relatedLocationId": "1-119997953",
+            "relatedLocationName": "Chamber Mount",
+            "type": "HSCA Predecessor"
+        }
+    ],
+    "reports": [
+        {
+            "firstVisitDate": "2022-02-25",
+            "linkId": "4db94399-bccd-46c3-bfb3-ac7bc6c6e704",
+            "reportDate": "2022-03-09",
+            "reportType": "Location",
+            "reportUri": "/reports/4db94399-bccd-46c3-bfb3-ac7bc6c6e704?20220318130000"
+        },
+        {
+            "firstVisitDate": "2019-02-04",
+            "linkId": "e3ee60a5-afe9-444a-b64b-c4cad500f597",
+            "reportDate": "2019-03-16",
+            "reportType": "Location",
+            "reportUri": "/reports/e3ee60a5-afe9-444a-b64b-c4cad500f597?20190620120000"
+        }
+    ],
+    "specialisms": [
+        {
+            "name": "Caring for adults over 65 yrs"
+        },
+        {
+            "name": "Caring for adults under 65 yrs"
+        },
+        {
+            "name": "Dementia"
+        },
+        {
+            "name": "Mental health conditions"
+        },
+        {
+            "name": "Physical disabilities"
+        },
+        {
+            "name": "Sensory impairment"
+        }
+    ],
+    "type": "Social Care Org",
+    "uprn": "422000093898"
+}

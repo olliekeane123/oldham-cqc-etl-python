@@ -1,0 +1,173 @@
+{
+    "brandId": "BD327",
+    "brandName": "BRAND Riverdale Health Care",
+    "careHome": "N",
+    "constituency": "Oldham West and Royton",
+    "currentRatings": {
+        "overall": {
+            "keyQuestionRatings": [
+                {
+                    "name": "Safe",
+                    "rating": "No published rating"
+                },
+                {
+                    "name": "Well-led",
+                    "rating": "No published rating"
+                },
+                {
+                    "name": "Caring",
+                    "rating": "No published rating"
+                },
+                {
+                    "name": "Responsive",
+                    "rating": "No published rating"
+                },
+                {
+                    "name": "Effective",
+                    "rating": "No published rating"
+                }
+            ],
+            "rating": "Inspected but not rated",
+            "reportDate": "2017-05-09",
+            "reportLinkId": "3a459d05-21d8-45c1-8c56-ca722cf088e9"
+        },
+        "reportDate": "2017-05-09"
+    },
+    "dormancy": "N",
+    "gacServiceTypes": [
+        {
+            "description": "Dental service",
+            "name": "Dentist"
+        }
+    ],
+    "inspectionAreas": [],
+    "inspectionCategories": [
+        {
+            "code": "P1",
+            "name": "Dentists",
+            "primary": "true"
+        }
+    ],
+    "inspectionDirectorate": "Primary medical services",
+    "lastInspection": {
+        "date": "2017-04-18"
+    },
+    "lastReport": {
+        "publicationDate": "2017-05-09"
+    },
+    "localAuthority": "Oldham",
+    "locationId": "1-1488461871",
+    "locationTypes": [],
+    "mainPhoneNumber": "01616242167",
+    "name": "Alpha Dental Care Oldham",
+    "numberOfBeds": 0,
+    "odsCode": "V26537",
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.5199789,
+    "onspdLongitude": -2.1397119,
+    "organisationType": "Location",
+    "postalAddressCounty": "Lancashire",
+    "postalAddressLine1": "872 Hollins Road",
+    "postalAddressTownCity": "Oldham",
+    "postalCode": "OL8 4SR",
+    "providerId": "1-152989636",
+    "region": "North West",
+    "registrationDate": "2014-07-09",
+    "registrationStatus": "Registered",
+    "regulatedActivities": [
+        {
+            "code": "RA5",
+            "contacts": [
+                {
+                    "personFamilyName": "Ennis",
+                    "personGivenName": "Claire Louise",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Miss"
+                },
+                {
+                    "personFamilyName": "Pearson-Mulvey",
+                    "personGivenName": "Claire Louise",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Mrs"
+                }
+            ],
+            "name": "Treatment of disease, disorder or injury"
+        },
+        {
+            "code": "RA7",
+            "contacts": [
+                {
+                    "personFamilyName": "Ennis",
+                    "personGivenName": "Claire Louise",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Miss"
+                },
+                {
+                    "personFamilyName": "Pearson-Mulvey",
+                    "personGivenName": "Claire Louise",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Mrs"
+                }
+            ],
+            "name": "Surgical procedures"
+        },
+        {
+            "code": "RA8",
+            "contacts": [
+                {
+                    "personFamilyName": "Ennis",
+                    "personGivenName": "Claire Louise",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Miss"
+                },
+                {
+                    "personFamilyName": "Pearson-Mulvey",
+                    "personGivenName": "Claire Louise",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Mrs"
+                }
+            ],
+            "name": "Diagnostic and screening procedures"
+        }
+    ],
+    "relationships": [
+        {
+            "reason": "Location Move",
+            "relatedLocationId": "1-188728568",
+            "relatedLocationName": "M60 Dental Care",
+            "type": "HSCA Predecessor"
+        }
+    ],
+    "reports": [
+        {
+            "firstVisitDate": "2017-04-18",
+            "linkId": "3a459d05-21d8-45c1-8c56-ca722cf088e9",
+            "reportDate": "2017-05-09",
+            "reportType": "Location",
+            "reportUri": "/reports/3a459d05-21d8-45c1-8c56-ca722cf088e9?20210119060616"
+        }
+    ],
+    "specialisms": [
+        {
+            "name": "Services for everyone"
+        }
+    ],
+    "type": "Primary Dental Care",
+    "uprn": "422000045428",
+    "website": "www.M60dentalcare.co.uk"
+}

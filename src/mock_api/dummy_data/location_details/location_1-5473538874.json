@@ -1,0 +1,219 @@
+{
+    "brandId": "BD482",
+    "brandName": "BRAND Elysium Healthcare",
+    "careHome": "N",
+    "constituency": "Oldham West and Royton",
+    "currentRatings": {
+        "overall": {
+            "keyQuestionRatings": [
+                {
+                    "name": "Safe",
+                    "rating": "Good",
+                    "reportDate": "2019-05-20",
+                    "reportLinkId": "7f6b6b2f-82a3-4b7b-aab9-72fd9023a63b"
+                },
+                {
+                    "name": "Well-led",
+                    "rating": "Good",
+                    "reportDate": "2019-05-20",
+                    "reportLinkId": "7f6b6b2f-82a3-4b7b-aab9-72fd9023a63b"
+                },
+                {
+                    "name": "Caring",
+                    "rating": "Good",
+                    "reportDate": "2019-05-20",
+                    "reportLinkId": "7f6b6b2f-82a3-4b7b-aab9-72fd9023a63b"
+                },
+                {
+                    "name": "Responsive",
+                    "rating": "Good",
+                    "reportDate": "2019-05-20",
+                    "reportLinkId": "7f6b6b2f-82a3-4b7b-aab9-72fd9023a63b"
+                },
+                {
+                    "name": "Effective",
+                    "rating": "Good",
+                    "reportDate": "2019-05-20",
+                    "reportLinkId": "7f6b6b2f-82a3-4b7b-aab9-72fd9023a63b"
+                }
+            ],
+            "rating": "Good",
+            "reportDate": "2019-05-20",
+            "reportLinkId": "7f6b6b2f-82a3-4b7b-aab9-72fd9023a63b"
+        },
+        "reportDate": "2019-05-20",
+        "serviceRatings": [
+            {
+                "keyQuestionRatings": [
+                    {
+                        "name": "Caring",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Effective",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Responsive",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Safe",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Well-led",
+                        "rating": "Good"
+                    }
+                ],
+                "name": "mhforensic",
+                "rating": "Good",
+                "reportDate": "2019-05-20",
+                "reportLinkId": "7f6b6b2f-82a3-4b7b-aab9-72fd9023a63b"
+            },
+            {
+                "keyQuestionRatings": [
+                    {
+                        "name": "Caring",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Effective",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Responsive",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Safe",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Well-led",
+                        "rating": "Good"
+                    }
+                ],
+                "name": "mhlongstay",
+                "rating": "Good",
+                "reportDate": "2019-05-20",
+                "reportLinkId": "7f6b6b2f-82a3-4b7b-aab9-72fd9023a63b"
+            }
+        ]
+    },
+    "dormancy": "N",
+    "gacServiceTypes": [
+        {
+            "description": "Hospital services for people with mental health needs, learning disabilities and problems with substance misuse",
+            "name": "Hospitals - Mental health/capacity"
+        }
+    ],
+    "inspectionAreas": [
+        {
+            "inspectionAreaId": "mhforensic",
+            "inspectionAreaName": "Forensic inpatient or secure wards",
+            "status": "Active (Rated)"
+        },
+        {
+            "inspectionAreaId": "mhlongstay",
+            "inspectionAreaName": "Long stay or rehabilitation mental health wards for working age adults",
+            "status": "Active (Rated)"
+        }
+    ],
+    "inspectionCategories": [
+        {
+            "code": "H8",
+            "name": "Mental health - community & hospital - independent",
+            "primary": "true"
+        }
+    ],
+    "inspectionDirectorate": "Hospitals",
+    "lastInspection": {
+        "date": "2019-03-20"
+    },
+    "lastReport": {
+        "publicationDate": "2019-05-20"
+    },
+    "localAuthority": "Oldham",
+    "locationId": "1-5473538874",
+    "locationTypes": [],
+    "mainPhoneNumber": "01616224220",
+    "name": "All Saints Hospital",
+    "numberOfBeds": 0,
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.528515,
+    "onspdLongitude": -2.127432,
+    "organisationType": "Location",
+    "postalAddressCounty": "Lancashire",
+    "postalAddressLine1": "159 Grange Avenue",
+    "postalAddressTownCity": "Oldham",
+    "postalCode": "OL8 4EF",
+    "providerId": "1-5285503534",
+    "region": "North West",
+    "registrationDate": "2018-07-20",
+    "registrationStatus": "Registered",
+    "regulatedActivities": [
+        {
+            "code": "RA5",
+            "contacts": [
+                {
+                    "personFamilyName": "Valentine",
+                    "personGivenName": "James John",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Mr"
+                }
+            ],
+            "name": "Treatment of disease, disorder or injury"
+        },
+        {
+            "code": "RA6",
+            "contacts": [
+                {
+                    "personFamilyName": "Valentine",
+                    "personGivenName": "James John",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Mr"
+                }
+            ],
+            "name": "Assessment or medical treatment for persons detained under the Mental Health Act 1983"
+        }
+    ],
+    "relationships": [
+        {
+            "reason": "Legal Entity Change",
+            "relatedLocationId": "1-589162068",
+            "relatedLocationName": "All Saints Hospital",
+            "type": "HSCA Predecessor"
+        }
+    ],
+    "reports": [
+        {
+            "firstVisitDate": "2019-03-19",
+            "linkId": "7f6b6b2f-82a3-4b7b-aab9-72fd9023a63b",
+            "reportDate": "2019-05-20",
+            "reportType": "Location",
+            "reportUri": "/reports/7f6b6b2f-82a3-4b7b-aab9-72fd9023a63b?20210116074110"
+        }
+    ],
+    "specialisms": [
+        {
+            "name": "Caring for people whose rights are restricted under the Mental Health Act"
+        },
+        {
+            "name": "Mental health conditions"
+        },
+        {
+            "name": "Sensory impairment"
+        }
+    ],
+    "type": "Independent Healthcare Org",
+    "uprn": "422000113505",
+    "website": "www.elysiumhealthcare.co.uk"
+}

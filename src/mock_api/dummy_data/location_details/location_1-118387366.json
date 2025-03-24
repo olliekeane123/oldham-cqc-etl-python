@@ -1,0 +1,43 @@
+{
+    "careHome": "Y",
+    "constituency": "Oldham East and Saddleworth",
+    "deregistrationDate": "2011-10-20",
+    "dormancy": "N",
+    "gacServiceTypes": [
+        {
+            "description": "Care home service without nursing",
+            "name": "Residential homes"
+        }
+    ],
+    "inspectionAreas": [],
+    "inspectionDirectorate": "Unspecified",
+    "localAuthority": "Oldham",
+    "locationId": "1-118387366",
+    "locationTypes": [],
+    "mainPhoneNumber": "01616264665",
+    "name": "The Cedars Residental Care Home",
+    "numberOfBeds": 12,
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.535656,
+    "onspdLongitude": -2.105335,
+    "organisationType": "Location",
+    "postalAddressCounty": "Lancashire",
+    "postalAddressLine1": "45 Queens Road",
+    "postalAddressTownCity": "Oldham",
+    "postalCode": "OL8 2AX",
+    "providerId": "1-101630237",
+    "region": "North West",
+    "registrationDate": "2011-01-05",
+    "registrationStatus": "Deregistered",
+    "regulatedActivities": [],
+    "relationships": [],
+    "specialisms": [
+        {
+            "name": "Caring for adults over 65 yrs"
+        }
+    ],
+    "type": "Social Care Org"
+}

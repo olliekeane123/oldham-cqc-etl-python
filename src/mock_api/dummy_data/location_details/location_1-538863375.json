@@ -1,0 +1,316 @@
+{
+    "careHome": "N",
+    "constituency": "Ashton-under-Lyne",
+    "currentRatings": {
+        "overall": {
+            "keyQuestionRatings": [
+                {
+                    "name": "Safe",
+                    "rating": "Requires improvement",
+                    "reportDate": "2022-11-03",
+                    "reportLinkId": "c625fc4e-93dc-4521-8a01-7e62041f8bde"
+                },
+                {
+                    "name": "Well-led",
+                    "rating": "Requires improvement",
+                    "reportDate": "2022-11-03",
+                    "reportLinkId": "c625fc4e-93dc-4521-8a01-7e62041f8bde"
+                },
+                {
+                    "name": "Caring",
+                    "rating": "Good",
+                    "reportDate": "2022-11-03",
+                    "reportLinkId": "c625fc4e-93dc-4521-8a01-7e62041f8bde"
+                },
+                {
+                    "name": "Responsive",
+                    "rating": "Requires improvement",
+                    "reportDate": "2022-11-03",
+                    "reportLinkId": "c625fc4e-93dc-4521-8a01-7e62041f8bde"
+                },
+                {
+                    "name": "Effective",
+                    "rating": "Good",
+                    "reportDate": "2022-11-03",
+                    "reportLinkId": "c625fc4e-93dc-4521-8a01-7e62041f8bde"
+                }
+            ],
+            "rating": "Requires improvement",
+            "reportDate": "2022-11-03",
+            "reportLinkId": "c625fc4e-93dc-4521-8a01-7e62041f8bde"
+        },
+        "reportDate": "2022-11-03"
+    },
+    "dormancy": "N",
+    "gacServiceTypes": [
+        {
+            "description": "Doctors treatment service",
+            "name": "Doctors/Gps"
+        }
+    ],
+    "historicRatings": [
+        {
+            "overall": {
+                "keyQuestionRatings": [
+                    {
+                        "name": "Safe",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Well-led",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Caring",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Responsive",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Effective",
+                        "rating": "Good"
+                    }
+                ],
+                "rating": "Good"
+            },
+            "reportDate": "2017-03-20",
+            "reportLinkId": "b7f5466d-1ada-4c25-836c-7b8000385216",
+            "serviceRatings": [
+                {
+                    "name": "conditions",
+                    "rating": "Good"
+                },
+                {
+                    "name": "mothers",
+                    "rating": "Good"
+                },
+                {
+                    "name": "old",
+                    "rating": "Good"
+                },
+                {
+                    "name": "population",
+                    "rating": "Good"
+                },
+                {
+                    "name": "problems",
+                    "rating": "Good"
+                },
+                {
+                    "name": "vulnerable",
+                    "rating": "Good"
+                }
+            ]
+        },
+        {
+            "overall": {
+                "keyQuestionRatings": [
+                    {
+                        "name": "Safe",
+                        "rating": "Requires improvement"
+                    },
+                    {
+                        "name": "Well-led",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Caring",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Responsive",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Effective",
+                        "rating": "Good"
+                    }
+                ],
+                "rating": "Good"
+            },
+            "reportDate": "2016-02-04",
+            "reportLinkId": "4550ca68-313b-401c-865a-080238c29570",
+            "serviceRatings": [
+                {
+                    "name": "conditions",
+                    "rating": "Good"
+                },
+                {
+                    "name": "mothers",
+                    "rating": "Good"
+                },
+                {
+                    "name": "old",
+                    "rating": "Good"
+                },
+                {
+                    "name": "population",
+                    "rating": "Good"
+                },
+                {
+                    "name": "problems",
+                    "rating": "Good"
+                },
+                {
+                    "name": "vulnerable",
+                    "rating": "Good"
+                }
+            ]
+        }
+    ],
+    "inspectionAreas": [],
+    "inspectionCategories": [
+        {
+            "code": "P2",
+            "name": "GP Practices",
+            "primary": "true"
+        }
+    ],
+    "inspectionDirectorate": "Primary medical services",
+    "lastInspection": {
+        "date": "2022-09-13"
+    },
+    "lastReport": {
+        "publicationDate": "2022-11-03"
+    },
+    "localAuthority": "Oldham",
+    "locationId": "1-538863375",
+    "locationTypes": [
+        {
+            "type": "GP Practice"
+        }
+    ],
+    "mainPhoneNumber": "01613571610",
+    "name": "Medlock Medical Practice  Dr Hossain & Dr Chauhan",
+    "numberOfBeds": 0,
+    "odsCcgCode": "00Y",
+    "odsCcgName": "NHS Greater Manchester Icb - 00Y",
+    "odsCode": "P85610",
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.509855,
+    "onspdLongitude": -2.156747,
+    "organisationType": "Location",
+    "postalAddressCounty": "Greater Manchester",
+    "postalAddressLine1": "Failsworth District Centre",
+    "postalAddressLine2": "Ashton Road West, Failsworth",
+    "postalAddressTownCity": "Manchester",
+    "postalCode": "M35 0AD",
+    "providerId": "1-199785557",
+    "region": "North West",
+    "registrationDate": "2013-04-01",
+    "registrationStatus": "Registered",
+    "regulatedActivities": [
+        {
+            "code": "RA11",
+            "contacts": [
+                {
+                    "personFamilyName": "Connors",
+                    "personGivenName": "Linda Marie",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Miss"
+                }
+            ],
+            "name": "Maternity and midwifery services"
+        },
+        {
+            "code": "RA15",
+            "contacts": [
+                {
+                    "personFamilyName": "Connors",
+                    "personGivenName": "Linda Marie",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Miss"
+                }
+            ],
+            "name": "Family planning"
+        },
+        {
+            "code": "RA5",
+            "contacts": [
+                {
+                    "personFamilyName": "Connors",
+                    "personGivenName": "Linda Marie",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Miss"
+                }
+            ],
+            "name": "Treatment of disease, disorder or injury"
+        },
+        {
+            "code": "RA7",
+            "contacts": [
+                {
+                    "personFamilyName": "Connors",
+                    "personGivenName": "Linda Marie",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Miss"
+                }
+            ],
+            "name": "Surgical procedures"
+        },
+        {
+            "code": "RA8",
+            "contacts": [
+                {
+                    "personFamilyName": "Connors",
+                    "personGivenName": "Linda Marie",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Miss"
+                }
+            ],
+            "name": "Diagnostic and screening procedures"
+        }
+    ],
+    "relationships": [],
+    "reports": [
+        {
+            "firstVisitDate": "2022-09-13",
+            "linkId": "c625fc4e-93dc-4521-8a01-7e62041f8bde",
+            "reportDate": "2022-11-03",
+            "reportType": "Location",
+            "reportUri": "/reports/c625fc4e-93dc-4521-8a01-7e62041f8bde?20221103080428"
+        },
+        {
+            "firstVisitDate": "2017-03-06",
+            "linkId": "b7f5466d-1ada-4c25-836c-7b8000385216",
+            "reportDate": "2017-03-20",
+            "reportType": "Location",
+            "reportUri": "/reports/b7f5466d-1ada-4c25-836c-7b8000385216?20210119200845"
+        },
+        {
+            "firstVisitDate": "2015-12-15",
+            "linkId": "4550ca68-313b-401c-865a-080238c29570",
+            "reportDate": "2016-02-04",
+            "reportType": "Location",
+            "reportUri": "/reports/4550ca68-313b-401c-865a-080238c29570?20210124094634"
+        },
+        {
+            "firstVisitDate": "2013-11-21",
+            "linkId": "77a5f0d7-0ebe-4d09-81e0-715c31b4a9af",
+            "reportDate": "2013-12-25",
+            "reportUri": "/reports/77a5f0d7-0ebe-4d09-81e0-715c31b4a9af?20200129163919"
+        }
+    ],
+    "specialisms": [
+        {
+            "name": "Services for everyone"
+        }
+    ],
+    "type": "Primary Medical Services",
+    "website": "medlockmedicalpractice.co.uk"
+}

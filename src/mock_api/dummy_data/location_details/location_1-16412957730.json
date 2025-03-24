@@ -1,0 +1,160 @@
+{
+    "careHome": "N",
+    "constituency": "Oldham West and Royton",
+    "currentRatings": {
+        "overall": {
+            "keyQuestionRatings": [
+                {
+                    "name": "Safe",
+                    "organisationId": "1-7648533300",
+                    "rating": "Good",
+                    "reportDate": "2021-05-27",
+                    "reportLinkId": "a01fc623-e612-4869-b3f5-286c4608aab1"
+                },
+                {
+                    "name": "Well-led",
+                    "organisationId": "1-7648533300",
+                    "rating": "Good",
+                    "reportDate": "2021-05-27",
+                    "reportLinkId": "a01fc623-e612-4869-b3f5-286c4608aab1"
+                },
+                {
+                    "name": "Caring",
+                    "organisationId": "1-7648533300",
+                    "rating": "Good",
+                    "reportDate": "2021-05-27",
+                    "reportLinkId": "a01fc623-e612-4869-b3f5-286c4608aab1"
+                },
+                {
+                    "name": "Responsive",
+                    "organisationId": "1-7648533300",
+                    "rating": "Good",
+                    "reportDate": "2021-05-27",
+                    "reportLinkId": "a01fc623-e612-4869-b3f5-286c4608aab1"
+                },
+                {
+                    "name": "Effective",
+                    "organisationId": "1-7648533300",
+                    "rating": "Good",
+                    "reportDate": "2021-05-27",
+                    "reportLinkId": "a01fc623-e612-4869-b3f5-286c4608aab1"
+                }
+            ],
+            "rating": "Good",
+            "reportDate": "2021-05-27",
+            "reportLinkId": "a01fc623-e612-4869-b3f5-286c4608aab1"
+        },
+        "reportDate": "2021-05-27"
+    },
+    "dormancy": "N",
+    "gacServiceTypes": [
+        {
+            "description": "Domiciliary care service",
+            "name": "Homecare agencies"
+        }
+    ],
+    "inspectionAreas": [],
+    "inspectionCategories": [
+        {
+            "code": "S2",
+            "name": "Community based adult social care services",
+            "primary": "true"
+        }
+    ],
+    "inspectionDirectorate": "Adult social care",
+    "lastReport": {
+        "publicationDate": "2021-05-27"
+    },
+    "localAuthority": "Oldham",
+    "locationId": "1-16412957730",
+    "locationTypes": [],
+    "mainPhoneNumber": "01615492769",
+    "name": "My Support Worker NW Ltd",
+    "numberOfBeds": 0,
+    "odsCode": "VNQWJ",
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.5325377,
+    "onspdLongitude": -2.1454104,
+    "organisationType": "Location",
+    "postalAddressLine1": "Unit 3, Fields New Road",
+    "postalAddressLine2": "Chadderton",
+    "postalAddressTownCity": "Oldham",
+    "postalCode": "OL9 8NH",
+    "providerId": "1-7165863945",
+    "region": "North West",
+    "registrationDate": "2023-08-01",
+    "registrationStatus": "Registered",
+    "regulatedActivities": [
+        {
+            "code": "RA1",
+            "contacts": [
+                {
+                    "personFamilyName": "Marcroft",
+                    "personGivenName": "Suzanne Deborah",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Mrs"
+                }
+            ],
+            "name": "Personal care"
+        },
+        {
+            "code": "RA5",
+            "contacts": [
+                {
+                    "personFamilyName": "Marcroft",
+                    "personGivenName": "Suzanne Deborah",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Mrs"
+                }
+            ],
+            "name": "Treatment of disease, disorder or injury"
+        }
+    ],
+    "relationships": [
+        {
+            "reason": "Location Move",
+            "relatedLocationId": "1-7648533300",
+            "relatedLocationName": "My Support Worker (NW) Ltd",
+            "type": "HSCA Predecessor"
+        }
+    ],
+    "specialisms": [
+        {
+            "name": "Caring for adults over 65 yrs"
+        },
+        {
+            "name": "Caring for adults under 65 yrs"
+        },
+        {
+            "name": "Dementia"
+        },
+        {
+            "name": "Eating disorders"
+        },
+        {
+            "name": "Learning disabilities"
+        },
+        {
+            "name": "Mental health conditions"
+        },
+        {
+            "name": "Physical disabilities"
+        },
+        {
+            "name": "Sensory impairment"
+        },
+        {
+            "name": "Substance misuse problems"
+        }
+    ],
+    "type": "Social Care Org",
+    "uprn": "422000006007",
+    "website": "www.my-supportworker.co.uk"
+}

@@ -1,0 +1,145 @@
+{
+    "brandId": "BD214",
+    "brandName": "BRAND Cera Care",
+    "careHome": "N",
+    "constituency": "Oldham West and Royton",
+    "currentRatings": {
+        "overall": {
+            "keyQuestionRatings": [
+                {
+                    "name": "Safe",
+                    "rating": "Requires improvement",
+                    "reportDate": "2023-06-06",
+                    "reportLinkId": "90699028-f579-42d2-b92a-100e885a8cae"
+                },
+                {
+                    "name": "Well-led",
+                    "rating": "Requires improvement",
+                    "reportDate": "2023-06-06",
+                    "reportLinkId": "90699028-f579-42d2-b92a-100e885a8cae"
+                },
+                {
+                    "name": "Caring",
+                    "rating": "Good",
+                    "reportDate": "2021-05-12",
+                    "reportLinkId": "357f9d1e-e696-44b0-9c56-6fba5490e28d"
+                },
+                {
+                    "name": "Responsive",
+                    "rating": "Good",
+                    "reportDate": "2021-05-12",
+                    "reportLinkId": "357f9d1e-e696-44b0-9c56-6fba5490e28d"
+                },
+                {
+                    "name": "Effective",
+                    "rating": "Good",
+                    "reportDate": "2021-05-12",
+                    "reportLinkId": "357f9d1e-e696-44b0-9c56-6fba5490e28d"
+                }
+            ],
+            "rating": "Requires improvement",
+            "reportDate": "2023-06-06",
+            "reportLinkId": "90699028-f579-42d2-b92a-100e885a8cae"
+        },
+        "reportDate": "2023-06-06"
+    },
+    "deregistrationDate": "2024-09-19",
+    "dormancy": "N",
+    "gacServiceTypes": [
+        {
+            "description": "Domiciliary care service",
+            "name": "Homecare agencies"
+        }
+    ],
+    "historicRatings": [
+        {
+            "overall": {
+                "keyQuestionRatings": [
+                    {
+                        "name": "Safe",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Well-led",
+                        "rating": "Good"
+                    }
+                ],
+                "rating": "Good"
+            },
+            "reportDate": "2021-05-12",
+            "reportLinkId": "357f9d1e-e696-44b0-9c56-6fba5490e28d"
+        }
+    ],
+    "inspectionAreas": [],
+    "inspectionCategories": [
+        {
+            "code": "S2",
+            "name": "Community based adult social care services",
+            "primary": "true"
+        }
+    ],
+    "inspectionDirectorate": "Adult social care",
+    "lastInspection": {
+        "date": "2023-04-18"
+    },
+    "lastReport": {
+        "publicationDate": "2023-06-06"
+    },
+    "localAuthority": "Oldham",
+    "locationId": "1-9075180925",
+    "locationTypes": [],
+    "mainPhoneNumber": "01615051970",
+    "name": "Nobilis Care Oldham",
+    "numberOfBeds": 0,
+    "odsCode": "VNG2N",
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.5604114,
+    "onspdLongitude": -2.111191,
+    "organisationType": "Location",
+    "postalAddressLine1": "22b Salmon Fields",
+    "postalAddressLine2": "Royton",
+    "postalAddressTownCity": "Oldham",
+    "postalCode": "OL2 6HT",
+    "providerId": "1-101691889",
+    "region": "North West",
+    "registrationDate": "2020-06-23",
+    "registrationStatus": "Deregistered",
+    "regulatedActivities": [],
+    "relationships": [
+        {
+            "reason": "Location Move",
+            "relatedLocationId": "1-19666435449",
+            "relatedLocationName": "Apex Prime Care - Oldham",
+            "type": "HSCA Successor"
+        }
+    ],
+    "reports": [
+        {
+            "firstVisitDate": "2023-04-05",
+            "linkId": "90699028-f579-42d2-b92a-100e885a8cae",
+            "reportDate": "2023-06-06",
+            "reportType": "Location",
+            "reportUri": "/reports/90699028-f579-42d2-b92a-100e885a8cae?20230615120000"
+        },
+        {
+            "firstVisitDate": "2021-03-26",
+            "linkId": "357f9d1e-e696-44b0-9c56-6fba5490e28d",
+            "reportDate": "2021-05-12",
+            "reportType": "Location",
+            "reportUri": "/reports/357f9d1e-e696-44b0-9c56-6fba5490e28d?20210512120000"
+        }
+    ],
+    "specialisms": [
+        {
+            "name": "Caring for adults over 65 yrs"
+        },
+        {
+            "name": "Caring for adults under 65 yrs"
+        }
+    ],
+    "type": "Social Care Org",
+    "uprn": "422000126638"
+}

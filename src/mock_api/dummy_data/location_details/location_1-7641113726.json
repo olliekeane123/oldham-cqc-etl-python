@@ -1,0 +1,159 @@
+{
+    "careHome": "Y",
+    "constituency": "Oldham West and Royton",
+    "currentRatings": {
+        "overall": {
+            "keyQuestionRatings": [
+                {
+                    "name": "Safe",
+                    "rating": "Good",
+                    "reportDate": "2022-11-10",
+                    "reportLinkId": "395329cb-7a28-4d0f-94f0-d0a9cb6a1e16"
+                },
+                {
+                    "name": "Well-led",
+                    "rating": "Good",
+                    "reportDate": "2022-11-10",
+                    "reportLinkId": "395329cb-7a28-4d0f-94f0-d0a9cb6a1e16"
+                },
+                {
+                    "name": "Caring",
+                    "rating": "Good",
+                    "reportDate": "2022-11-10",
+                    "reportLinkId": "395329cb-7a28-4d0f-94f0-d0a9cb6a1e16"
+                },
+                {
+                    "name": "Responsive",
+                    "rating": "Good",
+                    "reportDate": "2022-11-10",
+                    "reportLinkId": "395329cb-7a28-4d0f-94f0-d0a9cb6a1e16"
+                },
+                {
+                    "name": "Effective",
+                    "rating": "Good",
+                    "reportDate": "2022-11-10",
+                    "reportLinkId": "395329cb-7a28-4d0f-94f0-d0a9cb6a1e16"
+                }
+            ],
+            "rating": "Good",
+            "reportDate": "2022-11-10",
+            "reportLinkId": "395329cb-7a28-4d0f-94f0-d0a9cb6a1e16"
+        },
+        "reportDate": "2022-11-10"
+    },
+    "dormancy": "N",
+    "gacServiceTypes": [
+        {
+            "description": "Care home service without nursing",
+            "name": "Residential homes"
+        }
+    ],
+    "historicRatings": [
+        {
+            "overall": {
+                "keyQuestionRatings": [
+                    {
+                        "name": "Safe",
+                        "rating": "Inspected but not rated"
+                    }
+                ],
+                "rating": "Inspected but not rated"
+            },
+            "reportDate": "2022-01-13",
+            "reportLinkId": "41e20876-a630-4da6-a98d-99ae4c38fcad"
+        }
+    ],
+    "inspectionAreas": [],
+    "inspectionCategories": [
+        {
+            "code": "S1",
+            "name": "Residential social care",
+            "primary": "true"
+        }
+    ],
+    "inspectionDirectorate": "Adult social care",
+    "lastInspection": {
+        "date": "2022-10-10"
+    },
+    "lastReport": {
+        "publicationDate": "2022-11-10"
+    },
+    "localAuthority": "Oldham",
+    "locationId": "1-7641113726",
+    "locationTypes": [],
+    "mainPhoneNumber": "03333603941",
+    "name": "Rye House",
+    "numberOfBeds": 19,
+    "odsCode": "VNF6V",
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.5649509,
+    "onspdLongitude": -2.1028409,
+    "organisationType": "Location",
+    "postalAddressLine1": "Perth Street",
+    "postalAddressLine2": "Royton",
+    "postalAddressTownCity": "Oldham",
+    "postalCode": "OL2 6LY",
+    "providerId": "1-101616559",
+    "region": "North West",
+    "registrationDate": "2020-02-11",
+    "registrationStatus": "Registered",
+    "regulatedActivities": [
+        {
+            "code": "RA2",
+            "contacts": [
+                {
+                    "personFamilyName": "Bradburn",
+                    "personGivenName": "Johanne Melanie",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Ms"
+                }
+            ],
+            "name": "Accommodation for persons who require nursing or personal care"
+        }
+    ],
+    "relationships": [],
+    "reports": [
+        {
+            "firstVisitDate": "2022-10-05",
+            "linkId": "395329cb-7a28-4d0f-94f0-d0a9cb6a1e16",
+            "reportDate": "2022-11-10",
+            "reportType": "Location",
+            "reportUri": "/reports/395329cb-7a28-4d0f-94f0-d0a9cb6a1e16?20221110130000"
+        },
+        {
+            "firstVisitDate": "2021-12-14",
+            "linkId": "41e20876-a630-4da6-a98d-99ae4c38fcad",
+            "reportDate": "2022-01-13",
+            "reportType": "Location",
+            "reportUri": "/reports/41e20876-a630-4da6-a98d-99ae4c38fcad?20220113130000"
+        }
+    ],
+    "specialisms": [
+        {
+            "name": "Caring for adults over 65 yrs"
+        },
+        {
+            "name": "Caring for adults under 65 yrs"
+        },
+        {
+            "name": "Dementia"
+        },
+        {
+            "name": "Mental health conditions"
+        },
+        {
+            "name": "Physical disabilities"
+        },
+        {
+            "name": "Sensory impairment"
+        }
+    ],
+    "type": "Social Care Org",
+    "uprn": "422000052630",
+    "website": "hennessypartnership.co.uk/"
+}

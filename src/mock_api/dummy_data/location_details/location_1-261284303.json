@@ -1,0 +1,168 @@
+{
+    "careHome": "N",
+    "constituency": "Oldham West and Royton",
+    "currentRatings": {
+        "overall": {
+            "keyQuestionRatings": [
+                {
+                    "name": "Safe",
+                    "rating": "Good",
+                    "reportDate": "2019-10-10",
+                    "reportLinkId": "70950622-f761-4179-aa81-472056aacda4"
+                },
+                {
+                    "name": "Well-led",
+                    "rating": "Good",
+                    "reportDate": "2019-10-10",
+                    "reportLinkId": "70950622-f761-4179-aa81-472056aacda4"
+                },
+                {
+                    "name": "Caring",
+                    "rating": "Good",
+                    "reportDate": "2019-10-10",
+                    "reportLinkId": "70950622-f761-4179-aa81-472056aacda4"
+                },
+                {
+                    "name": "Responsive",
+                    "rating": "Good",
+                    "reportDate": "2019-10-10",
+                    "reportLinkId": "70950622-f761-4179-aa81-472056aacda4"
+                },
+                {
+                    "name": "Effective",
+                    "rating": "Inspected but not rated",
+                    "reportDate": "2019-10-10",
+                    "reportLinkId": "70950622-f761-4179-aa81-472056aacda4"
+                }
+            ],
+            "rating": "Good",
+            "reportDate": "2019-10-10",
+            "reportLinkId": "70950622-f761-4179-aa81-472056aacda4"
+        },
+        "reportDate": "2019-10-10",
+        "serviceRatings": [
+            {
+                "keyQuestionRatings": [
+                    {
+                        "name": "Caring",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Effective",
+                        "rating": "Inspected but not rated"
+                    },
+                    {
+                        "name": "Responsive",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Safe",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Well-led",
+                        "rating": "Good"
+                    }
+                ],
+                "name": "diagnostic",
+                "rating": "Good",
+                "reportDate": "2019-10-10",
+                "reportLinkId": "70950622-f761-4179-aa81-472056aacda4"
+            }
+        ]
+    },
+    "dormancy": "N",
+    "gacServiceTypes": [
+        {
+            "description": "Diagnostic and/or screening service",
+            "name": "Diagnosis/screening"
+        }
+    ],
+    "inspectionAreas": [
+        {
+            "inspectionAreaId": "diagnostic",
+            "inspectionAreaName": "Diagnostic imaging",
+            "status": "Active (Rated)"
+        }
+    ],
+    "inspectionCategories": [
+        {
+            "code": "H4",
+            "name": "Acute hospital - Independent specialist",
+            "primary": "true"
+        }
+    ],
+    "inspectionDirectorate": "Hospitals",
+    "lastInspection": {
+        "date": "2019-07-31"
+    },
+    "lastReport": {
+        "publicationDate": "2019-10-10"
+    },
+    "localAuthority": "Oldham",
+    "locationId": "1-261284303",
+    "locationTypes": [],
+    "mainPhoneNumber": "01617785847",
+    "name": "Vascular Ultrasound",
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.5532642,
+    "onspdLongitude": -2.1218286,
+    "organisationType": "Location",
+    "postalAddressCounty": "Lancashire",
+    "postalAddressLine1": "Royal Oldham Hospital",
+    "postalAddressTownCity": "Oldham",
+    "postalCode": "OL1 2JH",
+    "providerId": "1-127865878",
+    "region": "North West",
+    "registrationDate": "2011-06-15",
+    "registrationStatus": "Registered",
+    "regulatedActivities": [
+        {
+            "code": "RA8",
+            "contacts": [
+                {
+                    "personFamilyName": "Anderson",
+                    "personGivenName": "Victoria Katherine",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Miss"
+                }
+            ],
+            "name": "Diagnostic and screening procedures"
+        }
+    ],
+    "relationships": [],
+    "reports": [
+        {
+            "firstVisitDate": "2019-07-31",
+            "linkId": "70950622-f761-4179-aa81-472056aacda4",
+            "reportDate": "2019-10-10",
+            "reportType": "Location",
+            "reportUri": "/reports/70950622-f761-4179-aa81-472056aacda4?20210115060533"
+        },
+        {
+            "firstVisitDate": "2013-11-13",
+            "linkId": "bf781de7-7c99-450f-ac4a-073c4701b8f5",
+            "reportDate": "2013-12-07",
+            "reportUri": "/reports/bf781de7-7c99-450f-ac4a-073c4701b8f5?20151016191357"
+        },
+        {
+            "firstVisitDate": "2013-01-17",
+            "linkId": "3a2416f8-46d7-4b22-ba2b-1f1de858fe7f",
+            "reportDate": "2013-02-14",
+            "reportUri": "/reports/3a2416f8-46d7-4b22-ba2b-1f1de858fe7f?20200129163919"
+        }
+    ],
+    "specialisms": [
+        {
+            "name": "Services for everyone"
+        }
+    ],
+    "type": "Independent Healthcare Org",
+    "uprn": "422000097134",
+    "website": "www.ivs-online.co.uk"
+}

@@ -1,0 +1,51 @@
+{
+    "careHome": "Y",
+    "constituency": "Oldham West and Royton",
+    "deregistrationDate": "2012-07-17",
+    "dormancy": "N",
+    "gacServiceTypes": [
+        {
+            "description": "Care home service without nursing",
+            "name": "Residential homes"
+        }
+    ],
+    "inspectionAreas": [],
+    "inspectionDirectorate": "Unspecified",
+    "localAuthority": "Oldham",
+    "locationId": "1-146777390",
+    "locationTypes": [],
+    "mainPhoneNumber": "01617703490",
+    "name": "Limecroft Resource Centre",
+    "numberOfBeds": 20,
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.51484,
+    "onspdLongitude": -2.122279,
+    "organisationType": "Location",
+    "postalAddressCounty": "Lancashire",
+    "postalAddressLine1": "Whitebank Road",
+    "postalAddressLine2": "Limeside",
+    "postalAddressTownCity": "Oldham",
+    "postalCode": "OL8 3JL",
+    "providerId": "1-101668216",
+    "region": "North West",
+    "registrationDate": "2011-12-06",
+    "registrationStatus": "Deregistered",
+    "regulatedActivities": [],
+    "relationships": [],
+    "specialisms": [
+        {
+            "name": "Caring for adults over 65 yrs"
+        },
+        {
+            "name": "Dementia"
+        },
+        {
+            "name": "Physical disabilities"
+        }
+    ],
+    "type": "Social Care Org",
+    "website": "www.oldham.gov.uk"
+}

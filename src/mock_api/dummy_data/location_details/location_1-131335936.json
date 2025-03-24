@@ -1,0 +1,143 @@
+{
+    "careHome": "Y",
+    "constituency": "Oldham East and Saddleworth",
+    "currentRatings": {
+        "overall": {
+            "keyQuestionRatings": [
+                {
+                    "name": "Safe",
+                    "rating": "Good",
+                    "reportDate": "2017-03-17",
+                    "reportLinkId": "26077881-4ff9-4e65-b531-1a8d149a9a68"
+                },
+                {
+                    "name": "Well-led",
+                    "rating": "Good",
+                    "reportDate": "2017-03-17",
+                    "reportLinkId": "26077881-4ff9-4e65-b531-1a8d149a9a68"
+                },
+                {
+                    "name": "Caring",
+                    "rating": "Good",
+                    "reportDate": "2017-03-17",
+                    "reportLinkId": "26077881-4ff9-4e65-b531-1a8d149a9a68"
+                },
+                {
+                    "name": "Responsive",
+                    "rating": "Good",
+                    "reportDate": "2017-03-17",
+                    "reportLinkId": "26077881-4ff9-4e65-b531-1a8d149a9a68"
+                },
+                {
+                    "name": "Effective",
+                    "rating": "Requires improvement",
+                    "reportDate": "2017-03-17",
+                    "reportLinkId": "26077881-4ff9-4e65-b531-1a8d149a9a68"
+                }
+            ],
+            "rating": "Good",
+            "reportDate": "2017-03-17",
+            "reportLinkId": "26077881-4ff9-4e65-b531-1a8d149a9a68"
+        },
+        "reportDate": "2017-03-17"
+    },
+    "deregistrationDate": "2017-03-06",
+    "dormancy": "N",
+    "gacServiceTypes": [
+        {
+            "description": "Care home service without nursing",
+            "name": "Residential homes"
+        }
+    ],
+    "inspectionAreas": [],
+    "inspectionCategories": [
+        {
+            "code": "S1",
+            "name": "Residential social care",
+            "primary": "true"
+        }
+    ],
+    "inspectionDirectorate": "Adult social care",
+    "lastInspection": {
+        "date": "2016-08-09"
+    },
+    "lastReport": {
+        "publicationDate": "2017-03-17"
+    },
+    "localAuthority": "Oldham",
+    "locationId": "1-131335936",
+    "locationTypes": [],
+    "mainPhoneNumber": "01616264079",
+    "name": "Fern Bank Residential Care Home",
+    "numberOfBeds": 26,
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.534652,
+    "onspdLongitude": -2.100427,
+    "organisationType": "Location",
+    "postalAddressCounty": "Lancashire",
+    "postalAddressLine1": "91-95 Queens Road",
+    "postalAddressTownCity": "Oldham",
+    "postalCode": "OL8 2BA",
+    "providerId": "1-101712510",
+    "region": "North West",
+    "registrationDate": "2010-12-22",
+    "registrationStatus": "Deregistered",
+    "regulatedActivities": [],
+    "relationships": [
+        {
+            "reason": "New Provider",
+            "relatedLocationId": "1-2711314834",
+            "relatedLocationName": "Fern Bank Therapeutic Community Ltd",
+            "type": "HSCA Successor"
+        }
+    ],
+    "reports": [
+        {
+            "firstVisitDate": "2016-08-08",
+            "linkId": "26077881-4ff9-4e65-b531-1a8d149a9a68",
+            "reportDate": "2017-03-17",
+            "reportType": "Location",
+            "reportUri": "/reports/26077881-4ff9-4e65-b531-1a8d149a9a68?20211030120000"
+        },
+        {
+            "firstVisitDate": "2014-08-26",
+            "linkId": "64ce2f03-a205-4c9d-a2ad-0f18e7f3d53e",
+            "reportDate": "2014-10-15",
+            "reportUri": "/reports/64ce2f03-a205-4c9d-a2ad-0f18e7f3d53e?20200129163919"
+        },
+        {
+            "firstVisitDate": "2013-10-10",
+            "linkId": "e13cd963-63ee-4839-b484-72990f1fba80",
+            "reportDate": "2013-11-13",
+            "reportUri": "/reports/e13cd963-63ee-4839-b484-72990f1fba80?20200129163919"
+        },
+        {
+            "firstVisitDate": "2012-11-07",
+            "linkId": "fefd0a43-31ee-4e96-bc10-57c8713450f5",
+            "reportDate": "2012-12-22",
+            "reportUri": "/reports/fefd0a43-31ee-4e96-bc10-57c8713450f5?20151016191357"
+        },
+        {
+            "firstVisitDate": "2011-04-27",
+            "linkId": "f19b515f-09ca-4066-9947-a2749a89e3be",
+            "reportDate": "2011-06-17",
+            "reportUri": "/reports/f19b515f-09ca-4066-9947-a2749a89e3be?20200430120000"
+        }
+    ],
+    "specialisms": [
+        {
+            "name": "Caring for adults over 65 yrs"
+        },
+        {
+            "name": "Caring for adults under 65 yrs"
+        },
+        {
+            "name": "Mental health conditions"
+        }
+    ],
+    "type": "Social Care Org",
+    "uprn": "422000125793"
+}

@@ -1,0 +1,158 @@
+{
+    "careHome": "N",
+    "constituency": "Oldham West and Royton",
+    "currentRatings": {
+        "overall": {
+            "keyQuestionRatings": [
+                {
+                    "name": "Safe",
+                    "rating": "Good",
+                    "reportDate": "2023-08-30",
+                    "reportLinkId": "283a2cb6-49e4-4fbb-9fe7-bd0aaeda2e08"
+                },
+                {
+                    "name": "Well-led",
+                    "rating": "Good",
+                    "reportDate": "2023-08-30",
+                    "reportLinkId": "283a2cb6-49e4-4fbb-9fe7-bd0aaeda2e08"
+                },
+                {
+                    "name": "Caring",
+                    "rating": "Good",
+                    "reportDate": "2023-08-30",
+                    "reportLinkId": "283a2cb6-49e4-4fbb-9fe7-bd0aaeda2e08"
+                },
+                {
+                    "name": "Responsive",
+                    "rating": "Good",
+                    "reportDate": "2023-08-30",
+                    "reportLinkId": "283a2cb6-49e4-4fbb-9fe7-bd0aaeda2e08"
+                },
+                {
+                    "name": "Effective",
+                    "rating": "Requires improvement",
+                    "reportDate": "2023-08-30",
+                    "reportLinkId": "283a2cb6-49e4-4fbb-9fe7-bd0aaeda2e08"
+                }
+            ],
+            "rating": "Good",
+            "reportDate": "2023-08-30",
+            "reportLinkId": "283a2cb6-49e4-4fbb-9fe7-bd0aaeda2e08"
+        },
+        "reportDate": "2023-08-30"
+    },
+    "dormancy": "N",
+    "gacServiceTypes": [
+        {
+            "description": "Doctors treatment service",
+            "name": "Doctors/Gps"
+        }
+    ],
+    "inspectionAreas": [],
+    "inspectionCategories": [
+        {
+            "code": "P2",
+            "name": "GP Practices",
+            "primary": "true"
+        }
+    ],
+    "inspectionDirectorate": "Primary medical services",
+    "lastInspection": {
+        "date": "2023-07-13"
+    },
+    "lastReport": {
+        "publicationDate": "2023-08-30"
+    },
+    "localAuthority": "Oldham",
+    "locationId": "1-13394017548",
+    "locationTypes": [],
+    "mainPhoneNumber": "01616205677",
+    "name": "Werneth Medical Practice",
+    "numberOfBeds": 0,
+    "odsCcgCode": "00Y",
+    "odsCcgName": "NHS Greater Manchester Icb - 00Y",
+    "odsCode": "P85612",
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.53731,
+    "onspdLongitude": -2.130534,
+    "organisationType": "Location",
+    "postalAddressCounty": "Lancashire",
+    "postalAddressLine1": "Featherstall Road South",
+    "postalAddressTownCity": "Oldham",
+    "postalCode": "OL9 7AY",
+    "providerId": "1-6377545616",
+    "region": "North West",
+    "registrationDate": "2022-06-21",
+    "registrationStatus": "Registered",
+    "regulatedActivities": [
+        {
+            "code": "RA11",
+            "contacts": [
+                {
+                    "personFamilyName": "Butt",
+                    "personGivenName": "Mohammed Bilal",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Dr"
+                }
+            ],
+            "name": "Maternity and midwifery services"
+        },
+        {
+            "code": "RA5",
+            "contacts": [
+                {
+                    "personFamilyName": "Butt",
+                    "personGivenName": "Mohammed Bilal",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Dr"
+                }
+            ],
+            "name": "Treatment of disease, disorder or injury"
+        },
+        {
+            "code": "RA8",
+            "contacts": [
+                {
+                    "personFamilyName": "Butt",
+                    "personGivenName": "Mohammed Bilal",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Dr"
+                }
+            ],
+            "name": "Diagnostic and screening procedures"
+        }
+    ],
+    "relationships": [
+        {
+            "reason": "Location Move",
+            "relatedLocationId": "1-6842887460",
+            "relatedLocationName": "Werneth Medical Practice",
+            "type": "HSCA Predecessor"
+        }
+    ],
+    "reports": [
+        {
+            "firstVisitDate": "2023-07-13",
+            "linkId": "283a2cb6-49e4-4fbb-9fe7-bd0aaeda2e08",
+            "reportDate": "2023-08-30",
+            "reportType": "Location",
+            "reportUri": "/reports/283a2cb6-49e4-4fbb-9fe7-bd0aaeda2e08?20230830070044"
+        }
+    ],
+    "specialisms": [
+        {
+            "name": "Services for everyone"
+        }
+    ],
+    "type": "Primary Medical Services",
+    "website": "www.wernethmedicalpractice.nhs.uk"
+}

@@ -1,0 +1,172 @@
+{
+    "careHome": "Y",
+    "constituency": "Oldham West and Royton",
+    "currentRatings": {
+        "overall": {
+            "keyQuestionRatings": [
+                {
+                    "name": "Safe",
+                    "rating": "Good",
+                    "reportDate": "2018-04-04",
+                    "reportLinkId": "76408584-fb68-4760-b3ce-0703197edc4b"
+                },
+                {
+                    "name": "Well-led",
+                    "rating": "Good",
+                    "reportDate": "2018-04-04",
+                    "reportLinkId": "76408584-fb68-4760-b3ce-0703197edc4b"
+                },
+                {
+                    "name": "Caring",
+                    "rating": "Good",
+                    "reportDate": "2018-04-04",
+                    "reportLinkId": "76408584-fb68-4760-b3ce-0703197edc4b"
+                },
+                {
+                    "name": "Responsive",
+                    "rating": "Good",
+                    "reportDate": "2018-04-04",
+                    "reportLinkId": "76408584-fb68-4760-b3ce-0703197edc4b"
+                },
+                {
+                    "name": "Effective",
+                    "rating": "Good",
+                    "reportDate": "2018-04-04",
+                    "reportLinkId": "76408584-fb68-4760-b3ce-0703197edc4b"
+                }
+            ],
+            "rating": "Good",
+            "reportDate": "2018-04-04",
+            "reportLinkId": "76408584-fb68-4760-b3ce-0703197edc4b"
+        },
+        "reportDate": "2018-04-04"
+    },
+    "deregistrationDate": "2020-02-19",
+    "dormancy": "N",
+    "gacServiceTypes": [
+        {
+            "description": "Care home service without nursing",
+            "name": "Residential homes"
+        }
+    ],
+    "historicRatings": [
+        {
+            "overall": {
+                "keyQuestionRatings": [
+                    {
+                        "name": "Safe",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Well-led",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Caring",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Responsive",
+                        "rating": "Requires improvement"
+                    },
+                    {
+                        "name": "Effective",
+                        "rating": "Good"
+                    }
+                ],
+                "rating": "Good"
+            },
+            "reportDate": "2016-03-22",
+            "reportLinkId": "5c77932f-c515-4270-a3d4-ce64ce3cba7d"
+        }
+    ],
+    "inspectionAreas": [],
+    "inspectionCategories": [
+        {
+            "code": "S1",
+            "name": "Residential social care",
+            "primary": "true"
+        }
+    ],
+    "inspectionDirectorate": "Adult social care",
+    "lastInspection": {
+        "date": "2018-03-16"
+    },
+    "lastReport": {
+        "publicationDate": "2018-04-04"
+    },
+    "localAuthority": "Oldham",
+    "locationId": "1-288226612",
+    "locationTypes": [],
+    "mainPhoneNumber": "01706881720",
+    "name": "Roselands Residential Home Limited",
+    "numberOfBeds": 19,
+    "odsCode": "VLD2Q",
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.564367,
+    "onspdLongitude": -2.1024017,
+    "organisationType": "Location",
+    "postalAddressCounty": "Greater Manchester",
+    "postalAddressLine1": "Perth Street",
+    "postalAddressLine2": "Heyside Royton",
+    "postalAddressTownCity": "Oldham",
+    "postalCode": "OL2 6LY",
+    "providerId": "1-277603256",
+    "region": "North West",
+    "registrationDate": "2011-10-01",
+    "registrationStatus": "Deregistered",
+    "regulatedActivities": [],
+    "relationships": [
+        {
+            "reason": "Legal Entity Change",
+            "relatedLocationId": "1-120601976",
+            "relatedLocationName": "Roselands Care Home",
+            "type": "HSCA Predecessor"
+        }
+    ],
+    "reports": [
+        {
+            "firstVisitDate": "2018-03-15",
+            "linkId": "76408584-fb68-4760-b3ce-0703197edc4b",
+            "reportDate": "2018-04-04",
+            "reportType": "Location",
+            "reportUri": "/reports/76408584-fb68-4760-b3ce-0703197edc4b?20180425121200"
+        },
+        {
+            "firstVisitDate": "2016-02-22",
+            "linkId": "5c77932f-c515-4270-a3d4-ce64ce3cba7d",
+            "reportDate": "2016-03-22",
+            "reportType": "Location",
+            "reportUri": "/reports/5c77932f-c515-4270-a3d4-ce64ce3cba7d?20211030120000"
+        },
+        {
+            "firstVisitDate": "2014-09-15",
+            "linkId": "c996d0be-1a20-4d03-b440-f381c797d0fd",
+            "reportDate": "2014-10-16",
+            "reportUri": "/reports/c996d0be-1a20-4d03-b440-f381c797d0fd?20151016191357"
+        },
+        {
+            "firstVisitDate": "2013-09-10",
+            "linkId": "5a4d1b30-a290-4a4f-af07-fe5aa6efba88",
+            "reportDate": "2013-10-05",
+            "reportUri": "/reports/5a4d1b30-a290-4a4f-af07-fe5aa6efba88?20151016191357"
+        },
+        {
+            "firstVisitDate": "2012-10-11",
+            "linkId": "c254f59c-75f4-4378-ad46-9ae2e6239077",
+            "reportDate": "2012-11-01",
+            "reportUri": "/reports/c254f59c-75f4-4378-ad46-9ae2e6239077?20200129163919"
+        }
+    ],
+    "specialisms": [
+        {
+            "name": "Caring for adults over 65 yrs"
+        }
+    ],
+    "type": "Social Care Org",
+    "uprn": "100012736748",
+    "website": "www.dignitycaregroup.co.uk"
+}

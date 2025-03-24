@@ -1,0 +1,134 @@
+{
+    "careHome": "N",
+    "constituency": "Oldham West and Royton",
+    "currentRatings": {
+        "overall": {
+            "keyQuestionRatings": [
+                {
+                    "name": "Safe",
+                    "rating": "No published rating"
+                },
+                {
+                    "name": "Well-led",
+                    "rating": "No published rating"
+                },
+                {
+                    "name": "Caring",
+                    "rating": "No published rating"
+                },
+                {
+                    "name": "Responsive",
+                    "rating": "No published rating"
+                },
+                {
+                    "name": "Effective",
+                    "rating": "No published rating"
+                }
+            ],
+            "rating": "No published rating"
+        }
+    },
+    "deregistrationDate": "2018-07-20",
+    "dormancy": "N",
+    "dormancyEndDate": "2021-09-22",
+    "gacServiceTypes": [
+        {
+            "description": "Domiciliary care service",
+            "name": "Homecare agencies"
+        },
+        {
+            "description": "Supported living service",
+            "name": "Supported living"
+        }
+    ],
+    "inspectionAreas": [],
+    "inspectionCategories": [
+        {
+            "code": "S2",
+            "name": "Community based adult social care services",
+            "primary": "true"
+        }
+    ],
+    "inspectionDirectorate": "Adult social care",
+    "lastInspection": {
+        "date": "2014-07-04"
+    },
+    "localAuthority": "Oldham",
+    "locationId": "1-113868677",
+    "locationTypes": [],
+    "mainPhoneNumber": "01616223638",
+    "name": "North West Initiatives Limited",
+    "numberOfBeds": 0,
+    "odsCode": "VN218",
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.544088,
+    "onspdLongitude": -2.137934,
+    "organisationType": "Location",
+    "postalAddressCounty": "Lancashire",
+    "postalAddressLine1": "The Woodland Suite, Chadderton Court",
+    "postalAddressLine2": "451 Middleton Road, Chadderton",
+    "postalAddressTownCity": "Oldham",
+    "postalCode": "OL9 9LB",
+    "providerId": "1-101672781",
+    "region": "North West",
+    "registrationDate": "2011-01-11",
+    "registrationStatus": "Deregistered",
+    "regulatedActivities": [],
+    "relationships": [],
+    "reports": [
+        {
+            "firstVisitDate": "2014-07-04",
+            "linkId": "d3d3dadf-eaa6-4c45-a924-e5bd0955c08e",
+            "reportDate": "2014-08-22",
+            "reportUri": "/reports/d3d3dadf-eaa6-4c45-a924-e5bd0955c08e?20200129163919"
+        },
+        {
+            "firstVisitDate": "2014-03-10",
+            "linkId": "b6401a0e-9799-46a3-bb3d-c41ebcd4d492",
+            "reportDate": "2014-05-09",
+            "reportUri": "/reports/b6401a0e-9799-46a3-bb3d-c41ebcd4d492?20190706120000"
+        },
+        {
+            "firstVisitDate": "2013-11-18",
+            "linkId": "8154fa2d-fa50-48e4-a6cd-91603571ab65",
+            "reportDate": "2013-12-21",
+            "reportUri": "/reports/8154fa2d-fa50-48e4-a6cd-91603571ab65?20200129163919"
+        },
+        {
+            "firstVisitDate": "2012-12-18",
+            "linkId": "b1a3fc85-881a-42c7-9a63-919e63c2e0e9",
+            "reportDate": "2013-01-15",
+            "reportUri": "/reports/b1a3fc85-881a-42c7-9a63-919e63c2e0e9?20200129163919"
+        },
+        {
+            "firstVisitDate": "2011-11-25",
+            "linkId": "8eaa0623-c213-4c32-a183-22be81f62c83",
+            "reportDate": "2012-04-03",
+            "reportUri": "/reports/8eaa0623-c213-4c32-a183-22be81f62c83?20200430120000"
+        }
+    ],
+    "specialisms": [
+        {
+            "name": "Caring for adults over 65 yrs"
+        },
+        {
+            "name": "Dementia"
+        },
+        {
+            "name": "Learning disabilities"
+        },
+        {
+            "name": "Mental health conditions"
+        },
+        {
+            "name": "Physical disabilities"
+        },
+        {
+            "name": "Sensory impairment"
+        }
+    ],
+    "type": "Social Care Org"
+}

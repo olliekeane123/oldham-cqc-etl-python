@@ -1,0 +1,237 @@
+{
+    "careHome": "Y",
+    "constituency": "Oldham East and Saddleworth",
+    "currentRatings": {
+        "overall": {
+            "keyQuestionRatings": [
+                {
+                    "name": "Safe",
+                    "rating": "Requires improvement",
+                    "reportDate": "2022-11-17",
+                    "reportLinkId": "c92df5fa-985c-4253-a6a8-41165c10ab0b"
+                },
+                {
+                    "name": "Well-led",
+                    "rating": "Requires improvement",
+                    "reportDate": "2022-11-17",
+                    "reportLinkId": "c92df5fa-985c-4253-a6a8-41165c10ab0b"
+                },
+                {
+                    "name": "Caring",
+                    "rating": "Good",
+                    "reportDate": "2018-07-10",
+                    "reportLinkId": "53327002-c6d5-4df9-b375-519c621c37c7"
+                },
+                {
+                    "name": "Responsive",
+                    "rating": "Good",
+                    "reportDate": "2018-07-10",
+                    "reportLinkId": "53327002-c6d5-4df9-b375-519c621c37c7"
+                },
+                {
+                    "name": "Effective",
+                    "rating": "Good",
+                    "reportDate": "2018-07-10",
+                    "reportLinkId": "53327002-c6d5-4df9-b375-519c621c37c7"
+                }
+            ],
+            "rating": "Requires improvement",
+            "reportDate": "2022-11-17",
+            "reportLinkId": "c92df5fa-985c-4253-a6a8-41165c10ab0b"
+        },
+        "reportDate": "2022-11-17"
+    },
+    "dormancy": "N",
+    "gacServiceTypes": [
+        {
+            "description": "Care home service without nursing",
+            "name": "Residential homes"
+        }
+    ],
+    "historicRatings": [
+        {
+            "overall": {
+                "keyQuestionRatings": [
+                    {
+                        "name": "Safe",
+                        "rating": "Inspected but not rated"
+                    }
+                ],
+                "rating": "Inspected but not rated"
+            },
+            "reportDate": "2022-03-03",
+            "reportLinkId": "43322b42-049a-44b2-9a5a-bd9b44e16a5a"
+        },
+        {
+            "overall": {
+                "keyQuestionRatings": [
+                    {
+                        "name": "Safe",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Well-led",
+                        "rating": "Good"
+                    }
+                ],
+                "rating": "Good"
+            },
+            "reportDate": "2018-07-10",
+            "reportLinkId": "53327002-c6d5-4df9-b375-519c621c37c7"
+        },
+        {
+            "overall": {
+                "keyQuestionRatings": [
+                    {
+                        "name": "Safe",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Well-led",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Caring",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Responsive",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Effective",
+                        "rating": "Requires improvement"
+                    }
+                ],
+                "rating": "Good"
+            },
+            "reportDate": "2016-07-13",
+            "reportLinkId": "8450beaf-2394-4d0d-86d7-cf1098c09a1a"
+        }
+    ],
+    "inspectionAreas": [],
+    "inspectionCategories": [
+        {
+            "code": "S1",
+            "name": "Residential social care",
+            "primary": "true"
+        }
+    ],
+    "inspectionDirectorate": "Adult social care",
+    "lastInspection": {
+        "date": "2022-10-19"
+    },
+    "lastReport": {
+        "publicationDate": "2022-11-17"
+    },
+    "localAuthority": "Oldham",
+    "locationId": "1-470061969",
+    "locationTypes": [],
+    "mainPhoneNumber": "01616275868",
+    "name": "Longwood Lodge Care Home",
+    "numberOfBeds": 40,
+    "odsCode": "VLVLT",
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.5352874,
+    "onspdLongitude": -2.1029933,
+    "organisationType": "Location",
+    "postalAddressCounty": "Lancashire",
+    "postalAddressLine1": "61-63 Queens Road",
+    "postalAddressTownCity": "Oldham",
+    "postalCode": "OL8 2BA",
+    "providerId": "1-461432421",
+    "region": "North West",
+    "registrationDate": "2012-10-17",
+    "registrationStatus": "Registered",
+    "regulatedActivities": [
+        {
+            "code": "RA2",
+            "contacts": [
+                {
+                    "personFamilyName": "Flint",
+                    "personGivenName": "Katie Louise",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Miss"
+                }
+            ],
+            "name": "Accommodation for persons who require nursing or personal care"
+        }
+    ],
+    "relationships": [
+        {
+            "reason": "New Provider",
+            "relatedLocationId": "1-222457842",
+            "relatedLocationName": "Longwood Lodge",
+            "type": "HSCA Predecessor"
+        }
+    ],
+    "reports": [
+        {
+            "firstVisitDate": "2022-10-14",
+            "linkId": "c92df5fa-985c-4253-a6a8-41165c10ab0b",
+            "reportDate": "2022-11-17",
+            "reportType": "Location",
+            "reportUri": "/reports/c92df5fa-985c-4253-a6a8-41165c10ab0b?20230114130000"
+        },
+        {
+            "firstVisitDate": "2022-02-17",
+            "linkId": "43322b42-049a-44b2-9a5a-bd9b44e16a5a",
+            "reportDate": "2022-03-03",
+            "reportType": "Location",
+            "reportUri": "/reports/43322b42-049a-44b2-9a5a-bd9b44e16a5a?20220303130000"
+        },
+        {
+            "firstVisitDate": "2018-06-05",
+            "linkId": "53327002-c6d5-4df9-b375-519c621c37c7",
+            "reportDate": "2018-07-10",
+            "reportType": "Location",
+            "reportUri": "/reports/53327002-c6d5-4df9-b375-519c621c37c7?20180710120000"
+        },
+        {
+            "firstVisitDate": "2016-05-05",
+            "linkId": "8450beaf-2394-4d0d-86d7-cf1098c09a1a",
+            "reportDate": "2016-07-13",
+            "reportType": "Location",
+            "reportUri": "/reports/8450beaf-2394-4d0d-86d7-cf1098c09a1a?20200129163919"
+        },
+        {
+            "firstVisitDate": "2014-02-11",
+            "linkId": "2505f27f-16b5-4daf-af0a-b311903d1b3a",
+            "reportDate": "2014-02-21",
+            "reportUri": "/reports/2505f27f-16b5-4daf-af0a-b311903d1b3a?20200129163919"
+        },
+        {
+            "firstVisitDate": "2013-11-28",
+            "linkId": "0646ad8b-54f4-4cd0-ad79-3a662dcce6d6",
+            "reportDate": "2014-01-03",
+            "reportUri": "/reports/0646ad8b-54f4-4cd0-ad79-3a662dcce6d6?20200129163919"
+        },
+        {
+            "firstVisitDate": "2013-02-05",
+            "linkId": "88f1ef8a-5132-4a1f-8dbc-7462a419a2cc",
+            "reportDate": "2013-02-19",
+            "reportUri": "/reports/88f1ef8a-5132-4a1f-8dbc-7462a419a2cc?20200129163919"
+        }
+    ],
+    "specialisms": [
+        {
+            "name": "Caring for adults over 65 yrs"
+        },
+        {
+            "name": "Caring for adults under 65 yrs"
+        },
+        {
+            "name": "Dementia"
+        },
+        {
+            "name": "Physical disabilities"
+        }
+    ],
+    "type": "Social Care Org",
+    "uprn": "422000001641"
+}

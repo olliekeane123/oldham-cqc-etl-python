@@ -1,0 +1,90 @@
+{
+    "careHome": "Y",
+    "constituency": "Oldham West and Royton",
+    "currentRatings": {
+        "overall": {
+            "keyQuestionRatings": [
+                {
+                    "name": "Safe",
+                    "rating": "No published rating"
+                },
+                {
+                    "name": "Well-led",
+                    "rating": "No published rating"
+                },
+                {
+                    "name": "Caring",
+                    "rating": "No published rating"
+                },
+                {
+                    "name": "Responsive",
+                    "rating": "No published rating"
+                },
+                {
+                    "name": "Effective",
+                    "rating": "No published rating"
+                }
+            ],
+            "rating": "No published rating"
+        }
+    },
+    "deregistrationDate": "2013-12-30",
+    "dormancy": "N",
+    "gacServiceTypes": [
+        {
+            "description": "Care home service without nursing",
+            "name": "Residential homes"
+        }
+    ],
+    "inspectionAreas": [],
+    "inspectionDirectorate": "Unspecified",
+    "lastInspection": {
+        "date": "2013-05-14"
+    },
+    "localAuthority": "Oldham",
+    "locationId": "1-140560888",
+    "locationTypes": [],
+    "mainPhoneNumber": "01616243697",
+    "name": "Park Lane House",
+    "numberOfBeds": 17,
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.569757,
+    "onspdLongitude": -2.124868,
+    "organisationType": "Location",
+    "postalAddressCounty": "Lancashire",
+    "postalAddressLine1": "Rochdale Lane",
+    "postalAddressTownCity": "Royton",
+    "postalCode": "OL2 5QX",
+    "providerId": "1-101630255",
+    "region": "North West",
+    "registrationDate": "2010-12-13",
+    "registrationStatus": "Deregistered",
+    "regulatedActivities": [],
+    "relationships": [],
+    "reports": [
+        {
+            "firstVisitDate": "2013-05-14",
+            "linkId": "9e710a95-3004-4557-8bb0-d9770a84ef38",
+            "reportDate": "2013-06-13",
+            "reportUri": "/reports/9e710a95-3004-4557-8bb0-d9770a84ef38?20200129163919"
+        },
+        {
+            "firstVisitDate": "2012-08-17",
+            "linkId": "240d2f0d-226a-484d-83d4-3483dae649bb",
+            "reportDate": "2012-09-05",
+            "reportUri": "/reports/240d2f0d-226a-484d-83d4-3483dae649bb?20200430120000"
+        }
+    ],
+    "specialisms": [
+        {
+            "name": "Caring for adults over 65 yrs"
+        },
+        {
+            "name": "Dementia"
+        }
+    ],
+    "type": "Social Care Org"
+}

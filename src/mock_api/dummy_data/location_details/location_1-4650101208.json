@@ -1,0 +1,185 @@
+{
+    "careHome": "Y",
+    "constituency": "Oldham East and Saddleworth",
+    "currentRatings": {
+        "overall": {
+            "keyQuestionRatings": [
+                {
+                    "name": "Safe",
+                    "rating": "Good",
+                    "reportDate": "2019-10-22",
+                    "reportLinkId": "68ec2238-697b-423f-ad6a-fdcd6827fc14"
+                },
+                {
+                    "name": "Well-led",
+                    "rating": "Good",
+                    "reportDate": "2019-10-22",
+                    "reportLinkId": "68ec2238-697b-423f-ad6a-fdcd6827fc14"
+                },
+                {
+                    "name": "Caring",
+                    "rating": "Good",
+                    "reportDate": "2019-10-22",
+                    "reportLinkId": "68ec2238-697b-423f-ad6a-fdcd6827fc14"
+                },
+                {
+                    "name": "Responsive",
+                    "rating": "Good",
+                    "reportDate": "2019-10-22",
+                    "reportLinkId": "68ec2238-697b-423f-ad6a-fdcd6827fc14"
+                },
+                {
+                    "name": "Effective",
+                    "rating": "Good",
+                    "reportDate": "2019-10-22",
+                    "reportLinkId": "68ec2238-697b-423f-ad6a-fdcd6827fc14"
+                }
+            ],
+            "rating": "Good",
+            "reportDate": "2019-10-22",
+            "reportLinkId": "68ec2238-697b-423f-ad6a-fdcd6827fc14"
+        },
+        "reportDate": "2019-10-22"
+    },
+    "dormancy": "N",
+    "gacServiceTypes": [
+        {
+            "description": "Care home service without nursing",
+            "name": "Residential homes"
+        }
+    ],
+    "historicRatings": [
+        {
+            "overall": {
+                "keyQuestionRatings": [
+                    {
+                        "name": "Safe",
+                        "rating": "Requires improvement"
+                    },
+                    {
+                        "name": "Well-led",
+                        "rating": "Requires improvement"
+                    },
+                    {
+                        "name": "Caring",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Responsive",
+                        "rating": "Good"
+                    },
+                    {
+                        "name": "Effective",
+                        "rating": "Good"
+                    }
+                ],
+                "rating": "Requires improvement"
+            },
+            "reportDate": "2018-09-20",
+            "reportLinkId": "371f07d2-ff05-45ad-9112-292d2c824125"
+        }
+    ],
+    "inspectionAreas": [],
+    "inspectionCategories": [
+        {
+            "code": "S1",
+            "name": "Residential social care",
+            "primary": "true"
+        }
+    ],
+    "inspectionDirectorate": "Adult social care",
+    "lastInspection": {
+        "date": "2019-09-23"
+    },
+    "lastReport": {
+        "publicationDate": "2019-10-22"
+    },
+    "localAuthority": "Oldham",
+    "locationId": "1-4650101208",
+    "locationTypes": [],
+    "mainPhoneNumber": "01616244594",
+    "name": "Oakdene Care Home",
+    "numberOfBeds": 32,
+    "odsCode": "VM9CP",
+    "onspdCcgCode": "E38000135",
+    "onspdCcgName": "NHS Oldham CCG",
+    "onspdIcbCode": "E54000057",
+    "onspdIcbName": "NHS Greater Manchester Integrated Care Board",
+    "onspdLatitude": 53.5440514,
+    "onspdLongitude": -2.0673117,
+    "organisationType": "Location",
+    "postalAddressCounty": "Lancashire",
+    "postalAddressLine1": "32-34 Stamford Road",
+    "postalAddressLine2": "Lees",
+    "postalAddressTownCity": "Oldham",
+    "postalCode": "OL4 3LH",
+    "providerId": "1-4448717477",
+    "region": "North West",
+    "registrationDate": "2018-01-09",
+    "registrationStatus": "Registered",
+    "regulatedActivities": [
+        {
+            "code": "RA2",
+            "contacts": [
+                {
+                    "personFamilyName": "Mayall",
+                    "personGivenName": "Sarah Jane",
+                    "personRoles": [
+                        "Registered Manager"
+                    ],
+                    "personTitle": "Mrs"
+                }
+            ],
+            "name": "Accommodation for persons who require nursing or personal care"
+        }
+    ],
+    "relationships": [
+        {
+            "reason": "Legal Entity Change",
+            "relatedLocationId": "1-468164971",
+            "relatedLocationName": "Oakdene Nursing Home",
+            "type": "HSCA Predecessor"
+        }
+    ],
+    "reports": [
+        {
+            "firstVisitDate": "2019-09-23",
+            "linkId": "68ec2238-697b-423f-ad6a-fdcd6827fc14",
+            "reportDate": "2019-10-22",
+            "reportType": "Location",
+            "reportUri": "/reports/68ec2238-697b-423f-ad6a-fdcd6827fc14?20191022120000"
+        },
+        {
+            "firstVisitDate": "2018-08-07",
+            "linkId": "371f07d2-ff05-45ad-9112-292d2c824125",
+            "reportDate": "2018-09-20",
+            "reportType": "Location",
+            "reportUri": "/reports/371f07d2-ff05-45ad-9112-292d2c824125?20211030120000"
+        }
+    ],
+    "specialisms": [
+        {
+            "name": "Caring for adults over 65 yrs"
+        },
+        {
+            "name": "Caring for adults under 65 yrs"
+        },
+        {
+            "name": "Dementia"
+        },
+        {
+            "name": "Eating disorders"
+        },
+        {
+            "name": "Physical disabilities"
+        },
+        {
+            "name": "Sensory impairment"
+        },
+        {
+            "name": "Substance misuse problems"
+        }
+    ],
+    "type": "Social Care Org",
+    "uprn": "422000038080"
+}
