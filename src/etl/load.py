@@ -22,17 +22,11 @@ def load(data_to_insert):
             
             column_names = [row[0] for row in cursor]
 
-
             insert_query = f""" 
             INSERT INTO wp_cqc_data ({', '.join(column_names)})
             VALUES ({', '.join('%(' + col + ')s' for col in column_names)})
             """
 
-            # rows_to_insert = []
-            # for item in transformation:
-                # row = tuple(item[col] for col in columns)
-                # rows_to_insert.append(row)
-           
             cursor.executemany(insert_query, data_to_insert)
 
             db.commit()

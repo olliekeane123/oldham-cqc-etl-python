@@ -1,9 +1,7 @@
 from utils.logger import init_logger
 from etl.utils.api_client import CQCClient
-import json
 
 logger = init_logger(__name__)
-
 
 def extract():
     cqc_client = CQCClient()
@@ -31,7 +29,6 @@ def extract():
 
             if len(final_extract) % 50 == 0 and len(final_extract) > 0:
                 logger.info('Success: Extracted 50 location details')
-        
 
         if not final_extract:
             logger.error('Error: Failed to extract location details - Stopping ETL')
