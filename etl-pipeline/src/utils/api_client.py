@@ -1,5 +1,5 @@
 import requests
-from config import settings
+from utils.config import settings
 from utils.logger import init_logger
 
 logger = init_logger(__name__)

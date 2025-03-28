@@ -1,5 +1,5 @@
 from utils.logger import init_logger
-from config import settings
+from utils.config import settings
 import mysql.connector
 from mysql.connector import Error
 
@@ -11,7 +11,13 @@ def load(data_to_insert):
         with mysql.connector.connect(**settings.DB_CONFIG, connection_timeout=30) as db:
 
             cursor = db.cursor()
-            
+
+            cursor.execute('DROP TABLE IF EXISTS wp_cqc_data_backup;')
+
+            cursor.execute('CREATE TABLE wp_cqc_data_backup AS SELECT * FROM wp_cqc_data;')
+
+            cursor.execute('TRUNCATE TABLE wp_cqc_data;')
+
             cursor.execute("""
             SELECT COLUMN_NAME 
             FROM INFORMATION_SCHEMA.COLUMNS 
@@ -31,7 +37,7 @@ def load(data_to_insert):
 
             db.commit()
 
-            logger.info(f"Inserted {cursor.rowcount} rows into wp_cqc_data")
+            logger.info(f"Inserted {cursor.rowcount - len(column_names)} rows into wp_cqc_data")
 
     except Error as e:
         logger.error(f"MySQL Error: {e}")

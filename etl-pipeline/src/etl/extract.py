@@ -1,5 +1,5 @@
 from utils.logger import init_logger
-from etl.utils.api_client import CQCClient
+from utils.api_client import CQCClient
 
 logger = init_logger(__name__)
 
